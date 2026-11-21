@@ -1,0 +1,26 @@
+{
+  "slug": "tsuri-tarou-english",
+  "name": "Tsuri Tarou (English)",
+  "platform": "Super Famicom",
+  "type": "translation",
+  "version": "0.9.1",
+  "summary": "English translation of the Super Famicom fishing game Tsuri Tarou: menus, signs, story pages and fish names.",
+  "base": {
+    "name": "Tsuri Tarou (Japan).sfc",
+    "size": 1048576,
+    "crc32": "BBBFF8D8",
+    "sha1": "4cb107cbef4fa5907ed0f2123de7a475bad7aa34",
+    "header": false
+  },
+  "patches": [
+    {
+      "file": "patches/TsuriTarou_EN_v0.9.1.ips",
+      "format": "ips",
+      "result_crc32": "7CF11509",
+      "result_sha1": "09d63e18d2b6d7d250769f126450b9ca9c76147b"
+    }
+  ],
+  "tested_on": "emulator",
+  "ai_assisted": true,
+  "updated": "2026-11-21"
+}

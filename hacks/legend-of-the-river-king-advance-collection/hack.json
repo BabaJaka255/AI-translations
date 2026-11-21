@@ -1,0 +1,32 @@
+{
+  "slug": "legend-of-the-river-king-advance-collection",
+  "name": "Legend of the River King Advance Collection",
+  "platform": "Game Boy Advance",
+  "type": "translation",
+  "version": "1.0",
+  "summary": "English translation of the GBA compilation Kawa no Nushi Tsuri 3 & 4, covering both games, their graphics and new English title logos.",
+  "base": {
+    "name": "Kawa no Nushi Tsuri 3 & 4 (Japan).gba",
+    "size": 4194304,
+    "crc32": "4F09CA00",
+    "sha1": "043ccd64f04fff2cd2f19ba679dc3c7a1250b97c",
+    "header": false
+  },
+  "patches": [
+    {
+      "file": "patches/KawaNoNushiTsuri3and4_EN_v1.0.xdelta",
+      "format": "xdelta",
+      "result_crc32": "24573A7E",
+      "result_sha1": "38aa069a368cd714b595eeef3ecaa080402a4536"
+    },
+    {
+      "file": "patches/KawaNoNushiTsuri3and4_EN_v1.0.ips",
+      "format": "ips",
+      "result_crc32": "24573A7E",
+      "result_sha1": "38aa069a368cd714b595eeef3ecaa080402a4536"
+    }
+  ],
+  "tested_on": "emulator",
+  "ai_assisted": true,
+  "updated": "2026-11-21"
+}

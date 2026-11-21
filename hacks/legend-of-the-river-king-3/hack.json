@@ -1,0 +1,32 @@
+{
+  "slug": "legend-of-the-river-king-3",
+  "name": "Legend of the River King 3 ~ From the Mysterious Forest ~",
+  "platform": "Game Boy Advance",
+  "type": "translation",
+  "version": "0.9.2",
+  "summary": "English translation of Kawa no Nushi Tsuri 5: Fushigi no Mori kara (GBA), with a new English title logo.",
+  "base": {
+    "name": "Kawa no Nushi Tsuri 5 - Fushigi no Mori kara (Japan).gba",
+    "size": 4194304,
+    "crc32": "4A8F2F62",
+    "sha1": "418d61ddd992ceeaa10a102deaf9eb15a2fb7328",
+    "header": false
+  },
+  "patches": [
+    {
+      "file": "patches/KawaNoNushiTsuri5_EN_v0.9.2.xdelta",
+      "format": "xdelta",
+      "result_crc32": "D0293080",
+      "result_sha1": "7759e2811f34b9640e14fb93509313aa3be54311"
+    },
+    {
+      "file": "patches/KawaNoNushiTsuri5_EN_v0.9.2.ips",
+      "format": "ips",
+      "result_crc32": "D0293080",
+      "result_sha1": "7759e2811f34b9640e14fb93509313aa3be54311"
+    }
+  ],
+  "tested_on": "emulator",
+  "ai_assisted": true,
+  "updated": "2026-11-21"
+}

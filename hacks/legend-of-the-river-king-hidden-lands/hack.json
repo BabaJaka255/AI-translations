@@ -1,0 +1,26 @@
+{
+  "slug": "legend-of-the-river-king-hidden-lands",
+  "name": "Legend of the River King ~ In Search of Hidden Lands ~",
+  "platform": "PlayStation",
+  "type": "translation",
+  "version": "0.9.6",
+  "summary": "English translation of Kawa no Nushi Tsuri: Hikyou o Motomete (PS1), with a new variable-width font, redrawn graphics and test helpers.",
+  "base": {
+    "name": "Kawa no Nushi-tsuri - Hikyou o Motomete (Japan).bin",
+    "size": 85412880,
+    "crc32": "98CED29A",
+    "sha1": "915522f856709f07b3952a4588a3550729466e6b",
+    "header": false
+  },
+  "patches": [
+    {
+      "file": "patches/KawaNoNushiTsuriHikyou_EN_v0.9.6.xdelta",
+      "format": "xdelta",
+      "result_crc32": "9CA3F94C",
+      "result_sha1": "40dba261e4b54dc72f20d4ac8fef47b4f7e1510a"
+    }
+  ],
+  "tested_on": "emulator",
+  "ai_assisted": true,
+  "updated": "2026-11-21"
+}

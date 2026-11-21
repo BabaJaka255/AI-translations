@@ -1,0 +1,32 @@
+{
+  "slug": "legend-of-the-river-king-cd",
+  "name": "Legend of the River King CD",
+  "platform": "PC Engine CD-ROM2",
+  "type": "translation",
+  "version": "0.9.6",
+  "summary": "English translation of Kawa no Nushi Tsuri: Shizen-ha (PC Engine CD), with a new English title logo; needs the Super System Card 3.0.",
+  "base": {
+    "name": "Kawa no Nushitsuri - Shizen-ha (Japan) (Track 02).bin",
+    "size": 7832160,
+    "crc32": "269CFEAF",
+    "sha1": "660c5950bf93a35a095b53116379b760875d07f3",
+    "header": false
+  },
+  "patches": [
+    {
+      "file": "patches/KawaNoNushiTsuriShizenha_EN_v0.9.6.xdelta",
+      "format": "xdelta",
+      "result_crc32": "FF28D7BD",
+      "result_sha1": "875467e90fbc90462e483c45dd8ae49556e94b00"
+    },
+    {
+      "file": "patches/KawaNoNushiTsuriShizenha_EN_v0.9.6.ips",
+      "format": "ips",
+      "result_crc32": "FF28D7BD",
+      "result_sha1": "875467e90fbc90462e483c45dd8ae49556e94b00"
+    }
+  ],
+  "tested_on": "emulator",
+  "ai_assisted": true,
+  "updated": "2026-11-21"
+}

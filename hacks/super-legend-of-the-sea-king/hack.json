@@ -1,0 +1,26 @@
+{
+  "slug": "super-legend-of-the-sea-king",
+  "name": "Super Legend of the Sea King",
+  "platform": "Super Famicom",
+  "type": "translation",
+  "version": "1.1",
+  "summary": "Complete English translation of Umi no Nushi Tsuri (Rev 1), with English keyboards, translated graphics and a new title logo.",
+  "base": {
+    "name": "Umi no Nushi Tsuri (Japan) (Rev 1).sfc",
+    "size": 2097152,
+    "crc32": "C985F568",
+    "sha1": "6f01bee87737de87e756f75b7b05e9cedb63faf6",
+    "header": false
+  },
+  "patches": [
+    {
+      "file": "patches/UmiNoNushiTsuri_EN_v1.1.ips",
+      "format": "ips",
+      "result_crc32": "35B3E1F3",
+      "result_sha1": "17475c88f6db5695e4b20e1a9ebeae6f21ccdb29"
+    }
+  ],
+  "tested_on": "emulator",
+  "ai_assisted": true,
+  "updated": "2026-11-21"
+}
