@@ -1,0 +1,13 @@
+{
+  "slug": "hamster-club",
+  "name": "Hamster Club",
+  "platform": "Game Boy Color",
+  "type": "translation",
+  "version": "0.12",
+  "summary": "English translation of the hamster-raising sim Hamster Club, with English name entry, contests and redrawn artwork lettering (test build).",
+  "base": {"name": "Hamster Club (Japan).gbc", "size": 2097152, "crc32": "8A4D86A0", "sha1": "6ab81c4dec3263502a1781b600218285836c5302", "header": false},
+  "patches": [{"file": "patches/HamsterClub_EN_v0.12.bps", "format": "bps", "result_crc32": "A1F37DD7", "result_sha1": "f9b36061ab4e1a1f3f0d173cae2bcc8267a59335"}],
+  "tested_on": "emulator",
+  "ai_assisted": true,
+  "updated": "2026-11-21"
+}
