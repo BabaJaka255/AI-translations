@@ -1,0 +1,3 @@
+koi8x16.pcf and koi5x8.pcf.gz are from the X11 xfonts-cyrillic package.
+koi8x16: "May be distributed and modified without restrictions."
+koi5x8: "Public domain font. Share and enjoy."

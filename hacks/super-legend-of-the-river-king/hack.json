@@ -1,0 +1,13 @@
+{
+  "slug": "super-legend-of-the-river-king",
+  "name": "Super Legend of the River King",
+  "platform": "Super Famicom",
+  "type": "translation",
+  "version": "1.3",
+  "summary": "Complete English translation of Kawa no Nushi Tsuri 2, with English keyboards, translated graphics and a new title logo.",
+  "base": {"name": "Kawa no Nushi Tsuri 2 (Japan).sfc", "size": 1572864, "crc32": "716D3EFF", "sha1": "c2103dd94e2a1a65a495fc02adc2e7d040f31212", "header": false},
+  "patches": [{"file": "patches/KawaNoNushiTsuri2_EN_v1.3.ips", "format": "ips", "result_crc32": "8F2E0D10", "result_sha1": "e8c94a106e9aafb5d85cb67b2b6266a474f31c47"}],
+  "tested_on": "emulator",
+  "ai_assisted": true,
+  "updated": "2026-11-21"
+}
