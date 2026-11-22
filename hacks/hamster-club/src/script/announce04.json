@@ -1,0 +1,206 @@
+{
+  "block": "announce04",
+  "entries": [
+    {
+      "id": "announce04_0000",
+      "offset": "0x10A04",
+      "length": 13,
+      "pointers": [
+        "0x109DA",
+        "0x109DC"
+      ],
+      "jp": "みなさん、こんにちは！！",
+      "en": "Hello, everyone!",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0001",
+      "offset": "0x10A11",
+      "length": 37,
+      "pointers": [
+        "0x109DE"
+      ],
+      "jp": "ハムスターたちの　　　　　　　　　　あいきょうたいしょうのじかんです",
+      "en": "It's time for the Charm Awards!",
+      "notes": "あいきょうたいしょう (charm grand prize): the announcer's own name for the Lovely Contest, so it is kept apart from the banner name. Seen in game (v0.10)."
+    },
+    {
+      "id": "announce04_0002",
+      "offset": "0x10A36",
+      "length": 38,
+      "pointers": [
+        "0x109E0"
+      ],
+      "jp": "きょうの、ハムスターたちは、どんな　「わざ」をみせてくれるのでしょう",
+      "en": "Which tricks      will they show us?",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0003",
+      "offset": "0x10A5C",
+      "length": 19,
+      "pointers": [
+        "0x109E2"
+      ],
+      "jp": "それでは、エントリーナンバー　1",
+      "en": "And now, entry    number 1.",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0004",
+      "offset": "0x10A6F",
+      "length": 31,
+      "pointers": [
+        "0x109E4"
+      ],
+      "jp": "おめでとうございます。　　　　　　　ごうかくです！",
+      "en": "Congratulations,  you passed!",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0005",
+      "offset": "0x10A8E",
+      "length": 41,
+      "pointers": [
+        "0x109E6"
+      ],
+      "jp": "あぁ、おしい！！　　　　　　　　　　ざんねんでした、もうひといきでしたね。",
+      "en": "Oh, so close!     You almost had it.",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0006",
+      "offset": "0x10AB7",
+      "length": 40,
+      "pointers": [
+        "0x109E8"
+      ],
+      "jp": "うーん、ざんねんです　　　　　　　　また、しゅつじょうしてくださいね。",
+      "en": "Hmm, too bad.     Do enter again.",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0007",
+      "offset": "0x10ADF",
+      "length": 42,
+      "pointers": [
+        "0x109EA"
+      ],
+      "jp": "ざんねんでした、ふごうかくです。　　また、しゅつじょうしてくださいね。",
+      "en": "Sorry, you didn't pass. Try again!",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0008",
+      "offset": "0x10B09",
+      "length": 20,
+      "pointers": [
+        "0x109EC"
+      ],
+      "jp": "それでは、おくでおまちください。",
+      "en": "Please wait in    the back.",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0009",
+      "offset": "0x10B1D",
+      "length": 17,
+      "pointers": [
+        "0x109EE"
+      ],
+      "jp": "さぁ、つづいてまいりましょう！",
+      "en": "Let's move on!",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0010",
+      "offset": "0x10B2E",
+      "length": 13,
+      "pointers": [
+        "0x109F0"
+      ],
+      "jp": "エントリーナンバー　2",
+      "en": "Entry number 2.",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0011",
+      "offset": "0x10B3B",
+      "length": 13,
+      "pointers": [
+        "0x109F2"
+      ],
+      "jp": "エントリーナンバー　3",
+      "en": "Entry number 3.",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0012",
+      "offset": "0x10B48",
+      "length": 13,
+      "pointers": [
+        "0x109F4"
+      ],
+      "jp": "エントリーナンバー　4",
+      "en": "Entry number 4.",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0013",
+      "offset": "0x10B55",
+      "length": 33,
+      "pointers": [
+        "0x109F6"
+      ],
+      "jp": "しゅつじょうハムスターは、　　　　　これでぜんぶです。",
+      "en": "That's all of our entrants.",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0014",
+      "offset": "0x10B76",
+      "length": 21,
+      "pointers": [
+        "0x109F8"
+      ],
+      "jp": "さぁ、トップにかがやいたのは・・・・",
+      "en": "And shining at thetop is…",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0015",
+      "offset": "0x10B8B",
+      "length": 16,
+      "pointers": [
+        "0x109FA",
+        "0x109FC",
+        "0x109FE"
+      ],
+      "jp": "おめでとうございます！！",
+      "en": "Congratulations!",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0016",
+      "offset": "0x10B9B",
+      "length": 39,
+      "pointers": [
+        "0x10A00"
+      ],
+      "jp": "さいごに、もういちど　　　　　　　　「わざ」を、みせてもらいましょう！",
+      "en": "One last time,    show us a trick!",
+      "notes": ""
+    },
+    {
+      "id": "announce04_0017",
+      "offset": "0x10BC2",
+      "length": 19,
+      "pointers": [
+        "0x10A02"
+      ],
+      "jp": "それでは、みなさん、さようなら！！",
+      "en": "Goodbye, everyone!",
+      "notes": ""
+    }
+  ]
+}

@@ -5,9 +5,24 @@
   "type": "translation",
   "version": "en-test-2026-11-10",
   "summary": "Brings the official European English of 7 Blades onto the 60 Hz Japanese disc, with the subtitle engine rebuilt for the Japanese program (test build).",
-  "base": {"name": "7 Blades (Japan) SLPM-65008.iso", "size": 4596269056, "crc32": "CC8D415A", "sha1": "faa45d3fa1d382b6f78ad31463981382885f24c4", "header": false},
-  "patches": [{"file": "patches/7Blades_EN_test-2026-11-10.xdelta", "format": "xdelta", "result_crc32": "5395EE5E", "result_sha1": "96474e2e3c1ecd752c4dd192d7e721d73f9ae4ea"}],
+  "base": {
+    "name": "7 Blades (Japan) SLPM-65008.iso",
+    "size": 4596269056,
+    "crc32": "CC8D415A",
+    "sha1": "faa45d3fa1d382b6f78ad31463981382885f24c4",
+    "header": false
+  },
+  "patches": [
+    {
+      "file": "patches/7Blades_EN_test-2026-11-10.xdelta",
+      "format": "xdelta",
+      "result_crc32": "5395EE5E",
+      "result_sha1": "96474e2e3c1ecd752c4dd192d7e721d73f9ae4ea"
+    }
+  ],
   "tested_on": "emulator",
+  "source": "unverified",
+  "devlog": true,
   "ai_assisted": true,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }

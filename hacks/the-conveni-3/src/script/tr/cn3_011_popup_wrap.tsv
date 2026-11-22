@@ -1,0 +1,37 @@
+# event popups (hourglass box, ~440 px, 2 lines): hand-wrapped with /n so the game never splits words (2026-11-02)
+5	Funds are low, so the/n%s ads were stopped
+6	%s is advertising/n(%s)
+7	Borrowed %s/nfrom the bank
+8	Repaid %s/nto the bank
+9	The bank lost trust in you,/nso %s was repaid
+10	A loan payment is due/nin one month
+11	The bank gave you one/nmore month to repay
+12	%s worth of goods/nwas shoplifted this month
+13	Store rating went up/nto %s
+14	Store rating went down/nto %s
+15	Lower your prices/nto raise your rank
+16	Add things like %s/nfor service to raise your rank
+17	Add things like %s/nfor safety to raise your rank
+18	Keep the store cleaner/nto raise your rank
+19	Grow your sales/nto raise your rank
+20	The bid worked!/n%s was built
+21	The bid failed./n%s wasn't built
+22	Low funds: this month's bid/nfor %s wasn't paid
+31	Customer No. %s/ncame in!
+32	The register jammed and/n%s customers got angry
+33	Items sold out, so %s/ncustomers couldn't buy them
+34	No parking, so %s/ncustomers couldn't come in
+35	The store isn't being/nkept clean
+36	Lately, %s/nis selling really well
+37	Lately, %s/nisn't selling well
+38	%s caught/na shoplifter
+39	%s caught/na would-be robber
+40	%s caught/na would-be arsonist
+41	A robber got away/nwith %s
+42	A fire burned the store./nDamage: %s
+43	%s won the contest!/n(Prize: %s)
+44	%s in "Popular Stores"!/nClerk skills went up
+45	%s in "Clean Stores"!/nClerk skills went up
+46	%s in "Great Service"!/nClerk skills went up
+47	%s in "Cheap Stores"!/nClerk skills went up
+49	You can now build/na new store size

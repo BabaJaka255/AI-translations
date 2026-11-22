@@ -1,0 +1,187 @@
+674	Break Room, Basic
+675	Break Rm. Basic
+676	A place for clerks to recover stamina
+677	Break Room, Standard
+678	Break Rm. Std.
+679	Clerks recover stamina faster
+680	Break Room, Deluxe
+681	Break Rm. Dlx.
+682	Fastest stamina recovery, but costly upkeep
+683	Register
+684	A normal register
+685	Reg. + Parcels
+686	A register that also takes parcel deliveries
+687	Register + Photos
+688	Reg. + Photos
+689	A register that also takes photo orders
+690	A register two clerks can work at once
+691	A 2-clerk register that also takes parcels
+692	A 2-clerk register that also takes photo developing
+693	Camera
+694	Security camera. Raises store security
+695	Extinguisher
+696	Raises store security
+697	Parking Space
+698	A normal parking space
+699	Small Lot
+700	Holds twice the cars of a parking space
+701	Large Lot
+702	Costly upkeep, but holds lots of cars
+703	Shelf
+704	A normal product shelf
+705	Holds twice as much as a small shelf
+706	Holds three times as much as a small shelf
+707	Bargain Bin
+708	Holds less than a shelf, but grabs more eyes
+709	Holds twice as much as a small bin
+710	Holds three times as much as a small bin
+711	Holds four times as much as a small bin
+712	Fridge Shelf
+713	A shelf for fresh food that needs chilling
+714	Twice the room of a small fridge shelf
+715	Holds three times as much as a small fridge shelf
+716	Fridge Bin
+717	Holds less than a fridge shelf, but grabs more eyes
+718	Freezer Shelf
+719	A shelf for ice cream and frozen food
+720	Twice the room of a small freezer shelf
+721	Freezer Bin
+722	Holds less than a freezer shelf, but grabs more eyes
+723	Zutto Issho Sign
+724	Issho Sign
+725	A sign with the Zutto Issho characters
+726	Captain Love Sign
+727	Capt. Love Sign
+728	A sign with Captain Love characters
+729	Food Case
+730	A showcase just for fast food
+731	Combo Register
+732	A 2-clerk register for parcels and photo developing
+733	Warmer Case
+734	A warming case for hot drinks
+735	Oden Pot
+736	A case for keeping oden hot for sale
+737	Bun Steamer
+738	A case for keeping steamed buns hot for sale
+739	Event Shelf
+740	A display shelf for event goods
+741	Event Bin
+742	A display bin for event goods
+743	Cig Machine
+744	A cigarette vending machine
+745	Cold Drink Mach.
+746	A vending machine for cold drinks
+747	Hot/Cold Drinks
+748	A vending machine for hot or cold drinks
+749	Copier
+750	A black-and-white copier
+751	Color Copier
+752	A copier that also does color copies
+753	ATM
+754	Lets customers withdraw cash
+755	Ticket Kiosk
+756	A kiosk for booking movie and concert tickets
+757	Fax
+758	Lets customers send faxes
+759	Takoyaki Stand
+760	A stall cooking takoyaki on the spot
+761	Yakitori Stand
+762	A stall grilling yakitori on the spot
+763	Yakisoba Stand
+764	A stall cooking yakisoba on the spot
+765	Taiyaki Stand
+766	A stall baking taiyaki on the spot
+767	Okonomiyaki
+768	A stall cooking okonomiyaki on the spot
+769	Shaved Ice
+770	Shaved ice: a must at any festival
+771	Goldfish Scoop
+772	Goldfish scooping: a must at any festival
+773	Crepe Stand
+774	Handmade crepes, a hit with young people
+775	Donut Stand
+776	Handmade donuts, a hit with young people
+777	Capsule Toys
+778	Capsule toy machines, a hit with kids
+779	Digi-Game
+780	A video game vending machine kids love
+781	Stone Lantern
+782	Adds a touch of old Japan
+783	Shishi-odoshi
+784	Stone Basin
+785	Garden Stone
+786	Lucky Cat
+787	A lucky charm for good business
+788	Daruma
+789	A prayer for good business
+790	Kokeshi Doll
+791	A Japanese-style decoration
+792	Snowman
+793	A display for the Christmas rush
+794	Slide
+795	Play equipment kids will love
+796	Seesaw
+797	Swings
+798	Chin-up Bar
+799	Jungle Gym
+800	Bench
+801	A display that makes a place to relax
+802	Fountain
+803	Clock
+804	Sculpture
+805	Trash Can
+806	Lady Palm
+807	Plants bring calm and a fresh feel
+808	Aloe
+809	Cactus
+810	Banana Tree
+811	Azalea
+812	Stylish seasonal flowers
+813	Tanuki Statue
+814	A traditional Japanese ornament
+815	LAWSON Register
+816	A normal LAWSON register
+817	LAWSON Reg. Parcels
+818	LAWSON register that also takes parcels
+819	LAWSON Reg. Photos
+820	LAWSON register that also takes photos
+821	A LAWSON register two clerks can work at once
+822	A 2-clerk LAWSON register that takes parcels
+823	A 2-clerk LAWSON register that takes photos
+824	LAWSON Reg. Combo
+825	Combo Reg. L
+826	A 2-clerk LAWSON register for parcels and photos
+827	LAWSON ATM
+828	An ATM just for LAWSON
+829	Loppi
+830	LAWSON's ticket booking kiosk
+831	Yorozuya Honpo Sign
+832	Yorozuya Sign
+833	Plus Mart Sign
+834	Plus Sign
+835	LAWSON Sign
+836	LAWSON Sign
+837	Hamket Sign
+838	Hamket Sign
+839	Ace Store Sign
+840	Ace Sign
+841	Basic Wall
+842	A basic store with cheap walls and floors
+843	Basic Door
+844	Basic Floor
+845	Standard Wall
+846	A standard store at a standard price
+847	Standard Door
+848	Standard Floor
+849	Deluxe Wall
+850	A deluxe store with fine walls and floors
+851	Deluxe Door
+852	Deluxe Floor
+853	LAWSON Wall
+854	A store just for LAWSON
+855	LAWSON Door
+856	LAWSON Floor
+857	LAWSON Mini Sign
+858	A small sign just for LAWSON
+859	Flower Wreath
+860	Lucky flowers for a grand reopening

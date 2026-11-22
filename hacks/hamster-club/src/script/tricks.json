@@ -1,0 +1,797 @@
+{
+ "block": "tricks",
+ "entries": [
+  {
+   "id": "tricks_0000",
+   "offset": "0x265D",
+   "length": 16,
+   "pointers": [],
+   "jp": "オラオラ",
+   "en": "Jab-jab",
+   "notes": "オラオラ: a flurry of jabs."
+  },
+  {
+   "id": "tricks_0001",
+   "offset": "0x266D",
+   "length": 16,
+   "pointers": [],
+   "jp": "むっしむっし",
+   "en": "Fidget",
+   "notes": "UNSURE: むっしむっし, guessed as fidgeting."
+  },
+  {
+   "id": "tricks_0002",
+   "offset": "0x267D",
+   "length": 16,
+   "pointers": [],
+   "jp": "もしゃもしゃ",
+   "en": "Ruffle",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0003",
+   "offset": "0x268D",
+   "length": 16,
+   "pointers": [],
+   "jp": "だきつき",
+   "en": "Hug",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0004",
+   "offset": "0x269D",
+   "length": 16,
+   "pointers": [],
+   "jp": "こうちょく",
+   "en": "Freeze",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0005",
+   "offset": "0x26AD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ずるずる",
+   "en": "Slide",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0006",
+   "offset": "0x26BD",
+   "length": 16,
+   "pointers": [],
+   "jp": "じたばた",
+   "en": "Flail",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0007",
+   "offset": "0x26CD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ちょーだい",
+   "en": "Gimme",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0008",
+   "offset": "0x26DD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ちょーだい",
+   "en": "Gimme",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0009",
+   "offset": "0x26ED",
+   "length": 16,
+   "pointers": [],
+   "jp": "こうちょく",
+   "en": "Freeze",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0010",
+   "offset": "0x26FD",
+   "length": 16,
+   "pointers": [],
+   "jp": "すなあび",
+   "en": "Sandbath",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0011",
+   "offset": "0x270D",
+   "length": 16,
+   "pointers": [],
+   "jp": "けづくろい",
+   "en": "Groom",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0012",
+   "offset": "0x271D",
+   "length": 16,
+   "pointers": [],
+   "jp": "せのび",
+   "en": "Stretch",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0013",
+   "offset": "0x272D",
+   "length": 16,
+   "pointers": [],
+   "jp": "じー・・・ん？",
+   "en": "Stare…?",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0014",
+   "offset": "0x273D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぷりぷり",
+   "en": "Wiggle",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0015",
+   "offset": "0x274D",
+   "length": 16,
+   "pointers": [],
+   "jp": "おろろろろ〜",
+   "en": "Fluster",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0016",
+   "offset": "0x275D",
+   "length": 16,
+   "pointers": [],
+   "jp": "むしゃむしゃ",
+   "en": "Munch",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0017",
+   "offset": "0x276D",
+   "length": 16,
+   "pointers": [],
+   "jp": "よじよじ",
+   "en": "Climb",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0018",
+   "offset": "0x277D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ちょーだい",
+   "en": "Gimme",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0019",
+   "offset": "0x278D",
+   "length": 16,
+   "pointers": [],
+   "jp": "さかさね",
+   "en": "Belly-up",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0020",
+   "offset": "0x279D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ゆびあくしゅ",
+   "en": "Shake",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0021",
+   "offset": "0x27AD",
+   "length": 16,
+   "pointers": [],
+   "jp": "おらおら",
+   "en": "Jab-jab",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0022",
+   "offset": "0x27BD",
+   "length": 16,
+   "pointers": [],
+   "jp": "けづくろい",
+   "en": "Groom",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0023",
+   "offset": "0x27CD",
+   "length": 16,
+   "pointers": [],
+   "jp": "かえるとび",
+   "en": "Leapfrog",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0024",
+   "offset": "0x27DD",
+   "length": 16,
+   "pointers": [],
+   "jp": "よじよじ",
+   "en": "Climb",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0025",
+   "offset": "0x27ED",
+   "length": 16,
+   "pointers": [],
+   "jp": "じー・・・ん？",
+   "en": "Stare…?",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0026",
+   "offset": "0x27FD",
+   "length": 16,
+   "pointers": [],
+   "jp": "いや〜ん",
+   "en": "Oh no~",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0027",
+   "offset": "0x280D",
+   "length": 16,
+   "pointers": [],
+   "jp": "びたっ",
+   "en": "Splat",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0028",
+   "offset": "0x281D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ころがる",
+   "en": "Roll",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0029",
+   "offset": "0x282D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ねる",
+   "en": "Sleep",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0030",
+   "offset": "0x283D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ピコピコ",
+   "en": "Earflick",
+   "notes": "UNSURE: ピコピコ, guessed as ear flicking."
+  },
+  {
+   "id": "tricks_0031",
+   "offset": "0x284D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぶらさがり",
+   "en": "Hang",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0032",
+   "offset": "0x285D",
+   "length": 16,
+   "pointers": [],
+   "jp": "じたばた",
+   "en": "Flail",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0033",
+   "offset": "0x286D",
+   "length": 16,
+   "pointers": [],
+   "jp": "あしきゅー",
+   "en": "Kick",
+   "notes": "UNSURE: あしきゅー, guessed as a kick."
+  },
+  {
+   "id": "tricks_0034",
+   "offset": "0x287D",
+   "length": 16,
+   "pointers": [],
+   "jp": "あしけづくろい",
+   "en": "Footwash",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0035",
+   "offset": "0x288D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぐうぐう2",
+   "en": "Snooze2",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0036",
+   "offset": "0x289D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ばしっ！",
+   "en": "Whack!",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0037",
+   "offset": "0x28AD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ちょーだい",
+   "en": "Gimme",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0038",
+   "offset": "0x28BD",
+   "length": 16,
+   "pointers": [],
+   "jp": "おらおら2",
+   "en": "Jab-jab2",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0039",
+   "offset": "0x28CD",
+   "length": 16,
+   "pointers": [],
+   "jp": "リボンこうかん",
+   "en": "Ribbon",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0040",
+   "offset": "0x28DD",
+   "length": 16,
+   "pointers": [],
+   "jp": "？？？？",
+   "en": "????",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0041",
+   "offset": "0x28ED",
+   "length": 16,
+   "pointers": [],
+   "jp": "のびキャッチ",
+   "en": "Catch",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0042",
+   "offset": "0x28FD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぼてぼて",
+   "en": "Waddle",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0043",
+   "offset": "0x290D",
+   "length": 16,
+   "pointers": [],
+   "jp": "あわあわ",
+   "en": "Panic",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0044",
+   "offset": "0x291D",
+   "length": 16,
+   "pointers": [],
+   "jp": "かえるとび",
+   "en": "Leapfrog",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0045",
+   "offset": "0x292D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ひじかけ",
+   "en": "Lounge",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0046",
+   "offset": "0x293D",
+   "length": 16,
+   "pointers": [],
+   "jp": "よじよじつつ〜",
+   "en": "Climb~",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0047",
+   "offset": "0x294D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぐりぐり",
+   "en": "Nuzzle",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0048",
+   "offset": "0x295D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ばしばし",
+   "en": "Smack",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0049",
+   "offset": "0x296D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ふりむき",
+   "en": "Lookback",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0050",
+   "offset": "0x297D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ゴンッじわー",
+   "en": "Bonk",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0051",
+   "offset": "0x298D",
+   "length": 16,
+   "pointers": [],
+   "jp": "かえるとび？",
+   "en": "Hop?",
+   "notes": "かえるとび？ (a failed leapfrog?); 'Leapfrog?' doesn't fit 8."
+  },
+  {
+   "id": "tricks_0052",
+   "offset": "0x299D",
+   "length": 16,
+   "pointers": [],
+   "jp": "コロン",
+   "en": "Tumble",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0053",
+   "offset": "0x29AD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぬぼ〜っ",
+   "en": "Daze~",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0054",
+   "offset": "0x29BD",
+   "length": 16,
+   "pointers": [],
+   "jp": "つめこみ",
+   "en": "Cram",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0055",
+   "offset": "0x29CD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぴくぴく",
+   "en": "Twitch",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0056",
+   "offset": "0x29DD",
+   "length": 16,
+   "pointers": [],
+   "jp": "びっくりかみつき",
+   "en": "Bite!",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0057",
+   "offset": "0x29ED",
+   "length": 16,
+   "pointers": [],
+   "jp": "うなぎ",
+   "en": "Eel",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0058",
+   "offset": "0x29FD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ちょうだっしゅ",
+   "en": "Dash",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0059",
+   "offset": "0x2A0D",
+   "length": 16,
+   "pointers": [],
+   "jp": "うんてい",
+   "en": "Bars",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0060",
+   "offset": "0x2A1D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ちまちまぐい",
+   "en": "Nibble",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0061",
+   "offset": "0x2A2D",
+   "length": 16,
+   "pointers": [],
+   "jp": "くつろぎ",
+   "en": "Relax",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0062",
+   "offset": "0x2A3D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ひくひく",
+   "en": "Sniff",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0063",
+   "offset": "0x2A4D",
+   "length": 16,
+   "pointers": [],
+   "jp": "けづくろい",
+   "en": "Groom",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0064",
+   "offset": "0x2A5D",
+   "length": 16,
+   "pointers": [],
+   "jp": "どこどこ？",
+   "en": "Where?",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0065",
+   "offset": "0x2A6D",
+   "length": 16,
+   "pointers": [],
+   "jp": "せのび",
+   "en": "Stretch",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0066",
+   "offset": "0x2A7D",
+   "length": 16,
+   "pointers": [],
+   "jp": "うふっ♡",
+   "en": "Tee-hee♡",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0067",
+   "offset": "0x2A8D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ピコピコ",
+   "en": "Earflick",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0068",
+   "offset": "0x2A9D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぢぢぢぢぢ",
+   "en": "Chitter",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0069",
+   "offset": "0x2AAD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ゆらゆら",
+   "en": "Sway",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0070",
+   "offset": "0x2ABD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ジャンプ",
+   "en": "Jump",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0071",
+   "offset": "0x2ACD",
+   "length": 16,
+   "pointers": [],
+   "jp": "おそうじショック",
+   "en": "Shock",
+   "notes": "UNSURE: おそうじショック (cleaning shock)."
+  },
+  {
+   "id": "tricks_0072",
+   "offset": "0x2ADD",
+   "length": 16,
+   "pointers": [],
+   "jp": "おおあばれ",
+   "en": "Rampage",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0073",
+   "offset": "0x2AED",
+   "length": 16,
+   "pointers": [],
+   "jp": "きあいのみ",
+   "en": "Psych-up",
+   "notes": "UNSURE: きあいのみ, read as 気合 (psyching up)."
+  },
+  {
+   "id": "tricks_0074",
+   "offset": "0x2AFD",
+   "length": 16,
+   "pointers": [],
+   "jp": "プリプリあばれ",
+   "en": "Tantrum",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0075",
+   "offset": "0x2B0D",
+   "length": 16,
+   "pointers": [],
+   "jp": "うなぎ",
+   "en": "Eel",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0076",
+   "offset": "0x2B1D",
+   "length": 16,
+   "pointers": [],
+   "jp": "あくび",
+   "en": "Yawn",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0077",
+   "offset": "0x2B2D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ゆびあくしゅ",
+   "en": "Shake",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0078",
+   "offset": "0x2B3D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ハムスターボール",
+   "en": "HamBall",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0079",
+   "offset": "0x2B4D",
+   "length": 16,
+   "pointers": [],
+   "jp": "あとずさり",
+   "en": "Back up",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0080",
+   "offset": "0x2B5D",
+   "length": 16,
+   "pointers": [],
+   "jp": "くさいくさい",
+   "en": "Stinky",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0081",
+   "offset": "0x2B6D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ハミガキオラオラ",
+   "en": "Brush!",
+   "notes": "ハミガキオラオラ: furious tooth brushing."
+  },
+  {
+   "id": "tricks_0082",
+   "offset": "0x2B7D",
+   "length": 16,
+   "pointers": [],
+   "jp": "とてとて",
+   "en": "Toddle",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0083",
+   "offset": "0x2B8D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ピコピコ",
+   "en": "Earflick",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0084",
+   "offset": "0x2B9D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぶらぶら",
+   "en": "Dangle",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0085",
+   "offset": "0x2BAD",
+   "length": 16,
+   "pointers": [],
+   "jp": "とろーん",
+   "en": "Drowsy",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0086",
+   "offset": "0x2BBD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぐわーん",
+   "en": "Dizzy",
+   "notes": ""
+  },
+  {
+   "id": "tricks_0087",
+   "offset": "0x2BCD",
+   "length": 16,
+   "pointers": [],
+   "jp": "おすわり",
+   "en": "Sit",
+   "notes": ""
+  }
+ ]
+}

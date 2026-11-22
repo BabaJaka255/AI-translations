@@ -1,0 +1,39 @@
+{
+ "name": "conveni3-ps2",
+ "title_jp": "ザ・コンビニ3 ～あの町を独占せよ～",
+ "title_en": "The Conveni 3: Corner the Market!",
+ "platform": "ps2",
+ "rom": "rom/conveni3.iso",
+ "rom_crc32": "E2F31095",
+ "table": "tables/jp.tbl",
+ "insert_table": "tables/en.tbl",
+ "output": "build/conveni3-en.iso",
+ "expand_to": null,
+ "checksum": null,
+ "patches": [],
+ "blocks": [],
+ "gfx": [],
+ "source_image": {
+  "file": "Conveni 3, The - Ano Machi o Dokusen seyo (Japan).bin (inside the .7z)",
+  "crc32": "2143FE1F",
+  "sha1": "597f58e9bef568d7ab07273210c625fd0252386d"
+ },
+ "elf": {
+  "file": "SLPM_623.22",
+  "mapping": {
+   "type": "elf",
+   "segments": [
+    [
+     "0x110000",
+     "0x1000",
+     "0xf56a8"
+    ],
+    [
+     "0x205700",
+     "0xf6700",
+     "0x340868"
+    ]
+   ]
+  }
+ }
+}

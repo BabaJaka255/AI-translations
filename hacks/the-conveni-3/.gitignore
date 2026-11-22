@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+src/rom/
+src/build/
+*.iso
+*.bin
+*.cue
+*.7z
+*.p2s
+*.ps2

@@ -1,0 +1,148 @@
+140	Mono
+141	Controls
+142	Game Speed
+143	Sound
+145	SELECT:/nOpen menu
+146	SELECT:/nNot used
+147	L2:/nStore list
+148	L2:/nNot used
+149	L1:/nOK, next
+150	L1:/nNot used
+151	D-pad:/nMove
+152	/I105:/nOpen menu
+153	R2: Next store
+154	R1: Next store
+155	/I103:/nAngel-san's Tips
+156	/I102:/nOK, next
+157	/I104: Store list
+158	Left stick:/nMove/n(L3: Full map)
+159	Right stick:/nMove/n(R3: Full map)
+160	L2:/nBack
+161	L1:/nOK
+162	D-pad:/nSelect
+163	R2: Not used
+164	R1: Not used
+165	/I102:/nOK
+166	/I104: Back
+167	Left stick:/nSelect/n(L3: All stores)
+168	Right stick:/nSelect/n(R3: All stores)
+169	L1:/nView store
+170	D-pad:/nRotate, zoom
+171	R2: Zoom out
+172	R1: Zoom in
+173	/I102:/nView store
+174	Left stick:/nRotate store/n(L3: Change view)
+175	Right stick:/nMove store/n(R3: Change view)
+176	/I103: Help
+177	Left stick:/nMove (L3: Grab)
+178	Right stick:/nMove (R3: Grab)
+179	L1:/nPlace
+180	D-pad:/nMove, select
+181	/I105:/nRotate right
+182	R2: Rotate left
+183	R1: Rotate right
+184	/I102:/nPlace
+185	Left stick:/nMove/n(L3: Place)
+186	Right stick:/nMove/n(R3: Place)
+187	L2:/nOK, next
+188	L1:/nBack
+189	/I105:/nNot used
+190	Left stick:/nSelect
+191	Right stick:/nSelect
+192	Scenario 1
+193	Scenario 2
+194	Scenario 3
+195	Scenario 4
+196	Scenario 5
+197	Scenario 6
+198	Scenario 7
+205	./n
+207	Failed to load data
+208	Failed to load system data
+209	Failed to load save data
+214	Ice cream with rum-soaked raisins. Just a little taste of the grown-up life.
+215	Ice cream made with safe ingredients and milk from healthy cows raised on organic veggies.
+216	A LAWSON classic ice cream. Launched in 1987 and still a top seller today.
+217	Ice cream with a soft hint of cherry blossom and a perfect touch of salt in the sweetness.
+218	A gem that blends juice from Shizuoka's famous muskmelons into smooth ice cream.
+219	Ice Cream
+220	A bento crammed with as much stamina-boosting food as it can possibly hold!
+221	Hungry? Grab this! A jumbo bento that's big on food and easy on the wallet.
+222	A truly special bento, full of handpicked crowd-pleasing fillings.
+223	A luxurious bento packed with all kinds of seasonal ingredients.
+224	An all-natural bento of carefully chosen ingredients, rich in flavor.
+225	Ready-to-heat Thai green curry, made so anyone can enjoy it at home.
+226	Ready-to-heat curry with the nostalgic taste of slow-simmered country curry.
+227	The best-loved ready curry, given a natural twist. Its big chunks of veggies are a huge hit.
+228	Made with ingredients and spices from Korea itself, a ready meal that lives up to its legendary name.
+229	A curry so fiery its red roux shows the heat at a glance. Proud of its brutal spice.
+230	Ready Meals
+231	A Japanese-style burger with a patty of minced premium beef loin. Packed with flavor.
+232	Fresh-baked bread from the bakery to your conveni! Delivered 3 times a day.
+233	LAWSON's own bread line. Low prices and a huge range are the secret to its success.
+234	A big, juicy tonkatsu pork cutlet sandwiched in fluffy bread.
+235	A revival of the anpan from the old neighborhood bakery, made with love.
+236	Bread
+237	Nutritious brown rice made into flakes: a cereal anyone can enjoy.
+238	Breakfast sorted! Over 10 nutrients in one bowl. The perfect cereal for busy people.
+239	Malt, barley and wheat flakes with fruit and nuts. A cereal with perfect balance.
+240	One gulp and you're charged! A health supplement for a quick, easy boost.
+241	A new kind of health cereal: barley flakes coated with malt.
+242	Cereal
+243	A new fast food that makes Osaka's famous kushiage (fried skewers) easy to eat.
+244	Chinatown's beloved nikuman steamed bun, improved and now in jumbo size!
+245	A LAWSON fast-food classic. Besides the standard flavor, new ones keep coming.
+246	Popular for its unique style: it's only fried after you order it.
+247	A perfect balance of potato and ground beef! Just the thing when you're hungry.
+248	Fast Food
+249	The classic malt chocolate puffs, now in strawberry milk flavor. A hit with kids.
+250	Banana slices coated in sugar and lightly fried. A whole new kind of snack.
+251	A LAWSON classic: the best snack brand, with every kind in one place.
+252	Thin chips of pumpkin from a famous farm region. A sweet new snack.
+253	Crispy potato chips lightly seasoned with sun-dried natural salt. The ultimate snack.
+254	Calcium-rich cheese paired with fish paste full of vitamins A, D and E. A healthy bar snack.
+255	Made with Akashi octopus: the more you chew, the richer it gets. A popular bar snack.
+256	A selection of popular dried snacks, made cheap and easy. A classic.
+257	Peanuts with a spicy kick. Once you start, you just can't stop.
+258	A top-grade bar snack of moist, tender squid.
+259	Bar Snacks
+260	The deli favorite tonkatsu, perfected Japanese-style: light, soft and tender.
+261	A top-quality salad made with organic veggies, for your health.
+262	Onigiri made with care for the rice, salt and nori, with handpicked fillings. The real deal.
+263	Agedashi tofu made from pesticide-free Japanese soybeans, in a thick, savory sauce.
+264	Handpicked seasonal veggies, slow-simmered until soft and tender.
+265	Deli
+266	Made with top-grade sun-dried salt for a deep flavor. The ultimate cup yakisoba.
+267	Supervised by a ramen expert: the taste of a famous shop, in a cup.
+268	Made by LAWSON with ramen shops all over Japan: a cup noodle beyond cup noodles.
+269	Extra-thick, chewy noodles and a big slice of chashu pork. A jumbo cup ramen.
+270	Is this 4 times a normal cup?! A cup noodle so huge you won't believe it.
+271	Cup Noodles
+272	The hit card game returns as the EX series. Who will be the champion?!
+273	The most popular toy of all, the card game, is finally here!
+274	LAWSON figures: the store clerk characters, the LAWSON truck and more.
+275	Classic tin toys, remade just the way they were made back then. Full of charm.
+276	Toys from the Showa era are finally back. Enjoy the nostalgia.
+277	Toys
+278	A hot tea with a noble color and aroma, for a taste of British high society.
+279	A hot cafe au lait made with the finest coffee and milk for a mellow taste.
+280	LAWSON's own hot milk tea. The leaves steep longer for a richer taste.
+281	A hot coffee that warms you right up.
+282	Canned hot tea with a clean, gentle, sugar-free taste.
+283	Hot Drinks
+284	A mild, refreshing mineral water that's high in calcium.
+285	Well water from 500 m underground, run through natural filters to make the purest mineral water.
+286	Mineral water from a deep well in Fujiyoshida.
+287	Mineral water that puts safe, natural sources first.
+288	Mineral water that brings out the pure taste of water itself.
+289	Mineral Water
+290	A soft drink of fresh-squeezed juice, made for health-minded customers.
+291	A pure, natural juice with no additives at all. Safe for kids, too.
+292	A soft drink of freshly squeezed fruit juice. Just right for waking up.
+293	Apple, orange, grape, quince and more, blended our own way. All natural and full of vitamins.
+294	Natural fruit juice, made light and refreshing with a special process.
+295	Premium green tea made only from first buds picked on the 88th night of spring.
+296	Top-grade green tea, carefully brewed from the finest leaves, now in a bottle.
+297	First-flush green tea blended with gyokuro, steeped slowly at low heat for a smooth, mellow taste.
+298	Brewed from hand-picked leaves sent straight from the farm. The sencha of sencha.
+299	Roasted in an iron pot for a strong, toasty aroma that keeps the tea's sweetness and bite.

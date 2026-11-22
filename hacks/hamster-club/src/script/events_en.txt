@@ -1,0 +1,377 @@
+# Hamster Club event script, English. Format: tools/hc_tr.py docstring.
+# Left untranslated on purpose: 0068, 0070, 0421 (one-glyph entries, likely misparsed bytes).
+0000	Hi there! Welcome to the Hamster Club!‖Oh? I don't think we've met before.‖Would you tell me your name?‖
+0001	M: -san|-kun/ -chan|None
+0002	¶So, {n0}{n2}. Nice to meet you.‖If this is your first hamster,‖I'll give you one／as a gift.‖They're easier to raise than most.‖Pick any one of these three.⏎
+0003	M:¶Shigechi|Pu-chan/Endo-kun
+0004	¶Friendly, but／a bit of a rascal.‖How about lively／"Shigechi"?‖@@Yes/No
+0005	¶Nervous, but the best athlete.‖How about "Endo-kun"?‖@@Yes/No
+0006	¶Easygoing and the／easiest to raise.‖It loves to sit.‖Who knows what／it's thinking…‖How about "Pu-chan"?‖@@Yes/No
+0007	¶Want to rename this little one?‖@@Yes/No
+0008	{n1}…／What a cute name.⏎
+0009	¶Also, a home to raise it in… It's called a cage.‖It's a cheap one, but it's yours.‖
+0010	You can name the cage, too.‖
+0011	You've got your／hands full now.‖Take it all home／first, okay?‖Come back later／for more tips.⏎
+0012	Oh, {n0}{n2}. You came.‖Want some tips on／raising hamsters?‖@@Yes/No
+0013	¶For starters, set food and items.‖Then pick training for your hamster.‖That'll do it.‖
+0014	M:Items?|Food?/Training?
+0015	¶Right, items.‖Without a nest box／and a wheel,‖your hamster gets／in a bad mood.‖Without a toilet／and water bottle,‖its health drops.‖No money for items?‖Then keep it out／of the cage.‖Its mood and／health won't drop.‖But do buy items／for it soon, okay?‖Oh, and each cage／holds a different‖number of items,／so be careful.‖The one I gave you／holds up to 2.‖
+0016	¶Growth depends／on training.‖Cute or strong, it／comes down to you.‖Set a training／menu. Each week,‖its stats change／to match it.‖
+0017	¶Never, ever let the food run out!‖Go buy some later.‖Every food has its own nutrients.‖Pellets are best at first.‖Then set it on the／cage screen.‖
+0019	Oh?‖
+0020	Oh-ho-ho-ho-ho-ho!‖A commoner hamster／like that will‖never be cute, no／matter what.‖
+0021	Grr!‖
+0022	A hamster that／cannot even enter‖the HAM'S Cup is／not worth keeping.‖@@You're a pest!/What HAM'S Cup?
+0023	¶Is that so?‖I would say "pest"／suits that grubby‖hamster better.‖You belong in the／lowest HAM'S Cups.⏎
+0025	In the HAM'S Cup,／hamster owners‖come to see whose／hamster is best.‖Cups have ranks.‖At first, you can／go up to Rank 2.‖Win there, and you／can enter cups of‖a higher rank.‖
+0026	That is how it works.‖Not that you could／ever win one.‖To win, you need a／hamster like this.‖
+0027	Allow me to／present Josephine.‖
+0028	Good day, then!／Oh-ho-ho-ho-ho-ho!‖
+0029	It seems you have ranked up.‖However, your rank／is still too low‖to face my／Josephine.‖After all, it is only Rank 2. Merely "Rank 2". Tee-hee.‖Oh, I have not yet／asked your name.‖@@Tell my name/Give a fake name
+0030	¶Hmm, {n3}, is it? How dreadfully plain…‖
+0031	I know. I shall call you {n3}-chi.‖{n3}-chi… What a lovely ring it has.‖Good day, then!／Oh-ho-ho-ho-ho-ho!‖
+0032	We meet again.‖……‖The HAM'S Cup…‖lets you try one／rank above yours,‖but winning a rank／up is very hard.‖Wins at higher／ranks count more.‖Josephine's at／Rank 5, the top.‖You won't catch up that easily.‖……‖{n3}-chi, huh…／Heh.‖Has a certain ring to it…‖
+0033	I-I mean, never mind. Anyway, do your best.‖
+0034	{n3}-chi!‖At last, you can／face my Josephine.‖But if you believe／you are my equal,‖you are sorely／mistaken.‖{n3}-chi, your／"commoner hamster"‖only caught up to／Josephine by luck.‖"Chance", "luck",／a "fluke".‖That is all.‖If you truly wish to face me…‖win the Breeders'／Cup and become‖a Breeder Master.‖
+0035	It will be tough,／so I shall give‖you Oscar-kun.‖He is special, so／he cannot breed.‖He will not learn tricks, either.‖But his athletics are outstanding.‖@@Accept/No thanks
+0037	Would you give this one a name?‖
+0038	{n1}…／Well, I suppose.‖
+0039	Which cage shall he go in?‖{n4}
+0040	¶That cage is／already full.‖
+0041	¶Oh, you are sure?‖
+0042	¶Here are a few／treats to help.‖
+0043	¶Good day, then!／Oh-ho-ho-ho-ho-ho!‖
+0044	You lose,／{n3}-chi!‖
+0045	You still need far／more practice.‖Oh-ho-ho-ho-ho-ho!‖
+0046	I lost again. How frustrating.‖
+0047	But in Charm,／I have not lost.‖
+0048	But in Athletics,／I have not lost.‖
+0049	I lost. I cannot say a single word!‖
+0050	It cannot be helped.‖Take Josephine's／daughter, then.‖@@Accept/No thanks
+0052	Would you give this one a name?‖
+0053	{n1}…／Well, I suppose.‖
+0054	¶Which cage shall she go in?‖{n4}
+0055	¶That cage is／already full.‖
+0056	¶Do note that she／cannot breed.‖
+0057	¶Next time, I shall win.‖
+0058	A letter has arrived for you.‖"This is a challenge."‖That was all it said.‖@@Turn it over/Throw it away
+0060	It continues on the back.‖"Your fortune for／this week:‖Great luck is／coming your way.‖A special someone／may write to you!?‖Lucky color: blue.‖Lucky hamster:／Djungarian.‖Just kidding.‖We shall decide／who the greatest‖Breeder Master is.‖Josephine and I／are the best team.‖Meet me in week 4／of December.‖Do check your／schedule.‖I shall be waiting."‖
+0062	Aaand… toss!‖
+0063	I never dreamed,／{n3}-chi,‖that you would／raise a hamster‖that could win at／Rank 5.‖
+0064	Josephine was not／at her best, mind.‖@@If you say so./I'll always win.
+0065	¶How dare you say that? Such cheek.‖One day, I shall／settle this.‖
+0066	¶I shall celebrate your win someday.‖Good day, then!／Oh-ho-ho-ho-ho-ho!‖
+0067	¶That aside.‖To celebrate, I／shall share a tip.‖I acquired some／Black-bellied‖hamsters recently.‖But I already have／Josephine,‖so I sold them all／to the shop.‖You should go take a look.‖What? You do not／know them?‖Oh, very well.‖Mr. Explainer,／switch on!‖
+0069	{n3}-chi!‖Remember I said I／would celebrate?‖To celebrate, I／shall share a tip.‖I acquired some／Black-bellied‖hamsters recently.‖But I already have／Josephine,‖so I sold them all／to the shop.‖You should go take a look.‖What? You do not／know them?‖Oh, very well.‖Mr. Explainer,／switch on!‖
+0071	Look for {n1}.／⏎Find it quickly!‖
+0072	¶Where will you look?‖
+0073	M:Dresser|Rack/Curtains|Desk
+0074	M:Curtains|Desk/Rack
+0075	M:Dresser|Desk/Rack
+0076	M:Dresser|Desk/Curtains
+0077	M:Dresser|Rack/Curtains
+0078	M:Dresser/Curtains
+0079	M:Dresser/Rack
+0080	M:Dresser/Desk
+0081	M:Curtains/Rack
+0082	M:Curtains/Desk
+0083	M:Rack/Desk
+0084	¶Not here. Let's look somewhere else.‖
+0086	So this is where it was hiding!‖
+0088	It's too late now.／There's no hope…‖
+0089	The babies have grown up.‖
+0090	Which one will you raise?‖@@The lively one/The quiet one
+0091	¶Please name this little one.⏎
+0092	¶Which cage will it go in?‖{n4}
+0093	¶That cage is／already full.‖
+0094	¶The Hamster Club／took in the rest.‖
+0095	¶You can't have any more hamsters.‖The Hamster Club／took the babies.‖
+0096	It's allowance day. Hooray!⏎
+0097	¶You got 100G.‖
+0098	¶You got 500G.‖
+0099	¶You got 1000G.‖
+0100	Oh, {n0}{n2}.／Welcome!⏎
+0101	M:¶Shop|Show off/Heal
+0102	¶What are you looking for?⏎
+0104	M:Items|Food/Cages|Hamsters
+0105	M:¶Nest box|Water/Wheel|Toilet
+0107	M:Level 1/Level 2
+0108	M:¶Nest box|Water/Slide|Toilet
+0110	M:Level 1|Level 3/Level 2
+0111	M:¶Nest box|Water/Seesaw|Toilet
+0112	¶You already have／4 of those.‖
+0113	¶You already have／that one.‖
+0114	¶A home for your hamster.‖Now you can train／"nest-building".‖
+0115	M:Buy/Don't buy
+0116	¶Perfect for getting exercise!‖
+0117	M:Buy/Don't buy
+0118	¶Fresh water keeps／hamsters lively!‖
+0119	M:Buy/Don't buy
+0120	¶Always keep the cage clean.‖Now you can train／"toilet" use.‖
+0121	M:Buy/Don't buy
+0122	¶A home for your hamster.‖Now you can train／"nest-building".‖
+0123	M:Buy/Don't buy
+0124	¶Perfect for getting exercise!‖
+0125	M:Buy/Don't buy
+0126	¶Fresh water keeps／hamsters lively!‖
+0127	M:Buy/Don't buy
+0128	¶Always keep the cage clean.‖Now you can train／"toilet" use.‖
+0129	M:Buy/Don't buy
+0130	¶A home for your hamster.‖Now you can train／"nest-building".‖
+0131	M:Buy/Don't buy
+0132	¶Perfect for getting exercise!‖
+0133	M:Buy/Don't buy
+0134	¶Fresh water keeps／hamsters lively!‖
+0135	M:Buy/Don't buy
+0136	¶Always keep the cage clean.‖Now you can train／"toilet" use.‖
+0137	M:Buy/Don't buy
+0139	M:Basic items/Special items
+0140	¶For now, it's just／Hamster Balls.‖It makes "walks"／more effective.‖
+0141	M:Buy/Don't buy
+0143	M:Basic items/Special items
+0144	M:¶Hamster Ball/Brush
+0145	¶It makes "walks"／more effective.‖
+0146	M:Buy/Don't buy
+0147	¶"Grooming" works／better with it.‖
+0148	M:Buy/Don't buy
+0150	M:Cheap food/Pricey food
+0151	M:¶Cheap|Treats/Pricey
+0152	M:¶Cheap|Gourmet/Pricey
+0153	M:¶Cheap|Gourmet/Pricey|Treats
+0154	¶You can't buy any more of that.‖
+0155	M:¶Pellets|Fruit/Veggies|Seeds
+0157	M:Normal|A little/Plenty
+0159	M:Normal|A little/Plenty
+0161	M:Normal|A little/Plenty
+0163	M:Normal|A little/Plenty
+0164	M:¶Pellets+|Fruit+/Veggies+|Corn
+0166	M:Normal|A little/Plenty
+0168	M:Normal|A little/Plenty
+0170	M:Normal|A little/Plenty
+0172	M:Normal|A little/Plenty
+0173	M:¶Healthy Tofu/Cheese
+0175	M:Normal|A little/Plenty
+0177	M:Normal|A little/Plenty
+0178	M:¶Athl. Up|????/Charm Up
+0179	M:¶GutsBean|HopBean/DashBean
+0180	¶It raises Stamina.‖
+0181	M:Buy/Don't buy
+0182	¶It raises Speed.‖
+0183	M:Buy/Don't buy
+0184	¶It raises Jump.‖
+0185	M:Buy/Don't buy
+0186	M:¶SilkBean|CuteBean/LookBean
+0187	¶It raises Coat.‖
+0188	M:Buy/Don't buy
+0189	¶It raises Cuteness.‖
+0190	M:Buy/Don't buy
+0191	¶It raises Looks.‖
+0192	M:Buy/Don't buy
+0193	M:¶Ice Cream Cup/Niboshi
+0194	¶Looks yummy, doesn't it?‖
+0195	M:Buy/Don't buy
+0196	¶Dried sardines.／Very nutritious.‖
+0197	M:Buy/Don't buy
+0199	For when you／outgrow my cage.‖
+0200	¶I have no more／cages to sell you.‖
+0201	¶There's no room／for a new cage.‖Trade in one you／don't need.‖Leave that one／empty, okay?‖
+0202	¶Give the cage a name.‖
+0203	¶How about Normal Cage 1?‖It's basic, but／easy to use.‖
+0204	M:Others|Pass/Buy
+0206	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0207	¶Pick a cage to／trade in.⏎
+0209	¶That cage has hamsters in it.‖
+0210	¶How about Normal Cage 2?‖It's plain, but／more hamsters fit.‖
+0211	M:Others|Pass/Buy
+0213	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0214	¶Pick a cage to／trade in.⏎
+0216	¶That cage has hamsters in it.‖
+0217	¶How about Normal Cage 3?‖It's plain, but／more items fit.‖
+0218	M:Others|Pass/Buy
+0220	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0221	¶Pick a cage to／trade in.⏎
+0223	¶That cage has hamsters in it.‖
+0224	¶How about the Large Cage?‖It holds more／of everything.‖
+0225	M:Others|Pass/Buy
+0227	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0228	¶Pick a cage to／trade in.⏎
+0230	¶That cage has hamsters in it.‖
+0231	¶How about the Heavy Cage?‖Its capacity is second to none.‖
+0232	M:Others|Pass/Buy
+0234	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0235	¶Pick a cage to／trade in.⏎
+0237	¶That cage has hamsters in it.‖
+0238	¶How about the Item Cage?‖It can hold up to 4 items.‖
+0239	M:Others|Pass/Buy
+0241	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0242	¶Pick a cage to／trade in.⏎
+0244	¶That cage has hamsters in it.‖
+0245	¶How about the Hamster Cage?‖It can hold up to 4 hamsters.‖
+0246	M:Others|Pass/Buy
+0248	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0249	¶Pick a cage to／trade in.⏎
+0251	¶That cage has hamsters in it.‖
+0252	¶How about the Plastic Cage?‖Your hamster's／stats drop slower.‖
+0253	M:Others|Pass/Buy
+0255	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0256	¶Pick a cage to／trade in.⏎
+0258	¶That cage has hamsters in it.‖
+0259	¶Two-Story Plastic／Cage, perhaps?‖Your hamster's／stats drop slower.‖It holds up to 2／hamsters, too.‖
+0260	M:Others|Pass/Buy
+0262	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0263	¶Pick a cage to／trade in.⏎
+0265	¶That cage has hamsters in it.‖
+0266	¶How about the Breeding Cage?‖Pair a male and a／female for babies.‖
+0267	M:Others|Pass/Buy
+0269	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0270	¶Pick a cage to／trade in.⏎
+0272	¶That cage has hamsters in it.‖
+0273	¶How about the Exercise Cage?‖Athletics rise／faster in it.‖
+0274	M:Others|Pass/Buy
+0276	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0277	¶Pick a cage to／trade in.⏎
+0279	¶That cage has hamsters in it.‖
+0280	¶How about the Charm Cage?‖Charm rises／faster in it.‖
+0281	M:Others|Pass/Buy
+0283	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0284	¶Pick a cage to／trade in.⏎
+0286	¶That cage has hamsters in it.‖
+0287	¶How about the Pyramid Cage?‖Its pyramid power／helps stats grow.‖
+0288	M:Others|Pass/Buy
+0290	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0291	¶Pick a cage to／trade in.⏎
+0293	¶That cage has hamsters in it.‖
+0294	¶Maybe the Future／Super Cage?‖Computer control／makes growth easy.‖
+0295	M:Others|Pass/Buy
+0297	¶There's no room／for a new cage.‖Trade in one of／yours for it?‖@@Yes/No
+0298	¶Pick a cage to／trade in.⏎
+0300	¶That cage has hamsters in it.‖
+0302	I have no hamsters／to recommend now.‖
+0303	Oh my, you can't／buy more hamsters.‖
+0304	¶Right now, I have／a Djungarian.‖@@Buy/Don't buy
+0305	M:¶Djungarian/Golden
+0306	M:¶Djungar.|Robo/Golden
+0307	M:¶Djungar.|Robo/Golden|Next
+0308	M:¶Campbell/Back
+0309	M:¶Djungar.|Robo/Golden|Next
+0310	M:¶Campbell|Back/Chinese
+0311	M:¶Djungar.|Robo/Golden|Next
+0312	M:¶Campbell|B-Belly/Chinese|Back
+0313	¶What kind would you like?‖
+0314	M:Baby ♂|Adult ♂/Baby ♀|Adult ♀
+0319	¶A Golden hamster, then.‖What kind would you like?‖
+0320	M:Baby ♂|Adult ♂/Baby ♀|Adult ♀
+0325	¶A Roborovski hamster, then.‖What kind would you like?‖
+0326	M:Baby ♂|Adult ♂/Baby ♀|Adult ♀
+0331	¶A Campbell's hamster, then.‖What kind would you like?‖
+0332	M:Baby ♂|Adult ♂/Baby ♀|Adult ♀
+0337	¶A Chinese hamster, then.‖What kind would you like?‖
+0338	M:Baby ♂|Adult ♂/Baby ♀|Adult ♀
+0343	¶What kind would you like?‖
+0344	M:Baby ♂|Adult ♂/Baby ♀|Adult ♀
+0349	Give this little one a name.‖
+0350	{n1}…／What a cute name.‖
+0351	Which cage will it go in?‖{n4}
+0353	Just one warning.‖Black-bellied／ones can't breed.‖Even a Breeding／Cage won't help.‖
+0354	¶That cage looks／full already.‖
+0355	¶Anything else you'd like?‖@@Yes/No
+0356	¶You don't have／enough money.⏎
+0358	Looks like nobody's sick.‖
+0359	{n1} looks／a little sick.‖Shall I heal it?‖
+0360	M:Yes/No
+0362	……‖
+0363	There, all better.‖Just let it rest and it'll heal.‖
+0365	Looks like no one else is sick.‖
+0366	¶Which hamster will you show me?‖
+0367	{n1}…／
+0368	^Not tame yet.‖
+0369	^What a cutie.‖
+0370	^It's fond of you.‖
+0371	^It adores you.‖
+0372	It's not the brightest.‖
+0373	It seems fairly smart.‖
+0374	Oh, it's smarter than I thought.‖
+0375	What a super smart hamster!‖
+0376	Its athletics are maxed out.‖
+0377	Its athletics are／growing nicely.‖
+0378	Its athletics can still go way up.‖
+0379	Its athletics are／still untrained.‖
+0380	Its charm is maxed out.‖
+0381	Its charm is／growing nicely.‖
+0382	Its charm can still go way up.‖
+0383	Its charm is still untrained.‖
+0384	M:I see/Please take it in
+0385	¶Should I really／take {n1}?‖@@Yes/No
+0386	¶{n1} was taken in by the shop.‖
+0387	¶I can't take ones／that are breeding.‖
+0388	¶Thank you! Come again!‖
+0389	Oh, {n0}{n2}.／Welcome!‖The HAM'S Cup's／going well, huh?‖New items are in,／so take a look.⏎
+0390	Oh, {n0}{n2}.／Welcome!‖The HAM'S Cup's／going well, huh?‖I've stocked more／new items, too.⏎
+0391	How's it going?‖If your hamster's／not growing well,‖how about some／tasty food?‖I'll have treats／ready for you.‖
+0392	It's been over a／year since we met.‖Time flies, huh?⏎／Have you changed?‖Work hard and be a／great breeder.‖I'll cheer you on.‖Oh, and some new／hamsters came in.‖
+0393	If you're entering／the Breeders' Cup,‖maybe you could／use more hamsters.‖Now that you're／used to it,‖why not buy a／new hamster?‖
+0394	……‖The first time you／lose a hamster,‖it's a real shock,／isn't it…‖But hamsters are／living things.‖Sometimes nothing／can be done.‖
+0395	Cheer up!‖Goodbyes happen,／but so do hellos.‖
+0396	Feeling stuck in a／rut lately?‖Try a new hamster／for a change.‖
+0397	You've got lots of／hamsters now.‖But the same kind／gets boring.‖Want a new one?‖
+0398	I figured you'd／need one soon,‖so I got a new／cage ready.‖As hamsters grow,／their cages need‖to grow, too.‖
+0399	Oh, a bigger cage／just came in.‖Your hamsters must／be pretty big now.‖Cages should grow／with the hamster.‖
+0400	A new cage is in.‖It's not that big,／but it's sturdy.‖Those who know／will see it.‖That kind of cage.‖For trips to cups,／it's just right.‖
+0401	A bigger cage／just came in.‖Your hamsters can／stretch out in it.‖Big hamsters will／love it, too.‖
+0402	A really huge cage／just came in.‖Size-wise, it's／perfect.‖With so much room,／they can relax.‖Extra space is／always nice.‖
+0403	A cage with an odd／shape came in.‖From above, it's／shaped like a U.‖It has lots of／variety inside.‖Lively hamsters,／and ones who like‖small spaces, will／both love it.‖
+0404	A tall cage is in.‖A high ceiling／keeps it roomy.‖It's great for／lively hamsters.‖
+0405	A plastic cage／just came in.‖It's supposed to／keep warm, too,‖but mostly, it／looks nice.‖
+0406	A two-story cage／just came in.‖It looks fun, and／hamsters can roam.‖Two stories means／good use of space.‖
+0407	A breeding cage／just came in.‖Why not try／breeding yours?‖It could be fun.‖To breed them,／you'll need one.‖
+0408	An exercise cage／just came in.‖Are your hamsters／getting exercise?‖If they need more,／I recommend this.‖They need to move,／you know.‖
+0409	A new cage is in.‖It makes hamsters／look even cuter.‖A cute hamster／needs a cute cage.‖Details matter,／don't they?‖
+0410	A new cage is in.‖It's called a／Pyramid Cage.‖What a strange／shape, huh?‖They say the shape／has special power.‖Maybe something／magical happens.‖If you're curious,／give it a try,‖and if anything／happens, tell me.‖
+0411	An unusual cage／just came in.‖It's all run by a／computer, I hear,‖but I'm no good／with machines.‖From what I hear,／it's very handy.‖If you like／machines, try it.‖
+0412	You're doing well／at Breeders' Cups.‖I've got better／basic items now.‖
+0413	Wow, amazing!‖Now you can enter／any Breeders' Cup.‖I've got the best／basic items ready.‖
+0414	Oh, welcome! New／food just came in.‖Two kinds: Healthy／Tofu and Cheese.‖They're the finest／food there is.‖Healthy Tofu has／lots of vitamins‖and minerals.‖Cheese has tons of／calories.‖With this food,／they'll do great.‖
+0415	All your hamsters are gone, huh…‖Do you want to keep going?‖@@Yes/No
+0416	¶Then raise this／baby Djungarian.‖For you, 1000G.／A real bargain.‖
+0417	Give this little one a name.‖
+0418	{n1}…／What a cute name.‖
+0419	Which cage will it go in?‖{n4}
+0420	¶That cage looks／full already.‖
+0422	……‖What is it?‖@@The Breeders' Cup/I love you!
+0424	You know about the／Breeders' Cup?‖
+0425	Unlike HAM'S Cups,／owners join in.‖It's not just your／hamster's ability.‖Yours counts too.‖The top-ranked one／is the "Breeder‖Master", the most／respected of all.‖
+0426	I'll show you the／schedule.‖We'll meet again.‖
+0428	Wh-what!?‖……‖I'm going home…‖@@Wait!/Bye-bye
+0430	I'll explain the／Breeders' Cup.‖No more weird／stuff, okay?‖
+0431	No more weird／stuff, okay?‖
+0433	Oh my, {n0}{n2}…‖What was that?‖Listen. The／Breeders' Cup…‖Unlike HAM'S Cups,／owners join in.‖It's not just your／hamster's ability.‖Yours counts too.‖The top-ranked one／is the "Breeder‖Master", the most／respected of all.‖Let me show you／the schedule.‖So, what will you／do today?‖
+0434	Hey, {n0}…‖Looks like your hamster got sick.‖If you paid it proper attention,‖it wouldn't get sick.‖Give your hamster some real love.⏎
+0435	About breeding…‖First, get a／Breeding Cage.‖Put 2 hamsters／in it.‖In 2 weeks, you'll／see if they click.‖If not, swap in a／new one and watch.‖Even if it fails／once, keep trying.‖It might work out／next time.‖If they do click,／leave them be,‖and soon, babies／will be born.‖Oh, I forgot.‖Same-sex pairs can／get along, too,‖but of course, no／babies. Naturally.‖
+0436	Hey, {n0}…‖Do you think about／food nutrition?‖Each food shows／VCM numbers.‖They show which／nutrients it has.‖That's a guide to／how it will grow.‖The number by V／shows vitamins.‖More means better／coat and looks.‖The number by C／shows calories.‖More means more／stamina.‖Too much makes it／fat, so watch it.‖The number by M／shows minerals.‖More raises its／inner stats.‖Cuteness, smarts,／and so on.‖Think about the／hamster you want,‖and balance the 3／nutrients.‖That's key to／raising hamsters.‖Remember that.⏎
+0438	……‖So you won the／Special Cup.‖
+0439	The Breeder Master／title is yours.‖Congratulations.‖
+0440	We'll meet again.‖
+0441	Oh, right.‖You did it all／without allowance.‖As a reward, all／tricks can now be‖seen with the／Pocket Printer.‖
+0442	We'll meet again.‖
+0443	Thud!‖…Sorry.‖……‖Haven't seen you around. First HAM'S Cup?‖@@Yes/No
+0444	¶I see. Hope you win…‖
+0445	¶Winning the HAM'S Cup isn't easy.‖If you're not／serious, quit now.‖
+0446	……‖
+0447	Well, I guess that's that.‖
+0448	Didn't get your／name, did I?‖……‖I see. {n0}.／We'll meet again.‖
+0449	I'm impressed. You're really something.‖
+0450	Don't sweat it.‖They say winning／is half luck.‖I'll expect more／next time.‖
+0451	Hey, {n0}…‖So you're entering／Breeders' Cups.‖But here's what to watch out for.‖Wins there don't／rank up hamsters.‖They rank you up,／as the breeder.‖One more thing.‖Enter one ranked／above the cup,‖and you get no／Rank Points.‖Remember that.‖
+0452	Hey, {n0}…‖You've gotten used／to raising them.‖
+0453	Ready to try the Breeders' Cup?‖@@Yes|Huh?/No
+0454	¶I see. Do your best…‖I'll show you the／schedule.‖We'll meet again.‖
+0455	¶The HAM'S Cup is／tough enough, huh…‖We'll meet again.‖
+0456	¶Unlike HAM'S Cups,／owners join in.‖It's not just your／hamster's ability.‖Yours counts too.‖The top-ranked one／is the "Breeder‖Master", the most／respected of all.‖Now then…‖
+0457	{n0}…‖Play with your hamster more.‖Playing may not／seem like much,‖but it lifts your／hamster's mood.‖Loved hamsters／gain stats faster.‖So don't scoff at／just playing.‖
+0458	Hey, {n0}…‖I hear you've got／baby hamsters.‖Congratulations.‖But for now, don't／play with them.‖Babies or parents.‖Just watch quietly／until they grow.‖
+0459	……‖By the way, do you get an allowance?‖@@100G|1000G/500G|None
+0460	¶I see. That must be pretty tough.‖We'll meet again.‖
+0461	¶I see. You can get by on that.‖We'll meet again.‖
+0462	¶You get more than I expected. That makes raising easier.‖We'll meet again.‖
+0463	¶Wh-wow. You raise／them on your own?‖Keep it up. Good／things will come.‖We'll meet again.‖
+0464	Hey, {n0}…‖Toilet training,／nest-building…‖The cage needs a／"toilet" for one,‖and a "nest box"／for the other.‖Otherwise, it／won't work.‖…Be careful.‖We'll meet again.‖

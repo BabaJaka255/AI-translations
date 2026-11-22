@@ -1,0 +1,77 @@
+{
+ "block": "racetitles",
+ "entries": [
+  {
+   "id": "racetitles_0000",
+   "offset": "0x250DD",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　ラブリーコンテスト",
+   "en": "  Lovely Contest",
+   "notes": "Help screen title before each event; centered in 18 columns. Matches the entry-screen banner."
+  },
+  {
+   "id": "racetitles_0001",
+   "offset": "0x250EF",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　　プリティーカップ",
+   "en": "    Pretty Cup",
+   "notes": "Help screen title before each event; centered in 18 columns. Matches the entry-screen banner."
+  },
+  {
+   "id": "racetitles_0002",
+   "offset": "0x25101",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　　　100M走",
+   "en": "    100m Dash",
+   "notes": "Help screen title before each event; centered in 18 columns. Matches the entry-screen banner."
+  },
+  {
+   "id": "racetitles_0003",
+   "offset": "0x25113",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　　　かえるとび",
+   "en": "     Leapfrog",
+   "notes": "Help screen title before each event; centered in 18 columns. Matches the entry-screen banner."
+  },
+  {
+   "id": "racetitles_0004",
+   "offset": "0x25125",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　　ひろいぐいレース",
+   "en": "    Snack Race",
+   "notes": "Help screen title before each event; centered in 18 columns. Matches the entry-screen banner."
+  },
+  {
+   "id": "racetitles_0005",
+   "offset": "0x25137",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　　　　うんてい",
+   "en": "   Monkey Bars",
+   "notes": "Help screen title before each event; centered in 18 columns. Matches the entry-screen banner."
+  },
+  {
+   "id": "racetitles_0006",
+   "offset": "0x25149",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　　　たねキャッチ",
+   "en": "    Seed Catch",
+   "notes": "Help screen title before each event; centered in 18 columns. Matches the entry-screen banner."
+  },
+  {
+   "id": "racetitles_0007",
+   "offset": "0x2515B",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　まわしぐるまレース",
+   "en": "    Wheel Race",
+   "notes": "Help screen title before each event; centered in 18 columns. Matches the entry-screen banner."
+  }
+ ]
+}

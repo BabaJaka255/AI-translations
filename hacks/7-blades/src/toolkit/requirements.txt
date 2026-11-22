@@ -1,0 +1,5 @@
+pillow>=10
+# optional
+capstone>=5   # rhtk disasm
+ndspy         # Nintendo DS filesystems, NARC, BMG, fonts
+UnityPy       # Unity games: text assets, fonts, textures

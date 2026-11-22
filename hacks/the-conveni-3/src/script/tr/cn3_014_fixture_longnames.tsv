@@ -1,0 +1,113 @@
+# 2026-11-03: long fixture names (32-byte field shown as the Fixture details title; the dumper missed them). Entries 1083+ were added to cn3.json by hand.
+1083	Fire Extinguisher
+1084	Parking Space
+1085	Parking Garage (S)
+1086	Parking Garage (L)
+1087	Shelf (S)
+1088	Shelf (M)
+1089	Shelf (L)
+1090	Bargain Bin (S)
+1091	Bargain Bin (M)
+1092	Fridge Bin (M)
+1093	Freezer Bin (M)
+1094	Bargain Bin (L)
+1095	Fridge Bin (L)
+1096	Bargain Bin (XL)
+1097	Fridge Bin (XL)
+1098	Fridge Shelf (S)
+1099	Fridge Shelf (M)
+1100	Fridge Shelf (L)
+1101	Fridge Bin (S)
+1102	Freezer (S)
+1103	Freezer (M)
+1104	Freezer Bin (S)
+1105	Fast Food Case
+1106	Hot Drink Warmer
+1107	Oden Pot
+1108	Steamed Bun Case
+1109	Event Goods Shelf
+1110	Event Goods Bin
+1111	Cigarette Machine
+1112	Cigarette Machine
+1113	Drink Machine, Cold
+1114	Drink Machine, Cold
+1115	Hot & Cold Vending
+1116	Hot & Cold Vending
+1117	Copier
+1118	Color Copier
+1119	ATM
+1120	Ticket Booking Kiosk
+1121	Fax Machine
+1122	Takoyaki Stall
+1123	Yakitori Stall
+1124	Yakisoba Stall
+1125	Taiyaki Stall
+1126	Okonomiyaki Stall
+1127	Shaved Ice Stall
+1128	Goldfish Scooping
+1129	Crepe Stand
+1130	Donut Stand
+1131	Capsule Toy Machine
+1132	Digi-Game Machine
+1133	Stone Lantern
+1134	Shishi-odoshi
+1135	Stone Water Basin
+1136	Garden Stone
+1137	Pond
+1138	Lucky Cat
+1139	Daruma
+1140	Kokeshi Doll
+1141	Snowman
+1142	Slide
+1143	Seesaw
+1144	Swings
+1145	Chin-up Bar
+1146	Jungle Gym
+1147	Bench
+1148	Fountain
+1149	Clock
+1150	Sculpture
+1151	Trash Can
+1152	Lady Palm
+1153	Aloe
+1154	Cactus
+1155	Banana Tree
+1156	Satsuki Azalea
+1157	Satsuki Azalea
+1158	Tanuki Statue
+1159	LAWSON ATM
+1160	Loppi Kiosk
+1161	Basic Wall
+1162	Basic Wall
+1163	Basic Wall
+1164	Basic Door
+1165	Basic Floor
+1166	Basic Floor
+1167	Standard Wall
+1168	Standard Wall
+1169	Standard Wall
+1170	Standard Door
+1171	Standard Floor
+1172	Standard Floor
+1173	Deluxe Wall
+1174	Deluxe Wall
+1175	Deluxe Wall
+1176	LAWSON Wall
+1177	LAWSON Wall
+1178	LAWSON Wall
+1179	Pond
+# shorter fixture descriptions so they fit two lines of the details panel
+682	Best rest, but costly upkeep
+692	2-clerk register that also takes photos
+708	Smaller than a shelf, but stands out
+715	Holds three times a small fridge shelf
+717	Smaller than a fridge shelf, but stands out
+722	Smaller than a freezer, but stands out
+732	2-clerk register for parcels and photos
+738	Keeps steamed buns hot for sale
+756	Books movie and concert tickets
+768	A stall cooking okonomiyaki fresh
+821	A LAWSON register for two clerks
+822	2-clerk LAWSON register for parcels
+823	2-clerk LAWSON register for photos
+826	LAWSON register for parcels and photos

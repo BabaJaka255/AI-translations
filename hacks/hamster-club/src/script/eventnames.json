@@ -1,0 +1,77 @@
+{
+ "block": "eventnames",
+ "entries": [
+  {
+   "id": "eventnames_0000",
+   "offset": "0x2E85",
+   "length": 16,
+   "pointers": [],
+   "jp": "ラブリーコンテスト",
+   "en": "Lovely",
+   "notes": "Event names: 9 columns max (the contest list window). Short forms of the full names on the banners and help titles: Lovely (Contest), Pretty (Cup), Snack (Race), (Monkey) Bars, Seed(s) (Catch), Wheel (Race)."
+  },
+  {
+   "id": "eventnames_0001",
+   "offset": "0x2E95",
+   "length": 16,
+   "pointers": [],
+   "jp": "プリティーカップ",
+   "en": "Pretty",
+   "notes": ""
+  },
+  {
+   "id": "eventnames_0002",
+   "offset": "0x2EA5",
+   "length": 16,
+   "pointers": [],
+   "jp": "100Mそう",
+   "en": "100m Dash",
+   "notes": ""
+  },
+  {
+   "id": "eventnames_0003",
+   "offset": "0x2EB5",
+   "length": 16,
+   "pointers": [],
+   "jp": "かえるとび",
+   "en": "Leapfrog",
+   "notes": ""
+  },
+  {
+   "id": "eventnames_0004",
+   "offset": "0x2EC5",
+   "length": 16,
+   "pointers": [],
+   "jp": "ひろいぐいレース",
+   "en": "Snack",
+   "notes": "ひろいぐいレース: a race picking up and eating food along the way."
+  },
+  {
+   "id": "eventnames_0005",
+   "offset": "0x2ED5",
+   "length": 16,
+   "pointers": [],
+   "jp": "うんてい",
+   "en": "Bars",
+   "notes": "うんてい: monkey bars."
+  },
+  {
+   "id": "eventnames_0006",
+   "offset": "0x2EE5",
+   "length": 16,
+   "pointers": [],
+   "jp": "タネキャッチ",
+   "en": "Seeds",
+   "notes": ""
+  },
+  {
+   "id": "eventnames_0007",
+   "offset": "0x2EF5",
+   "length": 16,
+   "pointers": [],
+   "jp": "まわしぐるまレース",
+   "en": "Wheel",
+   "notes": ""
+  }
+ ]
+}

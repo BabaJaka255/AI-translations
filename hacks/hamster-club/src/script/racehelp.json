@@ -1,0 +1,311 @@
+{
+ "block": "racehelp",
+ "entries": [
+  {
+   "id": "racehelp_0000",
+   "offset": "0x25276",
+   "length": 18,
+   "pointers": [],
+   "jp": "じゅうじキー：つかいません",
+   "en": " D-pad: Not used",
+   "notes": "Controls help for the minigames: 18-byte lines, colon at column 6 like the original."
+  },
+  {
+   "id": "racehelp_0001",
+   "offset": "0x25288",
+   "length": 18,
+   "pointers": [],
+   "jp": "　Aボタン　：つかいません",
+   "en": "     A: Not used",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0002",
+   "offset": "0x2529A",
+   "length": 18,
+   "pointers": [],
+   "jp": "　Bボタン　：つかいません",
+   "en": "     B: Not used",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0003",
+   "offset": "0x252AC",
+   "length": 18,
+   "pointers": [],
+   "jp": "　Aボタン　：メッセージおくり",
+   "en": "     A: Message",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0004",
+   "offset": "0x252BE",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　右キー　：スピードアップ",
+   "en": " Right: Speed up",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0005",
+   "offset": "0x252D0",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　左キー　：スピードダウン",
+   "en": "  Left: Slow down",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0006",
+   "offset": "0x252E2",
+   "length": 18,
+   "pointers": [],
+   "jp": "　Aボタン　：ダッシュ",
+   "en": "     A: Dash",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0007",
+   "offset": "0x252F4",
+   "length": 18,
+   "pointers": [],
+   "jp": "　Aボタン　：ゲージストップ",
+   "en": "     A: Stop gauge",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0008",
+   "offset": "0x25306",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　上キー　：スピードアップ",
+   "en": "    Up: Speed up",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0009",
+   "offset": "0x25318",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　下キー　：スピードダウン",
+   "en": "  Down: Slow down",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0010",
+   "offset": "0x2532A",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　右キー　：右せんかい",
+   "en": " Right: Turn right",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0011",
+   "offset": "0x2533C",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　左キー　：左せんかい",
+   "en": "  Left: Turn left",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0012",
+   "offset": "0x2534E",
+   "length": 18,
+   "pointers": [],
+   "jp": "　Aボタン　：右て",
+   "en": "     A: Right paw",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0013",
+   "offset": "0x25360",
+   "length": 18,
+   "pointers": [],
+   "jp": "　Bボタン　：左て",
+   "en": "     B: Left paw",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0014",
+   "offset": "0x25372",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　右キー　：右いどう",
+   "en": " Right: Move right",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0015",
+   "offset": "0x25384",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　左キー　：左いどう",
+   "en": "  Left: Move left",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0016",
+   "offset": "0x25396",
+   "length": 18,
+   "pointers": [],
+   "jp": "　Aボタン　：たねキャッチ",
+   "en": "     A: Catch seed",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0017",
+   "offset": "0x253A8",
+   "length": 18,
+   "pointers": [],
+   "jp": "ひだりキー　：ひだりいどう",
+   "en": "  Left: Move left",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0018",
+   "offset": "0x253BA",
+   "length": 18,
+   "pointers": [],
+   "jp": "ABボタン　：走る",
+   "en": "   A+B: Run",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0019",
+   "offset": "0x253CC",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　HAM’Sカップのときは、",
+   "en": "In the HAM'S Cup,",
+   "notes": "19-27: one paragraph about the HAM'S Cup race."
+  },
+  {
+   "id": "racehelp_0020",
+   "offset": "0x253DE",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　　　ハムスターが、",
+   "en": "your hamster runs",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0021",
+   "offset": "0x253F0",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　　じぶんでうごきます",
+   "en": "on its own. You",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0022",
+   "offset": "0x25402",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　プレイヤーはそうさできません",
+   "en": "can't control it.",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0023",
+   "offset": "0x25414",
+   "length": 18,
+   "pointers": [],
+   "jp": "　はしるスピードは左右のキーで",
+   "en": "Left/Right set its",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0024",
+   "offset": "0x25426",
+   "length": 18,
+   "pointers": [],
+   "jp": "6だんかいに、ちょうせつできます",
+   "en": "speed in 6 steps.",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0025",
+   "offset": "0x25438",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　ゲージのうごきにあわせて",
+   "en": "Press A+B in time",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0026",
+   "offset": "0x2544A",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　ABボタンをおすと、",
+   "en": "with the gauge to",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0027",
+   "offset": "0x2545C",
+   "length": 18,
+   "pointers": [],
+   "jp": "　　　　スピードアップします",
+   "en": "speed up.",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0028",
+   "offset": "0x2546E",
+   "length": 18,
+   "pointers": [],
+   "jp": "",
+   "en": "",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0029",
+   "offset": "0x25480",
+   "length": 18,
+   "pointers": [],
+   "jp": "ランク1は、もくひょう　27こです",
+   "en": "Rank 1: catch 27",
+   "notes": "こ (pieces) read as seeds caught in the seed-catching game."
+  },
+  {
+   "id": "racehelp_0030",
+   "offset": "0x25492",
+   "length": 18,
+   "pointers": [],
+   "jp": "ランク2は、もくひょう　30こです",
+   "en": "Rank 2: catch 30",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0031",
+   "offset": "0x254A4",
+   "length": 18,
+   "pointers": [],
+   "jp": "ランク3は、もくひょう　33こです",
+   "en": "Rank 3: catch 33",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0032",
+   "offset": "0x254B6",
+   "length": 18,
+   "pointers": [],
+   "jp": "ランク4は、もくひょう　35こです",
+   "en": "Rank 4: catch 35",
+   "notes": ""
+  },
+  {
+   "id": "racehelp_0033",
+   "offset": "0x254C8",
+   "length": 18,
+   "pointers": [],
+   "jp": "ランク5は、もくひょう　36こです",
+   "en": "Rank 5: catch 36",
+   "notes": ""
+  }
+ ]
+}

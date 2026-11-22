@@ -1,0 +1,225 @@
+{
+ "block": "inline02",
+ "entries": [
+  {
+   "id": "inline02_0000",
+   "offset": "0xA524",
+   "length": 18,
+   "pointers": [],
+   "jp": "このワタクシたちをまかすとは、100",
+   "en": "To defeat us, you",
+   "notes": "Rival girl after losing the Special Cup (two lines, 18 columns kept to be safe).",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0001",
+   "offset": "0xA536",
+   "length": 20,
+   "pointers": [],
+   "jp": "ねんにひとりのいつざいですわねっ！！",
+   "en": "are a rare genius!",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0002",
+   "offset": "0xA65D",
+   "length": 12,
+   "pointers": [],
+   "jp": "しかたないですわ・・・",
+   "en": "Very well…",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0003",
+   "offset": "0xA669",
+   "length": 14,
+   "pointers": [],
+   "jp": "これをさしあげますわ・・・",
+   "en": "Do accept this…",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0004",
+   "offset": "0xA7C3",
+   "length": 16,
+   "pointers": [],
+   "jp": "[AF]この、おそろしくシュミのわるい",
+   "en": "[AF]What a tacky",
+   "notes": "The player thinking about the rival's gift cage; [AF] [B0] are its parentheses.",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0005",
+   "offset": "0xA7D3",
+   "length": 19,
+   "pointers": [],
+   "jp": "　ケージは、ちょっとつかえないかも[B0]",
+   "en": "cage. No thanks.[B0]",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0006",
+   "offset": "0xA8CC",
+   "length": 6,
+   "pointers": [],
+   "jp": "おカネ・・・",
+   "en": "Money…",
+   "notes": "6-12: game over lines.",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0007",
+   "offset": "0xA8D2",
+   "length": 11,
+   "pointers": [],
+   "jp": "なくなっちゃった・・・",
+   "en": "It's all gone…",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0008",
+   "offset": "0xAA06",
+   "length": 5,
+   "pointers": [],
+   "jp": "ハムスター",
+   "en": "My hamsters…",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0009",
+   "offset": "0xAA0B",
+   "length": 12,
+   "pointers": [],
+   "jp": "いなくなっちゃった・・・",
+   "en": "They're gone…",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0010",
+   "offset": "0xAB02",
+   "length": 17,
+   "pointers": [],
+   "jp": "もお、なんにものこってないや・・・",
+   "en": "Nothing's left…",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0011",
+   "offset": "0xAB13",
+   "length": 18,
+   "pointers": [],
+   "jp": "これから、いったいどうしたら・・・",
+   "en": "What do I do now?",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0012",
+   "offset": "0xAC06",
+   "length": 6,
+   "pointers": [],
+   "jp": "・・・・・・",
+   "en": "……",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0013",
+   "offset": "0xAD57",
+   "length": 20,
+   "pointers": [],
+   "jp": "べつめい「ジャイアント・ハムスター」",
+   "en": "Also known as the",
+   "notes": "13-21: joke breed descriptions, 2-3 lines each.",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0014",
+   "offset": "0xAD6B",
+   "length": 10,
+   "pointers": [],
+   "jp": "とよばれています。",
+   "en": "\"Giant Hamster.\"",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0015",
+   "offset": "0xAE47",
+   "length": 13,
+   "pointers": [],
+   "jp": "とにかくでかいですが",
+   "en": "It's huge, but",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0016",
+   "offset": "0xAE55",
+   "length": 18,
+   "pointers": [],
+   "jp": "ビルよりも、おおきくはありません。",
+   "en": "not skyscraper-big",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0017",
+   "offset": "0xAF47",
+   "length": 14,
+   "pointers": [],
+   "jp": "とにかく、よくかみますので",
+   "en": "It bites a lot, so",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0018",
+   "offset": "0xAF55",
+   "length": 20,
+   "pointers": [],
+   "jp": "サイボーグしゅじゅつをうけてから、",
+   "en": "get cyborg surgery",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0019",
+   "offset": "0xAF69",
+   "length": 10,
+   "pointers": [],
+   "jp": "さわってください。",
+   "en": "before petting it.",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0020",
+   "offset": "0xB0C6",
+   "length": 15,
+   "pointers": [],
+   "jp": "とにかくちからもちですが、",
+   "en": "Super strong, but",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline02_0021",
+   "offset": "0xB0D5",
+   "length": 9,
+   "pointers": [],
+   "jp": "ソリはひけません。",
+   "en": "can't pull a sled.",
+   "notes": "",
+   "max_chars": 18
+  }
+ ]
+}

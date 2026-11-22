@@ -1,0 +1,157 @@
+470	The /I100 in /I101/nis out of space./nTo save the current game you need/n/9/wKB more free space.
+471	There's no /I100 in /I101,/nso saving was canceled.
+472	The /I100 in /I101/nwas removed while saving./nPlease check /I101.
+473	Save failed.
+474	Save complete.
+475	The /I100 in /I101/nisn't formatted./nSaving was canceled.
+476	Owner data saved.
+477	The /I100 in /I101 was/nremoved while saving owner data./nPlease check /I101.
+478	There's no /I100 in /I101./nOwner data wasn't saved.
+479	The /I100 was removed while/nloading owner data./nPlease check /I101.
+480	Couldn't load owner data.
+481	There's no /I100 in /I101./nPlease check /I101.
+482	The /I100 was removed while/nloading game data./nPlease check /I101.
+483	Couldn't load game data.
+484	Game data loaded./nPicking up where you left off.
+485	Layout loaded.
+486	Campaign
+487	Challenge
+488	Tutorial
+490	～%s %s～
+500	Options
+501	Scenario Status
+502	Scenario Score
+503	Finance Graph
+504	Population Graph
+505	Survey
+506	Reg.
+507	～%s: Open～
+508	No messages
+509	Fast Mode
+510	Fast Mode: press any button to return
+511	Bento, deli, soft drinks, even toys: we'll develop any product to suit your chain!!
+512	Masterpiece Product Lab
+513	Yes
+514	Controls
+515	Yes
+516	No
+517	Normal
+518	Slow
+519	Game Speed
+520	On
+521	Off
+522	Stereo
+523	Mono
+524	Sound
+525	Events
+526	/0 mo.
+527	/0％～/1％
+528	/0～/1 mo.
+529	Manners
+530	Stress
+531	/0／/1 min
+532	Bike
+533	Owner Name
+534	Chain Name
+535	Clear
+536	Completion
+537	Times Cleared
+538	Top 10 Purchases
+539	Top 10 Wishes
+540	Buy
+541	%s/w/w/wLeft: store closed
+543	Bank Trust
+544	/0／/1 items
+547	/s0 Pay
+548	/0％
+549	Raise Rate
+550	Fire
+551	Hire
+552	/0／/1 staff
+553	Tobacco License
+554	Quit
+555	Buy
+556	Level /0
+557	/wStore #?
+558	Undo
+559	Menu
+560	Change Page
+561	Change Store
+562	Reset Survey Results
+563	View Survey
+564	Help
+565	Next
+566	Back
+567	No
+568	Yes
+569	Quit the game?/n(Progress won't be saved.)
+570	Quit?
+571	You've developed every/nproduct you can.
+572	Something is in development./nYou can't start another/nuntil it's done./nDue: %s
+573	No products developed yet.
+574	You can bring in up to/n3 places at a time.
+575	Can't buy out.
+576	Can't sell the main store.
+577	You can have up to 12/nstores in town, counting/nyours and your rivals'.
+578	Rival
+579	/w/wLoad
+580	Back
+581	Swap Products
+582	Kick Out
+583	Give Break
+584	View Resume
+585	View Details
+586	Save
+587	System
+588	Kick them out?
+589	Give them a break?
+590	%s has no manager.
+591	Reset?
+592	Buy it out?
+593	Sell it?
+594	Repay it?
+595	Quick Hours Setup
+596	No applicants.
+597	Choose a manager.
+598	Clear the interior?
+599	Can't get into the store.
+600	Some products have no/nsales license.
+601	Some fixtures can't/nbe reached.
+602	There are no fixtures/nthat can hold products.
+603	There's no break room.
+604	There's no register.
+605	Is this OK?
+606	Some products had no license,/nso those fixtures were removed.
+607	Stop changing?
+608	Not enough money.
+609	Scenario Score "%s"
+610	Goal: %s
+611	/0/w％
+612	Unranked
+613	Ace Store
+614	Hamket
+615	LAWSON
+616	Plus Mart
+617	Yorozuya Honpo
+618	%s/w/w/wCaught a %s
+619	would-be arsonist
+620	would-be robber
+621	shoplifter
+622	loiterer
+623	%s/w/w/wLeft: store closed
+624	You're out of money.
+625	%s is asking for/Na raise./N  Wants: %s
+626	Here's how last year went.
+627	All stores sold over %s.
+628	Last month, all stores:
+629	Last month's sales topped %s
+630	Last month at %s:
+631	%s/w/w/wFeatured in %s
+632	%s/w/w/wWon the Conveni Contest
+633	Cheap Stores
+634	Friendly Stores
+635	Clean Stores
+636	Popular Stores
+637	Conveni Contest
+638	%s Got a ★★★★★ rating
+639	Security camera

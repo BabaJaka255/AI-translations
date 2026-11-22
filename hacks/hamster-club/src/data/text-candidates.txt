@@ -1,0 +1,427 @@
+002233    12 b00  ＊＊じぶんかって＊＊
+0022C3    12 b00  ＊＊しんぱいしょう＊＊
+0029F9    15 b00  ＊＊＊＊ちょうだっしゅ＊＊＊
+002B37    19 b00  ＊＊＊＊＊＊ハムスターボール＊＊＊＊
+002C4B    13 b00  ＊＊そうじしました。＊＊
+002C64    12 b00  らいになりました。まだ
+002C9C    11 b00  ＊びょうき＊＊＊さい
+002D99    18 b00  ＊＊＊＊まだまだ＊＊いっぱい＊
+002DC7    64 b00  でわかっていません。＊＊＊まだまだです。＊＊＊＊＊＊イマイチおぼえてないです。＊すこしはマシになってきてます。＊まあ
+002E13   100 b00  ＊＊じゅんちょうです。＊＊＊＊＊いいじょうたいです。＊＊＊＊かなりおぼえているようです。とてもよくしつけられています。＊バッチリしつけられています。＊かんぺきにマスターしています。＊＊
+004BF9    20 b01  トイレ＊＊＊＊＊アイテム＊＊＊＊かじる
+004C23    18 b01  でダメ＊まだまだ＊＊イマイチ
+004C47    19 b01  ＊＊じゅんちょう＊いいじょうたいか
+0050DD    19 b01  くがありません＊＊がなくなりました
+005288    18 b01  [F7]そびょうきになってしまいました。
+0053E1    12 b01  なくなってしまいました。
+0056C1    13 b01  しんでしまいました。じ
+005987    14 b01  ＆こどもができました。
+005AD6    13 b01  ＊みずいれ＊＊＊トイレ＊
+005AEE    14 b01  ＊すべりだい＊みずいれ
+006819    81 b01  スぺシャルカップ　うんどうしょうぶスぺシャルカップ　あいきょうしょうぶHAM’Sカップ　　ランク＊＊＊ブリーダーズカップ　ランクしゅつじ
+006EAA    14 b01  わざをえらんでください
+007820    19 b01  リーダーランクランクアップ！しょう
+00786B    45 b01  マメ　　X　＊＊ぷりぷりマメ　　X　ぴかぴかマメ　　X　カップアイス　　X　＊ニ
+0092AC    31 b02  せっていしましたこんしゅうはすでにあそんでいます。＊　あそ
+0092FF    16 b02  ＊＊＊＊＊ちょうきょうメニュー　
+009344    12 b02  メニュー＊＊　　トイレ＊
+009381    18 b02  つしますか？ケージのそと＊きげん
+0093AB    11 b02  ：＊＊＊　ジャンプ
+0093DA    49 b02  ルデン＊＊＊ジャンガリアン＊ロボロフスキー＊＊キャンべル＊＊＊＊チャイニーズ＊＊＊おも
+009416    78 b02  かいのレースHAM’Sカップ＊＊＊＊ブリーダーズカップスぺシャルカップあいきょうしょうぶうんどうしょうぶこんしゅうはカップはありません
+00A669    11 b02  これをさしあげますわ
+00A7CF    21 b02  のわるい　ケージは、ちょっとつかえないか
+00AA06    12 b02  ハムスターいなくなっちゃ
+00AB13    17 b02  これから、いったいどうしたら・・
+00AD61    20 b02  アント・ハムスター」とよばれています。
+00AE49    15 b02  かくでかいですが、ビル
+00AF67    11 b02  ら、さわってください
+00B0CA    11 b02  ちからもちですが、
+00B348    11 b02  ハムスター[AF]　[B0]の、な
+00D4CB    16 b03  　　　　　　ケージのそと＊＊＊
+00D501    14 b03  ちいさいケージ＊＊＊＊＊＊
+00D52E    16 b03  　　いノーマルケージ1＊＊＊＊
+00D55E    16 b03  　　うノーマルケージ2＊＊＊＊
+00D58E    16 b03  　　えノーマルケージ3＊＊＊＊
+00D5BE    16 b03  　　おラージケージ＊＊＊＊＊
+00D61D    17 b03  　　　きアイテムケージ＊＊＊＊＊
+00D64B    20 b03  　　　　　くハムスターケージ＊＊＊＊＊
+00D67E    14 b03  　　けプラケージ＊＊＊＊
+00D6DE    18 b03  　　さはんしょくケージ＊＊＊＊＊＊
+00D70E    17 b03  　　しうんどうケージ＊＊＊＊＊
+00D73F    16 b03  　すあいきょうケージ＊＊＊＊＊
+00D76F    20 b03  　せピラミッドケージ＊＊＊＊＊あえ
+00D7A1    15 b03  きんみらいケージ＊＊＊＊＊＊
+00D94D    13 b03  　　　おじゃんが＊＊＊
+00D9CD    13 b03  　　　おじゃんが＊＊＊
+00DA4D    13 b03  　　　おじゃんが＊＊＊
+00DACD    13 b03  　　　おじゃんが＊＊＊
+010A0F    77 b04  ！！やハムスターたちの　　　　　　　　　　あいきょうたいしょうのじかんですゆきょうの、ハムスターたちは、どんな　「わざ」をみせてくれるのでしょう
+010A70    13 b04  おめでとうございます
+010AA0    17 b04  　ざんねんでした、もうひといき
+010ACB    20 b04  　また、しゅつじょうしてくださいね。
+010AF5    34 b04  　また、しゅつじょうしてくださいね。てそれでは、おくでおまち
+010B56    83 b04  しゅつじょうハムスターは、　　　　　これでぜんぶです。とさぁ、トップにかがやいたのは・・・・そおめでとうございます！！よさいごに、もういちど　
+010BC3    11 b04  それでは、みなさん、
+0112F7    29 b04  よ＊ぽっぽ＊ちゅんたろう＊まる＊ぶーちゃん＊ぷっち
+011325    11 b04  ッチー＊でんすけ＊ま
+01133A    11 b04  ン＊ぱんだ＊ちゃっ
+011352    13 b04  みちゃん＊ぎんちゃん＊モ
+011390    17 b04  ン＊グリ＊ジョセフィーヌ＊ちゥ
+016972    11 b05  して　みたて　りとてく
+01CA0A    29 b07  よ＊ぽっぽ＊ちゅんたろう＊まる＊ぶーちゃん＊ぷっち
+01CA38    11 b07  ッチー＊でんすけ＊ま
+01CA4D    11 b07  ン＊ぱんだ＊ちゃっ
+01CA65    13 b07  みちゃん＊ぎんちゃん＊モ
+01CAA3    17 b07  ン＊グリ＊ジョセフィーヌ＊あよ
+01CB8A    62 b07  <clr>トてハムスターかえるとびコンテストですらきょうのハムスターたちは、はたして　しんきろくがだせますでしょうか・・・
+020968    11 b08  メ　コ　[CE]い　…　こう
+0211A7    29 b08  よ＊ぽっぽ＊ちゅんたろう＊まる＊ぶーちゃん＊ぷっち
+0211D5    11 b08  ッチー＊でんすけ＊ま
+0211EA    11 b08  ン＊ぱんだ＊ちゃっ
+021202    13 b08  みちゃん＊ぎんちゃん＊モ
+021240    17 b08  ン＊グリ＊ジョセフィーヌ＊ちゥ
+021E0C    15 b08  ティーカップがはじまるよ
+021E2A    19 b08  ティーな　　　ハムスターがよせんをつ
+021E46    13 b08  ぁ、それでは、はじめま
+021E82    12 b08  ごくかわいかったです
+021EA2    12 b08  　　とっても、いいです
+021FDA    11 b08  ちゃんに　もういちど
+021FF0    11 b08  ちそれでは、みなさん
+022BB5    21 b08  ！　0　1　2　3　4　5　6　7　8　9
+02528C    29 b09  タン　：つかいません　　　　　Bボタン　：つかいません　
+0252CB    12 b09  アップ　　　左キー　：
+025303    28 b09  ップ　　上キー　：スピードアップ　　　下キー　：
+0253C9    77 b09  　　　　　　HAM’Sカップのときは、　　　　　　　ハムスターが、　　　　　　　　　じぶんでうごきます　　プレイヤーはそうさできません　は
+025426    34 b09  6だんかいに、ちょうせつできます　　　ゲージのうごきにあわ
+0292FD   116 b0A  　[AA]　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]き<br>う[BB]　マ　[AA
+029390   116 b0A  [FF]　<clr>　[BB]　マ　[AA]　マ　＆BJB[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め　J　[FF]　<clr>　[BB]　マ　[AA]　マ　め
+0299FF    50 b0A  　・　ケ　[AA]　ホ　[AA]　[FD]　[FE]　[FF]　い　B　け　B　め　チ　＆　[D5]　た　い　　　J　め　J　め　マ　く
+029DCF   241 b0A  I　[FF]　[FF]　[FF]　[FF]　[FF][FF]　[FF]　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]BA<wait>そア[C7]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+02A55F    81 b0A  A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]ク[FF]ッ[FF]ツ[FF]　[FF]　[FF]　[FF]　[FF]　[FF][C0][FF][B0][FF]み[FF]　[FF]　[FF]　[FF]　[FF]　[FF]A[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]<wait>[FF]　父　[C0]　父　<wait>　[EA]　[FD]　[
+02A661    21 b0A  [FF]　[FF]　[FF]　[FE]　[FC]　右　[D0]　D　[FF]　[FF]　B
+02A74F    17 b0A  ま　[FF]　[FD]　[F6]　[F9]　[F6]　右　[D4]　右
+02A890    32 b0A  　0　[BF]　ル　[AF]　ユ　ぁ　ム　ろ　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+02A9A0    32 b0A  　[FF]　[BF]　A　[AF]　ル　ぁ　ぬ　そ　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+02AAA0    32 b0A  　ぬ　さ　ぬ　さ　お　こ　お　　　[FF]　[FF]　[FF]　[FF]　[FF]　[BF]　ル　[BF]
+02ABAF    15 b0A  [C6]　ル　ぁ　ぬ　さ　な　さ　お
+02B74C    18 b0A  [FF]　[FE]　[FE]　[F8]　<wait>　<wait>　父　[C0]　B　
+02CFCD    12 b0B  きヲ<clr>そのケージにはハ
+02D0D7    12 b0B  きヲ<clr>そのケージにはハ
+02D1E0    12 b0B  きヲ<clr>そのケージにはハ
+02D2E5    12 b0B  きヲ<clr>そのケージにはハ
+02D3D9    12 b0B  きヲ<clr>そのケージにはハ
+02D4D3    12 b0B  きヲ<clr>そのケージにはハ
+02D5D2    12 b0B  きヲ<clr>そのケージにはハ
+02D6D2    12 b0B  きヲ<clr>そのケージにはハ
+02D7EC    12 b0B  きヲ<clr>そのケージにはハ
+02D8F0    12 b0B  きヲ<clr>そのケージにはハ
+02D9F3    12 b0B  きヲ<clr>そのケージにはハ
+02DAF5    12 b0B  きヲ<clr>そのケージにはハ
+02DC0F    12 b0B  きヲ<clr>そのケージにはハ
+02DD1E    12 b0B  きヲ<clr>そのケージにはハ
+0314C7    11 b0C  ブしますか？　　はい
+031942   108 b0C  りますすすめますはんしょくケージがありません。まずは、はんしょくケージをてにいれましょう。はんしょくケージのなかに、あいしょうチェックをしたいハムスター1ぴき、いれておいてね。ハムスターをおくります。つう
+032D9A    11 b0C  そうちゅう。プリント
+036A6C    87 b0D  　あ　く　た　く　ち　た　み　た　む　く　　い　　　う　く　つ　く　て　た　め　た　も　ね　ぇ　ね　ぉ　く　　え　　　お　く　と　く　な　た　や　た　ゆ　ね　ゃ　ね　ゅ　し　
+03C5A9    21 b0F  ＊トイレ＊＊＊＊＊アイテム＊＊＊＊かじる
+03CA1D   131 b0F  そこんしゅうのスケジュールしゅうかんごのスケジュールHAM’Sカップ　　ランク＊＊＊ブリーダーズカップ　ランクこんしゅうはカップはありませんこのしゅうはカップはありませんスぺシャルカップあいきょうしょうぶうんどうしょうぶ　Z[BD]い　た
+03D1F3    11 b0F  めにあげます。ふつう
+03DBC1   301 b0F  でてあげました。＊＊ブラッシングしてあげました。あげるものがありません。おとなしくのってくれました。まだなれてないようです。たいりょく　アップ！＊＊＊すばやさ　アップ！＊＊＊ジャンプ　アップ！＊＊＊けヅヤ　アップ！＊＊＊かわいさ　アップ！＊＊＊ようし　アップ！＊＊＊よろこんでいます。すこし、おりこうさんになった＊きがします。たいちょう　かいふく！たいりょく　さいだいですすばやさ　さいだいですジャン
+03DD08    34 b0F  つやマメ＊＊ぷりぷりマメぴかぴかマメカップアイス＊ニボシ
+03E2EE    33 b0F  みずいれ＊＊トイレ＊＊＊＊すばこ2＊＊すべりだいみずいれ
+03E6DE    45 b0F  みです。　そのまま　とりけすしゅつじょうする　　しないしゅつじょうできません　　あ
+03E9B9    56 b0F  あげられませんハムスター／さいだい：　アイテム／さいだい：そうじしていませんそうじしています＊たくさん
+03ECFF    11 b0F  アイテムごちそうすは
+03ED76    29 b0F  つやつやマメぷりぷりマメぴかぴかマメカップアイス
+0490F0    33 b12  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　B　[FA]いDい[BE]キB　[FF]　[FF]　[FF]　[FF]　[BE]
+049490    17 b12  [A7]　マ　[AB]　ホ　[AB]　マ　れ　な　[FE]
+049690    17 b12  L　ゆ　こ　な　L　ゅ　れ　な　▼
+049762    15 b12  め　B　ハ　[A8]　ミ　[AA]　マ　[FE]
+049785    28 b12  　ち　L　ゆ　こ　マ　[AA]　マ　[AA]　マ　[AA]　マ　[AB]　ホ　▼
+049860    19 b12  [AA]　マ　[EA]　[F5]　ー　[DD]　[FE]　<clr>　[AA]　マ
+049CF0    33 b12  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　B　[FA]いDい[BE]キB　[FF]　[FF]　[FF]　[FF]　[BE]
+04A810    17 b12  ェ　H　ォ　ヌ　…　ッ　は　え　[B0]
+04AFFF   513 b12  　[FF]　[FF]　[D5]　[DA]　こ　[DA]　ま　[DF]　[FF]　[FF]　[FF]　[FF]　[FC]　E　[F7]　<clr>　[FF]　[FF]　[D5]　[DA]　こ　[DA]　ま　[DF]　[FF]　[FF]　[FF]　[FF]　[FC]　E　[F7]　<clr>　[FF]　[FF]　[D5]　[DA]　こ　[DA]　ま　[DF]　[FF]　[FF]　[FF]　[FF]　[
+04BBFF   513 b12  　[FF]　[FF]　[FF]　[FF]　[FC]　E　[F7]　<clr>　[FF]　[FF]　[D5]　[DA]　こ　[DA]　ま　[DF]　[FF]　[FF]　[FF]　[FF]　[FC]　E　[F7]　<clr>　[FF]　[FF]　[D5]　[DA]　こ　[DA]　ま　[DF]　[FF]　[FF]　[FF]　[FF]　[FC]　E　[F7]　<clr>　[FF]　[FF]　[D5]　[D
+04E000   513 b13  　[FB]　[FB]　B　[FB]　[C3]　[BB]　[BB]　▼　A　A　[BF]　[BF]　<br>　<br>　[DF]　[DF]　[FB]　[FB]　B　[FB]　[C3]　[BB]　[BB]　▼　A　A　[BF]　[BF]　<br>　<br>　[DF]　[DF]　[FB]　[FB]　B　[FB]　[C3]　[BB]　[BB]　▼　A　A　[BF]　[BF]　<br>　<br>　[DF]　
+04E8FF    56 b13  　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　母ほ[DC]も[BF]ケ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　母
+04EAFF    72 b13  　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　母ほ[DC]も[BF]ケ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　母ほ[DC]も[BF]ケ[FF]　[FF]　[FF]　[FF]　[FF]　母
+04EB88    31 b13  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　Q1っ[C8][FB]え[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　母
+04EC00   513 b13  　A　A　[BF]　[BF]　<br>　<br>　[DF]　[DF]　[FB]　[FB]　B　[FB]　[C3]　[BB]　[BB]　▼　A　A　[BF]　[BF]　<br>　<br>　[DF]　[DF]　[FB]　[FB]　B　[FB]　[C3]　[BB]　[BB]　▼　A　A　[BF]　[BF]　<br>　<br>　[DF]　[DF]　[FB]　[FB]　B　[FB]　[C3]　[BB]　[B
+04EFFF   137 b13  　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FC]
+04F0FF   105 b13  　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FC]　[FF]　[FF]　[FF]　[FC]　[F3]　[CF]　ク　[FF]　[F3]　[CF]　ク　[FF]　[FC]　[F3]　[CF]　オ　[FC]　[F3
+04F1FF    73 b13  　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FC]　[FF]　[FF]　[FF]　[FC]　[F3]　[CF]　ク　[FF]　[F3]　[CF]　ク　[FF]　[FC]　[F3]　[CF]　オ　[FC]　[F3]　[CF]　オ　[F3]　[CC]　ぃ　[C0]　[F3]　[CC]　ぃ　[C0]　
+04F2FF    41 b13  　[F3]　[CF]　ク　[FF]　[FC]　[F3]　[CF]　オ　[FC]　[F3]　[CF]　オ　[F3]　[CC]　ぃ　[C0]　[F3]　[CC]　ぃ　[C0]　
+04FAD7    41 b13  　う　し　ぉ　[CF]　う　し　ぉ　[CF]　オ　[F3]　[CF]　ク　オ　[F3]　[CF]　ク　[FF]　[FC]　[F3]　[CF]　
+04FBB7    73 b13  　う　し　ぉ　[CF]　う　し　ぉ　[CF]　オ　[F3]　[CF]　ク　オ　[F3]　[CF]　ク　[FF]　[FC]　[F3]　[CF]　[FF]　[FC]　[F3]　[CF]　ク　[FF]　[FF]　[FF]　ク　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+04FC97   105 b13  　う　し　ぉ　[CF]　う　し　ぉ　[CF]　オ　[F3]　[CF]　ク　オ　[F3]　[CF]　ク　[FF]　[FC]　[F3]　[CF]　[FF]　[FC]　[F3]　[CF]　ク　[FF]　[FF]　[FF]　ク　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+04FD77   137 b13  　う　し　ぉ　[CF]　う　し　ぉ　[CF]　オ　[F3]　[CF]　ク　オ　[F3]　[CF]　ク　[FF]　[FC]　[F3]　[CF]　[FF]　[FC]　[F3]　[CF]　ク　[FF]　[FF]　[FF]　ク　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+05250F    33 b14  　う　え　え　え　い　ワ　、　B　ぃ　[CE]　[C9]　[C9]　ツ　ツ　〜　7　
+0525CF    34 b14  　[FF]　[FF]　左　左　左　[F3]　[F3]　[F9]B[FF]　[FF]　イ　イ　イ　イ　’　’　[FF]
+05260F    33 b14  　ケ　オ　い　3　P　B　1　し　ふ　い　サ　？　ケ　レ　ふ　い　
+05263F    33 b14  　え　い　ワ　T　T　X　チ　ケ　B　ケ　ケ　ケ　9　え　い　ぇ　
+05266F    22 b14  　ら　み　ね　ク　ネ　ケ　ぃ　そ　父　た　ち
+0526E0    17 b14  T　T　[FC]　<wait>　[CC]　D　ぇ　る　ク
+05270F    23 b14  　え　え　く　ち　め　や　ス　チ　．　、　B　
+05273F    33 b14  　も　へ　あ　あ　あ　そ　た　た　ぇ　る　る　ぅ　め　い　し　た　
+05280F    31 b14  　チ　チ　ス　も　み　ね　き　　　　　　　ア　[C4]　え　ね　父　
+052B89    56 b14  A　ク　ま　き　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FE]　[FE]　[FE]　[FC]　[FC]　[FC]　[F8]　
+053000   513 b14  　[FF]　[DD]　[DD]　[DD]　[DD]　[DD]　[DD]　[BE]　[FF]　ル　ル　ル　[FF]　<br>　父　<clr>　[FF]　[DD]　[DD]　[DD]　[DD]　[DD]　[DD]　[BE]　[FF]　ル　ル　ル　[FF]　<br>　父　<clr>　[FF]　[DD]　[DD]　[DD]　[DD]　[DD]　[DD]　[BE]　[FF]　ル　ル　ル　[FF]　<br>　
+053C00   513 b14  　[FF]　[DD]　[DD]　[DD]　[DD]　[DD]　[DD]　[BE]　[FF]　ル　ル　ル　[FF]　<br>　父　<clr>　[FF]　[DD]　[DD]　[DD]　[DD]　[DD]　[DD]　[BE]　[FF]　ル　ル　ル　[FF]　<br>　父　<clr>　[FF]　[DD]　[DD]　[DD]　[DD]　[DD]　[DD]　[BE]　[FF]　ル　ル　ル　[FF]　<br>　
+06E4CF    33 b1B  B　[FF]　[FF]　[FF]　[FF]　[FF]　[CF]　お　つる[FF]ぬ[FF]ぇ[FE]　[F8]　右　’　ち　む
+06E51D    30 b1B  [DF]　[FF]　み　か　え　B　　　<wait>み[DF]　[FF]　も　ト　ト　ぬ　まえ
+06F180   187 b1B  [FF]　[FF]　[FF]　[FF]　[FF]　[AA]マ[F5]テ[FF][AB][FF]　[FF]　[FF]　[FF]　[FF]　[AA]マ[D5][AA][FF]ツ[FF]　[FF]　[FF]　[FF]　[FF]　[AA]ママ[EA][FF]る[FF]　[FF]　[FF]　[FF]　[FF]　[AA]マ゜[AA][FF]マ[FF]　[FF]　[FF]　[FF]　[FF]　[AA]マム[AA
+07077A    74 b1C  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]BA父ま[FC]う[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+070B3F    33 b1C  う　[FF]　[FF]　[FF]　ま　あ　　ケケ……　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　A　A
+070C70   145 b1C  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FE]う[FF]　[FF]　[FF]　[FF]　[FF]　[FF]？E[FF]　[FF][FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+070E1F    65 b1C  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]オ[FF]゛[FF]ィ左ィ左　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]み父た<wait>く[F8]　[FF]　[FF]　[FF]　[FF]　[FF]
+070F30    48 b1C  　A　ク　ク　ま　ま　そ　き　あ　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+071215    16 b1C  [FE]　[FC]　[F8]　<wait>　父　父　[FF]　B　
+0718B0    81 b1C  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]<wait>[FF][FE][FF]　[FF]　[FF]　[FF]　[FF]　[FF]き[F8]ま父ク[FF]　[FF]　[FF]　[FF]　[FF]　[FF]<wait>そ[FC]さ[FA][FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+071D8F    65 b1C  A　[FF]　♡　[C1]　C　C　あ　う　う　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FE]　[FE]　[FE]　[FF]　[FF]　[FF]　ま　そ　き　き　う　う　き
+071FB8    40 b1C  　あ　う　う　き　そ　ま　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+0724FF    69 b1C  き　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FF]　[FF]き[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF]　[FF][FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]<wait>ま父[FF]ね[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+073384    45 b1C  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　：父[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　、A[FD]か[FB]え[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+0733D1    61 b1C  うり　ル　ぁ　ル　ぁ　ま　ぁ　0B：　A　[FF]　[FF]　[FF]　[FF]　[FF]　[F3]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FE]　[FC]　<wait>　[C0]　
+07341B    25 b1C  　お　れ　[FE]　[F8]　父　[D0]　・　ノ　・　ノ　そ　き　
+07343F    29 b1C  　[FF]　[FF]　[FF]　？　ア　と　こ　と　[FF]　[FF]　[FF]　そ　う　あ　
+073474    48 b1C  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　ネ<wait>[D7]ア[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　父　<wait>　[F8]　[FC]　[FE]　[FF]　[FF]　[FF]　きいきい
+0734B0    50 b1C  ム　ぁ　ぬ　ぁ　ル　ぁ　ぬ　そ　[FE]　[FC]　[FC]　[FC]　[FE]　[FF]　[FF]　[FF]　　　　　　　　　B　ノ　[A8]　[D5]　お　
+07350F    34 b1C  　A　A　ク　き　う　あ　あ　　　[D1]あ父あ[D0]　右　<wait>　右　[D0]　・　A
+073540    47 b1C  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　ク[C0][DF]父[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[F6]そ[F7]の[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[BF]
+073580    65 b1C  ぬ　ぁ　ぬ　さ　な　い　お　い　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　ル　[AF]　[EA]　[F5]　[FA]　[FD]　[FF]　[FF]　[FF]　[FF]　[AA]　マ　[AA]　マ　[EA]　[F5]　[FF]　[FF]　・
+0735F0    23 b1C  [FF]　゛　゜　゛　？　[FA]　5　[F8]　[D0]　B　ケ　B
+07367D   116 b1C  　え　[FF]　[AF]　ム　[AB]　マ　L　な　い　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　A　[FF]　　　　　　　B　ハ　[AA]　マ　[AA]　　　い　な　[AA]　マ　[AA]　マ　[AA]　　　B　ケ　[AA]　マ　[AA]　マ　[EA]　　　　　　　い　マ　[AA]　マ　[AA]　あ　い　な　[AA]　マ　[AF]　A　[FF]　5
+073730    53 b1C  [FF]　[FF]　[FF]　[FF]　そ　き　あ　　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　A　[FF]　[FF]　[FF]え[FB]す[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+0737B0    97 b1C  [FF]　[FF]　A　[FF]　A　[FF]　A　[FF]　マ　[FA]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　ム　[AF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FD]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　マ　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　<wait>　[F8]　[F4]　右
+07386F    18 b1C  　[FF]　そ　う　う　う　き　ま　A　[FE]
+0738B0   110 b1C  A　[BF]　A　[BF]　A　[FF]　A　[FF]　[F7]　◀　マ　[AA]　マ　こ　ケ　　　[FF]　[BB]　[DD]　[AA]　マ　＆　た　　　[FF]　<clr>　8　[AA]　マ　[AA]　コ　　　[FF]　[AF]　゜　[AA]　マ　れ　お　　　[FF]　[AE]　[FD]　[AA]　マ　[AA]　と　　　[F4]　[EA]　[D4]　[A8]　ホ　[A8]　ケ　
+07399F    66 b1C  　A　[AF]　ラ　[AA]　マ　[AA]　な　　　[FF]　[FF]　゜　[AE]　ラ　[AA]　マ　[AA]　[F7]そ父[FF]た父こ　マ　[AF]　A　[FF]　[FF][FF]　[FF]　　[AA]　マ　[FF]　[FF]　[FF]　9
+073AD0    33 b1C  G　こ　な　ぁ　ム　ぁ　ル　ク　マ　[AA]　マ　[FF]　[FF]　[FF]　[FF]　[FF]　ツ
+073BAB    70 b1C  　マ　[AA]　[FC]　[FE]　[FD]　[FE]　[FF]　[FF]　[FF]　[FF]　ケ[C3]やシね゛　オコ　[AA]　[FF]　[FF]　ル　ク　ル　[BF]　A　[FF]　[FF]　[FF]　[FE]　[FF]　[FE]　[FF]　[FE]　[FF]　[FE]　[FF]　そ
+073C11    46 b1C  　う　そ　ク　[FF]　[FF]　AB[DF][FF][FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF][FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+073C50    45 b1C  A　[BF]　A　[BF]　A　[F7]そェた[D0]み[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF]　　　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]
+073CA3    62 b1C  　な　A　[FF]　[FF]　[FF]　[FF]　　　　　マ　[FF]　[FF]　[FF]　[FF]　[FF]　　　　　マ　[FA]　[FF]　[FF]　[FF]　[FF]　あう　あホ　[AA]　マ　[FA]　[FD]　[FE]　<wait>
+073DB0    49 b1C  [FD]　[FE]　[FD]　[FE]　[FF]　[FF]　[FF]　[FF]　クレまクB　マ　[AA]　[D5]　[FF]　[FF]　[CB]レG[C0]さ　ム　[AB]　A　[FF]　[FF]　[F9]
+078CCF    17 b1E  く　ェ　り　わ　ゃ　ゃ　[BE]　せ　E
+079092    43 b1E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[F8]き[C0]キ　B　　　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[F7]
+0A80CD    47 b2A  ク　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]う[FC]そ父　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]う[FC]た父　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+0A814F    35 b2A  　E　あ　あ　そ　ぃ　ケ　　　B　父　[C0]　[C0]　[F1]　ク　か　ま　あ　う　
+0A8233    24 b2A  　き　ふ　み　C　[C6]　[FC]　ほ　[FC]　右　え　そ　て
+0A83FE    51 b2A  [FC]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF][FF][FF][FF]B[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF][FF][FF][FF]　[FC]　[FE]　[DE]　[CF]　[C7]　♡　左　<br>　[FF]
+0AA821    32 b2A  　ら　ァ　♀　[A7]　[F4]　や　や　　　　　　　　[FE]　[FE]　？　ア　た　
+0AA855    43 b2A  　[FE]　[FE]　？　ア　た　ク　A　A　A　A　A　A　ク　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+0BD2A3    24 b2F  　き　ふ　み　C　[C6]　[FC]　ほ　[FC]　右　え　そ　て
+0BD57F    35 b2F  　E　あ　あ　そ　ぃ　ケ　　　B　父　[C0]　[C0]　[F1]　ク　か　ま　あ　う　
+0BDEC4    45 b2F  [DF]　[DF]　[BF]　[BF]　A　A　<clr>ち[BB]ス[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　8J[DD]め[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　G
+0EC09E    66 b3B  あ　[FF]　[FF]　[D5]　[DA]　こ　[DA]　ま　[DF]　[FF]　[FF]　[FF]　[FF]　[FC]　E　[F7]　<clr>　[DF]　[DF]　ま　[DF]　[DF]　[BF]　[FF]　[FF]　[CE]　[F6]　[FB]　[CB]　[BB]　▼　[CF]　[FF]　
+0EC65F    66 b3B  A　[FF]　[DD]　[DD]　[DD]　[DD]　[DD]　[DD]　[BE]　[FF]　ル　ル　ル　[FF]　<br>　父　<clr>　[BE]　[BE]　[BE]　[BF]　[BF]　[BF]　[BF]　[FF]　<clr>　下　[EA]　リ　゜　゜　！　[FF]　
+0ECA4B    22 b3B  　[C0]　<wait>　あ　あ　う　う　き　そ　ク　[FF]　に
+0EE19F    34 b3B  せ　あ　う　き　き　そ　ま　ク　A　　　B　[C0]　父　<wait>　[F8]　[FC]　[FE]　
+0EE254    44 b3B  　あ　う　き　き　そ　ま　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+0EE318    41 b3B  　あ　う　き　き　ク　A　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[FC]　[F8]　<wait>　父　[C0]　
+0EE3CF    54 b3B  [F3]　<wait>　[F8]　[FC]　[FE]　[FE]　[FF]BAB[FF]　そ　ま　ク　A　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　[F8]　<wait>　B　B　
+0EE4AF    24 b3B  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　父　[C0]　B　
+0EE9DC    82 b3B  　あ　う　そ　ま　ク　ク　A　[FF]　[FF]　[FF]そ[F7]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]父[DF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[FC]　[F8]　<wait>　父　[FF]　[FF]　A　ク　ク　ま　そ
+0EEAB0    39 b3B  　う　き　そ　ま　ク　ク　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　[F8]　[C0]　B　B　
+0EEB3F    44 b3B  [F9]　[FF]　[FF]　A　ク　ま　そ　き　う　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　<wait>　父　[C0]　B　B　
+0EED40    33 b3B  [FF]　[FF]　[FF]　[FF]　[FF]　A　ク　そ　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　<wait>　[FF]
+0EED9E    31 b3B  [FF]　[FF]　[FF]　[FF]　ク　ま　き　[C3][C0]・レ[FF]　[FF]　[FF]　[FC]　[F8]　父　[C3]
+0EEE00    71 b3B  [FF]　[FF]　[FF]　[FF]　[FF]　A　ま　そ　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[C0]　’の[FF]　[FF]　[FF]　[FF]　[FF]　そ　ゥレYR[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[F8]　<wait>　[FC]　[F8]　父　[C3]
+0EEFE2   143 b3B  　あ　う　き　そ　ま　ク　A　B　[C0]　父　父　<wait>　[F8]　[FC]　[FE]　あ　う　き　き　そ　ま　ク　A　　　B　[C0]　父　<wait>　[F8]　[FC]　[FE]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　　　　　B　[C0]　父　父　<wait>　[
+0EF0BF    34 b3B  そ　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]BA<wait><br>　[FC]　[FE]　[FE]　[FF]　[FF]　[FF]　[FF]　[FF]　
+0EF0F8    40 b3B  　あ　う　き　き　ク　A　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[FC]　[F8]　<wait>　父　[C0]
+0EF1AF    54 b3B  ク　<wait>　[F8]　[FC]　[FE]　[FE]　[FF]　[FF]　[FF]　そ　ま　ク　A　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　[F8]　<wait>　B　B　
+0EF26F    24 b3B  ク　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　父　[C0]　B　
+0EF62C    82 b3B  　あ　う　そ　ま　ク　ク　A　[FF]　[FF]　[FF]あ[FE]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FC]う　[FF]　[FE]　[FC]　[FC]　[F8]　<wait>　父　[FF]　[FF]　A　ク　ク　ま　そ　き　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+0EF68F    40 b3B  [C0]　う　き　そ　ま　ク　ク　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　[F8]　[C0]　B　B　
+0EF6DC    47 b3B  いまいま　[FF]　[FF]　A　ク　ま　そ　き　う　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　<wait>　父　[C0]　B　B　
+0EF740    29 b3B  　[F8]　<wait>　<wait>　父　[C0]　B　　　　　ま　そ　そ　き　う　あ　
+0F8A5F    49 b3E  [FC]　[FF]　[FF]　[FF]　[FF]　[FF]キ[C1]B　　　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]アきむみあ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+0F9121    47 b3E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]キ[C1]B　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]アきあ[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+0F954C    21 b3E  わねね　ェ　H　ォ　ヌ　…　ッ　は　え　父
+0F9610    65 b3E  　[FB]　[FB]　B　[FB]　[C3]　[BB]　[BB]　▼　A　A　[BF]　[BF]　<br>　<br>　[DF]　[DF]　[C7]　[F7]　[F7]　[F3]　[F8]　[FF]　[FF]　[FF]　[DF]　[DB]　左　A　[F1]　[FE]　[FD]　[FF]　
+0F9AAF    45 b3E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]か[FF]そ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]え[F8]た父　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+0FAC39    23 b3E  A　ク　ま　き　[FE]　[FE]　[FE]　[FE]　[FC]　[FC]　[FC]　[F8]
+0FF520    65 b3F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF]　　ねね[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF]　　あ　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]ケ[FF][C0]父ま[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　ほ
+128D67    21 b4A  　[FF]　A　ほ　そ　く　く　く　え　[FC]　<wait>　
+128E69    19 b4A  　あ　ほ　<wait>　B　[C0]　父　ぃ　9　[C0]　
+129A80   128 b4A  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]く[FF]え[FF]い[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]ケ[FF]ぃ[FF]く[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+12A100    49 b4A  　し　ふ　ふ　ね　ね　ね　　　　　A　A　う　ま　ク　4　4　キ　[C0]　Q　き　C　[C1]　[C3]　う　う　
+12A180    49 b4A  　し　ふ　ふ　ね　ね　ね　　　　　A　A　う　ま　ク　4　4　キ　[C0]　Q　き　C　[C1]　[C3]　う　う　
+12AB8B   111 b4A  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]<wait>[FF]せ[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF][C0]ぃ[FF]し[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF]　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF]　　[FF]　[FF]　[FF]　[FF]　[FF]　[F
+12AEC2   318 b4A  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+12E3DF    18 b4B  そ　父　[C0]　C　う　き　そ　オ　[FC]　
+12E46E    34 b4B  左　゜　゜　゜　[FD]　[FA]あ[FA]あ[FA]あ[F4]う　[FE]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　B
+12E4A0    16 b4B  　I　き　そ　そ　ま　ク　A　[FF]
+12E580    29 b4B  [F8]　[FF]　[FF]　[FF]　A　Q　<wait>B[FF]<wait>ま　[FF]　[FF]　[FF]　[FE]　[F1]　せ
+12E66F    17 b4B  ら　ま　左　ぉ　U　[C9]　[C9]　[F9]　[F9]
+12E6AF    17 b4B  [FE]　[C9]　♂　や　エ　[CF]　[BF]　A　A
+12E70F    17 b4B  父　[FF]　[C7]　そ　ク　[CF]　左　き　[C3]
+12E72F    17 b4B  <wait>　[FF]　ら　ぉ　2　[F9]　あ　き　[F3]
+12E7FF    17 b4B  そ　ら　ら　ら　U　Z　[CF]　<wait>　[FF]
+12E81F    17 b4B  [FF]　ぃ　ア　イ　ぅ　む　[A9]　。　[FF]
+12E87F    33 b4B  [FF]　[FC]　[F9]　[F9]　[F3]　[F3]　左　左　[FF]　[C4]　N　％　Z　[C1]　[C7]　[FF]　[FF]
+12E8AF    17 b4B  [FF]　母　[C1]　K　の　’　C　[F3]　[FF]
+12E8CF    17 b4B  [FF]　っ　わ　る　さ　の　Z　％　[FF]
+12E90F    17 b4B  [FF]　U　C　U　』　ぇ　4　[F3]　[FF]
+12E934    29 b4B  父　父　父　父　父　♡　せあき　う　あ　そ　ク　[FE]　<wait>　[FF]
+12E9FF    18 b4B  　[C0]　<wait>　？　ほ　き　う　あ　あ　父
+12EA30    34 b4B  I　ま　ク　1　レ　ヲ　ゥ　き　[C0]　父　<wait>　ア　ね　％　[DC]　[DC]　ね　
+12EA6F    34 b4B  　き　ま　ア　み　き　そ　ま　の　[C0]　父　1　ぃ　ね　Z　[D8]　[D8]　[FF]
+12EAD5    59 b4B  　ぉ　ぉ　ク　ク　ふ　　　　　　　ぃ　ぃ　<wait>　<wait>　父　ね　ふ　そ　き　　　　　　　　　[D8]　イ　[F1]　♡　う　き　そ　まあ
+12EB9F    17 b4B  [FC]　[BF]　ク　ク　<wait>　み　か　せ　ま
+12EC3F    17 b4B  き　N　ふ　ほ　Q　[C7]　母　<wait>　[F8]
+1344F6    45 b4D  [FF]　[FF]　[FF]　[FF]　[FF]　Aみ[FF]ケ[FF]B[FF]　[FF]　[FF]　[FF]　[FF]　[FF]ぁ[FF]は[FF]す[FF]え[FF]　[FF]　[FF]　[FF]　B　[C0]
+134794    35 b4D  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FC]　父　[C0]　B　B　B　<wait>　B　く　け
+134930    18 b4D  [FF]　[FF]　[FE]　[F8]　父　[C0]　[C0]　[C0]　きい
+1349FF    18 b4D  　[FF]　ク　そ　き　き　う　う　あ　<wait>
+13523B    34 b4D  [FF]　[FF]　[FF]　[F8]　[F8]　[FC]　[FE]　[FE]　[FE]　[FE]　[FE]　そ　そ　き　き　う　あ　
+13566F    65 b4D  [FE]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][F8][F8]そ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]くく[C8][C8]ク[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+135813    45 b4D  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]キ[FE]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]みみ[F8][F8]き[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+1359AF    33 b4D  [FF]　[FC]　[FE]　[FE]　[FF]　[FF]　[FF]　[FF]　[FF][C7][C7][FE][FE]99　い　[CF]　[FF]　[FF]　[FF]
+1359E9    67 b4D  [DF]　ま　[FF]　[FF]　[FF]　[FF][C0][FF]ア[FF]き[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]1[FF]せ[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]父[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+135D61    28 b4D  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FE]ね父　[F8]　[F8]　<wait>　父　[C0]　B　
+13628E    19 b4D  [FF]　[BF]　[FB]　<clr>　[BB]　マ　[BB]　マ　[AA]　[FF]
+13856F    33 b4E  そ　[FE]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]くそRまレ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+1385FB    13 b4E  ういかしえ　[FF]　[FF]　[FF]　A
+138E9E    19 b4E  [FF]　[FC]　[F8]　[F8]　<wait>　父　父　[C0]　[C0]　た
+13A0D0    65 b4E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[F8][F8][FF]そ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　くく[C8][C8][FF]ク[FF]　[FF]　[FF]　[FF]　[FF]　し
+13A274    45 b4E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]キ[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　みみ[F8][F8][FF]き[FF]　[FF]　[FF]　[FF]　[FF]　え
+13A410    33 b4E  [FC]　[FE]　[FE]　[FF]　[FF]　[FF]　[FF]　[FF]　[C7][C7][FE][FE]99い　[CF]　[FF]　[FF]　[FF]　[DF]
+13A44A    67 b4E  ま　[FF]　[FF]　[FF]　[FF]　[FF][C0][FF]ア[FF]き[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]1[FF]せ[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]父[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+13A7D1    28 b4E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FE]ね父　[F8]　[F8]　<wait>　父　[C0]　B　
+13ACFE    18 b4E  [FF]　[BF]　[FB]　<clr>　[BB]　マ　[BB]　マ　[AA]　
+13ADE5    27 b4E  　い　く　あ　や　く　　　　　た　い　B　め　ノ　け　
+13B095    27 b4E  　お　み　た　い　ホ　と　・　　　・　え　く　ケ　れ　
+13B0BF    17 b4E  　た　い　あ　[A8]　え　み　ち　D　
+13B183    57 b4E  　み　ち　い　ノ　B　ケ　コ　　　え　J　ケ　こ　あ　い　　　セ　い　ケ　・　ノ　　　ノ　　　＆　ケ　い　お　こ　
+13B260   170 b4E  あ　ス　み　お　く　ノ　J　な　　　コ　み　あ　B　な　[A8]　セ　＆　　　め　ス　く　ス　[AA]　た　り　ス　・　あ　い　ケ　・　ス　い　コ　い　ケ　い　あ　い　ノ　ケ　D　ケ　い　ケ　B　ケ　こ　L　セ　め　コ　　　ケ　れ　ち　ハ　＆　ス　D　　　い　ホ　J　セ　め　ホ　D　ホ　み　え　[AA]　ノ　＆　た　め　セ　れ　マ　れ　え　こ　コ　＆　ス　
+13B381   101 b4E  　お　[A8]　え　り　セ　B　ホ　[A8]　マ　L　マ　め　マ　B　ケ　[AA]　マ　D　あ　B　あ　D　マ　[A8]　セ　L　マ　[A8]　た　B　ケ　・　あ　・　ケ　め　あ　い　お　お　B　お　い　ス　B　ケ　・　J　ノ　B　
+13B3FF    25 b4E  　コ　L　マ　[AA]　セ　[A8]　マ　く　ケ　[AA]　ハ　B　
+13B4BD    55 b4E  　セ　れ　ノ　れ　な　み　ハ　L　と　・　　　・　　　B　ホ　り　あ　い　お　　　　　い　な　[AA]　ス　ケ　・　
+13B51B    55 b4E  　お　い　セ　[AA]　ホ　D　あ　　　　　　　　　B　ハ　[AA]　た　L　マ　＆　ホ　い　マ　[AA]　マ　[AA]　ハ　L　ルた
+13B5AF   130 b4E  　み　な　く　た　り　と　い　え　[A8]　ノ　J　ハ　[A8]　コ　D　セ　な　こ　ち　L　な　D　コ　＆　L　マ　こ　セ　[AA]　ホ　L　ノ　ハ　[AA]　ノ　＆　マ　れ　ハ　こ　　　B　あ　[AA]　マ　[A8]　ホ　D　マ　[AA]　マ　り　セ　れ　ス　こ　な　め　な　[AA]　マ　B　あ　D　A
+13B6C5    51 b4E  　あ　く　た　D　ケ　れ　と　J　セ　B　ス　こ　え　ホ　り　ち　＆　あ　め　ノ　み　り　ノ　れ　あ　
+13B72F    18 b4E  　あ　＆　マ　[AA]　な　こ　マ　め　B
+13B7BF    29 b4E  　J　た　J　な　D　と　　　　　B　コ　こ　お　こ　え　
+13C283    61 b4F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]゛[BE][C1][FF]B[FF]　[FF]　[FF]　[FF]　[FF]　[FF]くく[DF][DF]み[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FB]ク？[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+13C96F    17 b4F  A　父　<wait>　[F8]　[FC]　[FE]　[FF]　[FF]　[FF]
+13CB91    32 b4F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FE]ま父ク[C0]AB[FF]　[FF]　[FF]　[FF]　[FF]　ル
+13D130    33 b4F  　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]う[FC]き[F8]そ<wait>[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[F8]
+13E970    65 b4F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE][FE][FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　りり[FC][FC][FF]う[FF]　[FF]　[FF]　[FF]　[FF]　と
+13EC14    91 b4F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]父[FF]ま[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FC][FF]う[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]父[FF]ま[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][F8][FF]き[FF]
+13F8DF    81 b4F  A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]ク[FF]ッ[FF]ツ[FF]　[FF]　[FF]　[FF]　[FF]　[FF][C0][FF][B0][FF]み[FF]　[FF]　[FF]　[FF]　[FF]　[FF]A[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]<wait>[FF]　父　[C0]　父　<wait>　[EA]　[FD]　[
+13F961    21 b4F  [FF]　[FF]　[FF]　[FE]　[FC]　右　[D0]　D　[FF]　[FF]　B
+13F9CF    17 b4F  ま　[FF]　[FD]　[F6]　[F9]　[F6]　右　[D4]　右
+13FA5F    18 b4F  [C0]　0　[BF]　ル　[AF]　ユ　ぁ　ム　ろう
+13FAE0    16 b4F  　[FF]　[BF]　A　[AF]　ル　ぁ　ぬ　そ
+13FB70    32 b4F  　ぬ　さ　ぬ　さ　お　こ　お　　　[FF]　[FF]　[FF]　[FF]　[FF]　[BF]　ル　[BF]
+13FBCF    15 b4F  [C6]　ル　ぁ　ぬ　さ　な　さ　お
+168030   121 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]い[FF]う[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]た[FF]を[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]た[FF]ふ[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+168427    41 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE][C0][FE]　[FC]　[FC]　[F8]　<wait>　[C0]かかあき　き　き　そ　そ　ま　ま
+168D26    67 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]え[FF][C4][FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]＆[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][F4][FF]ね[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+168DD8    17 b5A  　あ　か　く　た　か　ね　レ　B　
+168EFF    65 b5A  　[FF]　[FF]　A　[AF]　マ　こ　　　　　[FF]　[FF]　[FF]　[FF]　A　[AB]　マ　　　[FF]　[FE]　[FD]　[FF]　[FF]　[FF]　マ　れ　　　B　ケ　・　[C0]　・　ケ　[B0]　
+168F9D    37 b5A  　右　め　え　あ　め　お　い　な　[AB]　ム　[BF]　A　[FF]　A　[FF]　[FF]　[FF]　い　
+168FCF   144 b5A  　[BF]　ま　ろ　お　い　く　あ　　　[F5]　[FE]　[FF]　ル　[AF]　ぬ　ろ　ぬ　　　・　マ　[FA]　[FF]　[FF]　[FF]　[FF]　　　え　　　＆　[D5]　[FF]　[FF]　[FF]　ル　[BF]　A　[BF]　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　さ　な　う　お　こ　お　い　お　[FF]　[
+169069    32 b5A  　な　こ　マ　[BF]　ル　[BF]　ル　[BF]　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FD]
+1690EB    37 b5A  A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]ノ　・　[D4]　[EA]　[F5]　[FE]　[FF]　[FF]　
+169197    40 b5A  　サ　な　[AB]　ル　い　お　い　マ　[AB]　A　[FF]　[FF]　[BF]　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]
+1691F0    48 b5A  [D0]　[EA]　[FD]　[FF]　[FF]　[FF]　[FF]　[FF]　　　　　ケ　[AA]　[FD]　[FF]　[FF]　[FF]　　　　　　　B　ケ　[A8]　[F4]　[FA]　
+169237    68 b5A  　D　な　[AA]　ル　い　W　さ　ム　[AF]　ル　[FF]　[FF]　[AF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[F7]く[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FB]え゛C[FF]　[FF]　[FF]　[FF]　[FF]　[FE]
+169293    29 b5A  ル　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]な[EA]い[FD]あ[FE]　[FF]　[FF]　[FF]　[FF]　[FF]
+1692D0    32 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　[BF]ケル・ク[C0]　　・　[D0]　[EA]　[F5]　[FE]　[FF]　[FF]　
+169305    38 b5A  　お　い　お　さ　き　れ　ム　[BF]　A　[BF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]
+1695A0    81 b5A  B　あ　き　そ　ク　[FF]　[FF]　[FF]　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FC]　[FE]　[FC]　[F1]　♡　[CF]　：　ク　A　オ
+1697FF    34 b5A  く　そ　そ　ま　ま　ま　ク　ク　A　[F8]　[FC]　[FC]　[FE]　[FF]　[FF]　[FF]　[FF]　
+1698DF    33 b5A  せ　A　A　ク　ク　ク　ク　ク　ま　[C0]　父　<wait>　<wait>　[F8]　[F8]　[F8]　[FC]
+16998F    31 b5A  B　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　A　[FC]　[FC]　[F8]　[F8]　[F8]　<wait>　父
+16A1A1    26 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[FC]　[F8]　父　[C0]　B　
+16A24F    24 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　<wait>　<wait>　[C0]　B　
+16B176    72 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　ああA゛[FF]B[FF]　[FF]　[FF]　[FF]　[FF]　♡．[C3]サ[FF]オ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FE]　[FE]　[FE]　[FC]　[F8]　父　
+16B1D6    44 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　きき[FF][F8][FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[C3][C2][C7]ソ[FF]ア[FF]　[FF]　[FF]　[FF]　[FF]　そ　
+16BA9E    44 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[FC]　[F8]　<wait>　父　B　
+16BAD3    27 b5A  　あ　う　き　そ　ま　゛　゛　[FC]　[F8]　<wait>　父　[C0]　B　
+16BAFD    20 b5A  　う　う　き　そ　ま　ク　A　[FF]　[FF]　[FF]
+16BB40    60 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　[F8]　<wait>　父　[C0]　B　　　　　　　　　あ　う　き　そ　ま　ク　゛　[FC]　[F8]　<wait>　父　[C0]　B　
+16BB8B    22 b5A  　あ　う　き　そ　ま　ク　A　[FF]　[FF]　[FF]　[FF]
+16BBD0    24 b5A  [FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[F8]　<wait>　<wait>　父　[C0]　B　
+16BBF1    15 b5A  　あ　う　き　ま　ク　゛　[FC]　
+16BC40    22 b5A  [FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　<wait>　父　[C0]　B　
+16BC5F    34 b5A  　あ　う　き　そ　ま　ク　゛　[FC]　そ　ま　ク　A　[FF]　[FF]　[FF]　[FF]　[F9]
+16BCBD    27 b5A  　あ　う　き　そ　ま　ク　゛　[FC]　[F8]　[F8]　<wait>　父　[C0]　
+16BCE7    42 b5A  　あ　う　き　そ　ま　ク　A　[FF]　[FF]　[FF]　[FF]　[FF]　　ああ　あ　う　き　そ　ま　ク　父
+16BD30    81 b5A  う　き　そ　ま　ク　[FE]　[FC]　[F8]　　　　　　　　　あ　き　そ　ま　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FC]　[F8]　　　　　あ　う　き　そ　ま　ク　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　<wait>
+16BDB5    28 b5A  　あ　う　き　そ　ま　ク　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[F8]
+16BE23    14 b5A  　あ　う　き　そ　ク　A　[FC]
+16BE51    16 b5A  　あ　う　き　そ　ま　ク　A　[DC]
+16D968   135 b5B  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]っ[FF]を[FF]ケ[FF]B[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+16F7BF    17 b5B  ケ　あ　う　き　き　そ　そ　ま　ク
+16F87F    25 b5B  あ　A　ク　ク　ま　そ　き　う　あ　[FF]　[FF]　[FF]　[FF]
+16FAA0    32 b5B  A　[FF]　：　[DF]　[F3]　7　キ　き　[FE]　[FF]　[F9]　[FB]　[CF]　ヶ　？　父　
+170193    29 b5C  [FF]　A　ク　ま　ま　そ　そう[FF]　[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+170604    38 b5C  　あ　う　う　き　そ　ま　ま　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+1715A0    29 b5C  え　え　え　え　え　FBス[F8]スケく　く　く　く　く　く　く
+17175F    31 b5C  <wait>　[FF]　[FF]　[FF]　[FF]　[FF][C0][FF]みクたま　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FE]
+1719B0    42 b5C  　[FF]　[FF]　[FF]　[FF]　[FF]　A　クたそ　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]え[F8]た父　[FC]　[F8]　<wait>　父　[C0]
+171D44    16 b5C  [FF]　[FE]　[FC]　[F8]　<wait>　父　B　E　
+171D5F    18 b5C  　え　え　[C8]　く　ふ　ほ　キ　A　[FA]
+171E82    24 b5C  [FF]　[FF]　[FF]　[FF]　[FE]　[F8]　父　[F8]　<wait>　父　[C0]　B　
+171F91    22 b5C  　あ　う　そ　A　[FF]　[FF]　[FE]　[FE]　[FE]　[FC]　[F9]
+172295    87 b5C  A　[FF]　[FF]　[FF]　[FF]　[FF]　[FC]　[FC]　[FC]　[FC]　[FC]　[FC]　[FC]　[FC]　[FE]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　　B　　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]くきBA　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]い[FC]　[FC]　[FC]　[FC]　[FC]　
+1733B5    37 b5C  A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]そ[FF]ま[FF]ぃ[F9]ア[F1]　[FF]　[FF]　[FF]　[FF]　[FF]
+1734E3    13 b5C  [FF]　[FE]　[FC]　[F8]　<wait>　父　[C0]
+17364F    21 b5C  ク　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　父　B　B　B
+17400F   274 b5D  　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FD]　[F8]　[FF]　[FF]　[FF]　[FF]　[FF]　ク　ま　ル　[FF]　[FF]　[FF]　[FE]　[FD]　[FC]　[F1]　[EB]　[FF]　[FF]　[FF]　A　[BF]　ク　Q　[D7]　[FF]　[FF]　[FC]　[F
+174643    29 b5D  ク　そ　そ　き　う　あ　　　[FF]B[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　A
+175756    63 b5D  　あ　せ　ぃ　ケ　B　あ　あ　あ　[FF]　あ　あ　い　い　ケ　ケ　ケ　[C0]　1　わ　め　ち　い　い　い　い　い　え　え　く　い　あ　
+1757B0    71 b5D  　ち　つ　と　ね　ぃ　[D0]　た　た　み　み　み　み　み　み　み　み　あ　い　え　く　く　た　た　た　い　え　え　く　く　た　た　み　く　え　う　
+175800    23 b5D  　B　ケ　み　[FF]　た　く　く　く　た　み　[C0]　
+175844    59 b5D  　き　ね　み　ケ　B　　　み　[FF]　ケ　ケ　ケ　ケ　B　B　み　み　み　み　み　み　ら　[F8]　　　　　う　え　ね　レ　B　
+1758B8    73 b5D  　B　ケ　ケ　み　い　え　え　く　く　く　た　た　あ　あ　い　い　え　く　く　た　た　た　た　く　く　え　い　あ　く　く　く　た　た　み　ケ　B　
+17596E    25 b5D  　き　た　た　た　て　と　ね　右　く　み　ケ　B　
+1759B0    51 b5D  　あ　い　し　1　B　　　　　　　あ　い　い　い　え　え　え　え　み　た　た　た　く　く　く　く　A　
+176310    49 b5D  　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]BA　[FF]　[FF]　[FF]　[FF]　[FF]い[FF]コ[FF]む[FF]ス　ち　ス　[AA]　ス　[AA]　マ　[AA]　ノ
+1763D8    35 b5D  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[DF]父[FD]キ[FF]う[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　A
+1765C2    47 b5D  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FD]う[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　左？：9[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　<wait>
+17765F    28 b5D  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FE]き[F8]ク[C0][FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+177D77    21 b5D  　[FF]　A　ほ　そ　く　く　く　え　[FC]　<wait>　
+177DF9    19 b5D  　あ　ほ　<wait>　B　[C0]　父　ぃ　9　[C0]　
+177EC7    57 b5D  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]ふ　ね　ア　ア　ア　A　A　゛　　　　　　　あ　A　[FF]　♡　う　
+177F5F    29 b5D  　う　き　か　か　き　そ　せ　く　か　し　ア　<wait>　[C0]　B　
+178249    51 b5E  ク　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]そ[FF]ま[FF]エ[FD]ぃ[F9]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF][C0][FF][C0][FE]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+1793E5    87 b5E  そ　ま　ク　A　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]き[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]し<wait>　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]く<wait>　　　[FF]　[FF]　[FF]　[FF]　[
+179605    76 b5E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF][FF][FF]B[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF][FE][FF]A[FF]き[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]B[FF]　[FF]　[FF]　[F3]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　まい
+179785    43 b5E  A　ク　ま　そ　き　うや？チ右け[FF]　[FF]　[FF]　[FF]　[FF]　[FF]ケネB：　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+179A4D    21 b5E  きいう　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]
+179B23    13 b5E  A　ク　ま　そ　き　う　あ
+17A384    45 b5E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]父[FF][C0][FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]い[FF]い[FF]あ[FF]　[FF]　[FF]　[FF]　[FF]　あ
+17A450    33 b5E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]<wait>まくそえ[FF]　[FF]　[FF]　[FF]　[FF]　[FC]　<wait>　父　下
+17A57A    50 b5E  [FF]　♡　[C8]　[FF]　[FF]　[FF]　[FF]き[FC]し[FF]そ[FF]きA　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]B[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[F8]　
+17A6AF    27 b5E  　[FF]　[FF]　[FF]　[FF]　ク　　　　　　　[FE]　[FC]　[F8]　<wait>　[C0]　
+17A782    48 b5E  [FF]　[FF]　A　ク　ク　ま　そ　[FF]ふ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[FC]　[F8]　<wait>　父　[FC]　
+17AFA4    33 b5E  　ね　ね　ク　[FF]　[FC]　し　し　ク　[FC]　[CC]　O　Q　[CF]　[FE]　キ　か　
+17AFEE    23 b5E  　ケ　レ　父　父　<wait>　[B0]　Z　ア　ア　1　1　
+17B397    74 b5E  [FF]　[FF]　[FF]　[FF]　[FF]　[FF][C0][FF]ぃ[FF]　[FF]　[FF]　[FF]　[FF]　[FF]い[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]Zき　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]え[FC]う[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+17BC75    39 b5E  ま　ま　そ　き　う　あア[FF]1[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FD]
+17BDF0    58 b5E  　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]みま　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]ね父　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]み[C0]　あ　[FF]　[FF]　[FC]　<wait>　[C1]
+17C121    56 b5F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]き[F8]ま父AB[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+17C177    58 b5F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FE]き[F8]そ<wait>AB[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+17C35F    58 b5F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FE]そ<wait>ク[C0][FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+17CA7C    21 b5F  [D5]　[AA]　ム　[AB]　マ　[AB]　ム　[AB]　マ　[AF]　<br>
+17CB00    64 b5F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[F8]え[FC]い[FE]あ[FF]　[FF]　[FF]　[FF]　[FF]　そ　ま　AB[FF]　[FF]　[FF]　[FF]　[FF]　[DA]オ[FD]う[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　
+17CD0F    18 b5F  　[FF]　[FF]　[FF]　A　ク　ま　そ　う　父
+17CD98    41 b5F  [BF]　ま　そ　き　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[F3]　[C1]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FC]　[F8]　[FE]
+17D865    32 b5F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　[F8]　<wait>　<wait>　父　父　[C0]　
+17DB7A    70 b5F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]B[FF]ケ[FF]み[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]あ[FF]う　　　　　あ　う　き　そ　そ　ま　ク　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+17DBC9    66 b5F  [FF]　[FF]　[FF]　[FF]　[FF]　[FF]　A　クBQケ[C3]み父ね[F8]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　ま　[FF]　[FF]　[FF]　[FF]　[FF]　[FE]　[FC]　<wait>　[FF]　[FF]　[FF]　[C7]　あ　
+17DD0F    33 b5F  <wait>　[FF]　A　ま　き　あ　　　　　　　[FF]　[FF]　[FF]　[FF]　[FF]　A　ま　う
+17EB5F    43 b5F  め　[FF]　[FF]　[FF]　ク　そ　き　う　う　[FF]　[FF]　[FF]　[FF]ア[FF]き[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]　[FF]
+17F4C1    18 b5F  ゜　[FF]　[FF]　そ　せ　ほ　オ　[F8]　<wait>　
+17F623    39 b5F  　レ　1　〜　ク　ま　ほ　キ　A　A　[F3]　[F3]　母　<wait>　<wait>　1　9　ク　ま　き　
+17F66D   101 b5F  　ぃ　ぃ　ア　ク　ク　[FF]　[F8]　ア　ア　ア　ク　[BF]　[FF]　[FF]　[FE]　[FF]　ク　エ　1　<wait>　[C0]　　　　　　　　　ぉ　4　2　1　ア　ア　ね　ふ　ふ　せ　[CE]　[FE]　[F7]　ク　ひ　ま　゜　[FF]　[FF]　そ　せ　ほ　オ　[F8]　<wait>　
+17F6ED    45 b5F  　ク　[FF]　[FB]　[C3]　あ　ま　[FF]　[F8]　　　　　あ　き　そ　せ　ふ　、　：　Q　き　[C0]　父　レ　
+17F725    47 b5F  　う　う　う　う　♡　母　C　C　[FC]　[FC]　[F8]　父　レ　9　[FF]　[FF]　[BB]　イ　1　<wait>　父　父　B　
+17F763    29 b5F  　し　せ　せ　Q　I　I　I　H　B　う　そ　ク　[F8]　父　

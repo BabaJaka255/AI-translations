@@ -1,0 +1,206 @@
+{
+  "block": "announce08",
+  "entries": [
+    {
+      "id": "announce08_0000",
+      "offset": "0x21DD7",
+      "length": 31,
+      "pointers": [
+        "0x21DAD",
+        "0x21DAF"
+      ],
+      "jp": "ハムスターファンのみなさん　　　　　こーんばーんはーー！！",
+      "en": "Hamster fans,     good eeevening!",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0001",
+      "offset": "0x21DF6",
+      "length": 39,
+      "pointers": [
+        "0x21DB1"
+      ],
+      "jp": "さぁ、おまちかね　　　　　　　　　　プリティーカップがはじまるよー！",
+      "en": "The wait is over! The Pretty Cup!",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0002",
+      "offset": "0x21E1D",
+      "length": 39,
+      "pointers": [
+        "0x21DB3"
+      ],
+      "jp": "きょうは、4ひきのプリティーな　　　ハムスターがよせんをつうかしてまーす",
+      "en": "Four pretty hams  made the finals~",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0003",
+      "offset": "0x21E44",
+      "length": 38,
+      "pointers": [
+        "0x21DB5"
+      ],
+      "jp": "さぁ、それでは、はじめまーす　　　　エントリーナンバー1のハムちゃん",
+      "en": "Let's staaart! Ourfirst entry is…",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0004",
+      "offset": "0x21E6A",
+      "length": 39,
+      "pointers": [
+        "0x21DB7"
+      ],
+      "jp": "おぉっと、まんてんです！！　　　　　すぅーんごくかわいかったですぅー！",
+      "en": "Ooh, a perfect    score! Sooo cute~",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0005",
+      "offset": "0x21E91",
+      "length": 32,
+      "pointers": [
+        "0x21DB9"
+      ],
+      "jp": "うぅーん！　　　　　　　　　　　　　とっても、いいですぅー！",
+      "en": "Mmmm!             Sooo good~",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0006",
+      "offset": "0x21EB1",
+      "length": 19,
+      "pointers": [
+        "0x21DBB"
+      ],
+      "jp": "やぁーん！　ちょっといいかも！　　　",
+      "en": "Aww! Kinda nice!",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0007",
+      "offset": "0x21EC4",
+      "length": 16,
+      "pointers": [
+        "0x21DBD"
+      ],
+      "jp": "んー・・・まあまあですねぇー",
+      "en": "Mmm… so-so~",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0008",
+      "offset": "0x21ED4",
+      "length": 37,
+      "pointers": [
+        "0x21DBF"
+      ],
+      "jp": "はぁーい、それじゃぁ、　　　　　　　おわるまでこちらでまっててね！",
+      "en": "Okaaay, now pleasewait over here!",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0009",
+      "offset": "0x21EF9",
+      "length": 19,
+      "pointers": [
+        "0x21DC1"
+      ],
+      "jp": "さぁさぁ、つぎのハムちゃんは・・・",
+      "en": "And the next      hammie is…",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0010",
+      "offset": "0x21F0C",
+      "length": 37,
+      "pointers": [
+        "0x21DC3"
+      ],
+      "jp": "えーとぉ・・・　　　　　　　　　　　エントリーナンバー　2のハムちゃん",
+      "en": "Ummm… entry       number 2!",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0011",
+      "offset": "0x21F31",
+      "length": 37,
+      "pointers": [
+        "0x21DC5"
+      ],
+      "jp": "えーとぉ・・・　　　　　　　　　　　エントリーナンバー　3のハムちゃん",
+      "en": "Ummm… entry       number 3!",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0012",
+      "offset": "0x21F56",
+      "length": 37,
+      "pointers": [
+        "0x21DC7"
+      ],
+      "jp": "えーとぉ・・・　　　　　　　　　　　エントリーナンバー　4のハムちゃん",
+      "en": "Ummm… entry       number 4!",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0013",
+      "offset": "0x21F7B",
+      "length": 34,
+      "pointers": [
+        "0x21DC9"
+      ],
+      "jp": "はぁーい！おしまいでーす　　　　　　もぅ、おわっちゃいましたぁー",
+      "en": "Okaaay! That's it!All doooone~",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0014",
+      "offset": "0x21F9D",
+      "length": 30,
+      "pointers": [
+        "0x21DCB"
+      ],
+      "jp": "それではぁ、いちばんになった　　　　ハムちゃんは・・・",
+      "en": "And the hammie in first place is…",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0015",
+      "offset": "0x21FBB",
+      "length": 15,
+      "pointers": [
+        "0x21DCD",
+        "0x21DCF",
+        "0x21DD1"
+      ],
+      "jp": "やったー！おめでとうー！！",
+      "en": "Yaaay! Congrats!",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0016",
+      "offset": "0x21FCA",
+      "length": 38,
+      "pointers": [
+        "0x21DD3"
+      ],
+      "jp": "それじゃぁ、いちばんのハムちゃんに　もういちどみせてもらいましょう！",
+      "en": "One more time for our winner!",
+      "notes": ""
+    },
+    {
+      "id": "announce08_0017",
+      "offset": "0x21FF0",
+      "length": 18,
+      "pointers": [
+        "0x21DD5"
+      ],
+      "jp": "それでは、みなさんバイバーイ",
+      "en": "Okay, everyone,   bye-byeee~!",
+      "notes": "Pretty Cup sign-off (table entry 20, missed by the first dump)."
+    }
+  ]
+}

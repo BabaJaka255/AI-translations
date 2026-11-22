@@ -1,0 +1,69 @@
+{
+ "name": "7blades-ps2",
+ "title_jp": "セブンブレイズ",
+ "title_en": "7 Blades",
+ "platform": "ps2",
+ "rom": "rom/7 Blades (Japan) SLPM-65008.iso",
+ "rom_crc32": "",
+ "table": "tables/jp.tbl",
+ "insert_table": "tables/en.tbl",
+ "output": "build/7blades-en.iso",
+ "expand_to": null,
+ "checksum": null,
+ "patches": [],
+ "blocks": [
+  {
+   "name": "dialogue",
+   "mode": "pointers",
+   "ptr_table": "0x0",
+   "count": 0,
+   "ptr_size": 2,
+   "ptr_stride": 2,
+   "endian": "little",
+   "ptr_or": "0x0",
+   "mapping": {
+    "type": "linear",
+    "base": "0x0"
+   },
+   "free_space": [],
+   "reuse_original": true,
+   "fill": "0xFF",
+   "box": {
+    "max_chars": 28,
+    "max_lines": 3,
+    "line_tokens": [
+     "<br>"
+    ],
+    "page_tokens": [
+     "<wait>"
+    ]
+   }
+  }
+ ],
+ "gfx": [],
+ "source_image": {
+  "file": "7 Blades (Japan) SLPM-65008, plain 2048-byte ISO",
+  "size": 4596269056,
+  "crc32": "CC8D415A",
+  "sha1": "faa45d3fa1d382b6f78ad31463981382885f24c4"
+ },
+ "reference_image": {
+  "file": "7 Blades (Europe) SLES-50109 ISO (PAL, not copied whole; key files in rom/pal/)",
+  "size": 4628742144,
+  "crc32": "1E348FC5",
+  "sha1": "1919d69221124fd5e89a90481290b8b980547d56"
+ },
+ "elf": {
+  "file": "SLPM_650.08",
+  "mapping": {
+   "type": "elf",
+   "segments": [
+    [
+     "0x200000",
+     "0x1000",
+     "0x2f0e35"
+    ]
+   ]
+  }
+ }
+}

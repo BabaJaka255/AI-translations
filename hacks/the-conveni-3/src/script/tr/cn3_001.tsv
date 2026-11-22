@@ -1,0 +1,200 @@
+0	%s wants a raise/n(→%s)
+1	%s got a raise
+2	%s/nquit
+3	%s gave up
+4	Advertised with %s
+5	Funds are low, so the %s ads were stopped
+6	%s is advertising (%s)
+7	Borrowed %s from the bank
+8	Repaid %s to the bank
+9	The bank lost trust in you, so %s was repaid
+10	A loan payment is due in 1 month
+11	The bank gave you 1 more month to repay
+12	%s worth of goods was shoplifted this month
+13	Store rating went up to %s
+14	Store rating went down to %s
+15	Lower your prices to raise your rank
+16	Place things like %s for better service to raise your rank
+17	Place things like %s for better security to raise your rank
+18	Keep the store cleaner to raise your rank
+19	Grow your sales to raise your rank
+20	The bid worked! %s was built
+21	The bid failed. %s wasn't built
+22	Funds are low, so this month's bid money for %s wasn't paid
+23	%s opened
+24	%s was renovated
+25	%s closed down
+26	All %s stores pulled out
+27	%s was built
+28	The town grew into a %s
+29	Cold food season is here
+30	Hot food season is here
+31	Customer No. %s came in!
+32	The register was jammed and %s customers got angry
+33	Items sold out, so %s customers couldn't buy them
+34	No parking, so %s customers couldn't come in
+35	The store isn't being kept clean
+36	Lately, %s is selling really well
+37	Lately, %s isn't selling well
+38	%s caught a shoplifter
+39	%s caught a would-be robber
+40	%s caught a would-be arsonist
+41	A robber got away with %s
+42	A fire burned the store. Damage: %s
+43	%s won the town's Conveni Contest/n(Prize: %s)
+44	%s was featured in "Popular Stores" magazine/n(Clerk skills up)
+45	%s was featured in "Clean Stores" magazine/n(Clerk skills up)
+46	%s was featured in "Great Service" magazine/n(Clerk skills up)
+47	%s was featured in "Cheap Stores" magazine/n(Clerk skills up)
+48	It's now %s
+49	You can now build a new store size
+50	Tax season is coming up
+51	Compete for total/nchain sales over/n6 months.
+52	6-Month Sales
+53	Suruga
+54	Mikawa
+55	Hamster
+56	Rival
+57	Rival 2
+58	Most chain sales/nin 6 months
+59	Hayakawa Kenta
+60	Kichijoji High
+61	Soccer
+62	Nakai Takuya
+63	Suidobashi High
+64	Computers
+65	The internet
+66	Ogura Keiji
+67	Yotsuya High
+68	Motorcycle license
+69	Touring
+70	Moriyama Jiro
+71	Okubo Univ.
+72	Video games
+73	Anime
+74	Kaneda Shoichi
+75	Otemachi Univ.
+76	Driver's license
+77	Skiing
+78	Tennis
+79	Takanishi Keita
+80	Roppongi Inst. of Tech.
+81	Reading
+82	Kuroda Noriaki
+83	Hachioji Univ.
+84	PC programming
+85	Kageyama Yukio
+86	Akihabara Voc. School
+87	Movies
+88	Enrique
+89	Chitose-Funabashi Int'l Univ.
+90	Rugby
+91	Jones
+92	Univ. of Texas
+93	Bodybuilding
+94	Arm wrestling
+95	Kusano Akira
+96	Yurakucho Univ.
+97	Eiken English, Grade 2
+98	Billiards
+99	Aoyama Toru
+100	Higashi-Ginza Univ.
+101	Windsurfing
+102	Sakishima Shogo
+103	Kinshicho Univ.
+104	Shorinji Kempo, 1st dan
+105	Watching pro wrestling
+106	Jazz
+107	Murayama Takeo
+108	Ebisu Voc. School
+109	Indie filmmaking
+110	Making dioramas
+111	Asamiya Koichi
+112	Akasaka Univ.
+113	Visual kei rock band
+114	Iwakura Takeshi
+115	Akabane Univ.
+116	Karate, 2nd dan
+117	Shogi
+118	Matsumoto Yuji
+119	Sendagaya Univ.
+120	Snowboarding
+121	Narita Mitsuo
+122	Ogikubo Univ.
+123	Figures
+124	Sonoda Hisashi
+125	Musashi-Sakai Univ.
+126	Golf
+127	Fujiki Shinji
+128	Kokubunji Univ.
+129	Bookkeeping, Level 1
+130	Calligraphy, 2nd dan
+131	Model trains
+132	Travel
+133	Bird-watching
+134	Fukura Futoshi
+135	Toyota Univ.
+136	Food tours
+137	Tsunoda Satoshi
+138	Fujino Univ.
+139	Oil painting
+140	Gonda Tetsuo
+141	Gotanda Univ.
+142	Watching baseball
+143	Philippe
+144	Champs-Elysees Univ.
+145	Small boat license, Class 3
+146	Sailing
+147	Ushijima Kazuya
+148	Ikebukuro Univ.
+149	Rap music
+150	DJing
+151	Uchiyama Nobuo
+152	Otsuka Univ.
+153	Tsuruta Akio
+154	Tamachi Univ.
+155	Judo, 3rd dan
+156	Karaoke
+157	Nanbu Takashi
+158	Yokohama Univ.
+159	Music
+160	Morooka Goro
+161	Fujisawa Univ.
+162	Aquariums
+163	Tropical fish
+164	Hongo Hayato
+165	Chigasaki Univ.
+166	Kendo, 2nd dan
+167	Lure fishing
+168	Nishida Akihiko
+169	Kamonomiya Univ.
+170	Elementary teaching license
+171	Antiques and fine art
+172	Collecting folk crafts
+173	Nakamura Tetsuzo
+174	Tennoji Univ.
+175	Pottery
+176	Antiques
+177	Sakurai Mika
+178	Morinomiya High
+179	Eiken English, Grade 3
+180	Baking sweets
+181	Akiyama Risa
+182	Sakuranomiya High
+183	Kyudo, 1st dan
+184	Midorikawa Tomomi
+185	Nasu-Shiobara Voc. School
+186	Fortune-telling
+187	Knitting
+188	Quilting
+189	Mitsuhashi Emi
+190	Kusatsu Univ.
+191	Mochizuki Mai
+192	Hikone Jr. College
+193	Piano
+194	Badminton
+195	Natori Maki
+196	Yamashina Univ.
+197	Traveling abroad
+198	Minami Sayuri
+199	Maibara Univ.

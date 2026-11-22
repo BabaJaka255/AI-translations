@@ -1,0 +1,464 @@
+{
+ "block": "menus",
+ "entries": [
+  {
+   "id": "menus_0000",
+   "offset": "0x92AC",
+   "length": 8,
+   "pointers": [],
+   "jp": "せっていしました",
+   "en": "All set.",
+   "notes": ""
+  },
+  {
+   "id": "menus_0001",
+   "offset": "0x92B4",
+   "length": 10,
+   "pointers": [],
+   "jp": "こんしゅうはすでに",
+   "en": "Done for",
+   "notes": "Two halves of こんしゅうはすでにあそんでいます (already played this week)."
+  },
+  {
+   "id": "menus_0002",
+   "offset": "0x92BE",
+   "length": 10,
+   "pointers": [],
+   "jp": "あそんでいます。",
+   "en": "this week.",
+   "notes": ""
+  },
+  {
+   "id": "menus_0003",
+   "offset": "0x92C8",
+   "length": 10,
+   "pointers": [],
+   "jp": "　あそぶメニュー",
+   "en": " Play menu",
+   "notes": ""
+  },
+  {
+   "id": "menus_0004",
+   "offset": "0x92D2",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　さんぽ",
+   "en": "  Walk",
+   "notes": ""
+  },
+  {
+   "id": "menus_0005",
+   "offset": "0x92DC",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　ねかせる",
+   "en": "  Nap",
+   "notes": ""
+  },
+  {
+   "id": "menus_0006",
+   "offset": "0x92E6",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　おていれ",
+   "en": "  Groom",
+   "notes": ""
+  },
+  {
+   "id": "menus_0007",
+   "offset": "0x92F0",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　ごちそう",
+   "en": "  Treat",
+   "notes": ""
+  },
+  {
+   "id": "menus_0008",
+   "offset": "0x92FA",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　てのり",
+   "en": "  Hold",
+   "notes": "てのり: letting it sit on your hand."
+  },
+  {
+   "id": "menus_0009",
+   "offset": "0x9304",
+   "length": 10,
+   "pointers": [],
+   "jp": "ちょうきょうメニュー",
+   "en": " Training",
+   "notes": ""
+  },
+  {
+   "id": "menus_0010",
+   "offset": "0x930E",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　たくましく",
+   "en": "  Tough",
+   "notes": ""
+  },
+  {
+   "id": "menus_0011",
+   "offset": "0x9318",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　すばしっこく",
+   "en": "  Nimble",
+   "notes": ""
+  },
+  {
+   "id": "menus_0012",
+   "offset": "0x9322",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　あまやかす",
+   "en": "  Spoil",
+   "notes": ""
+  },
+  {
+   "id": "menus_0013",
+   "offset": "0x932C",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　みがきをかける",
+   "en": "  Polish",
+   "notes": ""
+  },
+  {
+   "id": "menus_0014",
+   "offset": "0x9336",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　すきにさせる",
+   "en": "  Relax",
+   "notes": "すきにさせる: let it do as it likes."
+  },
+  {
+   "id": "menus_0015",
+   "offset": "0x9340",
+   "length": 10,
+   "pointers": [],
+   "jp": "　しつけメニュー",
+   "en": " Habits",
+   "notes": ""
+  },
+  {
+   "id": "menus_0016",
+   "offset": "0x934A",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　トイレ",
+   "en": "  Toilet",
+   "notes": ""
+  },
+  {
+   "id": "menus_0017",
+   "offset": "0x9354",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　アイテム",
+   "en": "  Items",
+   "notes": ""
+  },
+  {
+   "id": "menus_0018",
+   "offset": "0x935E",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　かじる",
+   "en": "  Chewing",
+   "notes": ""
+  },
+  {
+   "id": "menus_0019",
+   "offset": "0x9368",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　すづくり",
+   "en": "  Nesting",
+   "notes": ""
+  },
+  {
+   "id": "menus_0020",
+   "offset": "0x9372",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　すききらい",
+   "en": "  Picky",
+   "notes": ""
+  },
+  {
+   "id": "menus_0021",
+   "offset": "0x937C",
+   "length": 11,
+   "pointers": [],
+   "jp": "どこにうつしますか？",
+   "en": "Where to?",
+   "notes": ""
+  },
+  {
+   "id": "menus_0022",
+   "offset": "0x9387",
+   "length": 8,
+   "pointers": [],
+   "jp": "ケージのそと",
+   "en": "Outside",
+   "notes": ""
+  },
+  {
+   "id": "menus_0023",
+   "offset": "0x938F",
+   "length": 6,
+   "pointers": [],
+   "jp": "きげん：",
+   "en": "Mood:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0024",
+   "offset": "0x9395",
+   "length": 6,
+   "pointers": [],
+   "jp": "ぐあい：",
+   "en": "Cond:",
+   "notes": "ぐあい: physical condition."
+  },
+  {
+   "id": "menus_0025",
+   "offset": "0x939B",
+   "length": 10,
+   "pointers": [],
+   "jp": "たいりょく：",
+   "en": " Stam:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0026",
+   "offset": "0x93A5",
+   "length": 10,
+   "pointers": [],
+   "jp": "　すばやさ：",
+   "en": "Speed:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0027",
+   "offset": "0x93AF",
+   "length": 10,
+   "pointers": [],
+   "jp": "　ジャンプ：",
+   "en": " Jump:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0028",
+   "offset": "0x93B9",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　けヅヤ：",
+   "en": " Coat:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0029",
+   "offset": "0x93C3",
+   "length": 10,
+   "pointers": [],
+   "jp": "　かわいさ：",
+   "en": " Cute:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0030",
+   "offset": "0x93CD",
+   "length": 10,
+   "pointers": [],
+   "jp": "　　ようし：",
+   "en": "Looks:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0031",
+   "offset": "0x93D7",
+   "length": 10,
+   "pointers": [],
+   "jp": "ゴールデン",
+   "en": "Golden",
+   "notes": ""
+  },
+  {
+   "id": "menus_0032",
+   "offset": "0x93E1",
+   "length": 10,
+   "pointers": [],
+   "jp": "ジャンガリアン",
+   "en": "Djungarian",
+   "notes": ""
+  },
+  {
+   "id": "menus_0033",
+   "offset": "0x93EB",
+   "length": 10,
+   "pointers": [],
+   "jp": "ロボロフスキー",
+   "en": "Roborovski",
+   "notes": ""
+  },
+  {
+   "id": "menus_0034",
+   "offset": "0x93F5",
+   "length": 10,
+   "pointers": [],
+   "jp": "キャンべル",
+   "en": "Campbell's",
+   "notes": ""
+  },
+  {
+   "id": "menus_0035",
+   "offset": "0x93FF",
+   "length": 10,
+   "pointers": [],
+   "jp": "チャイニーズ",
+   "en": "Chinese",
+   "notes": ""
+  },
+  {
+   "id": "menus_0036",
+   "offset": "0x9409",
+   "length": 4,
+   "pointers": [],
+   "jp": "おもさ：",
+   "en": "Wt.:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0037",
+   "offset": "0x9410",
+   "length": 2,
+   "pointers": [],
+   "jp": "父：",
+   "en": "♂:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0038",
+   "offset": "0x9412",
+   "length": 2,
+   "pointers": [],
+   "jp": "母：",
+   "en": "♀:",
+   "notes": ""
+  },
+  {
+   "id": "menus_0039",
+   "offset": "0x9414",
+   "length": 8,
+   "pointers": [],
+   "jp": "こんかいのレース",
+   "en": "This cup",
+   "notes": ""
+  },
+  {
+   "id": "menus_0040",
+   "offset": "0x941C",
+   "length": 13,
+   "pointers": [],
+   "jp": "HAM’Sカップ",
+   "en": "HAM'S Cup",
+   "notes": ""
+  },
+  {
+   "id": "menus_0041",
+   "offset": "0x9429",
+   "length": 13,
+   "pointers": [],
+   "jp": "ブリーダーズカップ",
+   "en": "Breeders' Cup",
+   "notes": ""
+  },
+  {
+   "id": "menus_0042",
+   "offset": "0x9436",
+   "length": 10,
+   "pointers": [],
+   "jp": "スぺシャルカップ",
+   "en": "Special",
+   "notes": "スペシャルカップ shortened to fit 10."
+  },
+  {
+   "id": "menus_0043",
+   "offset": "0x9440",
+   "length": 10,
+   "pointers": [],
+   "jp": "あいきょうしょうぶ",
+   "en": "Charm",
+   "notes": ""
+  },
+  {
+   "id": "menus_0044",
+   "offset": "0x944A",
+   "length": 10,
+   "pointers": [],
+   "jp": "うんどうしょうぶ",
+   "en": "Athletics",
+   "notes": ""
+  },
+  {
+   "id": "menus_0045",
+   "offset": "0x9454",
+   "length": 11,
+   "pointers": [],
+   "jp": "こんしゅうはカップは",
+   "en": "No cup this",
+   "notes": "Two halves of こんしゅうはカップはありません."
+  },
+  {
+   "id": "menus_0046",
+   "offset": "0x945F",
+   "length": 5,
+   "pointers": [],
+   "jp": "ありません",
+   "en": "week.",
+   "notes": ""
+  },
+  {
+   "id": "menus_0047",
+   "offset": "0x9464",
+   "length": 8,
+   "pointers": [],
+   "jp": "あいきょうランク",
+   "en": "Charm Rk",
+   "notes": ""
+  },
+  {
+   "id": "menus_0048",
+   "offset": "0x946C",
+   "length": 8,
+   "pointers": [],
+   "jp": "うんどうランク",
+   "en": "Athl. Rk",
+   "notes": ""
+  },
+  {
+   "id": "menus_0049",
+   "offset": "0x9474",
+   "length": 5,
+   "pointers": [],
+   "jp": "ポイント",
+   "en": "Pts.",
+   "notes": ""
+  },
+  {
+   "id": "menus_0050",
+   "offset": "0x9479",
+   "length": 7,
+   "pointers": [],
+   "jp": "つぎのランク",
+   "en": "Next Rk",
+   "notes": ""
+  }
+ ]
+}

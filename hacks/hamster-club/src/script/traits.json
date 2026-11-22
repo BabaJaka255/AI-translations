@@ -1,0 +1,824 @@
+{
+ "block": "traits",
+ "entries": [
+  {
+   "id": "traits_0000",
+   "offset": "0x2085",
+   "length": 16,
+   "pointers": [],
+   "jp": "おとしより",
+   "en": "Old soul",
+   "notes": ""
+  },
+  {
+   "id": "traits_0001",
+   "offset": "0x2095",
+   "length": 16,
+   "pointers": [],
+   "jp": "おひとよし",
+   "en": "Softie",
+   "notes": ""
+  },
+  {
+   "id": "traits_0002",
+   "offset": "0x20A5",
+   "length": 16,
+   "pointers": [],
+   "jp": "おおらか",
+   "en": "Mellow",
+   "notes": ""
+  },
+  {
+   "id": "traits_0003",
+   "offset": "0x20B5",
+   "length": 16,
+   "pointers": [],
+   "jp": "おっとり",
+   "en": "Calm",
+   "notes": ""
+  },
+  {
+   "id": "traits_0004",
+   "offset": "0x20C5",
+   "length": 16,
+   "pointers": [],
+   "jp": "マイぺース",
+   "en": "Own pace",
+   "notes": ""
+  },
+  {
+   "id": "traits_0005",
+   "offset": "0x20D5",
+   "length": 16,
+   "pointers": [],
+   "jp": "てんねんぼけ",
+   "en": "Airhead",
+   "notes": ""
+  },
+  {
+   "id": "traits_0006",
+   "offset": "0x20E5",
+   "length": 16,
+   "pointers": [],
+   "jp": "ものしずか",
+   "en": "Quiet",
+   "notes": ""
+  },
+  {
+   "id": "traits_0007",
+   "offset": "0x20F5",
+   "length": 16,
+   "pointers": [],
+   "jp": "おしとやか",
+   "en": "Graceful",
+   "notes": ""
+  },
+  {
+   "id": "traits_0008",
+   "offset": "0x2105",
+   "length": 16,
+   "pointers": [],
+   "jp": "おくゆかしい",
+   "en": "Refined",
+   "notes": ""
+  },
+  {
+   "id": "traits_0009",
+   "offset": "0x2115",
+   "length": 16,
+   "pointers": [],
+   "jp": "けんきょ",
+   "en": "Humble",
+   "notes": ""
+  },
+  {
+   "id": "traits_0010",
+   "offset": "0x2125",
+   "length": 16,
+   "pointers": [],
+   "jp": "しりょぶかい",
+   "en": "Prudent",
+   "notes": ""
+  },
+  {
+   "id": "traits_0011",
+   "offset": "0x2135",
+   "length": 16,
+   "pointers": [],
+   "jp": "うちき",
+   "en": "Reserved",
+   "notes": ""
+  },
+  {
+   "id": "traits_0012",
+   "offset": "0x2145",
+   "length": 16,
+   "pointers": [],
+   "jp": "みそっかす",
+   "en": "Runt",
+   "notes": ""
+  },
+  {
+   "id": "traits_0013",
+   "offset": "0x2155",
+   "length": 16,
+   "pointers": [],
+   "jp": "こしぬけ",
+   "en": "Coward",
+   "notes": ""
+  },
+  {
+   "id": "traits_0014",
+   "offset": "0x2165",
+   "length": 16,
+   "pointers": [],
+   "jp": "よわむし",
+   "en": "Wimp",
+   "notes": ""
+  },
+  {
+   "id": "traits_0015",
+   "offset": "0x2175",
+   "length": 16,
+   "pointers": [],
+   "jp": "おくびょう",
+   "en": "Timid",
+   "notes": ""
+  },
+  {
+   "id": "traits_0016",
+   "offset": "0x2185",
+   "length": 16,
+   "pointers": [],
+   "jp": "さみしがりや",
+   "en": "Lonely",
+   "notes": ""
+  },
+  {
+   "id": "traits_0017",
+   "offset": "0x2195",
+   "length": 16,
+   "pointers": [],
+   "jp": "あまえんぼう",
+   "en": "Clingy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0018",
+   "offset": "0x21A5",
+   "length": 16,
+   "pointers": [],
+   "jp": "ひとなつっこい",
+   "en": "Friendly",
+   "notes": ""
+  },
+  {
+   "id": "traits_0019",
+   "offset": "0x21B5",
+   "length": 16,
+   "pointers": [],
+   "jp": "やさしい",
+   "en": "Kind",
+   "notes": ""
+  },
+  {
+   "id": "traits_0020",
+   "offset": "0x21C5",
+   "length": 16,
+   "pointers": [],
+   "jp": "じゅうじゅん",
+   "en": "Obedient",
+   "notes": ""
+  },
+  {
+   "id": "traits_0021",
+   "offset": "0x21D5",
+   "length": 16,
+   "pointers": [],
+   "jp": "おこりんぼう",
+   "en": "Grumpy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0022",
+   "offset": "0x21E5",
+   "length": 16,
+   "pointers": [],
+   "jp": "らんぼうもの",
+   "en": "Brute",
+   "notes": ""
+  },
+  {
+   "id": "traits_0023",
+   "offset": "0x21F5",
+   "length": 16,
+   "pointers": [],
+   "jp": "あばれんぼう",
+   "en": "Rowdy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0024",
+   "offset": "0x2205",
+   "length": 16,
+   "pointers": [],
+   "jp": "おうぼう",
+   "en": "Bossy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0025",
+   "offset": "0x2215",
+   "length": 16,
+   "pointers": [],
+   "jp": "きょうぼう",
+   "en": "Fierce",
+   "notes": ""
+  },
+  {
+   "id": "traits_0026",
+   "offset": "0x2225",
+   "length": 16,
+   "pointers": [],
+   "jp": "いたずらっこ",
+   "en": "Prankish",
+   "notes": ""
+  },
+  {
+   "id": "traits_0027",
+   "offset": "0x2235",
+   "length": 16,
+   "pointers": [],
+   "jp": "じぶんかって",
+   "en": "Selfish",
+   "notes": ""
+  },
+  {
+   "id": "traits_0028",
+   "offset": "0x2245",
+   "length": 16,
+   "pointers": [],
+   "jp": "わがまま",
+   "en": "Willful",
+   "notes": ""
+  },
+  {
+   "id": "traits_0029",
+   "offset": "0x2255",
+   "length": 16,
+   "pointers": [],
+   "jp": "いじめっこ",
+   "en": "Bully",
+   "notes": ""
+  },
+  {
+   "id": "traits_0030",
+   "offset": "0x2265",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぼうじゃくくぶじん",
+   "en": "Arrogant",
+   "notes": ""
+  },
+  {
+   "id": "traits_0031",
+   "offset": "0x2275",
+   "length": 16,
+   "pointers": [],
+   "jp": "ずうずうしい",
+   "en": "Brazen",
+   "notes": ""
+  },
+  {
+   "id": "traits_0032",
+   "offset": "0x2285",
+   "length": 16,
+   "pointers": [],
+   "jp": "ろくでなし",
+   "en": "No-good",
+   "notes": ""
+  },
+  {
+   "id": "traits_0033",
+   "offset": "0x2295",
+   "length": 16,
+   "pointers": [],
+   "jp": "はくじょう",
+   "en": "Cold",
+   "notes": ""
+  },
+  {
+   "id": "traits_0034",
+   "offset": "0x22A5",
+   "length": 16,
+   "pointers": [],
+   "jp": "はらぐろい",
+   "en": "Sly",
+   "notes": ""
+  },
+  {
+   "id": "traits_0035",
+   "offset": "0x22B5",
+   "length": 16,
+   "pointers": [],
+   "jp": "さくし",
+   "en": "Schemer",
+   "notes": ""
+  },
+  {
+   "id": "traits_0036",
+   "offset": "0x22C5",
+   "length": 16,
+   "pointers": [],
+   "jp": "しんぱいしょう",
+   "en": "Worrier",
+   "notes": ""
+  },
+  {
+   "id": "traits_0037",
+   "offset": "0x22D5",
+   "length": 16,
+   "pointers": [],
+   "jp": "しみったれ",
+   "en": "Stingy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0038",
+   "offset": "0x22E5",
+   "length": 16,
+   "pointers": [],
+   "jp": "しんけいしつ",
+   "en": "Nervous",
+   "notes": ""
+  },
+  {
+   "id": "traits_0039",
+   "offset": "0x22F5",
+   "length": 16,
+   "pointers": [],
+   "jp": "せんさい",
+   "en": "Delicate",
+   "notes": ""
+  },
+  {
+   "id": "traits_0040",
+   "offset": "0x2305",
+   "length": 16,
+   "pointers": [],
+   "jp": "ヒステリー",
+   "en": "Hysteric",
+   "notes": ""
+  },
+  {
+   "id": "traits_0041",
+   "offset": "0x2315",
+   "length": 16,
+   "pointers": [],
+   "jp": "きみじか",
+   "en": "Testy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0042",
+   "offset": "0x2325",
+   "length": 16,
+   "pointers": [],
+   "jp": "あわてんぼう",
+   "en": "Frazzled",
+   "notes": ""
+  },
+  {
+   "id": "traits_0043",
+   "offset": "0x2335",
+   "length": 16,
+   "pointers": [],
+   "jp": "そそっかしい",
+   "en": "Careless",
+   "notes": ""
+  },
+  {
+   "id": "traits_0044",
+   "offset": "0x2345",
+   "length": 16,
+   "pointers": [],
+   "jp": "せわしない",
+   "en": "Restless",
+   "notes": ""
+  },
+  {
+   "id": "traits_0045",
+   "offset": "0x2355",
+   "length": 16,
+   "pointers": [],
+   "jp": "たんき",
+   "en": "Hothead",
+   "notes": ""
+  },
+  {
+   "id": "traits_0046",
+   "offset": "0x2365",
+   "length": 16,
+   "pointers": [],
+   "jp": "めだちたがり",
+   "en": "Show-off",
+   "notes": ""
+  },
+  {
+   "id": "traits_0047",
+   "offset": "0x2375",
+   "length": 16,
+   "pointers": [],
+   "jp": "おちょうしもの",
+   "en": "Flighty",
+   "notes": ""
+  },
+  {
+   "id": "traits_0048",
+   "offset": "0x2385",
+   "length": 16,
+   "pointers": [],
+   "jp": "むてっぽう",
+   "en": "Reckless",
+   "notes": ""
+  },
+  {
+   "id": "traits_0049",
+   "offset": "0x2395",
+   "length": 16,
+   "pointers": [],
+   "jp": "むこうみず",
+   "en": "Rash",
+   "notes": ""
+  },
+  {
+   "id": "traits_0050",
+   "offset": "0x23A5",
+   "length": 16,
+   "pointers": [],
+   "jp": "むぼう",
+   "en": "Wild",
+   "notes": ""
+  },
+  {
+   "id": "traits_0051",
+   "offset": "0x23B5",
+   "length": 16,
+   "pointers": [],
+   "jp": "みえっぱり",
+   "en": "Vain",
+   "notes": ""
+  },
+  {
+   "id": "traits_0052",
+   "offset": "0x23C5",
+   "length": 16,
+   "pointers": [],
+   "jp": "へそまがり",
+   "en": "Contrary",
+   "notes": ""
+  },
+  {
+   "id": "traits_0053",
+   "offset": "0x23D5",
+   "length": 16,
+   "pointers": [],
+   "jp": "いじっぱり",
+   "en": "Stubborn",
+   "notes": ""
+  },
+  {
+   "id": "traits_0054",
+   "offset": "0x23E5",
+   "length": 16,
+   "pointers": [],
+   "jp": "なまいき",
+   "en": "Sassy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0055",
+   "offset": "0x23F5",
+   "length": 16,
+   "pointers": [],
+   "jp": "まけずぎらい",
+   "en": "Feisty",
+   "notes": ""
+  },
+  {
+   "id": "traits_0056",
+   "offset": "0x2405",
+   "length": 16,
+   "pointers": [],
+   "jp": "どっちつかず",
+   "en": "Waffler",
+   "notes": ""
+  },
+  {
+   "id": "traits_0057",
+   "offset": "0x2415",
+   "length": 16,
+   "pointers": [],
+   "jp": "むせきにん",
+   "en": "Flaky",
+   "notes": ""
+  },
+  {
+   "id": "traits_0058",
+   "offset": "0x2425",
+   "length": 16,
+   "pointers": [],
+   "jp": "ゆうじゅうふだん",
+   "en": "Hesitant",
+   "notes": "優柔不断: indecisive ('Indecisive' is over 8)."
+  },
+  {
+   "id": "traits_0059",
+   "offset": "0x2435",
+   "length": 16,
+   "pointers": [],
+   "jp": "はっぽうびじん",
+   "en": "Pleaser",
+   "notes": "はっぽうびじん: someone who is nice to everyone."
+  },
+  {
+   "id": "traits_0060",
+   "offset": "0x2445",
+   "length": 16,
+   "pointers": [],
+   "jp": "ちゃっかりもの",
+   "en": "Shrewd",
+   "notes": ""
+  },
+  {
+   "id": "traits_0061",
+   "offset": "0x2455",
+   "length": 16,
+   "pointers": [],
+   "jp": "しっかりもの",
+   "en": "Reliable",
+   "notes": ""
+  },
+  {
+   "id": "traits_0062",
+   "offset": "0x2465",
+   "length": 16,
+   "pointers": [],
+   "jp": "いっぽんぎ",
+   "en": "Upright",
+   "notes": ""
+  },
+  {
+   "id": "traits_0063",
+   "offset": "0x2475",
+   "length": 16,
+   "pointers": [],
+   "jp": "まじめ",
+   "en": "Serious",
+   "notes": ""
+  },
+  {
+   "id": "traits_0064",
+   "offset": "0x2485",
+   "length": 16,
+   "pointers": [],
+   "jp": "きちょうめん",
+   "en": "Precise",
+   "notes": ""
+  },
+  {
+   "id": "traits_0065",
+   "offset": "0x2495",
+   "length": 16,
+   "pointers": [],
+   "jp": "せいじつ",
+   "en": "Sincere",
+   "notes": ""
+  },
+  {
+   "id": "traits_0066",
+   "offset": "0x24A5",
+   "length": 16,
+   "pointers": [],
+   "jp": "かっぱつ",
+   "en": "Lively",
+   "notes": ""
+  },
+  {
+   "id": "traits_0067",
+   "offset": "0x24B5",
+   "length": 16,
+   "pointers": [],
+   "jp": "めいりょう",
+   "en": "Bright",
+   "notes": ""
+  },
+  {
+   "id": "traits_0068",
+   "offset": "0x24C5",
+   "length": 16,
+   "pointers": [],
+   "jp": "どりょくか",
+   "en": "Diligent",
+   "notes": ""
+  },
+  {
+   "id": "traits_0069",
+   "offset": "0x24D5",
+   "length": 16,
+   "pointers": [],
+   "jp": "りはつ",
+   "en": "Smart",
+   "notes": ""
+  },
+  {
+   "id": "traits_0070",
+   "offset": "0x24E5",
+   "length": 16,
+   "pointers": [],
+   "jp": "しゅうさい",
+   "en": "Gifted",
+   "notes": ""
+  },
+  {
+   "id": "traits_0071",
+   "offset": "0x24F5",
+   "length": 16,
+   "pointers": [],
+   "jp": "らくてんてき",
+   "en": "Optimist",
+   "notes": ""
+  },
+  {
+   "id": "traits_0072",
+   "offset": "0x2505",
+   "length": 16,
+   "pointers": [],
+   "jp": "すなお",
+   "en": "Honest",
+   "notes": ""
+  },
+  {
+   "id": "traits_0073",
+   "offset": "0x2515",
+   "length": 16,
+   "pointers": [],
+   "jp": "むじゃき",
+   "en": "Innocent",
+   "notes": ""
+  },
+  {
+   "id": "traits_0074",
+   "offset": "0x2525",
+   "length": 16,
+   "pointers": [],
+   "jp": "がまんづよい",
+   "en": "Patient",
+   "notes": ""
+  },
+  {
+   "id": "traits_0075",
+   "offset": "0x2535",
+   "length": 16,
+   "pointers": [],
+   "jp": "てんしんらんまん",
+   "en": "Carefree",
+   "notes": ""
+  },
+  {
+   "id": "traits_0076",
+   "offset": "0x2545",
+   "length": 16,
+   "pointers": [],
+   "jp": "けいはく",
+   "en": "Shallow",
+   "notes": ""
+  },
+  {
+   "id": "traits_0077",
+   "offset": "0x2555",
+   "length": 16,
+   "pointers": [],
+   "jp": "あきっぽい",
+   "en": "Fickle",
+   "notes": ""
+  },
+  {
+   "id": "traits_0078",
+   "offset": "0x2565",
+   "length": 16,
+   "pointers": [],
+   "jp": "きまぐれ",
+   "en": "Erratic",
+   "notes": ""
+  },
+  {
+   "id": "traits_0079",
+   "offset": "0x2575",
+   "length": 16,
+   "pointers": [],
+   "jp": "はてんこう",
+   "en": "Unique",
+   "notes": ""
+  },
+  {
+   "id": "traits_0080",
+   "offset": "0x2585",
+   "length": 16,
+   "pointers": [],
+   "jp": "てんさい",
+   "en": "Genius",
+   "notes": ""
+  },
+  {
+   "id": "traits_0081",
+   "offset": "0x2595",
+   "length": 16,
+   "pointers": [],
+   "jp": "きどりや",
+   "en": "Snooty",
+   "notes": ""
+  },
+  {
+   "id": "traits_0082",
+   "offset": "0x25A5",
+   "length": 16,
+   "pointers": [],
+   "jp": "おてんば",
+   "en": "Tomboy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0083",
+   "offset": "0x25B5",
+   "length": 16,
+   "pointers": [],
+   "jp": "はなやか",
+   "en": "Dazzling",
+   "notes": ""
+  },
+  {
+   "id": "traits_0084",
+   "offset": "0x25C5",
+   "length": 16,
+   "pointers": [],
+   "jp": "おとめちっく",
+   "en": "Dreamy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0085",
+   "offset": "0x25D5",
+   "length": 16,
+   "pointers": [],
+   "jp": "こあくま",
+   "en": "Devilish",
+   "notes": ""
+  },
+  {
+   "id": "traits_0086",
+   "offset": "0x25E5",
+   "length": 16,
+   "pointers": [],
+   "jp": "ひとみしり",
+   "en": "Shy",
+   "notes": ""
+  },
+  {
+   "id": "traits_0087",
+   "offset": "0x25F5",
+   "length": 16,
+   "pointers": [],
+   "jp": "むっつりすけべ",
+   "en": "Lech",
+   "notes": "UNSURE: むっつりすけべ is literally 'closet pervert'; toned down to 'Lech'."
+  },
+  {
+   "id": "traits_0088",
+   "offset": "0x2605",
+   "length": 16,
+   "pointers": [],
+   "jp": "ものずき",
+   "en": "Curious",
+   "notes": ""
+  },
+  {
+   "id": "traits_0089",
+   "offset": "0x2615",
+   "length": 16,
+   "pointers": [],
+   "jp": "かわりもの",
+   "en": "Oddball",
+   "notes": ""
+  },
+  {
+   "id": "traits_0090",
+   "offset": "0x2625",
+   "length": 16,
+   "pointers": [],
+   "jp": "ふうらいぼう",
+   "en": "Drifter",
+   "notes": ""
+  }
+ ]
+}

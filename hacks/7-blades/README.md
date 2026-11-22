@@ -37,12 +37,19 @@ Play the result in PCSX2 or with your usual loader.
 Known issues:
 - HUD weapon names stay in kanji (the European release shows these in kanji too).
 
+## Build on this
+Source is in [`src/`](src/BUILD.md): the C code added to the Japanese program (subtitle engine, text renderer, sword effects, pressure attacks), every build and analysis tool, the `rhtk` toolkit, the European subtitle script dump and the European font texture. Building needs your own copies of **both** discs. The build is **not yet verified byte for byte**, because the Japanese disc image wasn't available when this source was published; the first two build steps were rerun from a clean copy without errors. Addresses, formats and every hook are in [`docs/ENGINE_NOTES.md`](docs/ENGINE_NOTES.md), and the full story (including a wrong turn) in [`DEVLOG.md`](DEVLOG.md).
+
 ## About AI use
 This project was made with substantial help from Claude (Anthropic). Claude did the reverse engineering of both releases, rebuilt the European subtitle engine, text renderer, sword effects and pressure attacks as new code for the Japanese program, moved the European English text and images onto the Japanese disc, and wrote the three missing item names. The human project lead chose the project and its rules (build on the Japanese program, keep the European English as is), supplied their own disc images, compared screens against the European release and tested on a real PS2.
+
+## License
+Code, tools and docs made for this project: MIT. New English text (three item names): CC BY 4.0. The English script, font and images come from the official European release and, like all extracted game material here, remain the property of their rights holders; they are included for research and modding.
 
 ## Credits
 - Direction, comparison and hardware testing: the project lead
 - Porting and hacking: Claude (Anthropic)
+- Tools: PCSX2, GCC (mips64el cross), capstone, Ghidra, unicorn, xdelta3
 - English script and assets: from the official European release of *7 Blades*
 - Original game: *7 Blades* © 2000 Konami. This is an unofficial fan patch. Please share the patch, not the game.
 

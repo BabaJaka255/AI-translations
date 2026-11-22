@@ -1,0 +1,755 @@
+{
+ "block": "inline0f",
+ "entries": [
+  {
+   "id": "inline0f_0000",
+   "offset": "0x3CA1E",
+   "length": 13,
+   "pointers": [],
+   "jp": "こんしゅうのスケジュール",
+   "en": "This week",
+   "notes": "",
+   "max_chars": 13
+  },
+  {
+   "id": "inline0f_0001",
+   "offset": "0x3CA2B",
+   "length": 15,
+   "pointers": [],
+   "jp": "しゅうかんごのスケジュール",
+   "en": " wk ahead",
+   "notes": "Follows the week count: '2 wks ahead'. Digit (1 or 2) is drawn before it; 'wk' works for both.",
+   "max_chars": 15
+  },
+  {
+   "id": "inline0f_0002",
+   "offset": "0x3CA3A",
+   "length": 17,
+   "pointers": [],
+   "jp": "HAM’Sカップ　　ランク",
+   "en": "HAM'S Cup  Rk",
+   "notes": "The game draws the rank digit at column 13, right after the Japanese ランク, so the text must be exactly 13 columns.",
+   "max_chars": 17
+  },
+  {
+   "id": "inline0f_0003",
+   "offset": "0x3CA4B",
+   "length": 17,
+   "pointers": [],
+   "jp": "ブリーダーズカップ　ランク",
+   "en": "Breeders'  Rk",
+   "notes": "The game draws the rank digit at column 13, right after the Japanese ランク, so the text must be exactly 13 columns.",
+   "max_chars": 17
+  },
+  {
+   "id": "inline0f_0004",
+   "offset": "0x3CA5C",
+   "length": 16,
+   "pointers": [],
+   "jp": "こんしゅうはカップはありません",
+   "en": "No cup this week",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0005",
+   "offset": "0x3CA6C",
+   "length": 16,
+   "pointers": [],
+   "jp": "このしゅうはカップはありません",
+   "en": "No cup that week",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0006",
+   "offset": "0x3CA7C",
+   "length": 10,
+   "pointers": [],
+   "jp": "スぺシャルカップ",
+   "en": "Special",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0007",
+   "offset": "0x3CA86",
+   "length": 10,
+   "pointers": [],
+   "jp": "あいきょうしょうぶ",
+   "en": "Charm",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0008",
+   "offset": "0x3CA90",
+   "length": 10,
+   "pointers": [],
+   "jp": "うんどうしょうぶ",
+   "en": "Athletics",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0009",
+   "offset": "0x3CCBB",
+   "length": 16,
+   "pointers": [],
+   "jp": "えさがまったくありません。",
+   "en": "No food left.",
+   "notes": "Food screen message box wraps at 13 columns.",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0010",
+   "offset": "0x3CCCB",
+   "length": 16,
+   "pointers": [],
+   "jp": "　おおめ　ふつう　すくなめ",
+   "en": " Big Avg Tiny",
+   "notes": "Portion menu in the 13-column box; the cursor stops at columns 1, 5 and 9.",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0011",
+   "offset": "0x3CCDB",
+   "length": 4,
+   "pointers": [],
+   "jp": "のこり：",
+   "en": "Left",
+   "notes": "",
+   "max_chars": 4
+  },
+  {
+   "id": "inline0f_0012",
+   "offset": "0x3D1F1",
+   "length": 10,
+   "pointers": [],
+   "jp": "おおめにあげます。",
+   "en": "Gave lots.",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0013",
+   "offset": "0x3D1FB",
+   "length": 10,
+   "pointers": [],
+   "jp": "ふつうにあげます。",
+   "en": "Gave some.",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0014",
+   "offset": "0x3D205",
+   "length": 11,
+   "pointers": [],
+   "jp": "すくなめにあげます。",
+   "en": "Gave a bit.",
+   "notes": "",
+   "max_chars": 11
+  },
+  {
+   "id": "inline0f_0015",
+   "offset": "0x3D464",
+   "length": 18,
+   "pointers": [],
+   "jp": "　やさしく　　ふつうに　　きびしく",
+   "en": " Soft  Norm  Firm",
+   "notes": "Cursor stops at columns 0, 6 and 12.",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0f_0016",
+   "offset": "0x3DBA3",
+   "length": 10,
+   "pointers": [],
+   "jp": "さんぽさせました。",
+   "en": "Took a walk.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0017",
+   "offset": "0x3DBAD",
+   "length": 15,
+   "pointers": [],
+   "jp": "たくさんねかせてあげました。",
+   "en": "Had a long nap.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0018",
+   "offset": "0x3DBDE",
+   "length": 14,
+   "pointers": [],
+   "jp": "あげるものがありません。",
+   "en": "Nothing to give.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0019",
+   "offset": "0x3DBEC",
+   "length": 14,
+   "pointers": [],
+   "jp": "おとなしくのってくれました。",
+   "en": "It sat calmly.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0020",
+   "offset": "0x3DBFA",
+   "length": 14,
+   "pointers": [],
+   "jp": "まだなれてないようです。",
+   "en": "Not tame yet.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0021",
+   "offset": "0x3DC08",
+   "length": 14,
+   "pointers": [],
+   "jp": "たいりょく　アップ！",
+   "en": "Stamina up!",
+   "notes": "",
+   "max_chars": 14
+  },
+  {
+   "id": "inline0f_0022",
+   "offset": "0x3DC16",
+   "length": 14,
+   "pointers": [],
+   "jp": "すばやさ　アップ！",
+   "en": "Speed up!",
+   "notes": "",
+   "max_chars": 14
+  },
+  {
+   "id": "inline0f_0023",
+   "offset": "0x3DC24",
+   "length": 15,
+   "pointers": [],
+   "jp": "ジャンプ　アップ！",
+   "en": "Jump up!",
+   "notes": "",
+   "max_chars": 15
+  },
+  {
+   "id": "inline0f_0024",
+   "offset": "0x3DC33",
+   "length": 13,
+   "pointers": [],
+   "jp": "けヅヤ　アップ！",
+   "en": "Coat up!",
+   "notes": "",
+   "max_chars": 13
+  },
+  {
+   "id": "inline0f_0025",
+   "offset": "0x3DC40",
+   "length": 13,
+   "pointers": [],
+   "jp": "かわいさ　アップ！",
+   "en": "Cuteness up!",
+   "notes": "",
+   "max_chars": 13
+  },
+  {
+   "id": "inline0f_0026",
+   "offset": "0x3DC4D",
+   "length": 12,
+   "pointers": [],
+   "jp": "ようし　アップ！",
+   "en": "Looks up!",
+   "notes": "",
+   "max_chars": 12
+  },
+  {
+   "id": "inline0f_0027",
+   "offset": "0x3DC59",
+   "length": 10,
+   "pointers": [],
+   "jp": "よろこんでいます。",
+   "en": "It's glad.",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0028",
+   "offset": "0x3DC63",
+   "length": 15,
+   "pointers": [],
+   "jp": "すこし、おりこうさんになった",
+   "en": "Seems a little",
+   "notes": "Line 1; line 2 is 'wiser.' (shared with 0038).",
+   "max_chars": 15
+  },
+  {
+   "id": "inline0f_0029",
+   "offset": "0x3DC72",
+   "length": 7,
+   "pointers": [],
+   "jp": "きがします。",
+   "en": "wiser.",
+   "notes": "",
+   "max_chars": 7
+  },
+  {
+   "id": "inline0f_0030",
+   "offset": "0x3DC79",
+   "length": 11,
+   "pointers": [],
+   "jp": "たいちょう　かいふく！",
+   "en": "Recovered!",
+   "notes": "",
+   "max_chars": 11
+  },
+  {
+   "id": "inline0f_0031",
+   "offset": "0x3DC84",
+   "length": 14,
+   "pointers": [],
+   "jp": "たいりょく　さいだいです",
+   "en": "Max stamina",
+   "notes": "",
+   "max_chars": 14
+  },
+  {
+   "id": "inline0f_0032",
+   "offset": "0x3DC92",
+   "length": 14,
+   "pointers": [],
+   "jp": "すばやさ　さいだいです",
+   "en": "Max speed",
+   "notes": "",
+   "max_chars": 14
+  },
+  {
+   "id": "inline0f_0033",
+   "offset": "0x3DCA0",
+   "length": 15,
+   "pointers": [],
+   "jp": "ジャンプ　さいだいです",
+   "en": "Max jump",
+   "notes": "",
+   "max_chars": 15
+  },
+  {
+   "id": "inline0f_0034",
+   "offset": "0x3DCAF",
+   "length": 13,
+   "pointers": [],
+   "jp": "けヅヤ　さいだいです",
+   "en": "Max coat",
+   "notes": "",
+   "max_chars": 13
+  },
+  {
+   "id": "inline0f_0035",
+   "offset": "0x3DCBC",
+   "length": 13,
+   "pointers": [],
+   "jp": "かわいさ　さいだいです",
+   "en": "Max cuteness",
+   "notes": "",
+   "max_chars": 13
+  },
+  {
+   "id": "inline0f_0036",
+   "offset": "0x3DCC9",
+   "length": 12,
+   "pointers": [],
+   "jp": "ようし　さいだいです",
+   "en": "Max looks",
+   "notes": "",
+   "max_chars": 12
+  },
+  {
+   "id": "inline0f_0037",
+   "offset": "0x3DCD5",
+   "length": 10,
+   "pointers": [],
+   "jp": "よろこんでいます。",
+   "en": "It's glad.",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0038",
+   "offset": "0x3DCDF",
+   "length": 15,
+   "pointers": [],
+   "jp": "これいじょうかしこくならない",
+   "en": "Can't get any",
+   "notes": "Line 1; line 2 is 'wiser.'",
+   "max_chars": 15
+  },
+  {
+   "id": "inline0f_0039",
+   "offset": "0x3E334",
+   "length": 6,
+   "pointers": [],
+   "jp": "はいちずみ",
+   "en": "Placed",
+   "notes": "",
+   "max_chars": 6
+  },
+  {
+   "id": "inline0f_0040",
+   "offset": "0x3E33A",
+   "length": 6,
+   "pointers": [],
+   "jp": "コもってます",
+   "en": " owned",
+   "notes": "Follows a count: '3 owned'.",
+   "max_chars": 6
+  },
+  {
+   "id": "inline0f_0041",
+   "offset": "0x3E6D1",
+   "length": 18,
+   "pointers": [],
+   "jp": "しゅつじょうとうろくずみです。",
+   "en": "Already entered.",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0f_0042",
+   "offset": "0x3E6E3",
+   "length": 10,
+   "pointers": [],
+   "jp": "　そのまま　とりけす",
+   "en": " Keep Undo",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0043",
+   "offset": "0x3E6ED",
+   "length": 14,
+   "pointers": [],
+   "jp": "しゅつじょうする　　しない",
+   "en": "Enter     Skip",
+   "notes": "",
+   "max_chars": 14
+  },
+  {
+   "id": "inline0f_0044",
+   "offset": "0x3E6FB",
+   "length": 13,
+   "pointers": [],
+   "jp": "しゅつじょうできません",
+   "en": "Can't enter.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0045",
+   "offset": "0x3E9A4",
+   "length": 10,
+   "pointers": [],
+   "jp": "へやのじょうたい：",
+   "en": "Cage status:",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0f_0046",
+   "offset": "0x3E9AE",
+   "length": 3,
+   "pointers": [],
+   "jp": "エサ：",
+   "en": "Food:",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0f_0047",
+   "offset": "0x3E9B1",
+   "length": 3,
+   "pointers": [],
+   "jp": "のこり",
+   "en": " ",
+   "notes": "のこり (left) follows the food name; make_hacks.py turns the separator before it into ':', so this is just a space.",
+   "max_chars": 3
+  },
+  {
+   "id": "inline0f_0048",
+   "offset": "0x3E9B4",
+   "length": 5,
+   "pointers": [],
+   "jp": "あげます",
+   "en": " portions",
+   "notes": "Follows the portion word: 'Big portions'.",
+   "max_chars": 9
+  },
+  {
+   "id": "inline0f_0049",
+   "offset": "0x3E9B9",
+   "length": 8,
+   "pointers": [],
+   "jp": "あげられません",
+   "en": "Can't feed",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0050",
+   "offset": "0x3E9C1",
+   "length": 12,
+   "pointers": [],
+   "jp": "ハムスター／さいだい：",
+   "en": "Hamster max:",
+   "notes": "",
+   "max_chars": 12
+  },
+  {
+   "id": "inline0f_0051",
+   "offset": "0x3E9CD",
+   "length": 12,
+   "pointers": [],
+   "jp": "　アイテム／さいだい：",
+   "en": "   Item max:",
+   "notes": "",
+   "max_chars": 12
+  },
+  {
+   "id": "inline0f_0052",
+   "offset": "0x3E9D9",
+   "length": 10,
+   "pointers": [],
+   "jp": "そうじしていません",
+   "en": "Uncleaned",
+   "notes": "52 and 53 share one length byte: keep both at 10 or less.",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0053",
+   "offset": "0x3E9E3",
+   "length": 10,
+   "pointers": [],
+   "jp": "そうじしています",
+   "en": "Cleaned",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0f_0054",
+   "offset": "0x3E9ED",
+   "length": 4,
+   "pointers": [],
+   "jp": "たくさん",
+   "en": "Big",
+   "notes": "Portion words, 4-wide table at 0x3E9ED (this one) + lists 0x3E9F1: たくさん/ふつうに/すこし. Same words as the portion menu.",
+   "max_chars": 4
+  },
+  {
+   "id": "inline0f_0055",
+   "offset": "0x3ECFF",
+   "length": 4,
+   "pointers": [],
+   "jp": "アイテム",
+   "en": "Items",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0056",
+   "offset": "0x3ED03",
+   "length": 5,
+   "pointers": [],
+   "jp": "ごちそう",
+   "en": "Treat",
+   "notes": "",
+   "max_chars": 5
+  },
+  {
+   "id": "inline0f_0057",
+   "offset": "0x3ED08",
+   "length": 14,
+   "pointers": [],
+   "jp": "すばこ　　　　　みずいれ",
+   "en": "  Nest    Water",
+   "notes": "Item grid, starts at column 1 (patches/hacks.ips): names end at columns 6 and 15, counts at 8 and 17.",
+   "max_chars": 15
+  },
+  {
+   "id": "inline0f_0058",
+   "offset": "0x3ED16",
+   "length": 16,
+   "pointers": [],
+   "jp": "まわしぐるま　　　　　　トイレ",
+   "en": " Wheel   Toilet",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0059",
+   "offset": "0x3ED26",
+   "length": 15,
+   "pointers": [],
+   "jp": "すばこ2　　　　みずいれ2",
+   "en": " Nest2   Water2",
+   "notes": "",
+   "max_chars": 15
+  },
+  {
+   "id": "inline0f_0060",
+   "offset": "0x3ED35",
+   "length": 16,
+   "pointers": [],
+   "jp": "すべりだい　　　　　トイレ2",
+   "en": " Slide  Toilet2",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0f_0061",
+   "offset": "0x3ED45",
+   "length": 15,
+   "pointers": [],
+   "jp": "すばこ3　　　　みずいれ3",
+   "en": " Nest3   Water3",
+   "notes": "",
+   "max_chars": 15
+  },
+  {
+   "id": "inline0f_0062",
+   "offset": "0x3ED54",
+   "length": 13,
+   "pointers": [],
+   "jp": "シーソー　　　　　トイレ3",
+   "en": "Seesaw  Toilet3",
+   "notes": "Seesaw: same grid layout.",
+   "max_chars": 15
+  },
+  {
+   "id": "inline0f_0063",
+   "offset": "0x3ED61",
+   "length": 6,
+   "pointers": [],
+   "jp": "ガッツマメ",
+   "en": "GutsBean",
+   "notes": "Treat list: starts at column 1 (patches/hacks.ips), beans right-aligned to column 8, Ice Cup and Niboshi start at column 12.",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0064",
+   "offset": "0x3ED67",
+   "length": 7,
+   "pointers": [],
+   "jp": "ダッシュマメ",
+   "en": "DashBean",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0065",
+   "offset": "0x3ED6E",
+   "length": 8,
+   "pointers": [],
+   "jp": "ぴょっこんマメ",
+   "en": " HopBean",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0066",
+   "offset": "0x3ED76",
+   "length": 6,
+   "pointers": [],
+   "jp": "つやつやマメ",
+   "en": "SilkBean",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0067",
+   "offset": "0x3ED7C",
+   "length": 8,
+   "pointers": [],
+   "jp": "ぷりぷりマメ",
+   "en": "LookBean",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0068",
+   "offset": "0x3ED84",
+   "length": 8,
+   "pointers": [],
+   "jp": "ぴかぴかマメ",
+   "en": "CuteBean",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0069",
+   "offset": "0x3ED8C",
+   "length": 7,
+   "pointers": [],
+   "jp": "カップアイス",
+   "en": "Ice Cup",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0070",
+   "offset": "0x3ED93",
+   "length": 4,
+   "pointers": [],
+   "jp": "ニボシ",
+   "en": "Niboshi",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0071",
+   "offset": "0x3ED97",
+   "length": 11,
+   "pointers": [],
+   "jp": "ブリーダーランク：",
+   "en": "Breeder Rk:",
+   "notes": "",
+   "max_chars": 11
+  },
+  {
+   "id": "inline0f_0072",
+   "offset": "0x3EDA2",
+   "length": 6,
+   "pointers": [],
+   "jp": "ポイント：",
+   "en": "Pts.:",
+   "notes": "",
+   "max_chars": 6
+  },
+  {
+   "id": "inline0f_0073",
+   "offset": "0x3EDA8",
+   "length": 8,
+   "pointers": [],
+   "jp": "つぎのランク：",
+   "en": "Next Rk:",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0f_0074",
+   "offset": "0x3C2D4",
+   "length": 10,
+   "pointers": [],
+   "jp": "すいこんじゃった！",
+   "en": "Got vacuumed up!",
+   "notes": "Accident popup when cleaning the free-roaming ('Outside') cage with the vacuum: line 1, the hamster's name is line 2. Lit. 'sucked it up!'",
+   "max_chars": 18
+  }
+ ]
+}

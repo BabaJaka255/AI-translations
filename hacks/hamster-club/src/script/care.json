@@ -1,0 +1,266 @@
+{
+ "block": "care",
+ "entries": [
+  {
+   "id": "care_0000",
+   "offset": "0x2C1D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ピカピカにしました。",
+   "en": "It's spotless.",
+   "notes": "Cleaning results 0-7."
+  },
+  {
+   "id": "care_0001",
+   "offset": "0x2C2D",
+   "length": 16,
+   "pointers": [],
+   "jp": "せいけつになりました。",
+   "en": "It's clean now.",
+   "notes": ""
+  },
+  {
+   "id": "care_0002",
+   "offset": "0x2C3D",
+   "length": 16,
+   "pointers": [],
+   "jp": "きれいにしました。",
+   "en": "Tidied it up.",
+   "notes": ""
+  },
+  {
+   "id": "care_0003",
+   "offset": "0x2C4D",
+   "length": 16,
+   "pointers": [],
+   "jp": "そうじしました。",
+   "en": "Cleaned it.",
+   "notes": ""
+  },
+  {
+   "id": "care_0004",
+   "offset": "0x2C5D",
+   "length": 16,
+   "pointers": [],
+   "jp": "すこしにおうくらいになりました。",
+   "en": "Slightly smelly.",
+   "notes": ""
+  },
+  {
+   "id": "care_0005",
+   "offset": "0x2C6D",
+   "length": 16,
+   "pointers": [],
+   "jp": "まだキタナイです。",
+   "en": "Still dirty.",
+   "notes": ""
+  },
+  {
+   "id": "care_0006",
+   "offset": "0x2C7D",
+   "length": 16,
+   "pointers": [],
+   "jp": "くささがとれません。",
+   "en": "Still stinks.",
+   "notes": ""
+  },
+  {
+   "id": "care_0007",
+   "offset": "0x2C8D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ゴミためのままです。",
+   "en": "Still a pigsty.",
+   "notes": ""
+  },
+  {
+   "id": "care_0008",
+   "offset": "0x2CDD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぺレット",
+   "en": "Pellets",
+   "notes": "Food names (glossary menu forms)."
+  },
+  {
+   "id": "care_0009",
+   "offset": "0x2CED",
+   "length": 16,
+   "pointers": [],
+   "jp": "スーパーぺレット",
+   "en": "Pellets+",
+   "notes": ""
+  },
+  {
+   "id": "care_0010",
+   "offset": "0x2CFD",
+   "length": 16,
+   "pointers": [],
+   "jp": "ヤサイ",
+   "en": "Veggies",
+   "notes": ""
+  },
+  {
+   "id": "care_0011",
+   "offset": "0x2D0D",
+   "length": 16,
+   "pointers": [],
+   "jp": "たかいヤサイ",
+   "en": "Veggies+",
+   "notes": ""
+  },
+  {
+   "id": "care_0012",
+   "offset": "0x2D1D",
+   "length": 16,
+   "pointers": [],
+   "jp": "くだもの",
+   "en": "Fruit",
+   "notes": ""
+  },
+  {
+   "id": "care_0013",
+   "offset": "0x2D2D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぜいたくくだもの",
+   "en": "Fruit+",
+   "notes": ""
+  },
+  {
+   "id": "care_0014",
+   "offset": "0x2D3D",
+   "length": 16,
+   "pointers": [],
+   "jp": "ひまわりのタネ",
+   "en": "Seeds",
+   "notes": ""
+  },
+  {
+   "id": "care_0015",
+   "offset": "0x2D4D",
+   "length": 16,
+   "pointers": [],
+   "jp": "と〜もろこし",
+   "en": "Corn",
+   "notes": ""
+  },
+  {
+   "id": "care_0016",
+   "offset": "0x2D5D",
+   "length": 16,
+   "pointers": [],
+   "jp": "へルシーとうふ",
+   "en": "Tofu",
+   "notes": ""
+  },
+  {
+   "id": "care_0017",
+   "offset": "0x2D6D",
+   "length": 16,
+   "pointers": [],
+   "jp": "チーズ",
+   "en": "Cheese",
+   "notes": ""
+  },
+  {
+   "id": "care_0018",
+   "offset": "0x2DC5",
+   "length": 16,
+   "pointers": [],
+   "jp": "まるでわかっていません。",
+   "en": "Doesn't get it.",
+   "notes": "Training progress 18-28."
+  },
+  {
+   "id": "care_0019",
+   "offset": "0x2DD5",
+   "length": 16,
+   "pointers": [],
+   "jp": "まだまだです。",
+   "en": "Not there yet.",
+   "notes": ""
+  },
+  {
+   "id": "care_0020",
+   "offset": "0x2DE5",
+   "length": 16,
+   "pointers": [],
+   "jp": "イマイチおぼえてないです。",
+   "en": "Barely learned.",
+   "notes": ""
+  },
+  {
+   "id": "care_0021",
+   "offset": "0x2DF5",
+   "length": 16,
+   "pointers": [],
+   "jp": "すこしはマシになってきてます。",
+   "en": "Getting better.",
+   "notes": ""
+  },
+  {
+   "id": "care_0022",
+   "offset": "0x2E05",
+   "length": 16,
+   "pointers": [],
+   "jp": "まあまあです。",
+   "en": "So-so.",
+   "notes": ""
+  },
+  {
+   "id": "care_0023",
+   "offset": "0x2E15",
+   "length": 16,
+   "pointers": [],
+   "jp": "じゅんちょうです。",
+   "en": "Going well.",
+   "notes": ""
+  },
+  {
+   "id": "care_0024",
+   "offset": "0x2E25",
+   "length": 16,
+   "pointers": [],
+   "jp": "いいじょうたいです。",
+   "en": "In good shape.",
+   "notes": ""
+  },
+  {
+   "id": "care_0025",
+   "offset": "0x2E35",
+   "length": 16,
+   "pointers": [],
+   "jp": "かなりおぼえているようです。",
+   "en": "Learned a lot.",
+   "notes": ""
+  },
+  {
+   "id": "care_0026",
+   "offset": "0x2E45",
+   "length": 16,
+   "pointers": [],
+   "jp": "とてもよくしつけられています。",
+   "en": "Well trained.",
+   "notes": ""
+  },
+  {
+   "id": "care_0027",
+   "offset": "0x2E55",
+   "length": 16,
+   "pointers": [],
+   "jp": "バッチリしつけられています。",
+   "en": "Fully trained.",
+   "notes": ""
+  },
+  {
+   "id": "care_0028",
+   "offset": "0x2E65",
+   "length": 16,
+   "pointers": [],
+   "jp": "かんぺきにマスターしています。",
+   "en": "Mastered it.",
+   "notes": ""
+  }
+ ]
+}

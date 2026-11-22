@@ -1,0 +1,335 @@
+{
+ "block": "inline01",
+ "entries": [
+  {
+   "id": "inline01_0000",
+   "offset": "0x50DA",
+   "length": 4,
+   "pointers": [],
+   "jp": "ほうこく",
+   "en": "News",
+   "notes": "Title of the weekly report (4 columns).",
+   "max_chars": 4
+  },
+  {
+   "id": "inline01_0001",
+   "offset": "0x50DE",
+   "length": 9,
+   "pointers": [],
+   "jp": "がありません",
+   "en": ": none",
+   "notes": "Follows a food name: 'Pellets: none'.",
+   "max_chars": 9
+  },
+  {
+   "id": "inline01_0002",
+   "offset": "0x50E7",
+   "length": 9,
+   "pointers": [],
+   "jp": "がなくなりました",
+   "en": ": ran out",
+   "notes": "",
+   "max_chars": 9
+  },
+  {
+   "id": "inline01_0003",
+   "offset": "0x528A",
+   "length": 16,
+   "pointers": [],
+   "jp": "びょうきになってしまいました。",
+   "en": "Has gotten sick:",
+   "notes": "Line 1 of a popup; the hamster's name is line 2.",
+   "max_chars": 18
+  },
+  {
+   "id": "inline01_0004",
+   "offset": "0x53E0",
+   "length": 13,
+   "pointers": [],
+   "jp": "いなくなってしまいました。",
+   "en": "Has gone missing:",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline01_0005",
+   "offset": "0x5543",
+   "length": 18,
+   "pointers": [],
+   "jp": "たいへん、ネコがおそってきました！",
+   "en": "Attacked by a cat:",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline01_0006",
+   "offset": "0x56C1",
+   "length": 11,
+   "pointers": [],
+   "jp": "しんでしまいました。",
+   "en": "Has passed away:",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline01_0007",
+   "offset": "0x585E",
+   "length": 1,
+   "pointers": [],
+   "jp": "X",
+   "en": "&",
+   "notes": "Between two names: 'Pip&Chu'. The original uses X (×).",
+   "max_chars": 1
+  },
+  {
+   "id": "inline01_0008",
+   "offset": "0x585F",
+   "length": 10,
+   "pointers": [],
+   "jp": "なかよくなりました。",
+   "en": "Became friends.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline01_0009",
+   "offset": "0x5869",
+   "length": 15,
+   "pointers": [],
+   "jp": "ケンカがたえないようです。",
+   "en": "Always fighting.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline01_0010",
+   "offset": "0x5987",
+   "length": 1,
+   "pointers": [],
+   "jp": "＆",
+   "en": "&",
+   "notes": "",
+   "max_chars": 1
+  },
+  {
+   "id": "inline01_0011",
+   "offset": "0x5988",
+   "length": 13,
+   "pointers": [],
+   "jp": "こどもができました。",
+   "en": "Had babies!",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline01_0012",
+   "offset": "0x5AB5",
+   "length": 17,
+   "pointers": [],
+   "jp": "アイテムがこわれてしまいました。",
+   "en": "An item broke:",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline01_0013",
+   "offset": "0x6819",
+   "length": 21,
+   "pointers": [],
+   "jp": "スぺシャルカップ　うんどうしょうぶ",
+   "en": "Special Cup Athletics",
+   "notes": "21 columns, exactly full.",
+   "max_chars": 21
+  },
+  {
+   "id": "inline01_0014",
+   "offset": "0x682E",
+   "length": 21,
+   "pointers": [],
+   "jp": "スぺシャルカップ　あいきょうしょうぶ",
+   "en": "Special Cup Charm",
+   "notes": "",
+   "max_chars": 21
+  },
+  {
+   "id": "inline01_0015",
+   "offset": "0x6843",
+   "length": 17,
+   "pointers": [],
+   "jp": "HAM’Sカップ　　ランク",
+   "en": "HAM'S Cup  Rk",
+   "notes": "The game draws the rank digit at column 13, right after the Japanese ランク, so the text must be exactly 13 columns.",
+   "max_chars": 17
+  },
+  {
+   "id": "inline01_0016",
+   "offset": "0x6854",
+   "length": 17,
+   "pointers": [],
+   "jp": "ブリーダーズカップ　ランク",
+   "en": "Breeders'  Rk",
+   "notes": "The game draws the rank digit at column 13, right after the Japanese ランク, so the text must be exactly 13 columns.",
+   "max_chars": 17
+  },
+  {
+   "id": "inline01_0017",
+   "offset": "0x6865",
+   "length": 8,
+   "pointers": [],
+   "jp": "しゅつじょう：",
+   "en": "Entry:",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline01_0018",
+   "offset": "0x686D",
+   "length": 6,
+   "pointers": [],
+   "jp": "　　ちゅうし",
+   "en": "  None",
+   "notes": "",
+   "max_chars": 6
+  },
+  {
+   "id": "inline01_0019",
+   "offset": "0x6EAA",
+   "length": 14,
+   "pointers": [],
+   "jp": "わざをえらんでください",
+   "en": "Pick a trick.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline01_0020",
+   "offset": "0x780E",
+   "length": 8,
+   "pointers": [],
+   "jp": "あいきょうランク",
+   "en": "Charm Rk",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline01_0021",
+   "offset": "0x7816",
+   "length": 8,
+   "pointers": [],
+   "jp": "うんどうランク",
+   "en": "Athl. Rk",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline01_0022",
+   "offset": "0x781E",
+   "length": 10,
+   "pointers": [],
+   "jp": "ブリーダーランク",
+   "en": "Breeder Rk",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline01_0023",
+   "offset": "0x7828",
+   "length": 8,
+   "pointers": [],
+   "jp": "ランクアップ！",
+   "en": "Rank up!",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline01_0024",
+   "offset": "0x7830",
+   "length": 5,
+   "pointers": [],
+   "jp": "しょうきん",
+   "en": "Prize ",
+   "notes": "Result box: 'Prize 800G won!' (the amount and 'G won!' follow).",
+   "max_chars": 6
+  },
+  {
+   "id": "inline01_0025",
+   "offset": "0x7835",
+   "length": 7,
+   "pointers": [],
+   "jp": "Gをゲット！",
+   "en": "G won!",
+   "notes": "",
+   "max_chars": 7
+  },
+  {
+   "id": "inline01_0026",
+   "offset": "0x783C",
+   "length": 7,
+   "pointers": [],
+   "jp": "Pをゲット！",
+   "en": " points",
+   "notes": "Follows the 2-digit rank points: '03 points'. Must end by column 9: the hamster portrait starts at column 10.",
+   "max_chars": 7
+  },
+  {
+   "id": "inline01_0027",
+   "offset": "0x4D55",
+   "length": 5,
+   "pointers": [],
+   "jp": "たいりょく",
+   "en": "Stam",
+   "notes": "Weekly report stat labels (after NEXT WEEK); same words as the status screen. Arrows at column 8, so 6 columns max.",
+   "max_chars": 6
+  },
+  {
+   "id": "inline01_0028",
+   "offset": "0x4D5A",
+   "length": 5,
+   "pointers": [],
+   "jp": "すばやさ",
+   "en": "Speed",
+   "notes": "",
+   "max_chars": 6
+  },
+  {
+   "id": "inline01_0029",
+   "offset": "0x4D5F",
+   "length": 6,
+   "pointers": [],
+   "jp": "ジャンプ",
+   "en": "Jump",
+   "notes": "",
+   "max_chars": 6
+  },
+  {
+   "id": "inline01_0030",
+   "offset": "0x4D65",
+   "length": 4,
+   "pointers": [],
+   "jp": "けヅヤ",
+   "en": "Coat",
+   "notes": "",
+   "max_chars": 6
+  },
+  {
+   "id": "inline01_0031",
+   "offset": "0x4D69",
+   "length": 4,
+   "pointers": [],
+   "jp": "かわいさ",
+   "en": "Cute",
+   "notes": "",
+   "max_chars": 6
+  },
+  {
+   "id": "inline01_0032",
+   "offset": "0x4D6D",
+   "length": 3,
+   "pointers": [],
+   "jp": "ようし",
+   "en": "Looks",
+   "notes": "",
+   "max_chars": 6
+  }
+ ]
+}

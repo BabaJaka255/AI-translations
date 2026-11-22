@@ -1,0 +1,8253 @@
+{
+ "edits": [
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    2,
+    235,
+    30
+   ],
+   "text": "Main Menu",
+   "style": "menu_red",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    32,
+    194,
+    62
+   ],
+   "text": "Select Owner",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    64,
+    189,
+    94
+   ],
+   "text": "Owner Name",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    98,
+    194,
+    127
+   ],
+   "text": "Campaign",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    130,
+    169,
+    158
+   ],
+   "text": "Challenge",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    162,
+    207,
+    190
+   ],
+   "text": "Tutorial",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    194,
+    192,
+    222
+   ],
+   "text": "Owner Rating",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    225,
+    188,
+    254
+   ],
+   "text": "Load Data",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    256,
+    164,
+    286
+   ],
+   "text": "Options",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    289,
+    199,
+    318
+   ],
+   "text": "Total Rating",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    321,
+    203,
+    350
+   ],
+   "text": "Hired Staff",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    353,
+    171,
+    382
+   ],
+   "text": "Fixtures",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    384,
+    194,
+    414
+   ],
+   "text": "Products Made",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    416,
+    164,
+    446
+   ],
+   "text": "Rankings",
+   "style": "menu",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    480,
+    210,
+    512
+   ],
+   "text": "Learn the Controls!",
+   "style": "menu_cyan",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    512,
+    210,
+    544
+   ],
+   "text": "Open a Store!",
+   "style": "menu_cyan",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    544,
+    210,
+    576
+   ],
+   "text": "Let's Play!",
+   "style": "menu_cyan",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    576,
+    210,
+    608
+   ],
+   "text": "Conveni Encyclopedia",
+   "style": "menu_cyan",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    833,
+    86,
+    863
+   ],
+   "text": "Sound",
+   "style": "opt",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    867,
+    66,
+    894
+   ],
+   "text": "BGM",
+   "style": "opt",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    898,
+    45,
+    925
+   ],
+   "text": "SE",
+   "style": "opt",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    929,
+    143,
+    958
+   ],
+   "text": "Game Speed",
+   "style": "opt",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 8,
+   "box": [
+    0,
+    961,
+    88,
+    991
+   ],
+   "text": "Time Flow",
+   "style": "opt",
+   "bgat": [
+    255,
+    0
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 8,
+   "box": [
+    272,
+    270,
+    352,
+    289
+   ],
+   "text": "OK",
+   "style": "button",
+   "erase": "col:270",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 8,
+   "box": [
+    272,
+    302,
+    352,
+    321
+   ],
+   "text": "Back",
+   "style": "button",
+   "erase": "col:270",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 8,
+   "box": [
+    272,
+    333,
+    352,
+    353
+   ],
+   "text": "Switch",
+   "style": "button",
+   "erase": "col:270",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    0,
+    256,
+    32
+   ],
+   "text": "Opening a Store?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    32,
+    256,
+    64
+   ],
+   "text": "Popularity & Ads?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    64,
+    256,
+    96
+   ],
+   "text": "Service?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    96,
+    256,
+    128
+   ],
+   "text": "Cleaning?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    128,
+    256,
+    160
+   ],
+   "text": "Security?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    160,
+    256,
+    192
+   ],
+   "text": "Store Rating?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    192,
+    256,
+    224
+   ],
+   "text": "Boosting Sales?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    224,
+    256,
+    256
+   ],
+   "text": "Renovating?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    256,
+    256,
+    288
+   ],
+   "text": "Opening Branches?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    288,
+    256,
+    320
+   ],
+   "text": "Licensed Goods?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    320,
+    256,
+    352
+   ],
+   "text": "Choosing Goods?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    352,
+    256,
+    384
+   ],
+   "text": "New Products?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    384,
+    256,
+    416
+   ],
+   "text": "Store Layout?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    416,
+    256,
+    448
+   ],
+   "text": "Hiring Clerks?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    448,
+    256,
+    480
+   ],
+   "text": "Using the Bank?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    0,
+    480,
+    256,
+    512
+   ],
+   "text": "Taxes?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    256,
+    0,
+    511,
+    32
+   ],
+   "text": "Attracting Facilities?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    256,
+    32,
+    511,
+    64
+   ],
+   "text": "Buyouts?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    256,
+    64,
+    511,
+    96
+   ],
+   "text": "Campaign Mode?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    256,
+    96,
+    511,
+    128
+   ],
+   "text": "Challenge Mode?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 0,
+   "box": [
+    256,
+    128,
+    511,
+    160
+   ],
+   "text": "Owner Rating?",
+   "style": "help",
+   "bgat": [
+    511,
+    511
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 4,
+   "box": [
+    0,
+    0,
+    128,
+    32
+   ],
+   "text": "New Record!!",
+   "style": "record",
+   "bgat": [
+    127,
+    31
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    6,
+    108,
+    130,
+    126
+   ],
+   "text": "Yorozuya Honpo",
+   "style": "label",
+   "bgat": [
+    8,
+    110
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    142,
+    108,
+    266,
+    126
+   ],
+   "text": "Plus Mart",
+   "style": "label",
+   "bgat": [
+    144,
+    110
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    278,
+    108,
+    402,
+    126
+   ],
+   "text": "LAWSON",
+   "style": "label",
+   "bgat": [
+    280,
+    110
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    414,
+    108,
+    538,
+    126
+   ],
+   "text": "Hamket",
+   "style": "label",
+   "bgat": [
+    416,
+    110
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    550,
+    108,
+    674,
+    126
+   ],
+   "text": "Ace Store",
+   "style": "label",
+   "bgat": [
+    552,
+    110
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    858,
+    10,
+    1010,
+    126
+   ],
+   "text": "",
+   "style": "button",
+   "erase": "col:858"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    856,
+    18,
+    1012,
+    52
+   ],
+   "text": "Start",
+   "style": "button",
+   "erase": "none",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    856,
+    52,
+    1012,
+    86
+   ],
+   "text": "a New",
+   "style": "button",
+   "erase": "none",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    856,
+    86,
+    1012,
+    120
+   ],
+   "text": "Game",
+   "style": "button",
+   "erase": "none",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    352,
+    396,
+    430,
+    428
+   ],
+   "text": "Rank",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     210,
+     40
+    ],
+    "bottom": [
+     255,
+     70,
+     20
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    450,
+    410
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    500,
+    396,
+    610,
+    428
+   ],
+   "text": "Record",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     210,
+     40
+    ],
+    "bottom": [
+     255,
+     70,
+     20
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    450,
+    410
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    690,
+    396,
+    780,
+    428
+   ],
+   "text": "Score",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     210,
+     40
+    ],
+    "bottom": [
+     255,
+     70,
+     20
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    450,
+    410
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 41,
+   "tim": 9,
+   "box": [
+    795,
+    396,
+    900,
+    428
+   ],
+   "text": "Chain",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     210,
+     40
+    ],
+    "bottom": [
+     255,
+     70,
+     20
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    450,
+    410
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 20,
+   "box": [
+    130,
+    282,
+    192,
+    301
+   ],
+   "text": "Loan",
+   "style": "stamp",
+   "bgat": [
+    131,
+    284
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 20,
+   "box": [
+    130,
+    345,
+    192,
+    365
+   ],
+   "text": "Pending",
+   "style": "stamp",
+   "bgat": [
+    131,
+    347
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 20,
+   "box": [
+    130,
+    407,
+    192,
+    427
+   ],
+   "text": "Unsigned",
+   "style": "stamp",
+   "bgat": [
+    131,
+    409
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 20,
+   "box": [
+    130,
+    471,
+    192,
+    491
+   ],
+   "text": "Overdue",
+   "style": "stamp",
+   "bgat": [
+    131,
+    473
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 8,
+   "box": [
+    455,
+    66,
+    474,
+    85
+   ],
+   "text": "ON",
+   "style": {
+    "font": "bold",
+    "ref": "ON",
+    "top": [
+     40,
+     30,
+     20
+    ],
+    "bottom": [
+     40,
+     30,
+     20
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    464,
+    87
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 8,
+   "box": [
+    487,
+    66,
+    506,
+    85
+   ],
+   "text": "OFF",
+   "style": {
+    "font": "bold",
+    "ref": "ON",
+    "top": [
+     40,
+     30,
+     20
+    ],
+    "bottom": [
+     40,
+     30,
+     20
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    496,
+    87
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 8,
+   "box": [
+    193,
+    289,
+    215,
+    357
+   ],
+   "text": "Licenses",
+   "style": {
+    "font": "bold",
+    "ref": "Lic",
+    "top": [
+     255,
+     240,
+     60
+    ],
+    "bottom": [
+     150,
+     200,
+     40
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    214,
+    294
+   ],
+   "align": "center",
+   "rotate": true
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 0,
+   "box": [
+    37,
+    87,
+    138,
+    114
+   ],
+   "text": "Completion",
+   "style": {
+    "font": "bold",
+    "ref": "Hg",
+    "top": [
+     255,
+     235,
+     90
+    ],
+    "bottom": [
+     255,
+     130,
+     40
+    ],
+    "stroke": [
+     40,
+     10,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "col:36",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 0,
+   "box": [
+    37,
+    136,
+    138,
+    157
+   ],
+   "text": "Stores",
+   "style": {
+    "font": "semibold",
+    "ref": "Hg",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "col:36"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 0,
+   "box": [
+    37,
+    165,
+    138,
+    186
+   ],
+   "text": "Total Visitors",
+   "style": {
+    "font": "semibold",
+    "ref": "Hg",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "col:36"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 0,
+   "box": [
+    37,
+    194,
+    138,
+    215
+   ],
+   "text": "Yearly Sales",
+   "style": {
+    "font": "semibold",
+    "ref": "Hg",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "col:36"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 0,
+   "box": [
+    37,
+    223,
+    138,
+    244
+   ],
+   "text": "Town Pop.",
+   "style": {
+    "font": "semibold",
+    "ref": "Hg",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "col:36"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 0,
+   "box": [
+    37,
+    252,
+    138,
+    256
+   ],
+   "text": "Store Rating",
+   "style": {
+    "font": "semibold",
+    "ref": "Hg",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "col:36",
+   "vbox": [
+    37,
+    252,
+    138,
+    273
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 3,
+   "box": [
+    37,
+    0,
+    138,
+    17
+   ],
+   "text": "Store Rating",
+   "style": {
+    "font": "semibold",
+    "ref": "Hg",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "col:36",
+   "vbox": [
+    37,
+    -4,
+    138,
+    17
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 3,
+   "box": [
+    37,
+    25,
+    138,
+    46
+   ],
+   "text": "Event Points",
+   "style": {
+    "font": "semibold",
+    "ref": "Hg",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "col:36"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 3,
+   "box": [
+    37,
+    54,
+    138,
+    75
+   ],
+   "text": "Date Reached",
+   "style": {
+    "font": "semibold",
+    "ref": "Hg",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "col:36"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 3,
+   "box": [
+    37,
+    96,
+    158,
+    123
+   ],
+   "text": "Overall Rating",
+   "style": {
+    "font": "bold",
+    "ref": "Hg",
+    "top": [
+     255,
+     235,
+     90
+    ],
+    "bottom": [
+     255,
+     130,
+     40
+    ],
+    "stroke": [
+     40,
+     10,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "col:36",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 16,
+   "tim": 4,
+   "box": [
+    200,
+    96,
+    232,
+    123
+   ],
+   "text": "pts",
+   "style": {
+    "font": "bold",
+    "ref": "ptsH",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     255,
+     255,
+     255
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    198,
+    110
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 221,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    52
+   ],
+   "text": "Ishizuka Miki",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 222,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    50
+   ],
+   "text": "Namiki Tomoka",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 223,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    48
+   ],
+   "text": "Onodera Sakurako",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 224,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    48
+   ],
+   "text": "Party Member A",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 225,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    49
+   ],
+   "text": "Party Member B",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 226,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    48
+   ],
+   "text": "Captain Love",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 227,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Stone Lantern",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 228,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Lucky Cat",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 229,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Swings",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 230,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Fountain",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 231,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Cactus",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 232,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Pond",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 233,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Snowman",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 234,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Jungle Gym",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 235,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Sculpture",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 236,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Banana Tree",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 237,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Zutto Issho Sign",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 238,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Captain Love Sign",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 239,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "LAWSON Mini Sign",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ONETEX",
+   "member": 240,
+   "tim": 0,
+   "box": [
+    2,
+    4,
+    254,
+    57
+   ],
+   "text": "Flower Stand",
+   "style": "card",
+   "bgat": [
+    1,
+    1
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    28,
+    0,
+    104,
+    32
+   ],
+   "text": "",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "col:20"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    0,
+    256,
+    32
+   ],
+   "text": "Pay Settings",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    32,
+    128,
+    64
+   ],
+   "text": "Policy",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    32,
+    256,
+    64
+   ],
+   "text": "Move Staff",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    64,
+    128,
+    96
+   ],
+   "text": "Ads",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    64,
+    256,
+    96
+   ],
+   "text": "Advertising",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    96,
+    128,
+    128
+   ],
+   "text": "Survey",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    96,
+    256,
+    128
+   ],
+   "text": "Attract",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    128,
+    128,
+    160
+   ],
+   "text": "Rating",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    128,
+    256,
+    160
+   ],
+   "text": "Bank",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    160,
+    128,
+    192
+   ],
+   "text": "System",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    160,
+    256,
+    192
+   ],
+   "text": "New Product",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    192,
+    128,
+    224
+   ],
+   "text": "Open New Store",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    192,
+    256,
+    224
+   ],
+   "text": "New Products",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    224,
+    128,
+    256
+   ],
+   "text": "Renovate",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    224,
+    256,
+    256
+   ],
+   "text": "Population",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    256,
+    128,
+    288
+   ],
+   "text": "Get Licenses",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    256,
+    256,
+    288
+   ],
+   "text": "Finance Graph",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    288,
+    128,
+    320
+   ],
+   "text": "Sell Store",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    288,
+    256,
+    320
+   ],
+   "text": "Balance Detail",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    320,
+    128,
+    352
+   ],
+   "text": "Edit Interior",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    320,
+    256,
+    352
+   ],
+   "text": "Survey",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    352,
+    128,
+    384
+   ],
+   "text": "Swap Goods",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    352,
+    256,
+    384
+   ],
+   "text": "Daily Report",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    384,
+    128,
+    416
+   ],
+   "text": "Buy Out Store",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    384,
+    256,
+    416
+   ],
+   "text": "Store Ratings",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    416,
+    128,
+    448
+   ],
+   "text": "Store Hours",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    416,
+    256,
+    448
+   ],
+   "text": "Scenario Score",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    448,
+    128,
+    480
+   ],
+   "text": "Price Rate",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    448,
+    256,
+    480
+   ],
+   "text": "Scenario Status",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    480,
+    128,
+    512
+   ],
+   "text": "Hire/Fire",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    128,
+    480,
+    256,
+    512
+   ],
+   "text": "Options",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 3,
+   "box": [
+    0,
+    0,
+    128,
+    32
+   ],
+   "text": "Stores",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    5,
+    5,
+    125,
+    27
+   ],
+   "text": "",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "hgrad:12,114,10"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    141,
+    5,
+    250,
+    27
+   ],
+   "text": "",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     70,
+     50,
+     20
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "bg",
+   "bgat": [
+    143,
+    16
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    32,
+    128,
+    64
+   ],
+   "text": "Register/Break",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    32,
+    256,
+    64
+   ],
+   "text": "Register/Break",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    64,
+    128,
+    96
+   ],
+   "text": "Parking/Security",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    64,
+    256,
+    96
+   ],
+   "text": "Parking/Security",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    96,
+    128,
+    128
+   ],
+   "text": "Shelves",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    96,
+    256,
+    128
+   ],
+   "text": "Shelves",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    128,
+    128,
+    160
+   ],
+   "text": "Fridges",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    128,
+    256,
+    160
+   ],
+   "text": "Fridges",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    160,
+    128,
+    192
+   ],
+   "text": "Freezers",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    160,
+    256,
+    192
+   ],
+   "text": "Freezers",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    192,
+    128,
+    224
+   ],
+   "text": "Showcases",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    192,
+    256,
+    224
+   ],
+   "text": "Showcases",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    224,
+    128,
+    256
+   ],
+   "text": "Vending",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    224,
+    256,
+    256
+   ],
+   "text": "Vending",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    256,
+    128,
+    288
+   ],
+   "text": "Office Gear",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    256,
+    256,
+    288
+   ],
+   "text": "Office Gear",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    288,
+    128,
+    320
+   ],
+   "text": "Special Sales",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    288,
+    256,
+    320
+   ],
+   "text": "Special Sales",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    320,
+    128,
+    352
+   ],
+   "text": "Stalls",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    320,
+    256,
+    352
+   ],
+   "text": "Stalls",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    352,
+    128,
+    384
+   ],
+   "text": "Decor",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    352,
+    256,
+    384
+   ],
+   "text": "Decor",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    384,
+    128,
+    416
+   ],
+   "text": "Signs",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    384,
+    256,
+    416
+   ],
+   "text": "Signs",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    416,
+    128,
+    448
+   ],
+   "text": "Play Equipment",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    416,
+    256,
+    448
+   ],
+   "text": "Play Equipment",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    448,
+    128,
+    480
+   ],
+   "text": "Displays",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    448,
+    256,
+    480
+   ],
+   "text": "Displays",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    480,
+    128,
+    512
+   ],
+   "text": "Plants/Flowers",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    480,
+    256,
+    512
+   ],
+   "text": "Plants/Flowers",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    0,
+    0,
+    128,
+    32
+   ],
+   "text": "Flooring",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    6,
+    5
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 11,
+   "box": [
+    136,
+    0,
+    256,
+    32
+   ],
+   "text": "Flooring",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     60,
+     42,
+     15
+    ],
+    "bottom": [
+     40,
+     28,
+     8
+    ],
+    "stroke": [
+     150,
+     120,
+     60
+    ],
+    "sw": 1
+   },
+   "erase": "copy:136,0",
+   "pad": [
+    8,
+    6
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 4,
+   "box": [
+    12,
+    0,
+    119,
+    32
+   ],
+   "text": "",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "col:11"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 4,
+   "box": [
+    0,
+    32,
+    128,
+    64
+   ],
+   "text": "Choose Site",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 4,
+   "box": [
+    0,
+    64,
+    128,
+    96
+   ],
+   "text": "Store Size",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 4,
+   "box": [
+    0,
+    96,
+    128,
+    128
+   ],
+   "text": "Choose Store",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 4,
+   "box": [
+    0,
+    0,
+    128,
+    32
+   ],
+   "text": "Menu",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     120
+    ],
+    "bottom": [
+     255,
+     170,
+     0
+    ],
+    "stroke": [
+     20,
+     20,
+     40
+    ],
+    "sw": 2
+   },
+   "erase": "copy:0,0",
+   "pad": [
+    7,
+    4
+   ],
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 50,
+   "tim": 2,
+   "box": [
+    0,
+    0,
+    156,
+    28
+   ],
+   "text": "Memory Card (PS2)",
+   "style": {
+    "ref": "Hg",
+    "font": "semibold",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    200,
+    40
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 50,
+   "tim": 2,
+   "box": [
+    0,
+    30,
+    164,
+    60
+   ],
+   "text": "MEMORY CARD slot 1",
+   "style": {
+    "ref": "Hg",
+    "font": "semibold",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    200,
+    40
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 51,
+   "tim": 11,
+   "box": [
+    0,
+    0,
+    156,
+    28
+   ],
+   "text": "Memory Card (PS2)",
+   "style": {
+    "ref": "Hg",
+    "font": "semibold",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    200,
+    40
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 51,
+   "tim": 11,
+   "box": [
+    0,
+    30,
+    164,
+    60
+   ],
+   "text": "MEMORY CARD slot 1",
+   "style": {
+    "ref": "Hg",
+    "font": "semibold",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     235,
+     235,
+     235
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "bgat": [
+    200,
+    40
+   ]
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    3,
+    58,
+    24
+   ],
+   "text": "Main",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center",
+   "note": "store-view name tabs (本店 / N号店), 2026-11-02"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    30,
+    58,
+    51
+   ],
+   "text": "#2",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    57,
+    58,
+    78
+   ],
+   "text": "#3",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    84,
+    58,
+    105
+   ],
+   "text": "#4",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    111,
+    58,
+    132
+   ],
+   "text": "#5",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    138,
+    58,
+    159
+   ],
+   "text": "#6",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    165,
+    58,
+    186
+   ],
+   "text": "#7",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    192,
+    58,
+    213
+   ],
+   "text": "#8",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    219,
+    58,
+    240
+   ],
+   "text": "#9",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    246,
+    58,
+    267
+   ],
+   "text": "#10",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    273,
+    58,
+    294
+   ],
+   "text": "#11",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    300,
+    58,
+    321
+   ],
+   "text": "#12",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    327,
+    58,
+    348
+   ],
+   "text": "#13",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    354,
+    58,
+    375
+   ],
+   "text": "#14",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    381,
+    58,
+    402
+   ],
+   "text": "#15",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    408,
+    58,
+    429
+   ],
+   "text": "#16",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    435,
+    58,
+    456
+   ],
+   "text": "#17",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    2,
+    462,
+    58,
+    483
+   ],
+   "text": "#18",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    3,
+    118,
+    24
+   ],
+   "text": "#19",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    30,
+    118,
+    51
+   ],
+   "text": "#20",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    57,
+    118,
+    78
+   ],
+   "text": "#21",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    84,
+    118,
+    105
+   ],
+   "text": "#22",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    111,
+    118,
+    132
+   ],
+   "text": "#23",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    138,
+    118,
+    159
+   ],
+   "text": "#24",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    165,
+    118,
+    186
+   ],
+   "text": "#25",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    192,
+    118,
+    213
+   ],
+   "text": "#26",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    219,
+    118,
+    240
+   ],
+   "text": "#27",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    246,
+    118,
+    267
+   ],
+   "text": "#28",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    273,
+    118,
+    294
+   ],
+   "text": "#29",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    300,
+    118,
+    321
+   ],
+   "text": "#30",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    327,
+    118,
+    348
+   ],
+   "text": "#31",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    354,
+    118,
+    375
+   ],
+   "text": "#32",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    381,
+    118,
+    402
+   ],
+   "text": "#33",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    408,
+    118,
+    429
+   ],
+   "text": "#34",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    435,
+    118,
+    456
+   ],
+   "text": "#35",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    62,
+    462,
+    118,
+    483
+   ],
+   "text": "#36",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    3,
+    178,
+    24
+   ],
+   "text": "#37",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    30,
+    178,
+    51
+   ],
+   "text": "#38",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    57,
+    178,
+    78
+   ],
+   "text": "#39",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    84,
+    178,
+    105
+   ],
+   "text": "#40",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    111,
+    178,
+    132
+   ],
+   "text": "#41",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    138,
+    178,
+    159
+   ],
+   "text": "#42",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    165,
+    178,
+    186
+   ],
+   "text": "#43",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    192,
+    178,
+    213
+   ],
+   "text": "#44",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    219,
+    178,
+    240
+   ],
+   "text": "#45",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    246,
+    178,
+    267
+   ],
+   "text": "#46",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    273,
+    178,
+    294
+   ],
+   "text": "#47",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    300,
+    178,
+    321
+   ],
+   "text": "#48",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    327,
+    178,
+    348
+   ],
+   "text": "#49",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    354,
+    178,
+    375
+   ],
+   "text": "#50",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    381,
+    178,
+    402
+   ],
+   "text": "#51",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    408,
+    178,
+    429
+   ],
+   "text": "#52",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    435,
+    178,
+    456
+   ],
+   "text": "#53",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    122,
+    462,
+    178,
+    483
+   ],
+   "text": "#54",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    3,
+    238,
+    24
+   ],
+   "text": "#55",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    30,
+    238,
+    51
+   ],
+   "text": "#56",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    57,
+    238,
+    78
+   ],
+   "text": "#57",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    84,
+    238,
+    105
+   ],
+   "text": "#58",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    111,
+    238,
+    132
+   ],
+   "text": "#59",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    138,
+    238,
+    159
+   ],
+   "text": "#60",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    165,
+    238,
+    186
+   ],
+   "text": "#61",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    192,
+    238,
+    213
+   ],
+   "text": "#62",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    219,
+    238,
+    240
+   ],
+   "text": "#63",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    246,
+    238,
+    267
+   ],
+   "text": "#64",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    273,
+    238,
+    294
+   ],
+   "text": "#65",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    300,
+    238,
+    321
+   ],
+   "text": "#66",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    327,
+    238,
+    348
+   ],
+   "text": "#67",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    354,
+    238,
+    375
+   ],
+   "text": "#68",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    381,
+    238,
+    402
+   ],
+   "text": "#69",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    408,
+    238,
+    429
+   ],
+   "text": "#70",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    435,
+    238,
+    456
+   ],
+   "text": "#71",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    182,
+    462,
+    238,
+    483
+   ],
+   "text": "#72",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    3,
+    298,
+    24
+   ],
+   "text": "#73",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    30,
+    298,
+    51
+   ],
+   "text": "#74",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    57,
+    298,
+    78
+   ],
+   "text": "#75",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    84,
+    298,
+    105
+   ],
+   "text": "#76",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    111,
+    298,
+    132
+   ],
+   "text": "#77",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    138,
+    298,
+    159
+   ],
+   "text": "#78",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    165,
+    298,
+    186
+   ],
+   "text": "#79",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    192,
+    298,
+    213
+   ],
+   "text": "#80",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    219,
+    298,
+    240
+   ],
+   "text": "#81",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    246,
+    298,
+    267
+   ],
+   "text": "#82",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    273,
+    298,
+    294
+   ],
+   "text": "#83",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    300,
+    298,
+    321
+   ],
+   "text": "#84",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    327,
+    298,
+    348
+   ],
+   "text": "#85",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    354,
+    298,
+    375
+   ],
+   "text": "#86",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    381,
+    298,
+    402
+   ],
+   "text": "#87",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    408,
+    298,
+    429
+   ],
+   "text": "#88",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    435,
+    298,
+    456
+   ],
+   "text": "#89",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    242,
+    462,
+    298,
+    483
+   ],
+   "text": "#90",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    3,
+    358,
+    24
+   ],
+   "text": "#91",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    30,
+    358,
+    51
+   ],
+   "text": "#92",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    57,
+    358,
+    78
+   ],
+   "text": "#93",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    84,
+    358,
+    105
+   ],
+   "text": "#94",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    111,
+    358,
+    132
+   ],
+   "text": "#95",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    138,
+    358,
+    159
+   ],
+   "text": "#96",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    165,
+    358,
+    186
+   ],
+   "text": "#97",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    192,
+    358,
+    213
+   ],
+   "text": "#98",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    219,
+    358,
+    240
+   ],
+   "text": "#99",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    246,
+    358,
+    267
+   ],
+   "text": "#100",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 15,
+   "box": [
+    302,
+    273,
+    358,
+    294
+   ],
+   "text": "#101",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     250,
+     170
+    ],
+    "bottom": [
+     230,
+     205,
+     70
+    ],
+    "stroke": [
+     45,
+     35,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "col:63",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 38,
+   "tim": 15,
+   "box": [
+    14,
+    30,
+    74,
+    72
+   ],
+   "text": "?",
+   "style": {
+    "font": "bold",
+    "top": [
+     255,
+     255,
+     255
+    ],
+    "bottom": [
+     255,
+     255,
+     255
+    ],
+    "stroke": null,
+    "sw": 0
+   },
+   "erase": "col:5",
+   "align": "center"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 10,
+   "box": [
+    360,
+    492,
+    440,
+    512
+   ],
+   "text": "Can't place",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     230,
+     230,
+     230
+    ],
+    "bottom": [
+     210,
+     210,
+     210
+    ],
+    "stroke": [
+     0,
+     0,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "bg",
+   "bgat": [
+    420,
+    480
+   ],
+   "align": "center",
+   "note": "置けません stamp under fixture icons (Edit Interior)"
+  },
+  {
+   "pac": "ALLDATA",
+   "member": 9,
+   "tim": 10,
+   "box": [
+    448,
+    492,
+    512,
+    512
+   ],
+   "text": "Can't place",
+   "style": {
+    "ref": "Hg",
+    "font": "bold",
+    "top": [
+     230,
+     230,
+     230
+    ],
+    "bottom": [
+     210,
+     210,
+     210
+    ],
+    "stroke": [
+     0,
+     0,
+     0
+    ],
+    "sw": 1
+   },
+   "erase": "bg",
+   "bgat": [
+    420,
+    480
+   ],
+   "align": "center",
+   "note": "置けません stamp under fixture icons (Edit Interior)"
+  }
+ ]
+}

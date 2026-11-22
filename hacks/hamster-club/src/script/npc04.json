@@ -1,0 +1,379 @@
+{
+ "block": "npc04",
+ "entries": [
+  {
+   "id": "npc04_0000",
+   "offset": "0x112EA",
+   "length": 5,
+   "pointers": [
+    "0x112A6"
+   ],
+   "jp": "プリン<end>",
+   "en": "Pudding<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0001",
+   "offset": "0x112EF",
+   "length": 7,
+   "pointers": [
+    "0x112A8"
+   ],
+   "jp": "ごんちっち<end>",
+   "en": "Gonchi<end>",
+   "notes": "ごんちっち shortened to fit 8 letters."
+  },
+  {
+   "id": "npc04_0002",
+   "offset": "0x112F6",
+   "length": 3,
+   "pointers": [
+    "0x112AA"
+   ],
+   "jp": "ちよ<end>",
+   "en": "Chiyo<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0003",
+   "offset": "0x112F9",
+   "length": 6,
+   "pointers": [
+    "0x112AC"
+   ],
+   "jp": "ぽっぽ<end>",
+   "en": "Poppo<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0004",
+   "offset": "0x112FF",
+   "length": 7,
+   "pointers": [
+    "0x112AE"
+   ],
+   "jp": "ちゅんたろう<end>",
+   "en": "Chuntaro<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0005",
+   "offset": "0x11306",
+   "length": 3,
+   "pointers": [
+    "0x112B0"
+   ],
+   "jp": "まる<end>",
+   "en": "Maru<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0006",
+   "offset": "0x11309",
+   "length": 7,
+   "pointers": [
+    "0x112B2"
+   ],
+   "jp": "ぶーちゃん<end>",
+   "en": "Boochan<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0007",
+   "offset": "0x11310",
+   "length": 6,
+   "pointers": [
+    "0x112B4"
+   ],
+   "jp": "ぷっちぃ<end>",
+   "en": "Puchi<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0008",
+   "offset": "0x11316",
+   "length": 7,
+   "pointers": [
+    "0x112B6"
+   ],
+   "jp": "ケンドール<end>",
+   "en": "Kendall<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0009",
+   "offset": "0x1131D",
+   "length": 7,
+   "pointers": [
+    "0x112B8"
+   ],
+   "jp": "ビビッチ<end>",
+   "en": "Bibi<end>",
+   "notes": "ビビッチ: 'Bibicchi' romanizes badly in English; shortened to Bibi."
+  },
+  {
+   "id": "npc04_0010",
+   "offset": "0x11324",
+   "length": 5,
+   "pointers": [
+    "0x112BA"
+   ],
+   "jp": "サッチー<end>",
+   "en": "Satchy<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0011",
+   "offset": "0x11329",
+   "length": 6,
+   "pointers": [
+    "0x112BC"
+   ],
+   "jp": "でんすけ<end>",
+   "en": "Densuke<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0012",
+   "offset": "0x1132F",
+   "length": 5,
+   "pointers": [
+    "0x112BE"
+   ],
+   "jp": "まめっち<end>",
+   "en": "Mametchi<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0013",
+   "offset": "0x11334",
+   "length": 3,
+   "pointers": [
+    "0x112C0"
+   ],
+   "jp": "しろ<end>",
+   "en": "Shiro<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0014",
+   "offset": "0x11337",
+   "length": 5,
+   "pointers": [
+    "0x112C2"
+   ],
+   "jp": "ロンロン<end>",
+   "en": "Ronron<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0015",
+   "offset": "0x1133C",
+   "length": 6,
+   "pointers": [
+    "0x112C4"
+   ],
+   "jp": "ぱんだ<end>",
+   "en": "Panda<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0016",
+   "offset": "0x11342",
+   "length": 7,
+   "pointers": [
+    "0x112C6"
+   ],
+   "jp": "ちゃっぴー<end>",
+   "en": "Chappy<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0017",
+   "offset": "0x11349",
+   "length": 3,
+   "pointers": [
+    "0x112C8"
+   ],
+   "jp": "ある<end>",
+   "en": "Aru<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0018",
+   "offset": "0x1134C",
+   "length": 5,
+   "pointers": [
+    "0x112CA"
+   ],
+   "jp": "バロン<end>",
+   "en": "Baron<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0019",
+   "offset": "0x11351",
+   "length": 6,
+   "pointers": [
+    "0x112CC"
+   ],
+   "jp": "たみちゃん<end>",
+   "en": "Tamichan<end>",
+   "notes": "-chan names written without the hyphen (8-letter limit; Tami-chan won't fit), same for all four."
+  },
+  {
+   "id": "npc04_0020",
+   "offset": "0x11357",
+   "length": 7,
+   "pointers": [
+    "0x112CE"
+   ],
+   "jp": "ぎんちゃん<end>",
+   "en": "Ginchan<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0021",
+   "offset": "0x1135E",
+   "length": 3,
+   "pointers": [
+    "0x112D0"
+   ],
+   "jp": "モカ<end>",
+   "en": "Mocha<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0022",
+   "offset": "0x11361",
+   "length": 5,
+   "pointers": [
+    "0x112D2"
+   ],
+   "jp": "ちゅーた<end>",
+   "en": "Chuta<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0023",
+   "offset": "0x11366",
+   "length": 4,
+   "pointers": [
+    "0x112D4"
+   ],
+   "jp": "ポテ<end>",
+   "en": "Pote<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0024",
+   "offset": "0x1136A",
+   "length": 7,
+   "pointers": [
+    "0x112D6"
+   ],
+   "jp": "ウェンディ<end>",
+   "en": "Wendy<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0025",
+   "offset": "0x11371",
+   "length": 5,
+   "pointers": [
+    "0x112D8"
+   ],
+   "jp": "パルン<end>",
+   "en": "Parun<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0026",
+   "offset": "0x11376",
+   "length": 5,
+   "pointers": [
+    "0x112DA"
+   ],
+   "jp": "アべル<end>",
+   "en": "Abel<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0027",
+   "offset": "0x1137B",
+   "length": 5,
+   "pointers": [
+    "0x112DC"
+   ],
+   "jp": "くるくる<end>",
+   "en": "Kurukuru<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0028",
+   "offset": "0x11380",
+   "length": 3,
+   "pointers": [
+    "0x112DE"
+   ],
+   "jp": "もも<end>",
+   "en": "Momo<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0029",
+   "offset": "0x11383",
+   "length": 4,
+   "pointers": [
+    "0x112E0"
+   ],
+   "jp": "ふとし<end>",
+   "en": "Futoshi<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0030",
+   "offset": "0x11387",
+   "length": 7,
+   "pointers": [
+    "0x112E2"
+   ],
+   "jp": "ぐ〜ちゃん<end>",
+   "en": "Guuchan<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0031",
+   "offset": "0x1138E",
+   "length": 4,
+   "pointers": [
+    "0x112E4"
+   ],
+   "jp": "マロン<end>",
+   "en": "Marron<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0032",
+   "offset": "0x11392",
+   "length": 4,
+   "pointers": [
+    "0x112E6"
+   ],
+   "jp": "グリ<end>",
+   "en": "Guri<end>",
+   "notes": ""
+  },
+  {
+   "id": "npc04_0033",
+   "offset": "0x11396",
+   "length": 9,
+   "pointers": [
+    "0x112E8"
+   ],
+   "jp": "ジョセフィーヌ<end>",
+   "en": "Josefine<end>",
+   "notes": "ジョセフィーヌ (Joséphine) won't fit in 8 letters; Josefine keeps the grand feel."
+  }
+ ]
+}

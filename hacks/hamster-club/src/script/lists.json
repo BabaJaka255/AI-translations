@@ -1,0 +1,635 @@
+{
+ "block": "lists",
+ "entries": [
+  {
+   "id": "lists_0000",
+   "offset": "0x4BF9",
+   "length": 8,
+   "pointers": [],
+   "jp": "トイレ",
+   "en": "Toilet",
+   "notes": ""
+  },
+  {
+   "id": "lists_0001",
+   "offset": "0x4C01",
+   "length": 8,
+   "pointers": [],
+   "jp": "アイテム",
+   "en": "Items",
+   "notes": ""
+  },
+  {
+   "id": "lists_0002",
+   "offset": "0x4C09",
+   "length": 8,
+   "pointers": [],
+   "jp": "かじる",
+   "en": "Chewing",
+   "notes": ""
+  },
+  {
+   "id": "lists_0003",
+   "offset": "0x4C11",
+   "length": 8,
+   "pointers": [],
+   "jp": "すづくり",
+   "en": "Nesting",
+   "notes": ""
+  },
+  {
+   "id": "lists_0004",
+   "offset": "0x4C19",
+   "length": 8,
+   "pointers": [],
+   "jp": "すききらい",
+   "en": "Picky",
+   "notes": ""
+  },
+  {
+   "id": "lists_0005",
+   "offset": "0x4C21",
+   "length": 8,
+   "pointers": [],
+   "jp": "まるでダメ",
+   "en": "Hopeless",
+   "notes": ""
+  },
+  {
+   "id": "lists_0006",
+   "offset": "0x4C29",
+   "length": 8,
+   "pointers": [],
+   "jp": "まだまだ",
+   "en": "Not yet",
+   "notes": ""
+  },
+  {
+   "id": "lists_0007",
+   "offset": "0x4C31",
+   "length": 8,
+   "pointers": [],
+   "jp": "イマイチ",
+   "en": "Lacking",
+   "notes": ""
+  },
+  {
+   "id": "lists_0008",
+   "offset": "0x4C39",
+   "length": 8,
+   "pointers": [],
+   "jp": "すこしはマシ",
+   "en": "Better",
+   "notes": ""
+  },
+  {
+   "id": "lists_0009",
+   "offset": "0x4C41",
+   "length": 8,
+   "pointers": [],
+   "jp": "まあまあ",
+   "en": "So-so",
+   "notes": ""
+  },
+  {
+   "id": "lists_0010",
+   "offset": "0x4C49",
+   "length": 8,
+   "pointers": [],
+   "jp": "じゅんちょう",
+   "en": "On track",
+   "notes": ""
+  },
+  {
+   "id": "lists_0011",
+   "offset": "0x4C51",
+   "length": 8,
+   "pointers": [],
+   "jp": "いいじょうたい",
+   "en": "Decent",
+   "notes": ""
+  },
+  {
+   "id": "lists_0012",
+   "offset": "0x4C59",
+   "length": 8,
+   "pointers": [],
+   "jp": "かなりよい",
+   "en": "Good",
+   "notes": ""
+  },
+  {
+   "id": "lists_0013",
+   "offset": "0x4C61",
+   "length": 8,
+   "pointers": [],
+   "jp": "とてもよい",
+   "en": "Great",
+   "notes": ""
+  },
+  {
+   "id": "lists_0014",
+   "offset": "0x4C69",
+   "length": 8,
+   "pointers": [],
+   "jp": "バッチリ",
+   "en": "Superb",
+   "notes": ""
+  },
+  {
+   "id": "lists_0015",
+   "offset": "0x4C71",
+   "length": 8,
+   "pointers": [],
+   "jp": "かんぺき",
+   "en": "Perfect",
+   "notes": ""
+  },
+  {
+   "id": "lists_0016",
+   "offset": "0x5AC7",
+   "length": 8,
+   "pointers": [],
+   "jp": "すばこ",
+   "en": "Nest",
+   "notes": ""
+  },
+  {
+   "id": "lists_0017",
+   "offset": "0x5ACF",
+   "length": 8,
+   "pointers": [],
+   "jp": "まわしぐるま",
+   "en": "Wheel",
+   "notes": ""
+  },
+  {
+   "id": "lists_0018",
+   "offset": "0x5AD7",
+   "length": 8,
+   "pointers": [],
+   "jp": "みずいれ",
+   "en": "Water",
+   "notes": ""
+  },
+  {
+   "id": "lists_0019",
+   "offset": "0x5ADF",
+   "length": 8,
+   "pointers": [],
+   "jp": "トイレ",
+   "en": "Toilet",
+   "notes": ""
+  },
+  {
+   "id": "lists_0020",
+   "offset": "0x5AE7",
+   "length": 8,
+   "pointers": [],
+   "jp": "すばこ2",
+   "en": "Nest2",
+   "notes": ""
+  },
+  {
+   "id": "lists_0021",
+   "offset": "0x5AEF",
+   "length": 8,
+   "pointers": [],
+   "jp": "すべりだい",
+   "en": "Slide",
+   "notes": ""
+  },
+  {
+   "id": "lists_0022",
+   "offset": "0x5AF7",
+   "length": 8,
+   "pointers": [],
+   "jp": "みずいれ2",
+   "en": "Water2",
+   "notes": ""
+  },
+  {
+   "id": "lists_0023",
+   "offset": "0x5AFF",
+   "length": 8,
+   "pointers": [],
+   "jp": "トイレ2",
+   "en": "Toilet2",
+   "notes": ""
+  },
+  {
+   "id": "lists_0024",
+   "offset": "0x5B07",
+   "length": 8,
+   "pointers": [],
+   "jp": "すばこ3",
+   "en": "Nest3",
+   "notes": ""
+  },
+  {
+   "id": "lists_0025",
+   "offset": "0x5B0F",
+   "length": 8,
+   "pointers": [],
+   "jp": "シーソー",
+   "en": "Seesaw",
+   "notes": ""
+  },
+  {
+   "id": "lists_0026",
+   "offset": "0x5B17",
+   "length": 8,
+   "pointers": [],
+   "jp": "みずいれ3",
+   "en": "Water3",
+   "notes": ""
+  },
+  {
+   "id": "lists_0027",
+   "offset": "0x5B1F",
+   "length": 8,
+   "pointers": [],
+   "jp": "トイレ3",
+   "en": "Toilet3",
+   "notes": ""
+  },
+  {
+   "id": "lists_0028",
+   "offset": "0x7843",
+   "length": 12,
+   "pointers": [],
+   "jp": "ガッツマメ　　　X　",
+   "en": "GutsBean x",
+   "notes": "Prize list: name, space, 'x', then the count."
+  },
+  {
+   "id": "lists_0029",
+   "offset": "0x784F",
+   "length": 12,
+   "pointers": [],
+   "jp": "ダッシュマメ　　X　",
+   "en": "DashBean x",
+   "notes": ""
+  },
+  {
+   "id": "lists_0030",
+   "offset": "0x785B",
+   "length": 12,
+   "pointers": [],
+   "jp": "ぴょっこんマメ　X　",
+   "en": "HopBean  x",
+   "notes": ""
+  },
+  {
+   "id": "lists_0031",
+   "offset": "0x7867",
+   "length": 12,
+   "pointers": [],
+   "jp": "つやつやマメ　　X　",
+   "en": "SilkBean x",
+   "notes": ""
+  },
+  {
+   "id": "lists_0032",
+   "offset": "0x7873",
+   "length": 12,
+   "pointers": [],
+   "jp": "ぷりぷりマメ　　X　",
+   "en": "LookBean x",
+   "notes": ""
+  },
+  {
+   "id": "lists_0033",
+   "offset": "0x787F",
+   "length": 12,
+   "pointers": [],
+   "jp": "ぴかぴかマメ　　X　",
+   "en": "CuteBean x",
+   "notes": ""
+  },
+  {
+   "id": "lists_0034",
+   "offset": "0x788B",
+   "length": 12,
+   "pointers": [],
+   "jp": "カップアイス　　X　",
+   "en": "Ice Cup  x",
+   "notes": ""
+  },
+  {
+   "id": "lists_0035",
+   "offset": "0x7897",
+   "length": 12,
+   "pointers": [],
+   "jp": "ニボシ　　　　　X　",
+   "en": "Niboshi  x",
+   "notes": ""
+  },
+  {
+   "id": "lists_0036",
+   "offset": "0x3C5AA",
+   "length": 8,
+   "pointers": [],
+   "jp": "トイレ",
+   "en": "Toilet",
+   "notes": "Habit names again (bank 0F copy)."
+  },
+  {
+   "id": "lists_0037",
+   "offset": "0x3C5B2",
+   "length": 8,
+   "pointers": [],
+   "jp": "アイテム",
+   "en": "Items",
+   "notes": ""
+  },
+  {
+   "id": "lists_0038",
+   "offset": "0x3C5BA",
+   "length": 8,
+   "pointers": [],
+   "jp": "かじる",
+   "en": "Chewing",
+   "notes": ""
+  },
+  {
+   "id": "lists_0039",
+   "offset": "0x3C5C2",
+   "length": 8,
+   "pointers": [],
+   "jp": "すづくり",
+   "en": "Nesting",
+   "notes": ""
+  },
+  {
+   "id": "lists_0040",
+   "offset": "0x3C5CA",
+   "length": 8,
+   "pointers": [],
+   "jp": "すききらい",
+   "en": "Picky",
+   "notes": ""
+  },
+  {
+   "id": "lists_0041",
+   "offset": "0x3DBBC",
+   "length": 17,
+   "pointers": [],
+   "jp": "きれいになでてあげました。",
+   "en": "Gave it pets.",
+   "notes": ""
+  },
+  {
+   "id": "lists_0042",
+   "offset": "0x3DBCD",
+   "length": 17,
+   "pointers": [],
+   "jp": "ブラッシングしてあげました。",
+   "en": "Brushed its fur.",
+   "notes": ""
+  },
+  {
+   "id": "lists_0043",
+   "offset": "0x3DCEE",
+   "length": 8,
+   "pointers": [],
+   "jp": "ガッツマメ",
+   "en": "GutsBean",
+   "notes": ""
+  },
+  {
+   "id": "lists_0044",
+   "offset": "0x3DCF6",
+   "length": 8,
+   "pointers": [],
+   "jp": "ダッシュマメ",
+   "en": "DashBean",
+   "notes": ""
+  },
+  {
+   "id": "lists_0045",
+   "offset": "0x3DCFE",
+   "length": 8,
+   "pointers": [],
+   "jp": "ぴょっこんマメ",
+   "en": "HopBean",
+   "notes": ""
+  },
+  {
+   "id": "lists_0046",
+   "offset": "0x3DD06",
+   "length": 8,
+   "pointers": [],
+   "jp": "つやつやマメ",
+   "en": "SilkBean",
+   "notes": ""
+  },
+  {
+   "id": "lists_0047",
+   "offset": "0x3DD0E",
+   "length": 8,
+   "pointers": [],
+   "jp": "ぷりぷりマメ",
+   "en": "LookBean",
+   "notes": ""
+  },
+  {
+   "id": "lists_0048",
+   "offset": "0x3DD16",
+   "length": 8,
+   "pointers": [],
+   "jp": "ぴかぴかマメ",
+   "en": "CuteBean",
+   "notes": ""
+  },
+  {
+   "id": "lists_0049",
+   "offset": "0x3DD1E",
+   "length": 8,
+   "pointers": [],
+   "jp": "カップアイス",
+   "en": "Ice Cup",
+   "notes": ""
+  },
+  {
+   "id": "lists_0050",
+   "offset": "0x3DD26",
+   "length": 8,
+   "pointers": [],
+   "jp": "ニボシ",
+   "en": "Niboshi",
+   "notes": ""
+  },
+  {
+   "id": "lists_0051",
+   "offset": "0x3E2E0",
+   "length": 7,
+   "pointers": [],
+   "jp": "すばこ",
+   "en": "Nest",
+   "notes": ""
+  },
+  {
+   "id": "lists_0052",
+   "offset": "0x3E2E7",
+   "length": 7,
+   "pointers": [],
+   "jp": "まわしぐるま",
+   "en": "Wheel",
+   "notes": ""
+  },
+  {
+   "id": "lists_0053",
+   "offset": "0x3E2EE",
+   "length": 7,
+   "pointers": [],
+   "jp": "みずいれ",
+   "en": "Water",
+   "notes": ""
+  },
+  {
+   "id": "lists_0054",
+   "offset": "0x3E2F5",
+   "length": 7,
+   "pointers": [],
+   "jp": "トイレ",
+   "en": "Toilet",
+   "notes": ""
+  },
+  {
+   "id": "lists_0055",
+   "offset": "0x3E2FC",
+   "length": 7,
+   "pointers": [],
+   "jp": "すばこ2",
+   "en": "Nest2",
+   "notes": ""
+  },
+  {
+   "id": "lists_0056",
+   "offset": "0x3E303",
+   "length": 7,
+   "pointers": [],
+   "jp": "すべりだい",
+   "en": "Slide",
+   "notes": ""
+  },
+  {
+   "id": "lists_0057",
+   "offset": "0x3E30A",
+   "length": 7,
+   "pointers": [],
+   "jp": "みずいれ2",
+   "en": "Water2",
+   "notes": ""
+  },
+  {
+   "id": "lists_0058",
+   "offset": "0x3E311",
+   "length": 7,
+   "pointers": [],
+   "jp": "トイレ2",
+   "en": "Toilet2",
+   "notes": ""
+  },
+  {
+   "id": "lists_0059",
+   "offset": "0x3E318",
+   "length": 7,
+   "pointers": [],
+   "jp": "すばこ3",
+   "en": "Nest3",
+   "notes": ""
+  },
+  {
+   "id": "lists_0060",
+   "offset": "0x3E31F",
+   "length": 7,
+   "pointers": [],
+   "jp": "シーソー",
+   "en": "Seesaw",
+   "notes": ""
+  },
+  {
+   "id": "lists_0061",
+   "offset": "0x3E326",
+   "length": 7,
+   "pointers": [],
+   "jp": "みずいれ3",
+   "en": "Water3",
+   "notes": ""
+  },
+  {
+   "id": "lists_0062",
+   "offset": "0x3E32D",
+   "length": 7,
+   "pointers": [],
+   "jp": "トイレ3",
+   "en": "Toilet3",
+   "notes": ""
+  },
+  {
+   "id": "lists_0063",
+   "offset": "0x3C582",
+   "length": 8,
+   "pointers": [],
+   "jp": "たくましく",
+   "en": "Tough",
+   "notes": "Training policy, shown on the hamster list's second line; same words as the menus block (0x930E-)."
+  },
+  {
+   "id": "lists_0064",
+   "offset": "0x3C58A",
+   "length": 8,
+   "pointers": [],
+   "jp": "すばしっこく",
+   "en": "Nimble",
+   "notes": ""
+  },
+  {
+   "id": "lists_0065",
+   "offset": "0x3C592",
+   "length": 8,
+   "pointers": [],
+   "jp": "あまやかす",
+   "en": "Spoil",
+   "notes": ""
+  },
+  {
+   "id": "lists_0066",
+   "offset": "0x3C59A",
+   "length": 8,
+   "pointers": [],
+   "jp": "みがきをかける",
+   "en": "Polish",
+   "notes": ""
+  },
+  {
+   "id": "lists_0067",
+   "offset": "0x3C5A2",
+   "length": 8,
+   "pointers": [],
+   "jp": "すきにさせる",
+   "en": "Relax",
+   "notes": ""
+  },
+  {
+   "id": "lists_0068",
+   "offset": "0x3E9F1",
+   "length": 4,
+   "pointers": [],
+   "jp": "ふつうに",
+   "en": "Avg",
+   "notes": ""
+  },
+  {
+   "id": "lists_0069",
+   "offset": "0x3E9F5",
+   "length": 4,
+   "pointers": [],
+   "jp": "すこし",
+   "en": "Tiny",
+   "notes": ""
+  }
+ ]
+}

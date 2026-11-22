@@ -5,12 +5,30 @@
   "type": "translation",
   "version": "0.9.6-beta",
   "summary": "English translation of the convenience-store business sim The Conveni 3 (beta).",
-  "base": {"name": "Conveni 3, The - Ano Machi o Dokusen seyo (Japan).bin", "size": 750753696, "crc32": "2143FE1F", "sha1": "597f58e9bef568d7ab07273210c625fd0252386d", "header": false},
+  "base": {
+    "name": "Conveni 3, The - Ano Machi o Dokusen seyo (Japan).bin",
+    "size": 750753696,
+    "crc32": "2143FE1F",
+    "sha1": "597f58e9bef568d7ab07273210c625fd0252386d",
+    "header": false
+  },
   "patches": [
-    {"file": "patches/Conveni3_EN_v0.9.6-beta_RedumpBin.xdelta", "format": "xdelta", "result_crc32": "A3BAF439", "result_sha1": "cd45eacc2a16f2f502c7b19bac4e5984e41a133c"},
-    {"file": "patches/Conveni3_EN_v0.9.6-beta_ISO.xdelta", "format": "xdelta", "result_crc32": "A3BAF439", "result_sha1": "cd45eacc2a16f2f502c7b19bac4e5984e41a133c"}
+    {
+      "file": "patches/Conveni3_EN_v0.9.6-beta_RedumpBin.xdelta",
+      "format": "xdelta",
+      "result_crc32": "A3BAF439",
+      "result_sha1": "cd45eacc2a16f2f502c7b19bac4e5984e41a133c"
+    },
+    {
+      "file": "patches/Conveni3_EN_v0.9.6-beta_ISO.xdelta",
+      "format": "xdelta",
+      "result_crc32": "A3BAF439",
+      "result_sha1": "cd45eacc2a16f2f502c7b19bac4e5984e41a133c"
+    }
   ],
   "tested_on": "emulator",
+  "source": "verified",
+  "devlog": true,
   "ai_assisted": true,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }

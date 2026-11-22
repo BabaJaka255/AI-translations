@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+src/rom/
+src/build/
+*.iso
+*.bin
+*.7z
+*.PSS
+*.NCB
+SLPM_*
+SLES_*
+*.o
+*.elf

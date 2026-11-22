@@ -1,0 +1,347 @@
+{
+ "block": "states",
+ "entries": [
+  {
+   "id": "states_0000",
+   "offset": "0x2635",
+   "length": 8,
+   "pointers": [],
+   "jp": "さいあく",
+   "en": "Awful",
+   "notes": "Mood ratings 0-4; 5 columns on the status screen."
+  },
+  {
+   "id": "states_0001",
+   "offset": "0x263D",
+   "length": 8,
+   "pointers": [],
+   "jp": "わるい",
+   "en": "Bad",
+   "notes": ""
+  },
+  {
+   "id": "states_0002",
+   "offset": "0x2645",
+   "length": 8,
+   "pointers": [],
+   "jp": "ふつう",
+   "en": "Okay",
+   "notes": ""
+  },
+  {
+   "id": "states_0003",
+   "offset": "0x264D",
+   "length": 8,
+   "pointers": [],
+   "jp": "よい",
+   "en": "Good",
+   "notes": ""
+  },
+  {
+   "id": "states_0004",
+   "offset": "0x2655",
+   "length": 8,
+   "pointers": [],
+   "jp": "さいこう",
+   "en": "Great",
+   "notes": ""
+  },
+  {
+   "id": "states_0005",
+   "offset": "0x2BDD",
+   "length": 8,
+   "pointers": [],
+   "jp": "ピカピカ",
+   "en": "Mint",
+   "notes": "Cage cleanliness 5-12. 4 letters max: the cage view box draws it into 4 tiles, and a longer word spills into the cage name's tiles."
+  },
+  {
+   "id": "states_0006",
+   "offset": "0x2BE5",
+   "length": 8,
+   "pointers": [],
+   "jp": "せいけつ",
+   "en": "Neat",
+   "notes": ""
+  },
+  {
+   "id": "states_0007",
+   "offset": "0x2BED",
+   "length": 8,
+   "pointers": [],
+   "jp": "きれい",
+   "en": "Tidy",
+   "notes": ""
+  },
+  {
+   "id": "states_0008",
+   "offset": "0x2BF5",
+   "length": 8,
+   "pointers": [],
+   "jp": "ふつう",
+   "en": "Okay",
+   "notes": ""
+  },
+  {
+   "id": "states_0009",
+   "offset": "0x2BFD",
+   "length": 8,
+   "pointers": [],
+   "jp": "におう",
+   "en": "Ripe",
+   "notes": ""
+  },
+  {
+   "id": "states_0010",
+   "offset": "0x2C05",
+   "length": 8,
+   "pointers": [],
+   "jp": "きたない",
+   "en": "Mess",
+   "notes": ""
+  },
+  {
+   "id": "states_0011",
+   "offset": "0x2C0D",
+   "length": 8,
+   "pointers": [],
+   "jp": "くさい",
+   "en": "Foul",
+   "notes": ""
+  },
+  {
+   "id": "states_0012",
+   "offset": "0x2C15",
+   "length": 8,
+   "pointers": [],
+   "jp": "ゴミため",
+   "en": "Dump",
+   "notes": ""
+  },
+  {
+   "id": "states_0013",
+   "offset": "0x2C9D",
+   "length": 8,
+   "pointers": [],
+   "jp": "びょうき",
+   "en": "Sick",
+   "notes": "Health 13-20; 5 columns on the status screen."
+  },
+  {
+   "id": "states_0014",
+   "offset": "0x2CA5",
+   "length": 8,
+   "pointers": [],
+   "jp": "さいあく",
+   "en": "Awful",
+   "notes": ""
+  },
+  {
+   "id": "states_0015",
+   "offset": "0x2CAD",
+   "length": 8,
+   "pointers": [],
+   "jp": "へロへロ",
+   "en": "Weak",
+   "notes": ""
+  },
+  {
+   "id": "states_0016",
+   "offset": "0x2CB5",
+   "length": 8,
+   "pointers": [],
+   "jp": "バテぎみ",
+   "en": "Tired",
+   "notes": ""
+  },
+  {
+   "id": "states_0017",
+   "offset": "0x2CBD",
+   "length": 8,
+   "pointers": [],
+   "jp": "ふつう",
+   "en": "Okay",
+   "notes": ""
+  },
+  {
+   "id": "states_0018",
+   "offset": "0x2CC5",
+   "length": 8,
+   "pointers": [],
+   "jp": "げんき",
+   "en": "Well",
+   "notes": ""
+  },
+  {
+   "id": "states_0019",
+   "offset": "0x2CCD",
+   "length": 8,
+   "pointers": [],
+   "jp": "さいこう",
+   "en": "Great",
+   "notes": ""
+  },
+  {
+   "id": "states_0020",
+   "offset": "0x2CD5",
+   "length": 8,
+   "pointers": [],
+   "jp": "けが",
+   "en": "Hurt",
+   "notes": ""
+  },
+  {
+   "id": "states_0021",
+   "offset": "0x2D7D",
+   "length": 8,
+   "pointers": [],
+   "jp": "わずか",
+   "en": "Trace",
+   "notes": "Food left in the dish 21-29; まだまだ read as 'still plenty'."
+  },
+  {
+   "id": "states_0022",
+   "offset": "0x2D85",
+   "length": 8,
+   "pointers": [],
+   "jp": "すこし",
+   "en": "Some",
+   "notes": "Was 'A little'; the food line is name + ':' + amount in 17 columns, so 'Pellets+: A little' didn't fit."
+  },
+  {
+   "id": "states_0023",
+   "offset": "0x2D8D",
+   "length": 8,
+   "pointers": [],
+   "jp": "すくなめ",
+   "en": "Low",
+   "notes": ""
+  },
+  {
+   "id": "states_0024",
+   "offset": "0x2D95",
+   "length": 8,
+   "pointers": [],
+   "jp": "ふつう",
+   "en": "Normal",
+   "notes": ""
+  },
+  {
+   "id": "states_0025",
+   "offset": "0x2D9D",
+   "length": 8,
+   "pointers": [],
+   "jp": "まだまだ",
+   "en": "Ample",
+   "notes": ""
+  },
+  {
+   "id": "states_0026",
+   "offset": "0x2DA5",
+   "length": 8,
+   "pointers": [],
+   "jp": "いっぱい",
+   "en": "Full",
+   "notes": ""
+  },
+  {
+   "id": "states_0027",
+   "offset": "0x2DAD",
+   "length": 8,
+   "pointers": [],
+   "jp": "たくさん",
+   "en": "Lots",
+   "notes": ""
+  },
+  {
+   "id": "states_0028",
+   "offset": "0x2DB5",
+   "length": 8,
+   "pointers": [],
+   "jp": "やまもり",
+   "en": "Heaped",
+   "notes": ""
+  },
+  {
+   "id": "states_0029",
+   "offset": "0x2DBD",
+   "length": 8,
+   "pointers": [],
+   "jp": "からっぽ",
+   "en": "Empty",
+   "notes": ""
+  },
+  {
+   "id": "states_0030",
+   "offset": "0x2005",
+   "length": 16,
+   "pointers": [],
+   "jp": "やせすぎ",
+   "en": "Skinny",
+   "notes": "Body types 30-37, after 'Wt.:' on the status screen (6 columns). よこづな = sumo grand champion."
+  },
+  {
+   "id": "states_0031",
+   "offset": "0x2015",
+   "length": 16,
+   "pointers": [],
+   "jp": "ほそい",
+   "en": "Slim",
+   "notes": ""
+  },
+  {
+   "id": "states_0032",
+   "offset": "0x2025",
+   "length": 16,
+   "pointers": [],
+   "jp": "スマート",
+   "en": "Trim",
+   "notes": ""
+  },
+  {
+   "id": "states_0033",
+   "offset": "0x2035",
+   "length": 16,
+   "pointers": [],
+   "jp": "ふつう",
+   "en": "Normal",
+   "notes": ""
+  },
+  {
+   "id": "states_0034",
+   "offset": "0x2045",
+   "length": 16,
+   "pointers": [],
+   "jp": "ふっくら",
+   "en": "Plump",
+   "notes": ""
+  },
+  {
+   "id": "states_0035",
+   "offset": "0x2055",
+   "length": 16,
+   "pointers": [],
+   "jp": "まんまる",
+   "en": "Round",
+   "notes": ""
+  },
+  {
+   "id": "states_0036",
+   "offset": "0x2065",
+   "length": 16,
+   "pointers": [],
+   "jp": "でぶちん",
+   "en": "Chubby",
+   "notes": ""
+  },
+  {
+   "id": "states_0037",
+   "offset": "0x2075",
+   "length": 16,
+   "pointers": [],
+   "jp": "よこづな",
+   "en": "Sumo",
+   "notes": ""
+  }
+ ]
+}

@@ -1,0 +1,445 @@
+{
+ "block": "inline0c",
+ "entries": [
+  {
+   "id": "inline0c_0000",
+   "offset": "0x30158",
+   "length": 10,
+   "pointers": [],
+   "jp": "を、おぼえました！",
+   "en": " learned!",
+   "notes": "Follows a trick name: 'Leapfrog learned!'",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0c_0001",
+   "offset": "0x30FE2",
+   "length": 9,
+   "pointers": [],
+   "jp": "100Mダッシュ",
+   "en": "100m Dash",
+   "notes": "",
+   "max_chars": 9
+  },
+  {
+   "id": "inline0c_0002",
+   "offset": "0x30FEB",
+   "length": 4,
+   "pointers": [],
+   "jp": "うんてい",
+   "en": "Bars",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0c_0003",
+   "offset": "0x31143",
+   "length": 8,
+   "pointers": [],
+   "jp": "サウンドテスト",
+   "en": "Sound test",
+   "notes": "3-6 are a debug menu.",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0c_0004",
+   "offset": "0x31152",
+   "length": 8,
+   "pointers": [],
+   "jp": "イべントテスト",
+   "en": "Event test",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0c_0005",
+   "offset": "0x3115A",
+   "length": 3,
+   "pointers": [],
+   "jp": "わざ",
+   "en": "Tricks",
+   "notes": "",
+   "max_chars": 6
+  },
+  {
+   "id": "inline0c_0006",
+   "offset": "0x3115D",
+   "length": 8,
+   "pointers": [],
+   "jp": "エンディング",
+   "en": "Ending",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0c_0007",
+   "offset": "0x314C5",
+   "length": 18,
+   "pointers": [],
+   "jp": "セーブしますか？　　はい　　いいえ",
+   "en": "Save now? Yes No",
+   "notes": "Cursor stops at columns 9 and 13.",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0c_0008",
+   "offset": "0x31690",
+   "length": 6,
+   "pointers": [],
+   "jp": "はじめから",
+   "en": "New Game",
+   "notes": "Title screen menu.",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0c_0009",
+   "offset": "0x31696",
+   "length": 6,
+   "pointers": [],
+   "jp": "つづきから",
+   "en": "Continue",
+   "notes": "",
+   "max_chars": 10
+  },
+  {
+   "id": "inline0c_0010",
+   "offset": "0x3169C",
+   "length": 10,
+   "pointers": [],
+   "jp": "ポケットプリンタ",
+   "en": "GB Printer",
+   "notes": "",
+   "max_chars": 12
+  },
+  {
+   "id": "inline0c_0011",
+   "offset": "0x316A6",
+   "length": 9,
+   "pointers": [],
+   "jp": "つうしんケーブル",
+   "en": "Link Cable",
+   "notes": "",
+   "max_chars": 12
+  },
+  {
+   "id": "inline0c_0012",
+   "offset": "0x31936",
+   "length": 9,
+   "pointers": [],
+   "jp": "あいしょうチェック",
+   "en": "Pair check",
+   "notes": "Compatibility check (link cable breeding).",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0c_0013",
+   "offset": "0x3193F",
+   "length": 6,
+   "pointers": [],
+   "jp": "もどります",
+   "en": "Back",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0c_0014",
+   "offset": "0x31945",
+   "length": 5,
+   "pointers": [],
+   "jp": "すすめます",
+   "en": "Next",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0c_0015",
+   "offset": "0x3194A",
+   "length": 17,
+   "pointers": [],
+   "jp": "はんしょくケージがありません。",
+   "en": "No breeding cage.",
+   "notes": "",
+   "max_chars": 17
+  },
+  {
+   "id": "inline0c_0016",
+   "offset": "0x3195B",
+   "length": 15,
+   "pointers": [],
+   "jp": "まずは、はんしょくケージを",
+   "en": "First, get a",
+   "notes": "Lines 16-17 and 18-20 are one sentence each.",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0c_0017",
+   "offset": "0x3196A",
+   "length": 9,
+   "pointers": [],
+   "jp": "てにいれましょう。",
+   "en": "breeding cage.",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0c_0018",
+   "offset": "0x31973",
+   "length": 14,
+   "pointers": [],
+   "jp": "はんしょくケージのなかに、",
+   "en": "Put a hamster",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0c_0019",
+   "offset": "0x31981",
+   "length": 13,
+   "pointers": [],
+   "jp": "あいしょうチェックをしたい",
+   "en": "to check in",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0c_0020",
+   "offset": "0x3198E",
+   "length": 18,
+   "pointers": [],
+   "jp": "ハムスター1ぴき、いれておいてね。",
+   "en": "the breeding cage.",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0c_0021",
+   "offset": "0x319A0",
+   "length": 12,
+   "pointers": [],
+   "jp": "ハムスターをおくります。",
+   "en": "Sending hamster.",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0c_0022",
+   "offset": "0x319AC",
+   "length": 22,
+   "pointers": [],
+   "jp": "つうしんケーブルでつなげてください。",
+   "en": "Connect a link cable.",
+   "notes": "",
+   "max_chars": 22
+  },
+  {
+   "id": "inline0c_0023",
+   "offset": "0x31B14",
+   "length": 22,
+   "pointers": [],
+   "jp": "じゅんびできたらAボタンをおしてね。",
+   "en": "Press A when ready.",
+   "notes": "",
+   "max_chars": 22
+  },
+  {
+   "id": "inline0c_0024",
+   "offset": "0x31D64",
+   "length": 13,
+   "pointers": [],
+   "jp": "てんそうがおわりました。",
+   "en": "Transfer done.",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0c_0025",
+   "offset": "0x31D71",
+   "length": 15,
+   "pointers": [],
+   "jp": "てんそうにしっぱいしました。",
+   "en": "Sending failed.",
+   "notes": "",
+   "max_chars": 18
+  },
+  {
+   "id": "inline0c_0026",
+   "offset": "0x31E2A",
+   "length": 7,
+   "pointers": [],
+   "jp": "さんのところの",
+   "en": "-san's ",
+   "notes": "'<player>-san's <hamster> came.' Honorific kept per the style guide.",
+   "max_chars": 7
+  },
+  {
+   "id": "inline0c_0027",
+   "offset": "0x31E31",
+   "length": 7,
+   "pointers": [],
+   "jp": "がきました。",
+   "en": " came.",
+   "notes": "",
+   "max_chars": 7
+  },
+  {
+   "id": "inline0c_0028",
+   "offset": "0x31FD9",
+   "length": 1,
+   "pointers": [],
+   "jp": "X",
+   "en": "&",
+   "notes": "",
+   "max_chars": 1
+  },
+  {
+   "id": "inline0c_0029",
+   "offset": "0x31FDA",
+   "length": 10,
+   "pointers": [],
+   "jp": "なかよくなりました。",
+   "en": "Became friends.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0c_0030",
+   "offset": "0x31FE4",
+   "length": 15,
+   "pointers": [],
+   "jp": "ケンカがたえないようです。",
+   "en": "Always fighting.",
+   "notes": "",
+   "max_chars": 16
+  },
+  {
+   "id": "inline0c_0031",
+   "offset": "0x32D65",
+   "length": 8,
+   "pointers": [],
+   "jp": "いんさつ：ふつう",
+   "en": "Ink:Norm",
+   "notes": "31-35: Pocket Printer darkness.",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0c_0032",
+   "offset": "0x32D6D",
+   "length": 8,
+   "pointers": [],
+   "jp": "いんさつ：こい　",
+   "en": "Ink:Dark",
+   "notes": "",
+   "max_chars": 8
+  },
+  {
+   "id": "inline0c_0033",
+   "offset": "0x32D75",
+   "length": 3,
+   "pointers": [],
+   "jp": "うすい",
+   "en": "Lgt",
+   "notes": "",
+   "max_chars": 3
+  },
+  {
+   "id": "inline0c_0034",
+   "offset": "0x32D78",
+   "length": 3,
+   "pointers": [],
+   "jp": "ふつう",
+   "en": "Mid",
+   "notes": "",
+   "max_chars": 3
+  },
+  {
+   "id": "inline0c_0035",
+   "offset": "0x32D7B",
+   "length": 3,
+   "pointers": [],
+   "jp": "こい　",
+   "en": "Drk",
+   "notes": "",
+   "max_chars": 3
+  },
+  {
+   "id": "inline0c_0036",
+   "offset": "0x32D7E",
+   "length": 22,
+   "pointers": [],
+   "jp": "じゅんびできたらAボタンをおしてね。",
+   "en": "Press A when ready.",
+   "notes": "",
+   "max_chars": 22
+  },
+  {
+   "id": "inline0c_0037",
+   "offset": "0x32D94",
+   "length": 12,
+   "pointers": [],
+   "jp": "データてんそうちゅう。",
+   "en": "Sending data",
+   "notes": "",
+   "max_chars": 12
+  },
+  {
+   "id": "inline0c_0038",
+   "offset": "0x32DA0",
+   "length": 12,
+   "pointers": [],
+   "jp": "プリントかいしします。",
+   "en": "Now printing",
+   "notes": "",
+   "max_chars": 12
+  },
+  {
+   "id": "inline0c_0039",
+   "offset": "0x32DAC",
+   "length": 5,
+   "pointers": [],
+   "jp": "エラー01",
+   "en": "Err01",
+   "notes": "",
+   "max_chars": 5
+  },
+  {
+   "id": "inline0c_0040",
+   "offset": "0x32DB1",
+   "length": 5,
+   "pointers": [],
+   "jp": "エラー02",
+   "en": "Err02",
+   "notes": "",
+   "max_chars": 5
+  },
+  {
+   "id": "inline0c_0041",
+   "offset": "0x32DB6",
+   "length": 5,
+   "pointers": [],
+   "jp": "エラー03",
+   "en": "Err03",
+   "notes": "",
+   "max_chars": 5
+  },
+  {
+   "id": "inline0c_0042",
+   "offset": "0x32DBB",
+   "length": 5,
+   "pointers": [],
+   "jp": "エラー04",
+   "en": "Err04",
+   "notes": "",
+   "max_chars": 5
+  },
+  {
+   "id": "inline0c_0043",
+   "offset": "0x32DC0",
+   "length": 18,
+   "pointers": [],
+   "jp": "エラー：ふめいなエラーがあります。",
+   "en": "Unknown error.",
+   "notes": "",
+   "max_chars": 18
+  }
+ ]
+}

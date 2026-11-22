@@ -1,0 +1,39 @@
+{
+ "block": "announce07",
+ "entries": [
+  {
+   "id": "announce07_0000",
+   "offset": "0x1CB8C",
+   "length": 20,
+   "pointers": [
+    "0x1CB80",
+    "0x1CB82"
+   ],
+   "jp": "ハムスターかえるとびコンテストです",
+   "en": "The Hamster       Leapfrog Contest!",
+   "notes": ""
+  },
+  {
+   "id": "announce07_0001",
+   "offset": "0x1CBA0",
+   "length": 40,
+   "pointers": [
+    "0x1CB84"
+   ],
+   "jp": "きょうのハムスターたちは、はたして　しんきろくがだせますでしょうか・・・",
+   "en": "Will we see a new record today…?",
+   "notes": ""
+  },
+  {
+   "id": "announce07_0002",
+   "offset": "0x1CBC8",
+   "length": 38,
+   "pointers": [
+    "0x1CB86"
+   ],
+   "jp": "さぁ、はじまるようです・・・　　　　　　　　　　　　　　　　　　　　　",
+   "en": "It looks like it'sabout to begin…",
+   "notes": ""
+  }
+ ]
+}

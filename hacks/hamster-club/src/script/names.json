@@ -1,0 +1,212 @@
+{
+ "block": "names",
+ "entries": [
+  {
+   "id": "names_0000",
+   "offset": "0xD4D1",
+   "length": 16,
+   "pointers": [],
+   "jp": "ケージのそと",
+   "en": "Outside",
+   "notes": "Default cage names hold 8 letters (name entry limit); cage types shortened."
+  },
+  {
+   "id": "names_0001",
+   "offset": "0xD501",
+   "length": 16,
+   "pointers": [],
+   "jp": "ちいさいケージ",
+   "en": "Small",
+   "notes": ""
+  },
+  {
+   "id": "names_0002",
+   "offset": "0xD531",
+   "length": 16,
+   "pointers": [],
+   "jp": "ノーマルケージ1",
+   "en": "Normal 1",
+   "notes": ""
+  },
+  {
+   "id": "names_0003",
+   "offset": "0xD561",
+   "length": 16,
+   "pointers": [],
+   "jp": "ノーマルケージ2",
+   "en": "Normal 2",
+   "notes": ""
+  },
+  {
+   "id": "names_0004",
+   "offset": "0xD591",
+   "length": 16,
+   "pointers": [],
+   "jp": "ノーマルケージ3",
+   "en": "Normal 3",
+   "notes": ""
+  },
+  {
+   "id": "names_0005",
+   "offset": "0xD5C1",
+   "length": 16,
+   "pointers": [],
+   "jp": "ラージケージ",
+   "en": "Large",
+   "notes": ""
+  },
+  {
+   "id": "names_0006",
+   "offset": "0xD5F1",
+   "length": 16,
+   "pointers": [],
+   "jp": "へビーケージ",
+   "en": "Heavy",
+   "notes": ""
+  },
+  {
+   "id": "names_0007",
+   "offset": "0xD621",
+   "length": 16,
+   "pointers": [],
+   "jp": "アイテムケージ",
+   "en": "Item",
+   "notes": ""
+  },
+  {
+   "id": "names_0008",
+   "offset": "0xD651",
+   "length": 16,
+   "pointers": [],
+   "jp": "ハムスターケージ",
+   "en": "Hamster",
+   "notes": ""
+  },
+  {
+   "id": "names_0009",
+   "offset": "0xD681",
+   "length": 16,
+   "pointers": [],
+   "jp": "プラケージ",
+   "en": "Plastic",
+   "notes": ""
+  },
+  {
+   "id": "names_0010",
+   "offset": "0xD6B1",
+   "length": 16,
+   "pointers": [],
+   "jp": "プラケージ2",
+   "en": "Plastic2",
+   "notes": ""
+  },
+  {
+   "id": "names_0011",
+   "offset": "0xD6E1",
+   "length": 16,
+   "pointers": [],
+   "jp": "はんしょくケージ",
+   "en": "Breeding",
+   "notes": ""
+  },
+  {
+   "id": "names_0012",
+   "offset": "0xD711",
+   "length": 16,
+   "pointers": [],
+   "jp": "うんどうケージ",
+   "en": "Exercise",
+   "notes": ""
+  },
+  {
+   "id": "names_0013",
+   "offset": "0xD741",
+   "length": 16,
+   "pointers": [],
+   "jp": "あいきょうケージ",
+   "en": "Charm",
+   "notes": ""
+  },
+  {
+   "id": "names_0014",
+   "offset": "0xD771",
+   "length": 16,
+   "pointers": [],
+   "jp": "ピラミッドケージ",
+   "en": "Pyramid",
+   "notes": ""
+  },
+  {
+   "id": "names_0015",
+   "offset": "0xD7A1",
+   "length": 16,
+   "pointers": [],
+   "jp": "きんみらいケージ",
+   "en": "Future",
+   "notes": ""
+  },
+  {
+   "id": "names_0016",
+   "offset": "0xD7D1",
+   "length": 16,
+   "pointers": [],
+   "jp": "しげっち",
+   "en": "Shigechi",
+   "notes": ""
+  },
+  {
+   "id": "names_0017",
+   "offset": "0xD851",
+   "length": 16,
+   "pointers": [],
+   "jp": "えんどーくん",
+   "en": "Endo-kun",
+   "notes": ""
+  },
+  {
+   "id": "names_0018",
+   "offset": "0xD8D1",
+   "length": 16,
+   "pointers": [],
+   "jp": "ぷーちゃん",
+   "en": "Pu-chan",
+   "notes": ""
+  },
+  {
+   "id": "names_0019",
+   "offset": "0xD951",
+   "length": 16,
+   "pointers": [],
+   "jp": "じゃんが",
+   "en": "Djungie",
+   "notes": "Default name for the Djungarian babies (じゃんが). UNSURE: Djungie as a cute short form."
+  },
+  {
+   "id": "names_0020",
+   "offset": "0xD9D1",
+   "length": 16,
+   "pointers": [],
+   "jp": "じゃんが",
+   "en": "Djungie",
+   "notes": ""
+  },
+  {
+   "id": "names_0021",
+   "offset": "0xDA51",
+   "length": 16,
+   "pointers": [],
+   "jp": "じゃんが",
+   "en": "Djungie",
+   "notes": ""
+  },
+  {
+   "id": "names_0022",
+   "offset": "0xDAD1",
+   "length": 16,
+   "pointers": [],
+   "jp": "じゃんが",
+   "en": "Djungie",
+   "notes": ""
+  }
+ ]
+}

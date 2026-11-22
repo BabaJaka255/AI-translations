@@ -1,0 +1,413 @@
+# jp<TAB>en, applied to every ELF entry with that exact Japanese (c3_tr.py addjp). "!" after jp = no pairs.
+森	Forest
+果樹園	Orchard
+深い草地	Tall Grass
+浅い草地	Short Grass
+野原	Field
+荒地	Wasteland
+砂	Sand
+畑	Farm Field
+立派な橋 	Grand Bridge
+水	Water
+線路	Railway
+道路	Road
+山	Mountain
+役場用地	Town Hall Site
+誘致用地	Bid Site
+役場	Town Hall
+役所	City Hall
+都庁	Capitol
+幼稚園	Kindergarten
+小学校	Grade School
+中学校	Middle School
+高校	High School
+大学	University
+専門学校	Trade School
+警察署	Police Station
+消防署	Fire Station
+駅	Station
+会社	Office
+遊園地	Amusement Park
+水族館	Aquarium
+動物園	Zoo
+体育館	Gym
+運動場	Sports Field
+住宅	Houses
+本屋	Bookstore
+電器屋	Electronics
+雑貨屋	Variety Store
+洋品店	Clothing Store
+貴金属店	Jeweler
+八百屋	Greengrocer
+魚屋	Fishmonger
+肉屋	Butcher
+洋食屋	Western Diner
+焼肉屋	BBQ Grill
+教会	Church
+農協	Farm Co-op
+漁協	Fishing Co-op
+旅館	Ryokan Inn
+銭湯	Bathhouse
+工場	Factory
+信用金庫	Credit Union
+都市銀行	City Bank
+病院	Hospital
+菜の花畑	Canola Field
+/w/w/w/w本店	/w/w/w/wMain
+/w/0号/b店	/wStore #/0
+/0年目/w/1月/w/2日	Y/0 M/1 D/2
+午/b前/w/0/w時/1分	AM/w/0:/Q1
+午/b後/w/0/w時/1分	PM/w/0:/Q1
+休	Off
+/wＨ	/wh
+－ＤＥＭＯＮＳＴＲＡＴＩＯＮ－	- DEMONSTRATION -
+開発済み商品一覧	Developed Products
+内装品一覧	Fixture List
+採用店員履歴	Hiring History
+買物人口/w/w/0人	Shoppers/w/w/0
+建物価格	Building Price
+土地価格	Land Price
+建物情報	Building Info
+価格率 /3％	Price Rate /3％
+扱商品	Goods
+店員/1　規模/2	Staff/1 Size/2
+営業時間	Store Hours
+店評/b価	Rating
+店の状態	Store Status
+接客	Serv.
+収納力  /0	Capacity  /0
+警備	Secur.
+注目	Appeal
+清掃	Clean
+人気	Fame
+収/b納	Stock
+内装品情報	Fixture Info
+所持金	Funds
+買い物額合計	Total Spent
+来客者情報	Customer Info
+店員情報	Clerk Info
+店長情報	Manager Info
+維持費用合計/n	Upkeep Sum/n
+残資金/n	Funds Left/n
+内装費用合計/n	Fixture Cost/n
+内外	Both
+維持費用/n  /1円／月	Upkeep/n  /G1／mo
+価格　/0円	Price /G0
+各店評価／売上	Rating／Sales
+店舗一覧	Store List
+得点　/1点	Score /1 pts
+総合評価	Overall Rating
+自店/5 敵店/6	You/5 Rival/6
+人口　/2人	Pop. /2
+町の状況	Town Status
+資金	Funds
+片手操作	One-Handed
+通常操作	Standard
+月次報告	Monthly Report
+ＳＥ	SFX
+ＢＧＭ	Music
+ＮＯＷ　ＬＯＡＤＩＮＧ．．．	NOW LOADING...
+ＳＴＡＲＴボタン：/n操作説明	START:/nControls
+ＳＥＬＥＣＴボタン：/n右回転	SELECT:/nRotate right
+最高得点  /1点	Best  /1 pts
+弁当類	Bento
+お菓子類	Sweets
+清涼飲料	Soft Drinks
+本	Books
+山中県湖畔村	Lakeside
+山中県紅葉湖村	Momiji Lake
+１００億円売上指令	¥10B Sales Order
+内海県海峡村	Kaikyo
+１２店舗独占計画	12-Store Takeover
+店舗評価５つ星の店を/n５店舗経営せよ	Run 5 stores with/na 5-star rating
+城山県城下町村	Castle Town
+海運県海賊湾村	Pirate Bay
+玄海県関門村	Kanmon
+来客５０万人！	500K Visits!
+売上を伸ばして人口/n２５０００人を目指せ	Grow sales to a/ntown of 25,000
+武蔵野県中川町	Nakagawa
+深山県奥山湖村	Lake Okuyama
+目指せ５店舗	Go for 5 Stores
+秋津島県宮野島村	Miyanoshima
+下野県鎮護寺町	Chingoji
+下野県多摩湖村	Lake Tama
+洲田県浜田村	Hamada
+遊園地を誘致	Amusement Park
+武蔵県公園村	Koen
+来客１０万人	100K Visitors
+北斗県高良浜村	Treasure Beach
+売上１０億円	¥1B in Sales
+浦島県黒旗島村	Black Flag
+桜花県桜ヶ池村	Sakuragaike
+比良野県川中村	Kawanaka
+浦波県中之島町	Nakanoshima
+来客１万人	10K Visitors
+奈伊流県海路村	Cairo
+売上１億円	¥100M in Sales
+南陽県白砂浜村	White Sands
+６ヶ月間の来客	6-Mo. Visits
+駿河県三河村	Mikawa
+６ヶ月間の売上	6-Mo. Sales
+消防署を誘致	Fire Station
+新商品開発	New Product
+初心者県旅立村	Fresh Start
+初期資金	Funds
+難易度	Level
+最高点	Best
+/0/w点	/0/wpt
+/1/w回	/1
+学歴	School
+資格	Certs
+趣味・特技	Hobbies
+名前	Name
+年齢	Age
+/0歳	/0
+性別	Sex
+男	M
+女	F
+/0位	#/0
+/1個売上	/1 sold
+/1人来客	/1 visits
+点	pts
+/2/w回	/2
+/1点	/1 pts
+文字入力!	Enter
+文字削除!	Delete
+入力終了!	Done
+決定!	OK
+　入力終了!	 Done
+価格	Price
+維持費	Fees
+設置場所	Placement
+店/b舗内外両用	In or Out
+店/b舗外専用	Outside Only
+店/b舗内専用	Inside Only
+収納力	Holds
+注目度	Appeal
+陳列商品	Display
+/0年/1月/2日/n	Y/0 M/1 D/2/n
+営業中	Open
+休業中	Closed
+費用月額	Monthly Cost
+出店場所選択	Choose Site
+収支詳細	Balance Detail
+新商品確認	New Products
+営業日報	Daily Report
+給与体系変更	Pay Settings
+店員異動	Move Staff
+販売権利取得	Get Licenses
+店舗規模選択	Store Size
+店舗評価一覧	Store Ratings
+雇用／解雇	Hire／Fire
+誘致	Invite
+価格率変更	Price Rate
+店舗買収	Buy Out Store
+店舗売却	Sell Store
+営業時間変更	Store Hours
+銀行	Bank
+広告宣伝	Advertising
+教育	Train
+補充	Refill
+体力	Vigor
+/0号/b店	Store #/0
+本店	Main
+%s%s 前年収支%s 税金%s 残資金%s	%s%s Last yr%s Tax%s Left%s
+%s%s 売上%s 経費%s 収支%s	%s%s Sales%s Costs%s Net%s
+残資金	Left
+税金	Tax
+前年収支	Last Year
+収支	Net
+開発済商品数	Developed
+標準価格	List Price
+/0年目/1月/2日	Y/0 M/1 D/2
+開発終了予定	Ready On
+開発費用	Dev. Cost
+収支合計	Total Net
+経費	Costs
+１/b年/b毎	Yearly
+１ヶ月毎	Monthly
+１日毎	Daily
+広告宣伝費	Ad Costs
+宣伝費	Ads
+月次収支報告	Monthly Report
+/0/wｐ/bｏｉｎｔ	/0/wpoints
+店/b舗/w評/b価	Rating
+町人口	Pop.
+年商	Annual
+累積来客数	Total Visits
+入替商品数	Swapped
+仕入値	Cost
+返品値	Refund
+/0個	/0
+個数	Qty
+販売価格	Sale Price
+利益	Profit
+原価	Cost
+期間	Term
+誘致不可能	Can't Bring In
+誘致可能	Can Bring In
+費用合計	Total Cost
+成功率	Odds
+誘致可能期間	Open Period
+集中力	Focus
+俊敏性	Speed
+買物所要時間	Shop Time
+買物額合計	Total Spent
+自動車	Car
+自転車	Bike
+徒歩	Walk
+来店手段	Came By
+総/b合評/b価	Overall
+達成度	Done
+規模	Size
+価格率	Rate%
+売上	Sales
+最高記録	Best Record
+現在得点	Score Now
+人口	Pop.
+/0点	/0 pts
+最高得点	Best Score
+/0回	/0
+%s/w/w/w同%s/w/w/w異動	%s/w/wMoved to %s
+店舗	Stores
+計/S0	Sum/S0
+調査費用	Survey Cost
+/0店舗	/0
+実行中の店舗	Running At
+/0日間実行中	/0 days on
+全店合計	All Stores
+顧客独占率	Market Share
+/0店	/0
+店舗数	Stores
+現在の人口	Population
+/0年前	-/0y
+現在	Now
+０人	0
+%s/w/w/w貴社%s/w/w/w買収異動	%s/w/wMoved to %s (buyout)
+価格率 /0％	Price /0％
+店員/0　規模/1	Staff/0 Size/1
+買収価格	Buyout Price
+売却価格	Sale Price
+/0年目/1月１日～/2年目/3月末日	Y/0 M/1 to Y/2 M/3 end
+/0年	/0 yr
+期/w間	Term
+現在返済/b額	Owed Now
+満期返済/b予定/b額	Due at End
+/0年目/1月末日	Y/0 M/1 end
+借入期/w間	Loan Term
+借入限度額	Loan Limit
+借入金	Loan
+/0年目/1月末日まで	Until Y/0 M/1 end
+返済/b期/w限	Due
+年利	Rate
+販売価格率	Price Rate
+商品数	Items
+利益率	Margin
+原価率	Cost%
+全商品平均価格率	Avg. Price Rate
+ＰＭ　/w７：００～ＡＭ１１：００	7:00 PM - 11:00 AM
+ＡＭ/w/w１０：００～ＰＭ/w１０：００	10:00 AM - 10:00 PM
+ＡＭ　７：００～ＰＭ/w１１：００	7:00 AM - 11:00 PM
+休業	Closed
+２４時間営業	24 Hours
+/0Ｈ	/0h
+全店	All
+平均/w給/b料	Avg. Pay
+/0人	/0
+店員数	Clerks
+個人交渉	Manual
+自動受入	Auto-OK
+賃上交渉	Pay Talks
+希望給与額	Asking Pay
+学歴／職歴	School／Work
+、店長就任	 as manager
+%s/w/w/w貴社%s/w/w/w入社	%s/w/wJoined your %s
+%s/w/w/w同/w/w/w退社	%s/w/wQuit
+未雇用	None
+給/b料/s0	Pay /s0
+店員	Clerk
+店長	Mgr.
+応募人数	Applicants
+前月収支	Last Month
+申請費	Fee
+権利費	Lic.
+薬類の販売権利	Medicine Lic.
+酒類の販売権利	Alcohol Lic.
+合計	Total
+建設費	Cost 
+土地代	Land
+出店不可能	Can't Build
+出店可能	Can Build
+内装品配置画面へ	To Placement
+内装品選択画面へ	To Selection
+回転	Rotate
+設置	Place
+選択	Select
+変更	Change
+全店一斉	All Stores
+%d号店	#%d
+撤去	Remove
+移動	Move
+内装消去	Clear All
+編集終了	Done Editing
+終了	End
+評価	Rating
+調査	Survey
+宣伝	Ads
+経営方針	Policy
+内装編集	Edit Interior
+店舗改築	Renovate
+新規出店	Open New Store
+ＰＭ	PM
+ＡＭ	AM
+店舗評価	Store Rating
+達成年月/w日	Date Reached
+達成率	Goal%
+/0/w位	#/0
+中断	Quit
+１００万人	1,000,000
+５０万人	500,000
+１０万人	100,000
+５万人	50K
+１万人	10,000
+%s/w/w/w%s/w/w/w入社	%s/w/wJoined %s
+ＴＶ	TV
+雑誌	Mags
+無星	No ★
+消火器	Ext.
+噴水	Fount.
+観葉植物	Plants
+花壇	Flower
+%s県%s%s	%s, %s%s
+%s都%s市	%s, %s City
+首都	Metro
+区	 Ward
+市	 City
+町	 Town
+村	 Vil.
+%d日	D%d
+%d月	M%d 
+%d年目	Y%d 
+現在店舗数	Stores Now
+%d店	%d
+売上個数	Units Sold
+現在売上個数	Sold So Far
+%d個	%d
+現在最高評価	Best Rating
+現在最大規模	Biggest Size
+規模%d	Size %d
+未誘致	None
+誘致中	On Bid
+誘致状況	Bid Status
+達成日	Date
+来客数	Visits
+現在来客数	Customers Now
+%d人	%d
+売上額	Sales
+現在売上額	Sales Now
+累積売上１０億円達成しました	Total sales hit ¥1 billion!
+累積来客者数１０万人達成しました	Total customers hit 100,000!
+累積売上１億円達成しました	Total sales hit ¥100 million!
+累積来客者数１万人達成しました	Total customers hit 10,000!
+新商品開発の利点は？	Why develop products?
+最初から２４時間営業でも大丈夫？	Can I open 24 hours at first?
