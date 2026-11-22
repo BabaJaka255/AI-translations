@@ -1,5 +1,13 @@
 # AI-translations
-Collection of Claude-translated romhacks. Done mostly out of desperation. Use human translations when able.
+Collection of Claude-translated romhacks. Done out of desperation and not the least bit of shame. Use human translations when able.
+
+These patches are provided as-is and have the bare minimum of testing done regarding text fit and readability. It's AI top-to-bottom; there's bound to be glitches or errors regarding the translations and their implementations. Like, I'm pretty sure the GBA romhacks are a fluke because apparently Claude decided it needed to make its own emulator from scratch.
+
+I wanted to be as transparent as possible with how Claude was coaxed into creating these patches- but I'm also lazy, so of course Claude wrote up those "devlogs". Even most of this Read-Me is AI generated, obviously. It really tries to de-emphasize just how much it does itself, which is to say, it did pretty much ALL the work. My impression of Claude's work is that the first pass is always the most impressive, then asking it to iterate and improve is like pulling teeth.
+
+I went into this knowing nothing about making romhacks and I think I know even less now. Regardless, I wanted to try and catalogue what all was done in the hopes that someone might be inspired to redo these hacks by hand with human translators.
+
+For now, consider these patches "good enough" proof-of-concepts that have ZERO guarantee for stability and quality. I'm not even sure if the "research" Claude provided is usable. It probably isn't.
 
 **Website: https://babajaka255.github.io/AI-translations/** lists every hack and lets you apply the patches in your browser.
 
@@ -18,7 +26,7 @@ Each hack lives in its own folder under [`hacks/`](hacks/):
 No ROMs, disc images or patched games are hosted here. You need your own copy of the game.
 
 ## About AI use
-Every hack here was made with substantial help from Claude (Anthropic): reverse engineering, code, translation and graphics work. A human chose the games, supplied the dumps, tested the builds, made wording calls and reported bugs. Each hack's `DEVLOG.md` and README say exactly who did what, and how much testing each one has had.
+Every hack here was made pretty much entirely from Claude (Anthropic): reverse engineering, code, translation and graphics work. A human chose the games, supplied the dumps, tested the builds, made wording calls and reported bugs. Each hack's `DEVLOG.md` and README say exactly who did what, and how much testing each one has had.
 
 ## Building on this work
 Fixes, improvements, retranslations and ports to related games are welcome. Start with the hack's `src/BUILD.md` to rebuild the patch, then `docs/ENGINE_NOTES.md` and `DEVLOG.md`.
