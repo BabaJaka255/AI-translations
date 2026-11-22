@@ -1,0 +1,318 @@
+id	bank	location	japanese	english	limits	notes
+11AC8	8	seq@0x117C5#0	ついに　かわのぬしを　つりあげた!	You finally landed the River King!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11ADB	8	seq@0x117C5#1	まいとし　むらびとの　なかから	Every year, people in the village	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11AEC	8	seq@0x117C5#2	びょうにんがでて　こまっていたのも	fell ill, and it was a great worry.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11B01	8	seq@0x117C5#3	その　しわざは　かわのぬし　だと	Everyone knew deep down	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11B14	8	seq@0x117C5#4	だれもが　よく　わかっては　いた。	that the River King was to blame.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11B28	8	seq@0x117C5#5	しかし　だれも　つりあげられずに	But no one had ever reeled it in,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11B3C	8	seq@0x117C5#6	くやしい　おもいを　していたのです。	and could only grind their teeth.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11B50	8	seq@0x117C5#7	しかし　とうとう　やりました。	But now, you have done it.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11B60	8	seq@0x117C5#8	にっくき　ぬしを　たいじしたのです。	The hated River King is beaten!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11B74	8	seq@0x117C5#9	これで　むらのなかも　あかるくなり	The village will brighten up again,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11B87	8	seq@0x117C5#10	むらびとにえがおが　もどるでしょう。	and everyone will smile once again.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11B9F	8	seq@0x117C5#11	おめでとう!	Congratulations!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11BA7	8	seq@0x117C5#12	ほんとうに　おめでとう!	Congratulations, truly!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11BB5	8	seq@0x117C5#13	さあ　はやく　いもうとの　ところへ	Now hurry home to your little sister	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11BC7	8	seq@0x117C5#14	かえって　ぬしを　たべさせて	and let her eat the River King.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11BD7	8	seq@0x117C5#15	あげて　ください。	Off you go!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11E26	8	stub@0x11DD2	かわのぬしを　いもうとにたべさせた。	Your sister ate the River King.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11E3A	8	stub@0x11DD9	すると　すぐ　げんきになり	In no time she was well again,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11E4A	8	stub@0x11DE0	たちあがることが　できました。	and back up on her feet.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11E5D	8	stub@0x11DE7	バソザーイ。	Banzai!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11E66	8	stub@0x11DEE	むらびとの　あいだから　よろこびの	Cheers of joy rose up from	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11E7B	8	stub@0x11DF5	かんせいが　わきあがりました。	everyone in the village.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11E8D	8	stub@0x11DFC	　	 	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+11E8F	8	stub@0x11E03	　　　　　　お　わ　り　　　　　　　	      THE END	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+13276	9	stub@0x13122	<B1>が　あらわれた!	<B1> appeared!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+13281	9	stub@0x13129	たべものは　のこって　いない。	You have no food left.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+13292	9	stub@0x13130	どうぐは　まだ　もっていない。	You don't have any items yet.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+132A5	9	stub@0x1311B	どうする?	What will you do?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+137A7	9	stub@0x13106	パスワードを　いれてください。	Please enter your password.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+137BA	9	stub@0x1310D	パスワードが　まちがっています!	That password is wrong!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+137CF	9	stub@0x13114	もういちど　いれなおして　ください。	Please enter it again.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14C6F	10	stub@0x1491F	いまは　つりを　していない。	You aren't fishing right now.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14C7E	10	stub@0x14926	なにも　みつからない。	You didn't find anything.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14C8A	10	stub@0x1492D	ちからを　つかいはたして　しまった!	You've used up all your strength!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14C9D	10	stub@0x14934	はりすが　きれてしまった。	Your leader line snapped.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14CAC	10	stub@0x1493B	はりすが　きられてしまった。	A fish cut through your leader line.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14CD1	10	stub@0x14942	ここに　さかなは　いない。	There are no fish here.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14CDF	10	stub@0x14949	さかなが　いなくなってしまった。	The fish have all gone.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14CF1	10	stub@0x14950	タライを　みずに　うかべた。	You set the washtub afloat.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D02	10	stub@0x14957	カワムシを　<A0>ひき　みつけた。	You found <A0> caddis.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D12	10	stub@0x1495E	ねりえを　<A0>コ　みつけた。	You found <A0> paste bait.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D20	10	stub@0x14965	アカムシを　<A0>ひき　みつけた。	You found <A0> midges.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D30	10	stub@0x1496C	サシを　<A0>ひき　みつけた。	You found <A0> maggots.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D3E	10	stub@0x14973	ミミズを　<A0>ひき　みつけた。	You found <A0> worms.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D4E	10	stub@0x1497A	よせえを　まかなくても　つれる。	You can catch fish here without chum.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D5F	10	stub@0x14981	はりをつけた。	You put on a hook.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D67	10	stub@0x14988	はりは　ついている。	You already have a hook on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D72	10	stub@0x1498F	はりは　のこっていない。	You have no hooks left.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D7F	10	stub@0x14996	よせえをまいた。	You scattered some chum.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D88	10	stub@0x1499D	よせえは　のこっていない。	You have no chum left.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14D96	10	stub@0x149A4	はりがないので　エサをつけられない。	No hook, so you can't bait it.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14DAB	10	stub@0x149AB	ここでは　つかえない。	You can't use that here.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14DB8	10	stub@0x149B2	びくが　いっぱいに　なってしまった。	Your creel is full.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14DCE	10	stub@0x149B9	いまは　つかえない。	You can't use that now.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14DD9	10	stub@0x149C0	いま　つかっている。	You're already using it.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14DE4	10	stub@0x149C7	はりが　みぎを　さした。	The needle points right.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14DF3	10	stub@0x149CE	はりが　ひだりを　さした。	The needle points left.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E03	10	stub@0x149D5	はりが　うえを　さした。	The needle points up.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E11	10	stub@0x149DC	はりが　したを　さした。	The needle points down.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E1F	10	stub@0x149E3	はりが　うごかなく　なった。	The needle stopped moving.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E30	10	stub@0x149EA	エサを　ぬしえさ　にした。	You baited with King Bait.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E3E	10	stub@0x149F1	グラスざお　が　はいっていた。	There was a Glass Rod inside!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E51	10	stub@0x149F8	ぬしえさは　ついている。	King Bait is already on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E5E	10	stub@0x149FF	ぬしえさは　ない。	You have no King Bait.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E68	10	stub@0x14A06	なにも　はいって　いなかった。	There was nothing inside.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E78	10	stub@0x14A0D	なにも　はいって　いない。	There's nothing inside.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E86	10	stub@0x14A14	りんご　が　はいっていた。	There was an apple inside!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14E96	10	stub@0x14A1B	たぬきがおどろいて　すがたをみせた。	Startled, a tanuki showed itself!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14EAC	10	stub@0x14A22	ハソマーで　とびらを　こわした。	You broke the door with the hammer.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14EBF	10	stub@0x14A29	おいらは　うみのなかの　こじまから	I was brought here from a little	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14ED1	10	stub@0x14A30	つれて　こられたんだ。	island out in the sea, see.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14EDE	10	stub@0x14A37	そのこじまでは　おまえのさがしている	On that island, the fish you're	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14EF3	10	stub@0x14A3E	さかなが　およいでいたよ。　ブヒー。	looking for was swimming! Oink!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14F09	10	stub@0x14A45	ぬしばりを　つけた。	You put on a King Hook.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14F15	10	stub@0x14A4C	ぬしばりは　ついている。	A King Hook is already on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+14F23	10	stub@0x14A53	ぬしばりは　のこっていない。	You have no King Hooks left.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+15135	10	stub@0x14918	おおきさは　<F0>cヘ　である。	It's <F0> cm long.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+15145	10	stub@0x14911	<C1>ポイソトの　ダメージを　うけた。	You took <C1> damage.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+15260	10	stub@0x15230	<B2>になった。	to <B2>!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+15267	10	stub@0x15237	あたらしい　ちから　が　みについた。	You've grown stronger!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1527B	10	stub@0x1523E	さいだいたいりょくが　1つ　ふえて	Your max HP went up by 1,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1528F	10	stub@0x15229	けいけんち　<B3>　かくとく。	You gained <B3> EXP.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1715A	11	seq@0x1710F#0	かわには　かずおおくの　しゅるいの	Many kinds of fish swam in the river.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1716D	11	seq@0x1710F#1	さかなが　すんで　いました。	But each and every one was a fighter,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1717E	11	seq@0x1710F#2	しかし　どのさかなも	and none could be caught easily.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1718A	11	seq@0x1710F#3	つわもの　ぞろいで　おいそれとは	What's more, some fish had begun	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1719D	11	seq@0x1710F#4	つれませんでした。	to make fools of the anglers,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+171A8	11	seq@0x1710F#5	さらに　さいきんでは　つりびとを	nibbling off the bait and even	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+171BB	11	seq@0x1710F#6	ばかにして　エサだけを　くって	snapping the hooks right off.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+171CD	11	seq@0x1710F#7	はりを　きったりする　さかなまで	Meanwhile, back in the village,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+171DF	11	seq@0x1710F#8	でてくる　しまつです。	a child suddenly fell ill.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+171ED	11	seq@0x1710F#9	いっぽう　むらでは　ひとりのこどもが	Every year around this season,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+17204	11	seq@0x1710F#10	きゅうに　びょうきで　たおれました。	people in the village fell sick,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+17219	11	seq@0x1710F#11	まいとし　このきせつに　なると	and several of them had died.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+17229	11	seq@0x1710F#12	びょうにんが　でて　そのうちの	How could she be made well?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1723C	11	seq@0x1710F#13	いくにんかが　なくなって　いました。	Someone had to help her,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+17250	11	seq@0x1710F#14	どうすれば　なおせるのか?	and not a day could be lost,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+17260	11	seq@0x1710F#15	いちにちも　はやく　たすけて	or her life would be	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1726F	11	seq@0x1710F#16	あげないと　きけんです。	in danger.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+18582	12	stub@0x18C3F	ぜんぶで　<C3>えんになるけど	That comes to <C3> yen in all.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+18594	12	stub@0x18C5B	ありがとう　ございました。	Thank you very much.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+185A5	12	stub@0x18C70	どうぞ　ごゆっくり。	Have a good rest.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+185B3	12	stub@0x18C77	おかねが　たらないようだけど。	Looks like you're short on money.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+185C6	12	stub@0x18C7E	それは　ざんねんですね。	That's too bad.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+185D5	12	stub@0x18CD9	さかなが　はいっていないようだけど!	Looks like you've got no fish!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+185EB	12	stub@0x18CE0	それは　ざんねんだなあ。	Ah, that's a shame.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+185FA	12	stub@0x18CE7	はりは　それいじょう　もてません。	You can't carry any more hooks.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1860C	12	stub@0x18CEE	よせえは　それいじょう　もてません。	You can't carry any more chum.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1861F	12	stub@0x18D11	おかねがないのか?　しょうがねえな。	Broke, huh? Can't be helped.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+18634	12	stub@0x18D18	1ぽんだけだぞ。　だいじにつかえよ。	Just one, mind. Don't waste it.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+191FA	12	stub@0x18C46	だれも　いない。	There's no one here.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19204	12	stub@0x18C4D	びくが　いっぱいに　なっている。	Your creel is full.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19218	12	stub@0x18C54	いらっしゃいませ!	Welcome!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19222	12	stub@0x18C62	どれにしましょうか?	What would you like?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1922E	12	stub@0x18C69	うって　くれるかい?	Want to sell them to me?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19239	12	stub@0x18C85	このたびは　ありがとうございました。	Thank you for everything.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19250	12	stub@0x18C8C	うーん。　うーん。	Hmm... Hmmm...	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1925A	12	stub@0x18C93	この　びくは　いま　もっている。	You already have this creel.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1926C	12	stub@0x18C9A	この　びくは　いまよりも　ちいさい。	This one's smaller than your creel.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19280	12	stub@0x18CA1	これいじょう　もつことはできません。	You can't carry any more.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19294	12	stub@0x18CA8	かぎは　もっている。	You already have the key.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+192A0	12	stub@0x18CAF	じしゃくは　もっている。	You already have the compass.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+192AD	12	stub@0x18CB6	はなびは　もっている。	You already have fireworks.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+192BA	12	stub@0x18CBD	ハソマーは　もっている。	You already have the hammer.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+192C7	12	stub@0x18CC4	つれているじゃないか!	Well, you've caught some fish!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+192D3	12	stub@0x18CCB	びくのなかのさかな　1ぴきにつき	I pay for every fish in your creel	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+192E6	12	stub@0x18CD2	おおきさべつに　おかねを　はらうと	according to its size.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+192F9	12	stub@0x18CF5	ぬしばりは　それいじょうもてません。	You can't carry more King Hooks.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1930D	12	stub@0x18CFC	ぬしざおは　もっている。	You already have the King Rod.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1931B	12	stub@0x18D03	おとまりには　おかねを　<B0>0えん	A night's stay costs <B0>0 yen.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1932C	12	stub@0x18D0A	いただきますが　よろしいですか?	Will that be all right?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19340	12	stub@0x18D1F	びくのなかに　さかながのこっていると	Your creel still has fish in it,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19355	12	stub@0x18D26	パスワードを　おつたえ　できません。	so I can't give you your password.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1936B	12	stub@0x18D2D	よくやったね!　おめでとう。	Well done! Congratulations!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1937B	12	stub@0x18D34	ほかに　ございませんか?	Anything else for you?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1938A	12	stub@0x18D3B	ワカサギなど　ちっさいさかなが	The little fish like pond smelt	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1939D	12	stub@0x18D42	くいあらされて　こまっとるが	are getting eaten up. It's a pain.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+193AD	12	stub@0x18D49	はんにんを　つかまえて　くれんかい?	Can you catch the culprit for me?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+193C0	12	stub@0x18D50	とうとう　ブラックバスを　つったな。	You finally caught that black bass!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+193D5	12	stub@0x18D57	これで　こざかなも　たすかるだろう。	Now the little fish will be safe.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+193EB	12	stub@0x18D5E	ふるい　ちずだが　やくにたつから	It's an old map, but it's useful.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+193FF	12	stub@0x18D65	もっていくといい。	Take it with you.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19409	12	stub@0x18D6C	げんきか?	How are you doing?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19410	12	stub@0x18D73	つかまえたら　また　きてくれよ。	Come back when you've caught it.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19421	12	stub@0x18D7A	むらんなかを　よーく　めがねかけて	Put on glasses and look all around	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19434	12	stub@0x18D81	さがしまわれば　えさなんか	the village, and you'll find bait,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19444	12	stub@0x18D88	いくらでも　めっかるぞ。	as much as you could want.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19453	12	stub@0x18D8F	めがねをやるから　だいじにつかえよ。	Have my glasses. Treat 'em well.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19468	12	stub@0x18D96	こまったもんだよ。	It's a real shame, I tell you.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19473	12	stub@0x18D9D	うちのむらの　やぶいしゃは	Our village's quack doctor	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19482	12	stub@0x18DA4	びょうにんが　いるというのに	went off fishing, even though	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19493	12	stub@0x18DAB	つりに　でかけてるんだもんな。	there are sick people here.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+194A5	12	stub@0x18DB2	さかなが　きゅうに　つれなくなったら	If the fish all stop biting,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+194B9	12	stub@0x18DB9	やどに　とまって　ひとねむりしてね。	stay at the inn and get some rest.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+194CD	12	stub@0x18DC0	また　すぐ　つれだすわよ。	They'll be biting again soon.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+194DD	12	stub@0x18DC7	パスワードを　おつたえします。	Here is your password.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+194EF	12	stub@0x18DCE	　<F1>	 <F1>	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+194F2	12	stub@0x18DD5	　<F2>	 <F2>	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+194F5	12	stub@0x18DDC	　<F3>	 <F3>	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+194F8	12	stub@0x18DE3	きょうこが　きゅうに　ねつをだして	Kyoko suddenly got a bad fever...	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1950C	12	stub@0x18DEA	ごらんの　とおりだよ。	as you can see.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1951A	12	stub@0x18DF1	せんせいも　るすで　こまったねえ。	And the doctor is away. What a mess.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1952D	12	stub@0x18DF8	くすりを　もらってきて　ちょうだい。	Go and get some medicine for her.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19541	12	stub@0x18DFF	なにを　ぼんやりしてるんだい。	What are you dawdling for?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19553	12	stub@0x18E06	はやくしないと　しんじゃうよ!	Hurry, or she might die!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19563	12	stub@0x18E0D	さいきん　ブラックバスが　ふえたため	Black bass have been multiplying,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19579	12	stub@0x18E14	ちいさい　さかなたちが　めっきり	and the little fish have grown	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1958B	12	stub@0x18E1B	すくなくなったなあ。	awfully scarce.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19596	12	stub@0x18E22	わたしが　やぶいしゃだが。	I'm the quack doctor, they say.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+195A8	12	stub@0x18E29	いもうとの　びょうきを　なおすには	To cure your sister's sickness,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+195BB	12	stub@0x18E30	かわのぬしを　つりあげる　しかない。	you must catch the River King.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+195CF	12	stub@0x18E37	かわのぬしだけが　くすりになるのだ。	Only the River King can cure her.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+195E5	12	stub@0x18E3E	ブラックバスを　つりあげたら	If you catch the black bass, you'll	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+195F7	12	stub@0x18E45	ほらあなの　ばしょが　かいてある	get an old map that shows	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1960A	12	stub@0x18E4C	ふるい　ちずが　もらえるぞ。	where the cave is.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1961C	12	stub@0x18E53	ブラックバスだったら　むこうぎしに	For black bass, you've got to go	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19632	12	stub@0x18E5A	いかないと　つれないよーっ。	to the far bank, or no luck!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19641	12	stub@0x18E61	はしを　わたって　いってね。	Cross the bridge to get there.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19650	12	stub@0x18E68	このかわには　ぬしが　いるんだ。	This river has its own River King.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19663	12	stub@0x18E6F	ときどき　うずが　まいているのを	Sometimes you'll see whirlpools,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19677	12	stub@0x18E76	みかける　だろうが　かんけいないぞ。	but they don't mean a thing.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1968D	12	stub@0x18E7D	カラスに　あわないように　しろよ。	Watch out for crows.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1969F	12	stub@0x18E84	さかなを　ぬすまれるぞ!	They'll steal your fish!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+196AD	12	stub@0x18E8B	たからばこは　みつかったかい?	Found the treasure chest yet?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+196BE	12	stub@0x18E92	かぎが　ないと　あかないよー。	It won't open without a key.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+196D0	12	stub@0x18E99	かわのなかの　ちいさないわのまわりで	The fish bite well around	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+196E4	12	stub@0x18EA0	よく　つれるよ。	the little rocks in the river.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+196ED	12	stub@0x18EA7	じしゃくを　かったら　むらのそとで	If you buy a compass, use it	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19700	12	stub@0x18EAE	つかってね。	outside the village.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19707	12	stub@0x18EB5	このかわを　くだっていくと　うみまで	Go down this river and you can	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1971C	12	stub@0x18EBC	いけますが　とちゅうで　たらいを	reach the sea, but on the way	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1972F	12	stub@0x18EC3	てにいれないと　わたれないですよ。	you'll need a washtub to cross.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19742	12	stub@0x18ECA	じしゃくの　さすほうへ	Head wherever the compass points.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1974E	12	stub@0x18ED1	すすんだら　ええ。　うそはいわねえ。	That's the way. I ain't lyin'.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19762	12	stub@0x18ED8	あんたも　ぬしを　さがしてるんかい?	You after the River King too?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19776	12	stub@0x18EDF	かえるが　ぬしえさに　なるので	Frogs make good King Bait,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19788	12	stub@0x18EE6	いっぱい　つっといたほうが　いいよ。	so best catch plenty of 'em.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1979D	12	stub@0x18EED	いま　コクレソが　いれぐいだぞ。	Bighead carp are biting like crazy!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+197B2	12	stub@0x18EF4	さいきん　ぬしを　みかけないが	Haven't seen the River King lately.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+197C3	12	stub@0x18EFB	どこへ　いったのかなあ。	I wonder where it went.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+197D1	12	stub@0x18F02	たらいづくりの　じいとは	Me, I'm the old man who	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+197DF	12	stub@0x18F09	わしのことじゃ。　じつは　きんぶなの	makes washtubs. Now, I've been	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+197F3	12	stub@0x18F10	ぎょたくを　つくりたいが	wanting to make a gyotaku print	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19802	12	stub@0x18F17	つってきて　もらえんじゃろか?	of a gold crucian. Catch me one?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19812	12	stub@0x18F1E	きんぶなを　つったな。　ありがとう。	A gold crucian! Thank you kindly.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19827	12	stub@0x18F25	わしが　たんねんに　つくった	Here's a washtub I made	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19837	12	stub@0x18F2C	たらいじゃが　もっていくがよい。	with great care. Take it with you.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1984A	12	stub@0x18F33	たらいの　ちょうしは　どうだい?	How's that washtub treating you?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1985D	12	stub@0x18F3A	じつは　ハりヨという　さかなを	Truth is, I'm looking for a	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1986D	12	stub@0x18F41	さがしているが　どこにいるやら?	stickleback. Where could it be?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19881	12	stub@0x18F48	もし　つったら　もってきてね。	If you catch one, bring it to me.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19891	12	stub@0x18F4F	ハりヨじゃないか?　よくつったなあ。	A stickleback! You caught one!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+198A4	12	stub@0x18F56	おれいに　カーボソざおを　あげるね。	As thanks, here's a Carbon Rod.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+198BA	12	stub@0x18F5D	つれてますか?	Are they biting?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+198C2	12	stub@0x18F64	かわのなかから　あわが　でているが	When bubbles come up from the river,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+198D7	12	stub@0x18F6B	ちかくに　さかなが　いるからじゃよ。	it means there's a fish nearby.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+198EB	12	stub@0x18F72	うきを　とりかえて　あげたよ。	I changed your float for you.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+198FC	12	stub@0x18F79	つかいづらいときは　またきてね。	Come back if it's hard to use.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1990E	12	stub@0x18F80	ハりヨを　さがしてるのか?	Looking for a stickleback?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1991D	12	stub@0x18F87	ここいらには　いないなー。	There aren't any around here.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1992B	12	stub@0x18F8E	ちゅうりゅうの　さいごのポイソト	I'd say they're near the last spot	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1993E	12	stub@0x18F95	あたりに　いると　おもうよ。	in the Middle River.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1994D	12	stub@0x18F9C	たらいを　こぐときゃ　ちゅういしろ	Careful paddling a washtub.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19960	12	stub@0x18FA3	たいりょくを　いっぱい　つかうから。	It takes a lot of HP.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19974	12	stub@0x18FAA	このまえの　おおあめは	That downpour the other day	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19980	12	stub@0x18FB1	すごかったねえ。　さかなも　ずいぶん	sure was heavy! The fish must've	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19996	12	stub@0x18FB8	あちこちに　ながされたんだろうなあ。	been washed all over the place.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+199AB	12	stub@0x18FBF	ふしぎなきを　みなかったか?	Did you see a strange tree?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+199BB	12	stub@0x18FC6	たぬきが　ばけてるから　きをつけろ。	It's a tanuki in disguise. Careful!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+199D0	12	stub@0x18FCD	はなびを　つかって　おどかせば	Scare it with some fireworks,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+199E3	12	stub@0x18FD4	きっと　びっくりして　にげだすさ!	and it'll run off in a fright!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+199F8	12	stub@0x18FDB	かわのなかの　くいのまわりで	Fish like to play around	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19A08	12	stub@0x18FE2	よく　さかなが　あそんでいるなあ。	the posts in the river.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19A1C	12	stub@0x18FE9	こないだの　おおあめで　かわが	The big rain the other day	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19A2F	12	stub@0x18FF0	あふれたが　そのために　ぬしも	flooded the river. Maybe the	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19A40	12	stub@0x18FF7	どこかへ　いどう　したのではないか?	River King got washed away too?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19A56	12	stub@0x18FFE	このさきに　とびらがあるが	There's a door up ahead, but	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19A67	12	stub@0x19005	さびついて　いるので　ハソマーで	it's rusted shut. You'll need	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19A7B	12	stub@0x1900C	たたかないと　こわれないぞ。	a hammer to break it open.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19A8B	12	stub@0x19013	あめが　ふった　よくじつは　さかなが	The day after it rains, the fish	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19AA0	12	stub@0x1901A	よく　つれるんじゃよ!　ウハ　ウハ。	really bite! Heh heh heh!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19AB3	12	stub@0x19021	だれも　いない。	There's no one here.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19ABD	12	stub@0x19028	ブヒー　ブヒー　ブー。	Oink, oink, oink!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19ACC	12	stub@0x1902F	ぬしばりは　このむらでしか	King Hooks are only sold	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19ADC	12	stub@0x19036	うってないぞ。	here in this village.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19AE5	12	stub@0x1903D	ぬしを　つるときは　ぬしばりに	To catch the River King, put	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19AF6	12	stub@0x19044	ぬしえさを　つけるんだよ。	King Bait on a King Hook.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19B05	12	stub@0x1904B	かわのなかに　おおきな　うずが	See that big whirlpool	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19B17	12	stub@0x19052	まいて　いるじゃろ。	in the river?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19B22	12	stub@0x19059	その　ちかくが　ねらいどころかな。	Try fishing near it, I'd say.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19B36	12	stub@0x19060	このまえの　おおあめで　だいぶ	That big rain the other day washed	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19B49	12	stub@0x19067	じょうりゅうの　さかなが　ながされて	a lot of fish down from upstream.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19B5E	12	stub@0x1906E	きたようだけど。　かわのぬしは	But the River King...	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19B70	12	stub@0x19075	いったい　どこに　いったのかしら。	where in the world did it go?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19B83	12	stub@0x1907C	ぬしは　かかるんだが　あとすこしで	I hook the River King, but it keeps	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19B98	12	stub@0x19083	なんども　にげられたねー。	slipping away at the last moment.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19BA8	12	stub@0x1908A	やっぱり　ぬしざおでないと　だめか。	I guess only the King Rod will do.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19BBF	12	stub@0x19091	うろうろ　しているところを　みると	Seeing you wander around like that,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19BD1	12	stub@0x19098	まだ　ぬしを　つっていないな。	you haven't caught the King yet.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19BE2	12	stub@0x1909F	そうかんたんに　つられて　たまるか。	It's not gonna be that easy!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19BF5	12	stub@0x190A6	おれのほうが　さきに　つってやる。	I'll catch it before you do!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19C08	12	stub@0x190AD	ちゃいろのブタに　りんごをやってみな	Give the brown pig an apple to eat.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19C1D	12	stub@0x190B4	きっと　おおよろこび　するぜー。	I bet it'll be thrilled.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19C30	12	stub@0x190BB	きのう　このちかくで　ぼらをつったよ	I caught a mullet here yesterday.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19C45	12	stub@0x190C2	ホラじゃ　ないよーっ。	And that's no fish story!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19C51	12	stub@0x190C9	そうか　わかったぞ!	Aha, I've got it figured out!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19C5D	12	stub@0x190D0	ぬしの　いばしょが。	Where the River King is!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19C6A	12	stub@0x190D7	おまえさんには　おしえないよーとっ。	But I'm not tellin' you!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19C7D	12	stub@0x18C38	エサが　ついていない。	There's no bait on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+19C8A	12	stub@0x18C31	はりが　ついていない。	There's no hook on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A7A2	13	stub@0x1A450	いまは　つりを　していない。	You aren't fishing right now.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A7B1	13	stub@0x1A457	かわされて　しまった。	It dodged you.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A7BD	13	stub@0x1A45E	エサを　ミミズ　にした。	You baited with worms.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A7CB	13	stub@0x1A465	エサを　サシ　にした。	You baited with maggots.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A7D7	13	stub@0x1A46C	エサを　アカムシ　にした。	You baited with midges.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A7E5	13	stub@0x1A473	エサを　ねりえ　にした。	You baited with paste bait.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A7F2	13	stub@0x1A47A	エサを　カワムシ　にした。	You baited with caddis.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A800	13	stub@0x1A481	はりがないので　エサをつけられない。	No hook, so you can't bait it.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A815	13	stub@0x1A488	これいじょう　たべきれない。	You can't eat any more.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A825	13	stub@0x1A48F	ミミズ　はない。	You have no worms.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A82F	13	stub@0x1A496	サシ　はない。	You have no maggots.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A837	13	stub@0x1A49D	アカムシ　はない。	You have no midges.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A841	13	stub@0x1A4A4	ねりえ　はない。	You have no paste bait.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A84A	13	stub@0x1A4AB	カワムシ　はない。	You have no caddis.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A854	13	stub@0x1A4B2	　　おもいっきり　ぶんなぐった!	You hit it with all your might!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A867	13	stub@0x1A4B9	たいりょくが　<C0>　かいふくした。	You recovered <C0> HP.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A879	13	stub@0x1A4C0	　　ひっしに　にげた!	You ran for your life!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A886	13	stub@0x1A4C7	<B1>の　はんげき!	<B1> strikes back!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A890	13	stub@0x1A4CE	<B1>の　こうげき!	<B1> attacks!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A89A	13	stub@0x1A4D5	<B1>を　たおした。	You beat <B1>.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A8A3	13	stub@0x1A4DC	たいりょくが　ぜんぶ　かいふくした。	Your HP is fully restored.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A8B9	13	stub@0x1A4E3	<B1>に　つかまった。	<B1> caught you!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A8C3	13	stub@0x1A4EA	<B1>は　おってこなかった。	<B1> didn't follow you.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A8D0	13	stub@0x1A4F1	<B1>に　やられてしまった。	<B1> defeated you.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A8DD	13	stub@0x1A4F8	ミミズ　はついている。	Worms are already on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A8EA	13	stub@0x1A4FF	サシ　はついている。	Maggots are already on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A8F5	13	stub@0x1A506	アカムシ　はついている。	Midges are already on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A902	13	stub@0x1A50D	ねりえ　はついている。	Paste bait is already on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A90E	13	stub@0x1A514	カワムシ　はついている。	Caddis are already on.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A91B	13	stub@0x1A51B	よせえを　1つ　もっていた。	It was carrying some chum.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A92A	13	stub@0x1A522	はりを　1ぽん　もっていた。	It was carrying a hook.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A93A	13	stub@0x1A529	ぱん　を　たべた。	You ate the bread.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A946	13	stub@0x1A530	にくまん　を　たべた。	You ate the meat bun.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A953	13	stub@0x1A537	うどん　を　たべた。	You ate the udon.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A960	13	stub@0x1A53E	やきいも　を　たべた。	You ate the sweet potato.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A96D	13	stub@0x1A545	おにぎり　を　たべた。	You ate the rice ball.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A97B	13	stub@0x1A54C	たべものは　のこって　いない。	You have no food left.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A98C	13	stub@0x1A553	さいだいたいりょく　まで　あと	Your HP is	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A99E	13	stub@0x1A55A	<C5>　です。	<C5> short of max.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A9A5	13	stub@0x1A561	さかなを　1ぴき　ぬすまれた。	A fish was stolen from your creel!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A9B6	13	stub@0x1A449	どうする?	What will you do?	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A9BD	13	stub@0x1A568	<C1>ポイソトの　ダメージを　うけた。	You took <C1> damage.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1A9D2	13	stub@0x1A56F	<C2>ポイソトの　ダメージをあたえた。	You dealt <C2> damage.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1B736	13	stub@0x1B706	<B2>になった。	to <B2>!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1B73D	13	stub@0x1B70D	あたらしい　ちから　が　みについた。	You've grown stronger!	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1B751	13	stub@0x1B714	さいだいたいりょくが　1つ　ふえて	Your max HP went up by 1,	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	
+1B765	13	stub@0x1B6FF	けいけんち　<B3>　かくとく。	You gained <B3> EXP.	2 rows x 18 tiles; auto-wrap at a space, | forces the break; <B1> counts 15, number codes 2-4	

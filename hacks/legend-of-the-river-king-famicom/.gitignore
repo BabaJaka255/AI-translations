@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+src/rom/*
+!src/rom/.keep
+src/build/
+*.nes
+*.fds
+*.zip

@@ -1,0 +1,15 @@
+{
+  "slug": "legend-of-the-river-king-famicom",
+  "name": "Legend of the River King (Famicom)",
+  "platform": "Famicom",
+  "type": "translation",
+  "version": "1.0",
+  "summary": "Complete English translation of the first River King game, Kawa no Nushi Tsuri, with two-row text, rebuilt menus and a new title logo.",
+  "base": {"name": "Kawa no Nushi Tsuri (Japan).nes", "size": 262160, "crc32": "4F5C3D34", "sha1": "8ad15b4d26610d164f19754e15f9afb8c1804796", "header": true},
+  "patches": [{"file": "patches/KawaNoNushiTsuri_FC_EN_v1.0.bps", "format": "bps", "result_crc32": "27F72AA2", "result_sha1": "65d1ab2ea1f6672669a566d4803e3efbedf6a95c"}],
+  "tested_on": "emulator",
+  "source": "verified",
+  "devlog": true,
+  "ai_assisted": true,
+  "updated": "2026-11-22"
+}

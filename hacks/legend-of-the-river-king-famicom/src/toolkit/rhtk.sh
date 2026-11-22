@@ -1,0 +1,3 @@
+#!/bin/sh
+# Run the toolkit from anywhere: toolkit/rhtk.sh <command> ...
+PYTHONPATH="$(cd "$(dirname "$0")" && pwd)${PYTHONPATH:+:$PYTHONPATH}" exec python3 -m rhtk "$@"

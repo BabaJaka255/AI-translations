@@ -1,0 +1,337 @@
+# Kawa no Nushi Tsuri (FC) English script.  ID <TAB> English.
+# Each line is one game "line": up to two rows of 18 tiles (auto-wrapped at a space; "|" forces the row break).
+# Codes: <B1> enemy name, <A0> <C0> <C1> <C2> <C3> <C5> <B2> <B3> <F0> numbers, <B0> one digit, <F1>-<F3> password rows.
+# Check fit: python3 tools/knt_fit.py "text"
+
+## Ending (bank 8, sequential, 16 lines)
+11AC8	You finally landed the River King!
+11ADB	Every year, people in the village
+11AEC	fell ill, and it was a great worry.
+11B01	Everyone knew deep down
+11B14	that the River King was to blame.
+11B28	But no one had ever reeled it in,
+11B3C	and could only grind their teeth.
+11B50	But now, you have done it.
+11B60	The hated River King is beaten!
+11B74	The village will brighten up again,
+11B87	and everyone will smile once again.
+11B9F	Congratulations!
+11BA7	Congratulations, truly!
+11BB5	Now hurry home to your little sister
+11BC7	and let her eat the River King.
+11BD7	Off you go!
+
+## Ending (bank 8, after the meal)
+11E26	Your sister ate the River King.
+11E3A	In no time she was well again,
+11E4A	and back up on her feet.
+11E5D	Banzai!
+11E66	Cheers of joy rose up from
+11E7B	everyone in the village.
+11E8D	 
+11E8F	      THE END
+
+## Battle (bank 9)
+13276	<B1> appeared!
+13281	You have no food left.
+13292	You don't have any items yet.
+132A5	What will you do?
+
+## Password (bank 9)
+137A7	Please enter your password.
+137BA	That password is wrong!
+137CF	Please enter it again.
+
+## Field messages (bank 10)
+14C6F	You aren't fishing right now.
+14C7E	You didn't find anything.
+14C8A	You've used up all your strength!
+14C9D	Your leader line snapped.
+14CAC	A fish cut through your leader line.
+14CD1	There are no fish here.
+14CDF	The fish have all gone.
+14CF1	You set the washtub afloat.
+14D02	You found <A0> caddis.
+14D12	You found <A0> paste bait.
+14D20	You found <A0> midges.
+14D30	You found <A0> maggots.
+14D3E	You found <A0> worms.
+14D4E	You can catch fish here without chum.
+14D5F	You put on a hook.
+14D67	You already have a hook on.
+14D72	You have no hooks left.
+14D7F	You scattered some chum.
+14D88	You have no chum left.
+14D96	No hook, so you can't bait it.
+14DAB	You can't use that here.
+14DB8	Your creel is full.
+14DCE	You can't use that now.
+14DD9	You're already using it.
+14DE4	The needle points right.
+14DF3	The needle points left.
+14E03	The needle points up.
+14E11	The needle points down.
+14E1F	The needle stopped moving.
+14E30	You baited with King Bait.
+14E3E	There was a Glass Rod inside!
+14E51	King Bait is already on.
+14E5E	You have no King Bait.
+14E68	There was nothing inside.
+14E78	There's nothing inside.
+14E86	There was an apple inside!
+14E96	Startled, a tanuki showed itself!
+14EAC	You broke the door with the hammer.
+14EBF	I was brought here from a little
+14ED1	island out in the sea, see.
+14EDE	On that island, the fish you're
+14EF3	looking for was swimming! Oink!
+14F09	You put on a King Hook.
+14F15	A King Hook is already on.
+14F23	You have no King Hooks left.
+15135	It's <F0> cm long.
+15145	You took <C1> damage.
+15260	to <B2>!
+15267	You've grown stronger!
+1527B	Your max HP went up by 1,
+1528F	You gained <B3> EXP.
+
+## Intro (bank 11, sequential, 17 lines)
+1715A	Many kinds of fish swam in the river.
+1716D	But each and every one was a fighter,
+1717E	and none could be caught easily.
+1718A	What's more, some fish had begun
+1719D	to make fools of the anglers,
+171A8	nibbling off the bait and even
+171BB	snapping the hooks right off.
+171CD	Meanwhile, back in the village,
+171DF	a child suddenly fell ill.
+171ED	Every year around this season,
+17204	people in the village fell sick,
+17219	and several of them had died.
+17229	How could she be made well?
+1723C	Someone had to help her,
+17250	and not a day could be lost,
+17260	or her life would be
+1726F	in danger.
+
+## Shops, inn and villagers (bank 12)
+18582	That comes to <C3> yen in all.
+18594	Thank you very much.
+185A5	Have a good rest.
+185B3	Looks like you're short on money.
+185C6	That's too bad.
+185D5	Looks like you've got no fish!
+185EB	Ah, that's a shame.
+185FA	You can't carry any more hooks.
+1860C	You can't carry any more chum.
+1861F	Broke, huh? Can't be helped.
+18634	Just one, mind. Don't waste it.
+191FA	There's no one here.
+19204	Your creel is full.
+19218	Welcome!
+19222	What would you like?
+1922E	Want to sell them to me?
+19239	Thank you for everything.
+19250	Hmm... Hmmm...
+1925A	You already have this creel.
+1926C	This one's smaller than your creel.
+19280	You can't carry any more.
+19294	You already have the key.
+192A0	You already have the compass.
+192AD	You already have fireworks.
+192BA	You already have the hammer.
+192C7	Well, you've caught some fish!
+192D3	I pay for every fish in your creel
+192E6	according to its size.
+192F9	You can't carry more King Hooks.
+1930D	You already have the King Rod.
+1931B	A night's stay costs <B0>0 yen.
+1932C	Will that be all right?
+19340	Your creel still has fish in it,
+19355	so I can't give you your password.
+1936B	Well done! Congratulations!
+1937B	Anything else for you?
+1938A	The little fish like pond smelt
+1939D	are getting eaten up. It's a pain.
+193AD	Can you catch the culprit for me?
+193C0	You finally caught that black bass!
+193D5	Now the little fish will be safe.
+193EB	It's an old map, but it's useful.
+193FF	Take it with you.
+19409	How are you doing?
+19410	Come back when you've caught it.
+19421	Put on glasses and look all around
+19434	the village, and you'll find bait,
+19444	as much as you could want.
+19453	Have my glasses. Treat 'em well.
+19468	It's a real shame, I tell you.
+19473	Our village's quack doctor
+19482	went off fishing, even though
+19493	there are sick people here.
+194A5	If the fish all stop biting,
+194B9	stay at the inn and get some rest.
+194CD	They'll be biting again soon.
+194DD	Here is your password.
+194EF	 <F1>
+194F2	 <F2>
+194F5	 <F3>
+194F8	Kyoko suddenly got a bad fever...
+1950C	as you can see.
+1951A	And the doctor is away. What a mess.
+1952D	Go and get some medicine for her.
+19541	What are you dawdling for?
+19553	Hurry, or she might die!
+19563	Black bass have been multiplying,
+19579	and the little fish have grown
+1958B	awfully scarce.
+19596	I'm the quack doctor, they say.
+195A8	To cure your sister's sickness,
+195BB	you must catch the River King.
+195CF	Only the River King can cure her.
+195E5	If you catch the black bass, you'll
+195F7	get an old map that shows
+1960A	where the cave is.
+1961C	For black bass, you've got to go
+19632	to the far bank, or no luck!
+19641	Cross the bridge to get there.
+19650	This river has its own River King.
+19663	Sometimes you'll see whirlpools,
+19677	but they don't mean a thing.
+1968D	Watch out for crows.
+1969F	They'll steal your fish!
+196AD	Found the treasure chest yet?
+196BE	It won't open without a key.
+196D0	The fish bite well around
+196E4	the little rocks in the river.
+196ED	If you buy a compass, use it
+19700	outside the village.
+19707	Go down this river and you can
+1971C	reach the sea, but on the way
+1972F	you'll need a washtub to cross.
+19742	Head wherever the compass points.
+1974E	That's the way. I ain't lyin'.
+19762	You after the River King too?
+19776	Frogs make good King Bait,
+19788	so best catch plenty of 'em.
+1979D	Bighead carp are biting like crazy!
+197B2	Haven't seen the River King lately.
+197C3	I wonder where it went.
+197D1	Me, I'm the old man who
+197DF	makes washtubs. Now, I've been
+197F3	wanting to make a gyotaku print
+19802	of a gold crucian. Catch me one?
+19812	A gold crucian! Thank you kindly.
+19827	Here's a washtub I made
+19837	with great care. Take it with you.
+1984A	How's that washtub treating you?
+1985D	Truth is, I'm looking for a
+1986D	stickleback. Where could it be?
+19881	If you catch one, bring it to me.
+19891	A stickleback! You caught one!
+198A4	As thanks, here's a Carbon Rod.
+198BA	Are they biting?
+198C2	When bubbles come up from the river,
+198D7	it means there's a fish nearby.
+198EB	I changed your float for you.
+198FC	Come back if it's hard to use.
+1990E	Looking for a stickleback?
+1991D	There aren't any around here.
+1992B	I'd say they're near the last spot
+1993E	in the Middle River.
+1994D	Careful paddling a washtub.
+19960	It takes a lot of HP.
+19974	That downpour the other day
+19980	sure was heavy! The fish must've
+19996	been washed all over the place.
+199AB	Did you see a strange tree?
+199BB	It's a tanuki in disguise. Careful!
+199D0	Scare it with some fireworks,
+199E3	and it'll run off in a fright!
+199F8	Fish like to play around
+19A08	the posts in the river.
+19A1C	The big rain the other day
+19A2F	flooded the river. Maybe the
+19A40	River King got washed away too?
+19A56	There's a door up ahead, but
+19A67	it's rusted shut. You'll need
+19A7B	a hammer to break it open.
+19A8B	The day after it rains, the fish
+19AA0	really bite! Heh heh heh!
+19AB3	There's no one here.
+19ABD	Oink, oink, oink!
+19ACC	King Hooks are only sold
+19ADC	here in this village.
+19AE5	To catch the River King, put
+19AF6	King Bait on a King Hook.
+19B05	See that big whirlpool
+19B17	in the river?
+19B22	Try fishing near it, I'd say.
+19B36	That big rain the other day washed
+19B49	a lot of fish down from upstream.
+19B5E	But the River King...
+19B70	where in the world did it go?
+19B83	I hook the River King, but it keeps
+19B98	slipping away at the last moment.
+19BA8	I guess only the King Rod will do.
+19BBF	Seeing you wander around like that,
+19BD1	you haven't caught the King yet.
+19BE2	It's not gonna be that easy!
+19BF5	I'll catch it before you do!
+19C08	Give the brown pig an apple to eat.
+19C1D	I bet it'll be thrilled.
+19C30	I caught a mullet here yesterday.
+19C45	And that's no fish story!
+19C51	Aha, I've got it figured out!
+19C5D	Where the River King is!
+19C6A	But I'm not tellin' you!
+19C7D	There's no bait on.
+19C8A	There's no hook on.
+
+## Battle and items (bank 13)
+1A7A2	You aren't fishing right now.
+1A7B1	It dodged you.
+1A7BD	You baited with worms.
+1A7CB	You baited with maggots.
+1A7D7	You baited with midges.
+1A7E5	You baited with paste bait.
+1A7F2	You baited with caddis.
+1A800	No hook, so you can't bait it.
+1A815	You can't eat any more.
+1A825	You have no worms.
+1A82F	You have no maggots.
+1A837	You have no midges.
+1A841	You have no paste bait.
+1A84A	You have no caddis.
+1A854	You hit it with all your might!
+1A867	You recovered <C0> HP.
+1A879	You ran for your life!
+1A886	<B1> strikes back!
+1A890	<B1> attacks!
+1A89A	You beat <B1>.
+1A8A3	Your HP is fully restored.
+1A8B9	<B1> caught you!
+1A8C3	<B1> didn't follow you.
+1A8D0	<B1> defeated you.
+1A8DD	Worms are already on.
+1A8EA	Maggots are already on.
+1A8F5	Midges are already on.
+1A902	Paste bait is already on.
+1A90E	Caddis are already on.
+1A91B	It was carrying some chum.
+1A92A	It was carrying a hook.
+1A93A	You ate the bread.
+1A946	You ate the meat bun.
+1A953	You ate the udon.
+1A960	You ate the sweet potato.
+1A96D	You ate the rice ball.
+1A97B	You have no food left.
+1A98C	Your HP is
+1A99E	<C5> short of max.
+1A9A5	A fish was stolen from your creel!
+1A9B6	What will you do?
+1A9BD	You took <C1> damage.
+1A9D2	You dealt <C2> damage.
+1B736	to <B2>!
+1B73D	You've grown stronger!
+1B751	Your max HP went up by 1,
+1B765	You gained <B3> EXP.
