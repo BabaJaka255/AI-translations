@@ -1,12 +1,16 @@
-"""Where everything lives. Every script imports this instead of using fixed paths.
+"""Where everything lives. Every build script and tool imports this instead of using fixed paths.
 
-The original ROM is not included. Put it in  <toolkit>/rom/  (any file name ending in .sfc),
-or point the KNT2_ROM environment variable at it."""
+Layout (relative to src/):
+  build/   patch code          tools/  analysis tools        script/  script dump + workbook
+  tables/  character tables    gfx/    fonts, logo, sheets   data/    extracted data and RAM dumps
+  rom/     your ROM (git-ignored)                            out/     build output (git-ignored)
+
+The original ROM is not included. Put it in src/rom/ (any *.sfc), or set KNT2_ROM=/path/to/rom.sfc."""
 import os, glob, zlib
 BUILD=os.path.dirname(os.path.abspath(__file__))
 ROOT=os.path.dirname(BUILD)
-ANALYSIS=os.path.join(ROOT,'analysis')
-OUT=os.path.join(ROOT,'out')
+ANALYSIS=os.path.join(ROOT,'tools')
+OUT=os.environ.get('KNT2_OUT',os.path.join(ROOT,'out'))
 ROM_CRC32=0x716D3EFF            # Kawa no Nushi Tsuri 2 (Japan).sfc, no header
 
 def _find_rom():
@@ -14,13 +18,16 @@ def _find_rom():
     c=sorted(glob.glob(os.path.join(ROOT,'rom','*.sfc'))+glob.glob(os.path.join(ROOT,'rom','*.smc')))
     return c[0] if c else os.path.join(ROOT,'rom','Kawa no Nushi Tsuri 2 (Japan).sfc')
 ROM=_find_rom()
-WRAM=os.path.join(BUILD,'data','sample_wram.dmp')   # a Mesen-S work-RAM dump used by the CPU simulator
+WRAM=os.path.join(ROOT,'data','dumps','WorkRamDialogue.dmp')   # Mesen-S work-RAM dump used by the CPU simulator
 REG_IPS=os.environ.get('KNT2_REG_IPS',os.path.join(OUT,'baseline.ips'))  # older patch to compare against
 
-def b(x): return os.path.join(BUILD,x)
+_HOME={'script.json':'script','script_dump.txt':'script',
+       'knt2_single_byte.tbl':'tables','kanji_overrides.txt':'tables','knt2_kanji.tbl':'tables',
+       'logo_custom.png':os.path.join('gfx','logo')}
+def b(x): return os.path.join(ROOT,_HOME[x],x) if x in _HOME else os.path.join(BUILD,x)
 def a(x): return os.path.join(ANALYSIS,x)
-def data(x): return os.path.join(BUILD,'data',x)
-def font(x): return os.path.join(BUILD,'fonts',x)
+def data(x): return os.path.join(ROOT,_HOME[x],x) if x in _HOME else os.path.join(ROOT,'data',x)
+def font(x): return os.path.join(ROOT,'gfx','fonts','source',x)
 def out(x):
     p=os.path.join(OUT,x); os.makedirs(os.path.dirname(p),exist_ok=True); return p
 
@@ -31,9 +38,3 @@ def check_rom():
     if len(d)%0x8000==512: raise SystemExit('ROM has a 512-byte copier header; remove it first.')
     crc=zlib.crc32(d)&0xFFFFFFFF
     if crc!=ROM_CRC32: print('WARNING: ROM CRC32 is %08X, expected %08X'%(crc,ROM_CRC32))
-
-def script_json():
-    """script.json is not shipped (it is the game's own text). Make it with analysis/dump_script.py."""
-    for c in (os.path.join(BUILD,'script.json'),os.path.join(OUT,'script.json')):
-        if os.path.exists(c): return c
-    raise SystemExit('script.json not found. Run  python3 analysis/dump_script.py  first (it reads your ROM).')

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+# build output and local ROMs (never commit these)
+src/out/
+src/rom/*
+!src/rom/README.md
+*.sfc
+*.smc
+*.fig
+*.swc
+*.iso

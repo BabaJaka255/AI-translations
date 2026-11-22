@@ -14,7 +14,7 @@ try:
 except ImportError:
     user_edits=None
 if user_edits: EN.update(user_edits.EN_USER)
-script={x['id']:x for x in json.load(open(P.script_json()))}
+script={x['id']:x for x in json.load(open(P.b('script.json')))}
 MAXCOL=23
 WID={'CD':8,'DA':6,'D4':6}
 def w(off,data): rom[off:off+len(data)]=data

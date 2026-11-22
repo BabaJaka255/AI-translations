@@ -1,0 +1,394 @@
+Category,Japanese,Romaji,English,Map label,Fishery label,Scientific name (reference),Notes
+Terms,ぬし,Nushi,River King,,,,"The legendary fish of each area. Follows the Game Boy ""Legend of the River King"" series."
+Terms,ぬし釣り,Nushi-tsuri,River King fishing,,,,"Used in ""Kawa no Nushi Tsuri"" (title) and dialogue."
+Terms,川のぬし釣り2,Kawa no Nushi Tsuri 2,Super Legend of the River King,,,,Title of this patch.
+Terms,釣りノート,Tsuri nōto,Fishing Note,,,,
+Terms,釣り方,Tsurikata,fishing style,,,,
+Terms,ウキづり,Ukizuri,Float fishing,,,,Fishing style (Select switches styles in the gear window).
+Terms,投げづり,Nagezuri,Casting,,,,Fishing style.
+Terms,ルアー,Ruā,Lure,,,,Fishing style and gear.
+Terms,フライ,Furai,Fly,,,,Fishing style. Flies themselves are 毛バリ.
+Terms,毛バリ,Kebari,fly (artificial),,,,
+Terms,サオ,Sao,Rod,,,,Gear slot; empty slot shows ROD.
+Terms,ウキ,Uki,Float,,,,Gear slot; empty slot shows FLOAT.
+Terms,オモリ,Omori,Sinker,,,,Gear slot; empty slot shows SINKER.
+Terms,ハリ,Hari,Hook,,,,Gear slot; empty slot shows HOOK.
+Terms,無し,Nashi,None,,,,Empty-slot label; shows NONE.
+Terms,エサ,Esa,bait,,,,
+Terms,寄せエサ,Yose-esa,chum,,,,
+Terms,びく,Biku,creel,,,,"The fish basket; menu label ""Creel""."
+Terms,道具,Dōgu,tools / gear,,,,
+Terms,体力,Tairyoku,HP,,,,Status window.
+Terms,お金,Okane,Yen,,,,Status window. Money is shown in yen.
+Terms,円,En,yen,,,,Currency counter.
+Terms,経験値,Keikenchi,EXP,,,,Status window and battle.
+Terms,命令,Meirei,Cmd,,,,Battle command window title.
+Terms,尾 / 匹,O / hiki,"(fish counter, dropped)",,,,Counters are omitted in English.
+Terms,年齢,Nenrei,Age,,,,Character select.
+Terms,釣果,Chōka,Got,,,,Fishing Note column: fish caught.
+Terms,最長,Saichō,Best,,,,Fishing Note column: longest catch.
+Terms,生活,Seikatsu,Info,,,,Fishing Note column: habitat notes.
+Terms,利用,Riyō,Use,,,,Fishing Note column: how to eat.
+Terms,順位,Jun'i,Rank,,,,Contest records.
+Terms,名前,Namae,Name,,,,Contest records.
+Terms,記録,Kiroku,Best / Records,,,,Contest records.
+Terms,大会,Taikai,Contest,,,,e.g. ブラックバス大会 = Bass Contest.
+Terms,釣り大会,Tsuri taikai,fishing tournament,,,,
+Terms,絵はがき,Ehagaki,postcard,,,,
+Terms,届いた絵はがき,Todoita ehagaki,Received postcard,,,,
+Terms,記録を消す,Kiroku o kesu,Erase Data,,,,Title menu.
+Terms,はじめる,Hajimeru,Start,,,,Title screen sprite now reads START.
+Terms,最初から始める,Saisho kara hajimeru,New Game,,,,Title menu.
+Terms,ステレオ / モノラル,Sutereo / monoraru,Stereo / Mono,,,,Sound option item.
+Terms,メイフライ,Meifurai,Mayfly,,,,Fly category.
+Terms,カディス,Kadisu,Caddis,,,,Fly category.
+Terms,ディプテラ,Diputera,Diptera,,,,Fly category.
+Terms,ストーンフライ,Sutōnfurai,Stonefly,,,,Fly category.
+Terms,テレストリアル,Teresutoriaru,Terrestrial,,,,"Fly category; menu label ""Terrestr.""."
+Terms,東 / 西 / 南 / 北,Higashi / nishi / minami / kita,East / West / South / North,,,,Compass.
+Terms,宿,Yado,INN,,,,Town plaque.
+Terms,魚,Sakana,(fish icon),,,,"Fish-shop plaque, now a picture."
+Terms,釣,Tsuri,(hook icon),,,,"Tackle-shop plaque, now a picture."
+Terms,だんご,Dango,Dumpling / (dango icon),,,,Food item; the shop banner is now a dango picture.
+Terms,様,Sama,(honorific dropped),,,,Postcard address line.
+Terms,才,Sai,(age suffix dropped),,,,Character select.
+Terms,イワナの記録,Iwana no kiroku,Char Records,,,,Contest / records board title.
+Terms,ブラックバス大会,Burakkubasu taikai,Bass Contest,,,,Contest / records board title.
+Terms,アユ釣りの記録,Ayu-tsuri no kiroku,Sweetfish Records,,,,Contest / records board title.
+Terms,ヘラブナ大会,Herabuna taikai,W.Crucian Contest,,,,Contest / records board title.
+Terms,ドジョウの記録,Dojou no kiroku,Loach Records,,,,Contest / records board title.
+Terms,スズキ大会,Suzuki taikai,Seabass Contest,,,,Contest / records board title.
+Fish,イワナ,Iwana,Char,,,Salvelinus leucomaenis,
+Fish,アメマス,Amemasu,Sea-run Char,Sea Char,,Salvelinus leucomaenis (sea-run form),"Sea-run form of イワナ (""Char"")."
+Fish,ヤマメ,Yamame,Masu Trout,Masu Tr.,,Oncorhynchus masou masou (river form),"River form of the masu salmon. The sea-run form (サクラマス) is ""Masu Salmon""."
+Fish,アマゴ,Amago,Redspot Trout,Redspot,,Oncorhynchus masou ishikawae (river form),"River form; the sea-run form (サツキマス) is ""Redspot Salmon""."
+Fish,カジカ,Kajika,Sculpin,,,Cottus pollux,
+Fish,ニジマス,Nijimasu,Rainbow Trout,Rainbow,,Oncorhynchus mykiss,
+Fish,ヒメマス,Himemasu,Kokanee,,,Oncorhynchus nerka (landlocked),Landlocked sockeye salmon.
+Fish,ブラウントラウト,Burauntorauto,Brown Trout,Brown Tr.,,Salmo trutta,
+Fish,カワマス,Kawamasu,Brook Trout,Brook Tr.,,Salvelinus fontinalis,
+Fish,ワカサギ,Wakasagi,Pond Smelt,Smelt,,Hypomesus nipponensis,
+Fish,ブラックバス,Burakkubasu,Black Bass,Bl. Bass,,Micropterus salmoides,
+Fish,ウグイ,Ugui,Dace,,,Pseudaspius hakonensis,
+Fish,コイ,Koi,Carp,,,Cyprinus carpio,
+Fish,ドンコ,Donko,Dark Sleeper,Sleeper,,Odontobutis obscura,
+Fish,オイカワ,Oikawa,Pale Chub,,,Opsariichthys platypus,
+Fish,モツゴ,Motsugo,Stone Moroko,Moroko,,Pseudorasbora parva,
+Fish,イトモロコ,Itomoroko,Itomoroko,,,Squalidus gracilis,Japanese name kept: no common English name.
+Fish,ギギ,Gigi,Bagrid Catfish,Bagrid,Bagrid C.fish,Tachysurus nudiceps,
+Fish,サクラマス,Sakuramasu,Masu Salmon,M. Salmon,,Oncorhynchus masou masou (sea-run form),"Sea-run form of ヤマメ (""Masu Trout"")."
+Fish,コクレン,Kokuren,Bighead Carp,Bighead,,Hypophthalmichthys nobilis,
+Fish,ハクレン,Hakuren,Silver Carp,Silver C.,,Hypophthalmichthys molitrix,
+Fish,ムギツク,Mugitsuku,Mugitsuku,,,Pungtungia herzi,Japanese name kept: no common English name.
+Fish,ホンモロコ,Honmoroko,Biwa Gudgeon,Biwa Gud.,,Gnathopogon caerulescens,
+Fish,ヤマノカミ,Yamanokami,Rough Sculpin,R.Sculpin,,Trachidermus fasciatus,
+Fish,ドジョウ,Dojou,Loach,,,Misgurnus anguillicaudatus,
+Fish,タモロコ,Tamoroko,Tamoroko,,,Gnathopogon elongatus,Japanese name kept: no common English name.
+Fish,カワムツ,Kawamutsu,Dark Chub,,,Candidia temminckii,
+Fish,キンブナ,Kinbuna,Gold Crucian,G.Crucian,,Carassius buergeri subsp.,
+Fish,マブナ,Mabuna,Crucian Carp,Crucian,,Carassius spp. (wild crucian carp),General term for wild crucian carp.
+Fish,アカザ,Akaza,Torrent Catfish,T.Catfish,Torrent Catf.,Liobagrus reinii,
+Fish,メダカ,Medaka,Ricefish,,,Oryzias latipes,
+Fish,ブルーギル,Burūgiru,Bluegill,,,Lepomis macrochirus,
+Fish,オヤニラミ,Oyanirami,Aucha Perch,Aucha,,Coreoperca kawamebari,
+Fish,ハリヨ,Hariyo,Stickleback,Sticklbk.,,Gasterosteus aculeatus subsp.,
+Fish,トミヨ,Tomiyo,Ninespine,,,Pungitius sinensis,
+Fish,ライギョ,Raigyo,Snakehead,,,Channa spp.,"Generic snakehead; カムルチー is the species ""Amur Snakehead""."
+Fish,ヘラブナ,Herabuna,White Crucian,W.Crucian,,Carassius cuvieri,"Abbreviated ""W.Crucian"" in tight spaces (hooks, floats, rods, map)."
+Fish,ナマズ,Namazu,Catfish,,,Silurus asotus,
+Fish,サヨリ,Sayori,Halfbeak,,,Hyporhamphus sajori,
+Fish,ハス,Hasu,Three-lips,Threelips,,Opsariichthys uncirostris,
+Fish,ワタカ,Wataka,Wataka,,,Ischikauia steenackeri,Japanese name kept: no common English name.
+Fish,カマツカ,Kamatsuka,Pike Gudgeon,P.Gudgeon,,Pseudogobio esocinus,
+Fish,ツチフキ,Tsuchifuki,False Gudgeon,F.Gudgeon,,Abbottina rivularis,
+Fish,シマドジョウ,Shimadojou,Spined Loach,S.Loach,,Cobitis biwae,
+Fish,カムルチー,Kamuruchī,Amur Snakehead,A.Snakehd,Amur Snakehd.,Channa argus,
+Fish,ヒガイ,Higai,Higai,,,Sarcocheilichthys variegatus,Japanese name kept: no common English name.
+Fish,ソウギョ,Sougyo,Grass Carp,GrassCarp,,Ctenopharyngodon idella,
+Fish,アオウオ,Aouo,Black Carp,BlackCarp,,Mylopharyngodon piceus,
+Fish,ニゴイ,Nigoi,Barbel Steed,Barbel,,Hemibarbus barbus,
+Fish,メゴチ,Megochi,Flathead,,,,In Japanese this name covers several small flatheads and dragonets.
+Fish,マルタ,Maruta,Pacific Redfin,Redfin,Pac. Redfin,Pseudaspius brandtii,
+Fish,ハゼ,Haze,Goby,,,Gobiidae (e.g. Acanthogobius flavimanus),
+Fish,ボラ,Bora,Mullet,,,Mugil cephalus,
+Fish,スズキ,Suzuki,Sea Bass,,,Lateolabrax japonicus,
+Fish,アカメ,Akame,Japanese Lates,J. Lates,Jpn. Lates,Lates japonicus,
+Fish,アユ,Ayu,Sweetfish,,,Plecoglossus altivelis,
+Fish,タナゴ,Tanago,Bitterling,Bitterlng,,Acheilognathus melanogaster,
+Fish,ウナギ,Unagi,Eel,,,Anguilla japonica,
+Fish,オオウナギ,Oounagi,Giant Eel,,,Anguilla marmorata,
+Fish,アブラハヤ,Aburahaya,Minnow,,,Rhynchocypris lagowskii,"Translated generically as ""Minnow""."
+Fish,クロダイ,Kurodai,Black Porgy,Porgy,,Acanthopagrus schlegelii,
+Fish,ヌマガレイ,Numagarei,Starry Flounder,Flounder,Star Flounder,Platichthys stellatus,
+Fish,クサフグ,Kusafugu,Grass Puffer,Puffer,,Takifugu alboplumbeus,
+Fish,トウギョ,Tougyo,Paradise Fish,Paradise,,,"""Fighting fish""; translated as Paradise Fish (Macropodus)."
+Fish,サツキマス,Satsukimasu,Redspot Salmon,R.Salmon,Redspot Salm.,Oncorhynchus masou ishikawae (sea-run form),"Sea-run form of アマゴ (""Redspot Trout"")."
+Other catch,テナガエビ,Tenagaebi,River Prawn,Prawn,,Macrobrachium nipponense,
+Other catch,イモリ,Imori,Newt,,,Cynops pyrrhogaster,
+Other catch,カエル,Kaeru,Frog,,,,
+Other catch,ザリガニ,Zarigani,Crayfish,,,Procambarus clarkii,
+Other catch,カメ,Kame,Turtle,,,,
+Other catch,スッポン,Suppon,Softshell Turtle,Softshell,Softshell,Pelodiscus sinensis,
+Other catch,カニ,Kani,Crab,,,,
+Creatures,りす,Risu,Squirrel,,,,
+Creatures,ももんが,Momonga,Flying Squirrel,,,,
+Creatures,やまこうもり,Yamakoumori,Mt. Bat,,,,
+Creatures,あおだいしょう,Aodaishou,Rat Snake,,,,
+Creatures,かもしか,Kamoshika,Serow,,,,
+Creatures,むかで,Mukade,Centipede,,,,
+Creatures,ふくろう,Fukurou,Owl,,,,
+Creatures,おこじょ,Okojo,Stoat,,,,
+Creatures,いのしし,Inoshishi,Boar,,,,
+Creatures,やまねこ,Yamaneko,Wildcat,,,,
+Creatures,もぐら,Mogura,Mole,,,,
+Creatures,てん,Ten,Marten,,,,
+Creatures,からす,Karasu,Crow,,,,
+Creatures,やまざる,Yamazaru,Macaque,,,,
+Creatures,ひぐま,Higuma,Brown Bear,,,,
+Creatures,わし,Washi,Eagle,,,,
+Creatures,きつね,Kitsune,Fox,,,,
+Creatures,まむし,Mamushi,Viper,,,,
+Creatures,たぬき,Tanuki,Tanuki,,,,
+Creatures,のうさぎ,Nousagi,Hare,,,,
+Creatures,いたち,Itachi,Weasel,,,,
+Creatures,あなぐま,Anaguma,Badger,,,,
+Creatures,どくぐも,Dokugumo,Spider,,,,
+Creatures,あかねずみ,Akanezumi,Field Mouse,,,,
+Creatures,すずめばち,Suzumebachi,Hornet,,,,
+Creatures,おおじか,Oojika,Deer,,,,
+Creatures,しまへび,Shimahebi,Snake,,,,
+Creatures,はやぶさ,Hayabusa,Falcon,,,,
+Creatures,つきのわぐま,Tsukinowaguma,Moon Bear,,,,
+Creatures,さそり,Sasori,Scorpion,,,,
+Bait,サシ,Sashi,Maggots,,,,
+Bait,紅ザシ,Benizashi,Red Maggots,,,,
+Bait,昆虫,Konchū,Insects,,,,
+Bait,アカムシ,Akamushi,Bloodworm,,,,
+Bait,ゴカイ,Gokai,Lugworm,,,,
+Bait,カワムシ,Kawamushi,Stream Bug,,,,
+Bait,トビケラ,Tobikera,Caddis,,,,
+Bait,イクラ,Ikura,Salmon Roe,,,,
+Bait,ドバミミズ,Dobamimizu,Nightcrawler,,,,
+Bait,ブドウムシ,Budoumushi,Grape Grub,,,,
+Bait,ハチの子,Hachi no ko,Wasp Larvae,,,,
+Bait,ネリエ,Nerie,Paste Bait,,,,
+Bait,ヘラネリ,Heraneri,W.Crucian Paste,,,,
+Bait,コイネリ,Koineri,Carp Paste,,,,
+Bait,おかゆネリ,Okayuneri,Rice Paste,,,,
+Bait,イモ,Imo,Potato,,,,
+Bait,小魚,Kozakana,Small Fish,,,,
+Bait,ドジョウ,Dojou,Loach,,,,
+Bait,カエル,Kaeru,Frog,,,,
+Bait,エビ,Ebi,Shrimp,,,,
+Bait,貝のむきみ,Kai no mukimi,Shellfish,,,,
+Bait,おとりアユ,Otori ayu,Decoy Sweetfish,,,,
+Hooks,シビ,Shibi,Shibi,,,,
+Hooks,ウナギバリ,Unagibari,Eel Hook,,,,
+Hooks,せいごバリ,Seigobari,Seabass Hook,,,,
+Hooks,コイバリ,Koibari,Carp Hook,,,,
+Hooks,ヘラスレ,Herasure,W.Crucian Hook,,,,
+Hooks,ハリ,Hari,Hook,,,,
+Hooks,袖ヒガイ,Sode higai,Higai Hook,,,,
+Hooks,ハヤ・ヤマベ,Haya / yamabe,Dace/Chub Hook,,,,
+Hooks,マスバリ,Masubari,Trout Hook,,,,
+Hooks,ハナカン,Hanakan,Nose Ring,,,,
+Hooks,タナゴバリ,Tanagobari,Bitterling Hook,,,,
+Hooks,イワナバリ,Iwanabari,Char Hook,,,,
+Hooks,ヤマメバリ,Yamamebari,Masu Hook,,,,
+Floats & sinkers,ヘラウキ,Herauki,W.Crucian Float,,,,
+Floats & sinkers,丸型シモリ,Marugata shimori,Round Shimori,,,,
+Floats & sinkers,流線シモリ,Ryūsen shimori,Slim Shimori,,,,
+Floats & sinkers,玉ウキ,Tama uki,Ball Float,,,,
+Floats & sinkers,棒ウキ,Bō uki,Stick Float,,,,
+Floats & sinkers,どんぐりウキ,Donguriuki,Acorn Float,,,,
+Floats & sinkers,トウガラシウキ,Tougarashiuki,Chili Float,,,,
+Floats & sinkers,目印,Mejirushi,Marker,,,,
+Floats & sinkers,小判型おもり,Koban-gata omori,Oval Sinker,,,,
+Floats & sinkers,ナツメ型おもり,Natsume-gata omori,Date Sinker,,,,
+Lures,シャローライナー,Sharōrainā,Shallow Liner,,,,
+Lures,シンキングバイブ,Shinkingubaibu,Sinking Vibe,,,,
+Lures,トップウォータ,Toppu wōta,Topwater,,,,
+Lures,スピナーベイト,Supinābeito,Spinnerbait,,,,
+Lures,ディープ,Dīpu,Deep,,,,
+Lures,シンキング,Shinkingu,Sinking,,,,
+Lures,ソフト・カエル,Sofuto / kaeru,Soft Frog,,,,
+Lures,ソフト・赤ガエル,Sofuto / aka gaeru,Soft Red Frog,,,,
+Lures,ソフト・ネズミ,Sofuto / nezumi,Soft Mouse,,,,
+Lures,ソフト・ワーム,Sofuto / wāmu,Soft Worm,,,,
+Lures,ソフト・クロー,Sofuto / kurō,Soft Craw,,,,
+Lures,ジグ,Jigu,Jig,,,,
+Lures,スプーン,Supūn,Spoon,,,,
+Lures,スピナー,Supinā,Spinner,,,,
+Flies,ウェット,Wetto,Wet,,,,
+Flies,ドライ,Dorai,Dry,,,,
+Flies,ケース,Kēsu,Case,,,,
+Flies,リーチ,Rīchi,Leech,,,,
+Flies,アント,Anto,Ant,,,,
+Flies,ビートル,Bītoru,Beetle,,,,
+Flies,ワーム,Wāmu,Worm,,,,
+Flies,ホッパー,Hoppā,Hopper,,,,
+Flies,スパイダー,Supaidā,Spider,,,,
+Flies,つけない,Tsukenai,None,,,,
+Rods,タナゴ竿10本継2m,,Bitterling Rod 10pc 2m,,,,
+Rods,渓流カーボン竿6m,,Stream Carbon Rod 6m,,,,
+Rods,ヤマベ竿6本継3.9m,,Chub Rod 6pc 3.9m,,,,
+Rods,清流カーボン竿5.3m,,Creek Carbon Rod 5.3m,,,,
+Rods,ヤマメ竿8本継4.5m,,Masu Rod 8pc 4.5m,,,,
+Rods,マブナ竿9本継3.3m,,Crucian Rod 9pc 3.3m,,,,
+Rods,アユ竿6本継7m,,Sweetfish Rod 6pc 7m,,,,
+Rods,コイ竿8本継5m,,Carp Rod 8pc 5m,,,,
+Rods,ヘラ竿3本継3m,,W.Crucian Rod 3pc 3m,,,,
+Rods,ルアーロッド小,,Lure Rod S,,,,
+Rods,ルアーロッド中,,Lure Rod M,,,,
+Rods,ルアーロッド大,,Lure Rod L,,,,
+Rods,大物用ルアーロッド,,Big-Game Lure Rod,,,,
+Rods,投げ竿小,,Casting Rod S,,,,
+Rods,投げ竿中,,Casting Rod M,,,,
+Rods,岡手投げ竿,,Shore Casting Rod,,,,
+Rods,フライロッド小,,Fly Rod S,,,,
+Rods,フライロッド中,,Fly Rod M,,,,
+Rods,フライロッド大,,Fly Rod L,,,,
+Rods,アユ竿カーボン10m,,Sweetfish Carbon 10m,,,,
+Rods,ヘラ竿カーボン6.5m,,W.Crucian Carbon 6.5m,,,,
+Food,ミカン,Mikan,Mandarin,,,,
+Food,おむすび,Omusubi,Rice Ball,,,,
+Food,だんご,Dango,Dumpling,,,,
+Food,バナナ,Banana,Banana,,,,
+Food,ブドウ,Budou,Grapes,,,,
+Food,日の丸弁当,Hinomaru bentō,Hinomaru Bento,,,,
+Food,ダイコン,Daikon,Radish,,,,
+Food,釣った魚,Tsutta sakana,Caught Fish,,,,
+Food,きのこ,Kinoko,Mushroom,,,,
+Items,タライ,Tarai,Washtub,,,,
+Items,カヌー,Kanū,Canoe,,,,
+Items,虫メガネ,Mushi megane,Magnifier,,,,
+Items,金アミ,Kin ami,Gold Net,,,,
+Items,釣りノート,Tsuri nōto,Fishing Note,,,,
+Items,届いた絵はがき,Todoita ehagaki,Received Postcard,,,,
+Items,絵はがき,Ehagaki,Postcard,,,,
+Items,寄せエサ,Yose-esa,Chum,,,,
+Items,びく 容量10,Biku yōryō 10,Creel (10),,,,
+Items,びく 容量20,Biku yōryō 20,Creel (20),,,,
+Items,びく 容量30,Biku yōryō 30,Creel (30),,,,
+Items,磁石,Jishaku,Compass,,,,
+Items,牛乳ビン,Gyūnyū bin,Milk Bottle,,,,
+Items,牛乳,Gyūnyū,Milk,,,,
+Items,富くじ,Tomikuji,Lottery Ticket,,,,
+Items,ロウソク,Rousoku,Candle,,,,
+Items,ステレオ,Sutereo,Stereo,,,,
+Items,モノラル,Monoraru,Mono,,,,
+Items,あぶらあげ,Aburaage,Fried Tofu,,,,
+Items,花火,Hanabi,Fireworks,,,,
+Items,カギ,Kagi,Key,,,,
+Places,渓流,Keiryū,Stream,,,,"Area name (Fishing Note, map)."
+Places,山上湖,Sanjōko,Alpine,,,,"Area name (Fishing Note, map)."
+Places,清流,Seiryū,Creek,,,,"Area name (Fishing Note, map)."
+Places,湖,Mizuumi,Lake,,,,"Area name (Fishing Note, map)."
+Places,下流,Karyū,Plains,,,,"Area name (Fishing Note, map)."
+Places,河口,Kakō,Coast,,,,"Area name (Fishing Note, map)."
+Places,岩魚沢 魚止め村,,Fishstop Village,,,,Village. The game shows the river/lake name (岩魚沢) and the village name together; the English keeps only the village.
+Places,山奥湖 六つ墓村,,Sixgrave Village,,,,Village. The game shows the river/lake name (山奥湖) and the village name together; the English keeps only the village.
+Places,清瀬川 鮎の里,,Sweetfish Hamlet,,,,Village. The game shows the river/lake name (清瀬川) and the village name together; the English keeps only the village.
+Places,芦の湖 鯉の町,,Carp Town,,,,Village. The game shows the river/lake name (芦の湖) and the village name together; the English keeps only the village.
+Places,大蓮沼 田の村,,Paddy Village,,,,Village. The game shows the river/lake name (大蓮沼) and the village name together; the English keeps only the village.
+Places,海の口 愛の浜,,Love Beach,,,,Village. The game shows the river/lake name (海の口) and the village name together; the English keeps only the village.
+Places,岩魚沢 魚止め滝,,Fishstop Falls,,,,
+Places,海の口 愛の岬,,Love Cape,,,,
+Places,東京都 南青山,,"Aoyama, Tokyo",,,,
+Characters,太郎,Taro,Taro,,,,Default name for the brother (兄).
+Characters,京子,Kyoko,Kyoko,,,,Default name for the sister (妹).
+Characters,雄三,Yuzo,Yuzo,,,,Default name for the father (父).
+Characters,紀子,Noriko,Noriko,,,,Default name for the mother (母).
+Characters,つり太郎,Tsuri Tarō,FishTaro,,,,Secret name for the brother; unlocks a stocked tackle box.
+Characters,勝洋,Katsuhiro,Katsuhiro,,,,Named in the ending.
+Characters,好江,Yoshie,Yoshie,,,,Named in the ending.
+Characters,七郎,Shichiro,Shichiro,,,,Villager name.
+Characters,義平,Yoshihei,Yoshihei,,,,Villager name.
+Characters,富蔵,Tomizo,Tomizo,,,,Villager name.
+Characters,寿次,Juji,Juji,,,,Villager name.
+Characters,三平,Sanpei,Sanpei,,,,Villager name.
+Characters,音吉,Otokichi,Otokichi,,,,Villager name.
+Characters,忠吉,Tadakichi,Tadakichi,,,,Villager name.
+Characters,小次郎,Kojiro,Kojiro,,,,Villager name.
+Characters,大五郎,Daigoro,Daigoro,,,,Villager name.
+Characters,弥吉,Yakichi,Yakichi,,,,Villager name.
+Characters,東作,Tosaku,Tosaku,,,,Villager name.
+Characters,安太郎,Yasutaro,Yasutaro,,,,Villager name.
+Characters,団次,Danji,Danji,,,,Villager name.
+Characters,拓助,Takusuke,Takusuke,,,,Villager name.
+Characters,銀之助,Ginnosuke,Ginnosuke,,,,Villager name.
+Characters,民次郎,Tamijiro,Tamijiro,,,,Villager name.
+Characters,聡次郎,Sojiro,Sojiro,,,,Villager name.
+Characters,信吉郎,Shinkichiro,Shinkichiro,,,,Villager name.
+Characters,波介,Namisuke,Namisuke,,,,Villager name.
+Characters,貞次郎,Teijiro,Teijiro,,,,Villager name.
+Characters,春吉,Harukichi,Harukichi,,,,Villager name.
+Characters,小梅,Koume,Koume,,,,Villager name.
+Characters,富士太郎,Fujitaro,Fujitaro,,,,Villager name.
+Characters,時貞,Tokisada,Tokisada,,,,Villager name.
+Characters,喜太郎,Kitaro,Kitaro,,,,Villager name.
+Characters,忠治,Chuji,Chuji,,,,Villager name.
+Characters,金太郎,Kintaro,Kintaro,,,,Villager name.
+Characters,春雄,Haruo,Haruo,,,,Villager name.
+Characters,菊次,Kikuji,Kikuji,,,,Villager name.
+Characters,月の輪熊,Tsukinowaguma,Moonbear,,,,Creature named in the endings.
+Characters,大岩魚,Ō-iwana,Big Char,,,,
+Characters,作者,Sakusha,Author,,,,
+Fishing Note: how to eat,唐揚げ・塩焼き,,"Fried, salt-grilled",,,,
+Fishing Note: how to eat,バター焼き・でんがく,,"Butter-fried, dengaku",,,,
+Fishing Note: how to eat,塩焼き・ムニエル,,"Salt-grilled, meuniere",,,,
+Fishing Note: how to eat,つくだ煮・みそ汁絶品,,"Tsukudani, miso soup",,,,
+Fishing Note: how to eat,塩焼き・まずい,,Grilled; tastes poor,,,,
+Fishing Note: how to eat,刺身・塩焼き・フライ,,"Sashimi, grilled, fried",,,,
+Fishing Note: how to eat,バター焼き・ブドウ酒煮,,"Butter-fried, wine stew",,,,
+Fishing Note: how to eat,塩焼き・フライ,,"Salt-grilled, fried",,,,
+Fishing Note: how to eat,フライ・天ぷら美味,,"Fried, tempura; tasty",,,,
+Fishing Note: how to eat,スポーツ用,,For sport,,,,
+Fishing Note: how to eat,塩焼き・甘露煮,,"Grilled, sweet simmered",,,,
+Fishing Note: how to eat,コイこく・あらい,Koikoku / arai,"Carp soup, arai",,,,
+Fishing Note: how to eat,唐揚げ・甘煮つけ美味,,"Fried, simmered; tasty",,,,
+Fishing Note: how to eat,白焼き・産卵期まずい,,Grilled; bad spawning,,,,
+Fishing Note: how to eat,トリの餌・つくだに,,"Bird feed, tsukudani",,,,
+Fishing Note: how to eat,塩焼き・あまからく煮る,,"Grilled, sweet-salty",,,,
+Fishing Note: how to eat,煮つけ・天ぷら,,"Simmered, tempura",,,,
+Fishing Note: how to eat,ますすし・ムニエル,Masusushi / munieru,"Masu sushi, meuniere",,,,
+Fishing Note: how to eat,ハクレンよりも美味,,Better than Silver Carp,,,,
+Fishing Note: how to eat,清蒸・塩焼き美味,,"Steamed, grilled; tasty",,,,
+Fishing Note: how to eat,つけやき・煉白,,"Tsukeyaki, paste",,,,Japanese partly unverified (font-matched kanji).
+Fishing Note: how to eat,美味らしい,,Said to be tasty,,,,
+Fishing Note: how to eat,みそ汁・柳川美味,,"Miso soup, Yanagawa",,,,
+Fishing Note: how to eat,ホンモロコの代用魚,,Biwa Gudgeon substitute,,,,
+Fishing Note: how to eat,唐揚げ・白焼き,,"Fried, plain-grilled",,,,
+Fishing Note: how to eat,煮びたし・甘露煮,,"Nibitashi, sweet simmer",,,,
+Fishing Note: how to eat,食べない,,Not eaten,,,,
+Fishing Note: how to eat,理科の実験材料,,Science experiments,,,,
+Fishing Note: how to eat,スポーツ用・ムニエル,,Sport; meuniere,,,,
+Fishing Note: how to eat,観賞用,,For viewing,,,,
+Fishing Note: how to eat,あらい美味,,Arai; tasty,,,,
+Fishing Note: how to eat,釣り堀・刺身,,"Fishing pond, sashimi",,,,
+Fishing Note: how to eat,みそ煮・蒲焼き,,"Miso stew, kabayaki",,,,
+Fishing Note: how to eat,吸物・酢のもの,,"Soup, vinegared dishes",,,,
+Fishing Note: how to eat,塩焼き・なれずし,,"Grilled, narezushi",,,,
+Fishing Note: how to eat,なれずし,Narezushi,Narezushi,,,,
+Fishing Note: how to eat,素焼きにして酢醤油,,"Grilled, vinegar soy",,,,
+Fishing Note: how to eat,白焼き美味,,Plain-grilled; tasty,,,,
+Fishing Note: how to eat,胸びれのつけねの肉が美味,,Tasty meat at fin base,,,,
+Fishing Note: how to eat,清蒸・塩焼き,,"Steamed, grilled",,,,
+Fishing Note: how to eat,あらい・天ぷら,,"Arai, tempura",,,,
+Fishing Note: how to eat,美味、天ぷら,,Tasty; tempura,,,,
+Fishing Note: how to eat,冬場、あらいにして食べる,,Eat as arai in winter,,,,
+Fishing Note: how to eat,天ぷら美味,,Tempura; tasty,,,,
+Fishing Note: how to eat,刺身・カラスミ絶品,,"Sashimi, bottarga",,,,
+Fishing Note: how to eat,あらい・塩焼き,,"Arai, grilled",,,,
+Fishing Note: how to eat,卵巣美味,,Tasty roe,,,,
+Fishing Note: how to eat,塩焼き・素焼きにタデ酢,,"Grilled, tade vinegar",,,,
+Fishing Note: how to eat,すずめ焼きの代用,,Suzumeyaki substitute,,,,
+Fishing Note: how to eat,蒲焼き・白焼き,,"Kabayaki, plain-grilled",,,,
+Fishing Note: how to eat,強壮剤,,Tonic,,,,
+Fishing Note: how to eat,唐揚げ・天ぷら,,"Fried, tempura",,,,
+Fishing Note: how to eat,塩焼き・あらい,,"Grilled, arai",,,,
+Fishing Note: how to eat,ムニエル・刺身,,"Meuniere, sashimi",,,,
+Fishing Note: how to eat,毒がある,,Poisonous,,,,
+Fishing Note: how to eat,鬼ガラ焼き・唐揚げ,,"Shell-grilled, fried",,,,
+Fishing Note: how to eat,うまい 刺身・天ぷら,,"Tasty sashimi, tempura",,,,
+Fishing Note: how to eat,無し,Nashi,None,,,,

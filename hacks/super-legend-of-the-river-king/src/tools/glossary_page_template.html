@@ -1,0 +1,147 @@
+<title>River King Glossary</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=IBM+Plex+Mono:wght@400;500&family=Zen+Kaku+Gothic+New:wght@400;700&family=Zen+Old+Mincho:wght@600;900&display=swap">
+<style>
+/* Layout: a field-guide reference. Narrow intro column, then a full-width searchable table grouped by category. */
+:root{
+  --bg:#f3f6f4; --surface:#ffffff; --ink:#18262a; --muted:#56686b; --line:#d5dfdc;
+  --river:#1d6b73; --river-soft:#dcecea; --moss:#5d7a3a; --warn:#9a5b12;
+  --display:"Zen Old Mincho","Hiragino Mincho ProN","Yu Mincho",Georgia,serif;
+  --body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --jp:"Zen Kaku Gothic New","Hiragino Sans","Yu Gothic","Noto Sans JP",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1719; --surface:#152124; --ink:#e3ece9; --muted:#9db0ad; --line:#26383b;
+  --river:#6cc3c9; --river-soft:#1b3337; --moss:#a6c47a; --warn:#e2a35a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1719; --surface:#152124; --ink:#e3ece9; --muted:#9db0ad; --line:#26383b;
+  --river:#6cc3c9; --river-soft:#1b3337; --moss:#a6c47a; --warn:#e2a35a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:16px/1.55 var(--body);margin:0}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:40px 64px}
+header{display:grid;gap:14px;max-width:70ch}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--river)}
+h1{font:900 clamp(30px,5vw,46px)/1.1 var(--display);margin:0;text-wrap:balance}
+h1 .jp{display:block;font:600 .5em/1.4 var(--display);color:var(--muted);letter-spacing:.06em}
+.lede{margin:0;color:var(--muted)}
+.rules{margin:28px 0 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px 28px;max-width:100%}
+.rule{border-top:2px solid var(--river);padding-top:10px;min-width:0}
+.rule h2{font:700 15px/1.3 var(--body);margin:0 0 4px}
+.rule p{margin:0;font-size:14.5px;color:var(--muted)}
+.rule b{color:var(--ink);font-weight:700}
+.jpi{font-family:var(--jp)}
+.tools{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);margin-top:36px;padding-block:12px;border-bottom:1px solid var(--line);display:grid;gap:10px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.searchrow{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+#q{flex:1 1 260px;min-width:0;font:16px var(--body);padding:10px 14px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+#q:focus-visible,.chip:focus-visible{outline:2px solid var(--river);outline-offset:2px}
+#count{font:13px var(--mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:13px/1 var(--body);padding:7px 11px;border-radius:99px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--river);border-color:var(--river);color:var(--bg)}
+.chip span{font-family:var(--mono);opacity:.7;margin-left:4px;font-variant-numeric:tabular-nums}
+section.cat{margin-top:34px}
+section.cat h3{font:600 22px/1.2 var(--display);margin:0 0 4px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+section.cat h3 small{font:400 13px var(--mono);color:var(--muted)}
+.catnote{margin:0 0 10px;font-size:14px;color:var(--muted);max-width:75ch}
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:720px;font-size:14.5px}
+th{font:700 11.5px/1.2 var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--muted);text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:0}
+td.jp{font:400 16px/1.45 var(--jp);white-space:nowrap}
+td.ro{color:var(--muted);font-style:italic;white-space:nowrap}
+td.en{font-weight:700;white-space:nowrap}
+td.sh{font:13px var(--mono);white-space:nowrap}
+td.sh .k{color:var(--muted)}
+td.sci{font-style:italic;color:var(--moss);font-size:13.5px}
+td.note{color:var(--muted);font-size:13.5px;min-width:220px}
+td.note .warn{color:var(--warn)}
+mark{background:var(--river-soft);color:inherit;border-radius:2px}
+.empty{padding:28px 0;color:var(--muted)}
+footer{margin-top:48px;font-size:13.5px;color:var(--muted);max-width:75ch;display:grid;gap:6px}
+footer p{margin:0}
+@media (prefers-reduced-motion:no-preference){.chip{transition:background .12s,color .12s}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Translation glossary · patch v1.3</div>
+    <h1>River King Glossary<span class="jp">川のぬし釣り２ 用語集</span></h1>
+    <p class="lede">Every fish, creature, item, place, character and game term in <i>Super Legend of the River King</i>, next to the original Japanese. Use it to keep names consistent across other fishing-game translations.</p>
+  </header>
+
+  <div class="rules">
+    <div class="rule"><h2>The River King</h2><p><span class="jpi">ぬし</span> is always <b>River King</b>, after the Game Boy <i>Legend of the River King</i> games.</p></div>
+    <div class="rule"><h2>Fish names</h2><p>Common English names. Where none exists, the Japanese name is kept: <b>Itomoroko, Mugitsuku, Tamoroko, Wataka, Higai</b>.</p></div>
+    <div class="rule"><h2>River and sea-run forms</h2><p>River forms are <b>Trout</b>, sea-run forms <b>Salmon</b>: <span class="jpi">ヤマメ</span> Masu Trout / <span class="jpi">サクラマス</span> Masu Salmon; <span class="jpi">アマゴ</span> Redspot Trout / <span class="jpi">サツキマス</span> Redspot Salmon.</p></div>
+    <div class="rule"><h2>Short forms</h2><p>Map labels fit <b>9</b> characters and the fishery window <b>13</b>. <span class="jpi">ヘラブナ</span> becomes <b>W.Crucian</b> wherever space is tight.</p></div>
+    <div class="rule"><h2>Gear</h2><p><span class="jpi">サオ</span> Rod, <span class="jpi">ウキ</span> Float, <span class="jpi">オモリ</span> Sinker, <span class="jpi">ハリ</span> Hook. The fishing styles are Float, Casting, Lure and Fly.</p></div>
+    <div class="rule"><h2>Money and counters</h2><p>Money is shown in <b>yen</b>. Japanese counters such as <span class="jpi">尾</span>, <span class="jpi">匹</span> and <span class="jpi">才</span> are dropped.</p></div>
+  </div>
+
+  <div class="tools">
+    <div class="searchrow">
+      <input id="q" type="search" placeholder="Search Japanese, romaji or English…" aria-label="Search the glossary" autocomplete="off">
+      <span id="count"></span>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
+  </div>
+
+  <div id="out"></div>
+
+  <footer>
+    <p>The Japanese was read from the game's own font and checked by hand. Misread kanji were corrected (for example <span class="jpi">昆虫</span>, <span class="jpi">型</span>, <span class="jpi">産卵</span>). One cooking note is marked as unverified.</p>
+    <p>Romaji is Hepburn. Macrons appear only for katakana long marks (ー) and hand-written readings. Scientific names are included for reference only and don't appear in the game.</p>
+  </footer>
+</div>
+
+<script>
+const ROWS=__DATA__;
+const NOTES={
+ 'Terms':'Interface words, fishing vocabulary and labels. Several were image-based in the original and were redrawn in English.',
+ 'Fish':'The 65 fish in the Fishing Note. "Map label" and "Fishery label" appear only when the full name is too long for that screen.',
+ 'Other catch':'Non-fish that can be caught and recorded.',
+ 'Creatures':'Animals met on the river bank (battles).',
+ 'Fishing Note: how to eat':'The "Use" line of each Fishing Note entry.',
+ 'Places':'Areas, villages and other named places.',
+ 'Characters':'The family, villagers and other named characters.'
+};
+const cats=[...new Set(ROWS.map(r=>r.cat))];
+let active=new Set();
+const chips=document.getElementById('chips'), out=document.getElementById('out'), q=document.getElementById('q'), count=document.getElementById('count');
+const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function hl(s,t){s=esc(s); if(!t) return s; const i=s.toLowerCase().indexOf(t.toLowerCase()); return i<0?s:s.slice(0,i)+'<mark>'+s.slice(i,i+t.length)+'</mark>'+s.slice(i+t.length);}
+function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');}
+cats.forEach(c=>{
+  const b=document.createElement('button'); b.className='chip'; b.type='button'; b.id='chip-'+cats.indexOf(c);
+  b.setAttribute('aria-pressed','false'); b.innerHTML=esc(c)+'<span>'+ROWS.filter(r=>r.cat===c).length+'</span>';
+  b.onclick=()=>{active.has(c)?active.delete(c):active.add(c); b.setAttribute('aria-pressed',active.has(c)); render();};
+  chips.appendChild(b);
+});
+function render(){
+  const t=q.value.trim(), tn=norm(t);
+  const hits=ROWS.filter(r=>(!active.size||active.has(r.cat)) && (!tn || [r.jp,r.romaji,r.en,r.map,r.fishery,r.sci,r.note].some(v=>norm(v).includes(tn)) || (r.jp||'').includes(t)));
+  count.textContent=hits.length+' of '+ROWS.length+' entries';
+  if(!hits.length){out.innerHTML='<p class="empty">Nothing matches “'+esc(t)+'”. Try the Japanese, the romaji or part of the English name.</p>';return;}
+  let html='';
+  cats.forEach(c=>{
+    const rs=hits.filter(r=>r.cat===c); if(!rs.length) return;
+    const fish=c==='Fish';
+    const hasShort=rs.some(r=>r.map||r.fishery), hasSci=rs.some(r=>r.sci), hasNote=rs.some(r=>r.note);
+    html+='<section class="cat"><h3>'+esc(c)+'<small>'+rs.length+'</small></h3>'+(NOTES[c]?'<p class="catnote">'+esc(NOTES[c])+'</p>':'');
+    html+='<div class="tbl"><table><thead><tr><th>Japanese</th><th>Romaji</th><th>English</th>'+(hasShort?'<th>Short forms</th>':'')+(hasSci?'<th>Scientific name</th>':'')+(hasNote?'<th>Notes</th>':'')+'</tr></thead><tbody>';
+    rs.forEach(r=>{
+      let sh=''; if(r.map) sh+='<span class="k">map</span> '+hl(r.map,t)+'<br>'; if(r.fishery) sh+='<span class="k">fishery</span> '+hl(r.fishery,t);
+      let note=hl(r.note,t).replace('Japanese partly unverified','<span class="warn">Japanese partly unverified</span>');
+      html+='<tr><td class="jp">'+hl(r.jp,t)+'</td><td class="ro">'+hl(r.romaji,t)+'</td><td class="en">'+hl(r.en,t)+'</td>'+(hasShort?'<td class="sh">'+sh+'</td>':'')+(hasSci?'<td class="sci">'+hl(r.sci,t)+'</td>':'')+(hasNote?'<td class="note">'+note+'</td>':'')+'</tr>';
+    });
+    html+='</tbody></table></div></section>';
+  });
+  out.innerHTML=html;
+}
+q.addEventListener('input',render);
+render();
+</script>

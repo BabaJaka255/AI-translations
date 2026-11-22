@@ -8,6 +8,8 @@
   "base": {"name": "Kawa no Nushi Tsuri 2 (Japan).sfc", "size": 1572864, "crc32": "716D3EFF", "sha1": "c2103dd94e2a1a65a495fc02adc2e7d040f31212", "header": false},
   "patches": [{"file": "patches/KawaNoNushiTsuri2_EN_v1.3.ips", "format": "ips", "result_crc32": "8F2E0D10", "result_sha1": "e8c94a106e9aafb5d85cb67b2b6266a474f31c47"}],
   "tested_on": "emulator",
+  "source": "verified",
+  "devlog": true,
   "ai_assisted": true,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }

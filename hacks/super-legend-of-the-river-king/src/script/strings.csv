@@ -1,0 +1,1936 @@
+id,snes,rom,aliases,box,max_cols,max_lines,jp,en,translated,note
+0,05:BF07,02BF07,,dialogue,23,,"誰が釣りに
+でかけますか?","Who'll go
+fishing?",yes,
+1,05:BF17,02BF17,,dialogue,23,,"誰の記録を
+消しますか?","Whose file
+to erase?",yes,
+2,05:BF28,02BF28,,dialogue,23,,"{CD}の 記録を
+消しますか?","Erase {CD}'s
+file?",yes,
+3,05:BF39,02BF39,,dialogue,23,,兄妹父母,,no,Character-select relation labels; removed by cs_names.py instead of translated.
+4,05:BF42,02BF42,,fixed columns,see note,1,年齢,Age ,yes,Status label; keep the trailing space.
+5,05:BF47,02BF47,,fixed columns,see note,1,最初から始める,New Game      ,yes,Title menu; keep the trailing spaces.
+6,05:BF52,02BF52,,default name,8,1,太郎,Taro,yes,Default name. Max 8 letters.
+7,05:BF57,02BF57,,default name,8,1,京子,Kyoko,yes,Default name. Max 8 letters.
+8,05:BF5C,02BF5C,,default name,8,1,雄三,Yuzo,yes,Default name. Max 8 letters.
+9,05:BF61,02BF61,,default name,8,1,紀子,Noriko,yes,Default name. Max 8 letters.
+10,05:BF66,02BF66,,dialogue,23,,あかさたなはまやらわいきしちにひみゃりをうくすつぬふむゆるんえけせてねへめゅれょおこそとのほもよ,,no,Name-entry kana/kanji palette; replaced by the English keyboard (name_entry.py).
+11,05:BF97,02BF97,,dialogue,23,,ろっ一二三八十英規義久恭敬宏幸広康浩行作司治樹秀重俊順助彰昌丈真仁成政晴正生精荘造太泰男知哲徹典年之博繁芳明也勇裕雄利隆郎和,,no,Name-entry kana/kanji palette; replaced by the English keyboard (name_entry.py).
+12,05:C012,02C012,,fixed columns,see note,1,  はじめる  記録を消す,  Start     Erase Data,yes,Two menu options at fixed columns; keep the spacing.
+13,05:C023,02C023,,dialogue,23,,ろっ春夏秋冬亜愛栄英延佳花雅紀輝義菊京君恵江菜三子志枝糸時実紗寿重俊順昌照真政静千代知智津定登道徳敦八美敏穂芳満由理良緑倫和,,no,Name-entry kana/kanji palette; replaced by the English keyboard (name_entry.py).
+14,05:C09E,02C09E,,dialogue,23,,あかさたなはまやらわいきしちにひみゃりをうくすつぬふむゆるんえけせてねへめゅれょおこそとのほもよろっ,,no,Name-entry kana/kanji palette; replaced by the English keyboard (name_entry.py).
+15,05:C0D1,02C0D1,,dialogue,23,,アカサタナハマヤラワイキシチニヒミャリヲウクスツヌフムユルンエケセテネヘメュレョオコソトノホモヨロッ,,no,Name-entry kana/kanji palette; replaced by the English keyboard (name_entry.py).
+16,05:C104,02C104,,dialogue,23,,渓清下上流山湖河口家釣竿針餌魚動物池川岸沢滝尾振投大小行場所僕私友達曜日時教勝負恋愛好嫌情欲拝啓敬具,,no,Name-entry kana/kanji palette; replaced by the English keyboard (name_entry.py).
+17,05:C169,02C169,,dialogue,23,,"山奥の せせらぎから
+端を発した流れは 渓谷を
+下り しだいに川幅を
+増していく。
+やがて ゆるやかになった
+流れは 数多くの沼や湖
+湿地帯の間を通って
+蛇行しながら流れ下る。
+一方 川の中では数多くの
+種類の魚が 元気よく
+泳ぎ回っている。","Deep in the mountains,
+a stream begins to flow
+down the gorge, growing
+wider as it goes.
+Slowing, it winds past
+marshes and many lakes,
+meandering downstream.
+Beneath the surface,
+countless kinds of fish
+swim about with vigor.",yes,
+18,05:C209,02C209,,dialogue,23,,"ある日のこと
+{CD}の家に 友達の
+三平がやって来て・・・","One day, Sanpei came
+to see {CD}...",yes,
+19,05:C22C,02C22C,,dialogue,23,,おーい {CD}!,"Sanpei:
+Hey, {CD}!",yes,
+20,05:C233,02C233,,dialogue,23,,"よう 三平!
+釣りのさそいに来たのか?","{CD}:
+Hey, Sanpei!
+You wanna go fishing?",yes,
+21,05:C24B,02C24B,,dialogue,23,,"俺らぁこれから ぬし釣り
+の旅に出るんだ。","Sanpei:
+Actually, I'm here
+to say goodbye!
+I'm off on a journey to
+catch the River King!",yes,
+22,05:C265,02C265,,dialogue,23,,ぬし釣りの旅?,"{CD}:
+Huh? What's the
+River King?",yes,
+23,05:C26F,02C26F,,dialogue,23,,"川のぬし と呼ばれている
+魚は 強すぎて まだ
+誰も 釣りあげる事が
+出来ないんだ。
+俺らあ これから旅に出て
+きっと 釣り上げて
+くるつもりなんだ だから
+しばらくは会えなくなるな","Sanpei:
+There's a fish known
+as the River King,
+that's so strong that
+nobody has ever managed
+to land it.
+That just means I'll
+be the first!
+I just wanted to
+come by and tell you,
+in case you hear word
+of my success before
+I get back. See ya!",yes,
+24,05:C2DA,02C2DA,,dialogue,23,,・・・・・・・・,"{CD}:
+........",yes,
+25,05:C2E3,02C2E3,,dialogue,23,,・・・・・ム、ム、ム。,"{CD}:
+.....Mm, mm, mm.",yes,
+26,05:C2EF,02C2EF,,dialogue,23,,"ようし 川のぬしは俺らが
+釣りあげるぞ!","{CD}:
+Oh yeah? We'll see!
+I'll catch the
+River King myself!",yes,
+27,05:C307,02C307,,dialogue,23,,"話を聞いた {CD}も
+川のぬし を釣りに
+出かけることにしました。","Hearing this, {CD}
+decided to go fishing
+for the River King.",yes,
+28,05:C32C,02C32C,,dialogue,23,,"兄さんは 負けず嫌い
+だから 三平ちゃんに
+負けるのが くやしいんで
+しょう。","Sis:
+If I know my Big Bro,
+he hates losing,
+and he especially hates
+losing to Sanpei.",yes,
+29,05:C35A,02C35A,,dialogue,23,,"まったく 男の子は
+すぐこれだから・・・
+しかたがないわね、気を付
+けて 行ってくるのよ。","Ma:
+Honestly, boys are all
+like this...
+Oh well. Take care and
+come back safe.",yes,
+30,05:C38D,02C38D,,dialogue,23,,"三平なんかに 負けんじゃ
+ないぞ。","Pa:
+Don't you dare lose to
+Sanpei!",yes,
+31,05:C3A2,02C3A2,,dialogue,23,,"ある日のこと {CD}は
+「川ぬし伝説」 という
+昔の本を よんでいました","One day, {CD} was
+reading an old book
+called ""Legend of the
+River King.""",yes,
+32,05:C3CB,02C3CB,,dialogue,23,,"・・・その湖に身を投げて
+死んでしまったお姫様を
+守るため その小僧さんは
+川のぬし となった。","To protect the princess
+who threw herself into
+that lake and died, the
+young monk became the
+River King.",yes,
+33,05:C440,02C440,,dialogue,23,,"話を読んだ {CD}は
+川のぬし を釣りに
+出かけることにしました。","Reading this, {CD}
+decided to go fishing
+for the River King.",yes,
+34,05:C465,02C465,,dialogue,23,,"ほんとうに 願い事が
+かなうわけ ないじゃん。","Big Bro:
+As if a fish
+could grant wishes!",yes,
+35,05:C47F,02C47F,,dialogue,23,,"私の願い事は {CD}が
+無事に帰えって来ることよ
+気を付けて 行って
+くるのよ。","Ma:
+My wish is for {CD}
+to come home safely.
+Be careful out there.",yes,
+36,05:C4B0,02C4B0,,dialogue,23,,"いいか 父さんの願い事は
+富くじ一等 だぞ。","Pa:
+Listen up, Pa's wish
+is to win the lottery!",yes,
+37,05:C406,02C406,,dialogue,23,,"それ以来 川のぬしを
+釣り上げると なんでも
+願い事が かなうという
+伝説が湖に残っている。","Since then, the lake
+holds a legend that
+whoever lands the River
+King gets any wish
+granted.",yes,
+38,05:C4CD,02C4CD,,dialogue,23,,"ある日のこと
+村の 物知り婆さんが
+遊びにきて・・・","One day, the village's
+wise old granny came
+to visit...",yes,
+39,05:C4EE,02C4EE,,dialogue,23,,"わたしが まだ
+九つの時じゃった。
+食べると 病気をしない
+川のぬし と呼ばれる
+魚が おるのじゃが。
+母が その魚を釣ってきて
+食べさせて くれた。
+おかげで この歳まで
+病気一つせなんだ。","Nana:
+I was only nine years
+old when I came down
+with an awful illness.
+They said a fish
+called the River King
+could cure any sickness
+if you eat it.
+My mother caught one
+and fed it to me.
+Thanks to that, I've
+never been sick since.",yes,
+40,05:C55F,02C55F,,dialogue,23,,"話を聞いた {CD}は
+川のぬし を釣りに
+出かけることにしました。","Hearing this, {CD}
+decided to go fishing
+for the River King.",yes,
+41,05:C584,02C584,,dialogue,23,,"かあちゃん おらあ
+川のぬしを 腹いっぱい
+食ってみてえだ。","Son:
+Mom, I wanna eat the
+River King 'til I'm
+full!",yes,
+42,05:C5A6,02C5A6,,dialogue,23,,"私に 炊事掃除洗濯
+全部 やれっていうの。","Daughter:
+So I'm supposed to do
+all the cooking,
+cleaning and laundry?",yes,
+43,05:C5C5,02C5C5,,dialogue,23,,"おまえの 魚料理は
+天下逸品だからな。
+気を付けて 行って
+こいよ。","Pa:
+Your fish dishes are
+the best in the land!
+Be careful out there,
+and come back.",yes,
+44,05:C5F2,02C5F2,,dialogue,23,,"ある日のこと
+手紙が届いた。","One day,
+a letter arrived.",yes,
+45,05:C61C,02C61C,,dialogue,23,,"前略
+突然ですが わが村の
+湖に 川のぬしが 現れて
+魚を 食い荒らしたり
+人を 襲ったりして
+大変困っております。
+この 川のぬしを
+釣り上げられるのは
+日本一の釣り師と言われた
+貴方しか いないのです。
+                    草々","Dear Sir,
+Forgive our abruptness,
+but a River King has
+appeared at our village
+lake, eating the fish
+and attacking people.
+We're in great trouble.
+Only you, said to be
+Japan's best angler,
+can land this fish.
+        Sincerely,
+        The villagers",yes,
+46,05:C6B7,02C6B7,,dialogue,23,,"手紙を読んだ {CD}は
+川のぬし を釣りに
+出かけることにしました。","Reading it, {CD}
+decided to go fishing
+for the River King.",yes,
+47,05:C6DE,02C6DE,,dialogue,23,,"とうちゃんなら
+簡単に釣り上げられるよ。","Son:
+Dad could land it
+easily, I know!",yes,
+48,05:C6F7,02C6F7,,dialogue,23,,"おとうちゃん
+危ないから 行かないで。","Daughter:
+Daddy, it's dangerous,
+so please don't go.",yes,
+49,05:C70D,02C70D,,dialogue,23,,"うちの 飲んだくれが
+日本一の釣り師だって。
+あんた 最近釣りなんて
+やってないじゃない。","Ma:
+My drunk of a husband
+is Japan's best angler?
+You haven't even fished
+lately, you know.",yes,
+50,05:C605,02C605,,dialogue,23,,こんちわ、速達です!,"Postman:
+Special delivery!",yes,
+51,05:C612,02C612,,dialogue,23,,ごくろうさまです。,"Pa:
+Thanks for the trouble.",yes,
+52,05:C744,02C744,,fixed columns,see note,1,釣果最長生活利用,Got BestInfoUse ,yes,"Four column headers, each padded to its column width."
+53,05:C755,02C755,,Fishing Note contents,48 (8 fixed slots),1,釣りノートもくじ渓流山上湖清流湖下流河口,Fish NotesIndexStreamAlpineCreekLakePlainsCoast,yes,Eight labels run together; the contents page maps each column. Change only if lengths stay the same.
+54,05:C777,02C777,,dialogue,23,, 渓流,Stream,yes,
+55,05:C77D,02C77D,,dialogue,23,,山上湖,Alpine,yes,
+56,05:C784,02C784,,dialogue,23,, 清流,Creek,yes,
+57,05:C78A,02C78A,,dialogue,23,,  湖,Lake,yes,
+58,05:C78F,02C78F,,dialogue,23,, 下流,Plains,yes,
+59,05:C795,02C795,,dialogue,23,, 河口,Coast,yes,
+60,05:C79B,02C79B,,dialogue,23,,"{CD}は
+釣りを始めた。","{CD} started
+fishing.",yes,
+61,05:C7A8,02C7A8,,dialogue,23,,"{CD}は
+釣りを止めた。","{CD} stopped
+fishing.",yes,
+62,05:C7B5,02C7B5,,dialogue,23,,ここでは 釣れない。,Nothing's biting here.,yes,
+63,05:C7C1,02C7C1,,dialogue,23,,"寄せエサを まかないと
+釣れない。","Nothing will bite
+without chum.",yes,
+64,05:C7D5,02C7D5,,dialogue,23,,"泳いでいるときは
+釣りが出来ない。","You can't fish while
+swimming.",yes,
+65,05:C7EB,02C7EB,,dialogue,23,,ここでは釣りが出来ない。,You can't fish here.,yes,
+66,05:C7FB,02C7FB,,dialogue,23,,サオを選んでいない。,No rod selected.,yes,
+67,05:C807,02C807,,dialogue,23,,ウキを選んでいない。,No float selected.,yes,
+68,05:C813,02C813,,dialogue,23,,ハリを選んでいない。,No hook selected.,yes,
+69,05:C81F,02C81F,,dialogue,23,,オモリを選んでいない。,No sinker selected.,yes,
+70,05:C82C,02C82C,,dialogue,23,,ルアーがついていない。,No lure attached.,yes,
+71,05:C838,02C838,,dialogue,23,,毛バリがついていない。,No fly attached.,yes,
+72,05:C845,02C845,,dialogue,23,,エサがついていない。,No bait attached.,yes,
+73,05:C850,02C850,,dialogue,23,,"びくがいっぱいで
+釣りができない。","Your creel is full,
+so you can't fish.",yes,
+74,05:C863,02C863,,dialogue,23,,"{D8}を
+釣りあげた。
+大きさは {DA}cm。","You caught
+{D8}!
+Size: {DA}cm.",yes,
+75,05:C878,02C878,,dialogue,23,,"ハリが盗られてしまった。
+{D8}に
+逃げられた。
+{DA}ポイントの
+ダメージを受けた。","The hook was stolen.
+{D8}
+got away.
+Took {DA} points
+of damage.",yes,
+76,05:C8A3,02C8A3,,dialogue,23,,"{CD}は、力を
+使い果たした。","{CD} is out of
+strength.",yes,
+77,05:C8B4,02C8B4,,dialogue,23,,"{D8}に
+逃げられた。
+エサが盗られてしまった。","{D8}
+got away.
+The bait was stolen.",yes,
+78,05:C8CD,02C8CD,,dialogue,23,,"{D8}の
+若魚を 釣りあげた。
+大きさは {DA}cm。","You caught a young
+{D8}!
+Size: {DA}cm.",yes,
+79,05:C8E8,02C8E8,,dialogue,23,,"{D8}は
+元気良く 泳いでいった。","{D8}
+swam away
+in good health.",yes,
+80,05:C8FC,02C8FC,,dialogue,23,,"{D8}を
+釣りあげた。
+大きさは {DA}cm。
+{D8}の
+最高記録だ。","You caught
+{D8}!
+Size: {DA}cm.
+A new personal best
+for {D8}!",yes,
+81,05:C91F,02C91F,,dialogue,23,,"びくがいっぱいに
+なってしまった。","Your creel is
+now full.",yes,
+82,05:C931,02C931,,dialogue,23,,"ルアーが盗られた。
+{D8}に
+逃げられた。
+{DA}ポイントの
+ダメージを受けた。","The lure was stolen.
+{D8}
+got away.
+Took {DA} points
+of damage.",yes,
+83,05:C959,02C959,,dialogue,23,,"毛バリが盗られた。
+{D8}に
+逃げられた。
+{DA}ポイントの
+ダメージを受けた。","The fly was stolen.
+{D8}
+got away.
+Took {DA} points
+of damage.",yes,
+84,05:C982,02C982,,dialogue,23,,"{D8}に
+逃げられた。","{D8}
+got away.",yes,
+85,05:C98D,02C98D,,dialogue,23,,"{D8}を 釣りあげた。
+経験値 {DA} 獲得。","Caught
+{D8}!
+Got {DA} EXP.",yes,
+86,05:C9A7,02C9A7,,dialogue,23,,"{D8}を 釣りあげた。
+経験値 {DA} 獲得。
+最大体力が 一つふえて
+{D4}になった。","Caught
+{D8}!
+Got {DA} EXP.
+Max HP went up by one
+to {D4}.",yes,
+87,05:C9D9,02C9D9,,dialogue,23,,"おとりアユが
+死んでしまった。","The decoy sweetfish
+has died.",yes,
+88,05:C9EA,02C9EA,,dialogue,23,,"おとりアユに
+逃げられた。
+{DA}ポイントの
+ダメージを受けた。","The decoy sweetfish
+got away.
+Took {DA} points
+of damage.",yes,
+89,05:CA0B,02CA0B,,dialogue,23,,"毛バリが こわれて
+しまった。",The fly broke.,yes,
+90,05:CA1C,02CA1C,,dialogue,23,,"ルアーが こわれて
+しまった。",The lure broke.,yes,
+91,05:CA2C,02CA2C,,dialogue,23,,"針が だめになって
+しまった。",The hook is ruined.,yes,
+92,05:CA3D,02CA3D,,dialogue,23,,"エサを{CE}
+にした。",Bait: {CE}.,yes,
+93,05:CA47,02CA47,,dialogue,23,,"{CE}は、
+ついている。","{CE}
+is attached.",yes,
+94,05:CA52,02CA52,,dialogue,23,,"針が無いので、エサを
+つけられない。","No hook, so the bait
+can't be attached.",yes,
+95,05:CA67,02CA67,,dialogue,23,,"{CF}
+にした。","Changed to
+{CF}.",yes,
+96,05:CA6E,02CA6E,,dialogue,23,,"毛バリを{D0}
+にした。","Fly changed to
+{D0}.",yes,
+97,05:CA7A,02CA7A,,dialogue,23,,エサが無い。,No bait left.,yes,
+98,05:CA82,02CA82,,dialogue,23,,ルアーを持っていない。,You have no lures.,yes,
+99,05:CA8F,02CA8F,,dialogue,23,,毛バリを持っていない。,You have no flies.,yes,
+100,05:CA9D,02CA9D,,dialogue,23,,"この針にはエサが大きくて
+つけられない。","The bait is too big
+for this hook.",yes,
+101,05:CAB4,02CAB4,,dialogue,23,,"この針にはエサが小さくて
+つけられない。","The bait is too small
+for this hook.",yes,
+102,05:CACB,02CACB,,dialogue,23,,"アユはハナカンを使って
+つけてください。","Use a nose ring to
+attach the sweetfish.",yes,
+103,05:CAE1,02CAE1,,dialogue,23,,"ハナカンには、エサを
+つけられない。","Bait can't be put on
+a nose ring.",yes,
+104,05:CAF4,02CAF4,,dialogue,23,,"釣ったアユを おとりアユ
+にした。","The sweetfish you
+caught is now a
+decoy sweetfish.",yes,
+105,05:CB07,02CB07,,dialogue,23,,メイフライ,Mayfly,yes,
+106,05:CB0D,02CB0D,,dialogue,23,,カディス,Caddis,yes,
+107,05:CB12,02CB12,,dialogue,23,,ディプテラ,Diptera,yes,
+108,05:CB18,02CB18,,dialogue,23,,ストーンフライ,Stonefly,yes,
+109,05:CB20,02CB20,,dialogue,23,,テレストリアル,Terrestrial,yes,
+110,05:CB28,02CB28,,dialogue,23,,"{D1}を
+つけた。","Attached
+{D1}.",yes,
+111,05:CB30,02CB30,,dialogue,23,,"{D2}を
+つけた。","Attached
+{D2}.",yes,
+112,05:CB38,02CB38,113,dialogue,23,,"{D3}に
+持ちかえた。","Switched to
+{D3}.",yes,
+114,05:CB43,02CB43,,dialogue,23,,釣り方を選んでください。,Choose a fishing style.,yes,
+115,05:CB53,02CB53,,dialogue,23,,ハリを選んでください。,Choose a hook.,yes,
+116,05:CB60,02CB60,,dialogue,23,,ウキを選んでください。,Choose a float.,yes,
+117,05:CB6D,02CB6D,,dialogue,23,,サオを選んでください。,Choose a rod.,yes,
+118,05:CB7A,02CB7A,,dialogue,23,,オモリを選んでください。,Choose a sinker.,yes,
+119,05:CB88,02CB88,,dialogue,23,,ハリは、残っていない。,You have no hooks left.,yes,
+120,05:CB95,02CB95,,dialogue,23,,ウキを持っていない。,You have no float.,yes,
+121,05:CBA1,02CBA1,,dialogue,23,,サオを持っていない。,You have no rod.,yes,
+122,05:CBAD,02CBAD,,dialogue,23,,オモリを持っていない。,You have no sinker.,yes,
+123,05:CBBA,02CBBA,124 125 126,dialogue,23,,"ウキづりを
+することにした。","You decided to go
+float fishing.",yes,
+127,05:CBC9,02CBC9,,dialogue,23,,"投げづりを
+することにした。","You decided to go
+cast fishing.",yes,
+128,05:CBD9,02CBD9,,dialogue,23,,"ルアーづりを
+することにした。","You decided to go
+lure fishing.",yes,
+129,05:CBE9,02CBE9,,dialogue,23,,"毛バリつりを
+することにした。","You decided to go
+fly fishing.",yes,
+130,05:CBFA,02CBFA,,dialogue,23,,寄せエサを まいた。,You scattered chum.,yes,
+131,05:CC06,02CC06,,dialogue,23,,"さっき まいたのでまだ
+まく必要がありません。","You just scattered
+some chum, no need yet.",yes,
+132,05:CC20,02CC20,,dialogue,23,,"水際で、寄せエサを
+まきましょう。","Scatter chum at the
+water's edge.",yes,
+133,05:CC35,02CC35,,dialogue,23,,"泳いでいるときは
+選べない。","You can't choose while
+swimming.",yes,
+134,05:CC46,02CC46,,dialogue,23,,"投げづりでは、
+つかえません。","Can't be used when
+cast fishing.",yes,
+135,05:CC57,02CC57,,dialogue,23,,"アユの友づりでは、
+つかえません。","Can't be used with
+friend fishing.",yes,
+136,05:CC6A,02CC6A,,dialogue,23,,{CE},,no,Contains only an insert code; nothing to translate.
+137,05:CC6C,02CC6C,,dialogue,23,,{CF},,no,Contains only an insert code; nothing to translate.
+138,05:CC6E,02CC6E,,dialogue,23,,{D0},,no,Contains only an insert code; nothing to translate.
+139,05:CC70,02CC70,,dialogue,23,,{D1},,no,Contains only an insert code; nothing to translate.
+140,05:CC72,02CC72,,dialogue,23,,{D2},,no,Contains only an insert code; nothing to translate.
+141,05:CC74,02CC74,,dialogue,23,,{D3},,no,Contains only an insert code; nothing to translate.
+142,05:CC76,02CC76,143,dialogue,23,,{D5},,no,Contains only an insert code; nothing to translate.
+144,05:CC78,02CC78,,dialogue,23,,{D8},,no,Contains only an insert code; nothing to translate.
+145,05:CC7A,02CC7A,,dialogue,23,,{D5}を食べた。,Ate {D5}.,yes,
+146,05:CC82,02CC82,,dialogue,23,,体力が {DA}回復した。,Recovered {DA} HP.,yes,
+147,05:CC91,02CC91,,dialogue,23,,"最大体力まで
+あと {DA}です。","{DA} more until
+max HP.",yes,
+148,05:CCA4,02CCA4,,dialogue,23,,体力が、全部回復した。,HP fully recovered.,yes,
+149,05:CCB6,02CCB6,,dialogue,23,,これ以上食べきれない。,You can't eat any more.,yes,
+150,05:CCC5,02CCC5,,dialogue,23,,"{D8}を
+焼いてたべた。","Grilled and ate
+{D8}.",yes,
+151,05:CCD1,02CCD1,,dialogue,23,,食べ物を持っていない。,You have no food.,yes,
+152,05:CCE0,02CCE0,,dialogue,23,,"{D8}の毒で
+力つきてしまった。","The poison of
+{D8}
+exhausted you.",yes,
+153,05:CCF1,02CCF1,,dialogue,23,,"泳いでいるときは
+食事が出来ない。","You can't eat while
+swimming.",yes,
+154,05:CD08,02CD08,,dialogue,23,,"きのこを たべた。
+・・・・
+きのこの毒で
+力つきてしまった。","Ate a mushroom.
+....
+The mushroom's poison
+exhausted you.",yes,
+155,05:CD2A,02CD2A,,dialogue,23,,"{D6}は
+ここでは使えない。","{D6} can't
+be used here.",yes,
+156,05:CD38,02CD38,,dialogue,23,,今は使えない。,You can't use that now.,yes,
+157,05:CD42,02CD42,,dialogue,23,,{D6}を水に浮かべた。,"Put {D6}
+on the water.",yes,
+158,05:CD4E,02CD4E,,dialogue,23,,{D6}は今使っている。,{D6} is in use.,yes,
+159,05:CD5A,02CD5A,,dialogue,23,,"{CE}を
+{DA}匹見つけた。","Found {DA}
+{CE}.",yes,
+160,05:CD67,02CD67,,dialogue,23,,"{CE}を
+{DA}コ見つけた。","Found {DA}
+{CE}.",yes,
+161,05:CD73,02CD73,,dialogue,23,,何も見つからない。,Nothing was found.,yes,
+162,05:CD7F,02CD7F,,dialogue,23,,"磁石の針が {D7}を指した。
+現在地は {DA}の{D4}だ。","The compass needle
+points {D7}.
+At {DA}, {D4}.",yes,
+163,05:CD9E,02CD9E,,dialogue,23,,針が動かなくなった。,"The needle stopped
+moving.",yes,
+164,05:CDAB,02CDAB,,dialogue,23,,きのこを 見つけた。,Found a mushroom.,yes,
+165,05:CDB7,02CDB7,,dialogue,23,,現在地は {DA}の{D4}だ。,"At {DA}, {D4}.",yes,
+166,05:CDC5,02CDC5,167,dialogue,23,,道具を持っていない。,You have no tools.,yes,
+168,05:CDD3,02CDD3,,dialogue,23,,"泳いでいるときは
+道具を使えない。","You can't use tools
+while swimming.",yes,
+169,05:CDE9,02CDE9,,dialogue,23,,"ここでは、{D6}を水に
+浮かべられない。","You can't launch
+{D6} here.",yes,
+170,05:CDFE,02CDFE,,dialogue,23,,"{D6}に乗りかえるのは
+危険だ。","Switching to
+{D6}
+is dangerous.",yes,
+171,05:CE10,02CE10,,dialogue,23,,"泳いでいるときは
+{D6}に乗れない。","You can't board
+{D6}
+while swimming.",yes,
+172,05:CE23,02CE23,,dialogue,23,,"{CE}を見つけたが
+これ以上 持てません。","Found {CE}, but
+you can't carry more.",yes,
+173,05:CE3B,02CE3B,,dialogue,23,,"金アミは、浅瀬で
+虫取りに使います。","The gold net is for
+catching bugs
+in the shallows.",yes,
+174,05:CE54,02CE54,,dialogue,23,,東,East,yes,
+175,05:CE57,02CE57,,dialogue,23,,西,West,yes,
+176,05:CE5A,02CE5A,,dialogue,23,,南,South,yes,
+177,05:CE5D,02CE5D,,dialogue,23,,北,North,yes,
+178,05:CE60,02CE60,,dialogue,23,,"音楽を ステレオに
+しました。","Music set to
+stereo.",yes,
+179,05:CE72,02CE72,,dialogue,23,,"音楽を モノラルに
+しました。","Music set to
+mono.",yes,
+180,05:CE84,02CE84,,dialogue,23,,空の牛乳ビンです。,An empty milk bottle.,yes,
+181,05:CE91,02CE91,,dialogue,23,,"牛乳を飲みました。
+ゴクゴクゴク・・・
+おいしー","Drank the milk.
+Gulp gulp gulp...
+Delicious!",yes,
+182,05:CEAD,02CEAD,,dialogue,23,,"あぶらあげを食べました。
+パクパクパク・・・
+おいしー","Ate the fried tofu.
+Munch munch munch...
+Delicious!",yes,
+183,05:CECA,02CECA,,dialogue,23,,富くじです。,A lottery ticket.,yes,
+184,05:CED2,02CED2,,dialogue,23,,大きな ロウソクです。,A big candle.,yes,
+185,05:CEDF,02CEDF,,dialogue,23,,宝箱の カギです。,A treasure chest key.,yes,
+186,05:CEEB,02CEEB,187 188 189,dialogue,23,,はがきを持っていません。,You have no postcards.,yes,
+190,05:CEF9,02CEF9,,dialogue,23,,"泳いでいるときは
+びくの中を見られない。","You can't check your
+creel while swimming.",yes,
+191,05:CF11,02CF11,,dialogue,23,,"お泊まりには お金を
+{DA}円 いただきますが","Inn Keeper:
+A night's stay will
+cost {DA} yen.",yes,
+192,05:CF2A,02CF2A,193,dialogue,23,,どうぞ ごゆっくり。,"Please, take your time.",yes,
+194,05:CF35,02CF35,,dialogue,23,,それは 残念ですね。,That's too bad.,yes,
+195,05:CF42,02CF42,,dialogue,23,,"この度は ありがとう
+ございました。","Thank you very
+much for coming.",yes,
+196,05:CF56,02CF56,,dialogue,23,,"お金がないのか!
+しょうがないねえ!","No money?
+That can't be helped!",yes,
+197,05:CF6A,02CF6A,,dialogue,23,,"釣れてるわね!
+大会の結果が楽しみね。","You've caught some!
+Can't wait for results.",yes,
+198,05:CF84,02CF84,,dialogue,23,,釣り大会頑張って!,"Good luck in the
+fishing tournament!",yes,
+199,05:CF93,02CF93,,dialogue,23,,よろしいですか?,Is that all right?,yes,
+200,05:CF9C,02CF9C,,dialogue,23,,"お客さん、朝ですよ。
+起きてください。","Inn Keeper:
+Excuse me, it's
+morning. Wake up.",yes,
+201,05:CFB3,02CFB3,,dialogue,23,,"いらっしゃいませ!
+何を、お探しですか?","Shop Keeper:
+Welcome!
+What are you after?",yes,
+202,05:CFCA,02CFCA,,dialogue,23,,どれに しましょうか?,Which one will it be?,yes,
+203,05:CFD6,02CFD6,,dialogue,23,,"これ以上 持つことは
+出来ません。","You can't carry
+any more.",yes,
+204,05:CFED,02CFED,,dialogue,23,,"このびくは 今持っている
+じゃないですか!","You're already carrying
+this creel!",yes,
+205,05:D005,02D005,,dialogue,23,,"このびくは 今持っている
+のよりも 小さいですよ。","This creel is smaller
+than the one you have.",yes,
+206,05:D022,02D022,,dialogue,23,,"{D6}はすでに
+持っていますよ。","You already have
+{D6}.",yes,
+207,05:D032,02D032,,dialogue,23,,針はそれ以上持てません。,"You can't carry any
+more hooks.",yes,
+208,05:D043,02D043,,dialogue,23,,"寄せエサは それ以上
+持てません。","You can't carry any
+more chum.",yes,
+209,05:D059,02D059,,dialogue,23,,ほかに ございませんか?,Anything else?,yes,
+210,05:D066,02D066,,dialogue,23,,お金が 足らないけれど。,"You don't have enough
+money, though.",yes,
+211,05:D075,02D075,,dialogue,23,,"1本だけだぞ!
+大事に使えよ。","Only one, mind you!
+Take good care of it.",yes,
+212,05:D089,02D089,,dialogue,23,,"{DA}円 いただきますが
+よろしいですか?","That'll be {DA} yen.
+Is that all right?",yes,
+213,05:D09E,02D09E,,dialogue,23,,"いらっしゃいませ!
+どの毛バリを作りますか?","Fly Guy:
+Welcome!
+Which fly shall I tie?",yes,
+214,05:D0B7,02D0B7,,dialogue,23,,"これと同じ ルアーを
+すでに 持っていますよ。","You already have a
+lure just like this.",yes,
+215,05:D0D1,02D0D1,,dialogue,23,,"{D1}は9本以上
+持てません。","You can't carry more
+than 9 of
+{D1}.",yes,
+216,05:D0E3,02D0E3,,dialogue,23,,"{D2}はすでに
+持っていますよ。","You already have
+{D2}.",yes,
+217,05:D0F3,02D0F3,,dialogue,23,,"{D3}は
+すでに 持っていますよ。","You already have
+{D3}.",yes,
+218,05:D104,02D104,,dialogue,23,,"いらっしゃいませ!
+わたしの 竿は最高だよ。","Rod Master:
+Welcome!
+My rods are the best.",yes,
+219,05:D11E,02D11E,,dialogue,23,,"{CE}は9個以上
+持てません。","You can't carry more
+than 9 of {CE}.",yes,
+220,05:D130,02D130,,dialogue,23,,何をあげますか?,What will you give?,yes,
+221,05:D13A,02D13A,,dialogue,23,,ありがとう。,Thank you.,yes,
+222,05:D141,02D141,,dialogue,23,,大切に使ってよ。,Take good care of it.,yes,
+223,05:D14D,02D14D,,dialogue,23,,大切に使ってね。,Take good care of it.,yes,
+224,05:D159,02D159,,dialogue,23,,大切に使うのよ。,Take good care of it.,yes,
+225,05:D165,02D165,,dialogue,23,,大切に使うんだぞ。,Take good care of it.,yes,
+226,05:D172,02D172,,dialogue,23,,これはあげられない。,You can't give this.,yes,
+227,05:D17D,02D17D,,dialogue,23,,"これ以上 持つことは
+出来ないようです。","It seems they can't
+carry any more.",yes,
+228,05:D197,02D197,,dialogue,23,,"同じ物を すでに
+持っているようです。","It seems they already
+have the same thing.",yes,
+229,05:D1AE,02D1AE,,dialogue,23,,"{D3}を
+あげますか?","Give
+{D3}?",yes,
+230,05:D1B8,02D1B8,,dialogue,23,,"{CF}を
+あげますか?",Give {CF}?,yes,
+231,05:D1C2,02D1C2,,dialogue,23,,"{D0}を
+あげますか?",Give {D0}?,yes,
+232,05:D1CC,02D1CC,,dialogue,23,,"あげられる サオを
+持っていません。","You have no rods to
+give away.",yes,
+233,05:D1E0,02D1E0,,dialogue,23,,ルアーを持っていません。,You have no lures.,yes,
+234,05:D1EE,02D1EE,,dialogue,23,,毛バリを持っていません。,You have no flies.,yes,
+235,05:D1FD,02D1FD,,dialogue,23,,"釣れているじゃないか!
+びくの中の 魚全部で","You've got some fish!
+All the fish in your",yes,
+236,05:D219,02D219,,dialogue,23,,"{DA}円 になるけど
+売ってくれるかい?","creel come to {DA}
+yen.
+Will you sell them?",yes,
+237,05:D22E,02D22E,,dialogue,23,,ありがとうございました。,Thank you very much.,yes,
+238,05:D23B,02D23B,,dialogue,23,,それは 残念だなあ!,That's too bad!,yes,
+239,05:D248,02D248,,dialogue,23,,"魚が びくに入っていない
+ようですけれど!","It doesn't look like
+you have any fish!",yes,
+240,05:D260,02D260,,dialogue,23,,"大ウナギを 早く
+やぶ医者に 食べさせて
+あげてください。","Please hurry and feed
+the giant eel to the
+quack doctor.",yes,
+241,05:D283,02D283,,dialogue,23,,"金色のコイを 早く
+家族に 食べさせて
+あげてください。","Please hurry and feed
+the golden carp to
+your family.",yes,
+242,05:D2A6,02D2A6,,dialogue,23,,"{D9}が
+現れた!","{D9}
+appeared!",yes,
+243,05:D2AF,02D2AF,,dialogue,23,,食べ物は 残っていない。,There's no food left.,yes,
+244,05:D2BF,02D2BF,,dialogue,23,,どうする?,What will you do?,yes,
+245,05:D2C5,02D2C5,,dialogue,23,,  力一杯ぶんなぐった!,"  Punched with all
+  your might!",yes,
+246,05:D2D5,02D2D5,,dialogue,23,,  必死に 逃げた!,  Desperately fled!,yes,
+247,05:D2E3,02D2E3,,dialogue,23,,{D9}の反撃!,"{D9}
+strikes back!",yes,
+248,05:D2EB,02D2EB,,dialogue,23,,{D9}の攻撃!,{D9} attacks!,yes,
+249,05:D2F3,02D2F3,,dialogue,23,,{D9}を 倒した。,Defeated {D9}.,yes,
+250,05:D2FC,02D2FC,,dialogue,23,,"{D9}に
+捕まった。","Caught by
+{D9}.",yes,
+251,05:D306,02D306,,dialogue,23,,"{D9}は
+追って来なかった。","{D9} did
+not follow you.",yes,
+252,05:D315,02D315,,dialogue,23,,"{D9}に
+やられてしまった。","Beaten by
+{D9}.",yes,
+253,05:D322,02D322,,dialogue,23,,"{DA}ポイントの
+ダメージを受けた。","Took {DA} points
+of damage.",yes,
+254,05:D334,02D334,,dialogue,23,,"{DA}ポイントの
+ダメージを与えた。","Dealt {DA} points
+of damage.",yes,
+255,05:D346,02D346,256,dialogue,23,,"最大体力が 一つふえて
+{DA}になった。","Max HP went up by one
+to {DA}.",yes,
+257,05:D35E,02D35E,,dialogue,23,,経験値 {DA} 獲得。,Got {DA} EXP.,yes,
+258,05:D36D,02D36D,,dialogue,23,,かわされて しまった。,It dodged.,yes,
+259,05:D379,02D379,,dialogue,23,,寄せエサを 持っていた。,It was carrying chum.,yes,
+260,05:D388,02D388,,dialogue,23,,はりを1本 持っていた。,It was carrying a hook.,yes,
+261,05:D397,02D397,,dialogue,23,,魚を 1匹 盗まれた。,A fish was stolen.,yes,
+262,05:D3A6,02D3A6,,dialogue,23,,"{CD}は
+力を 使い果たした。","{CD} is out
+of strength.",yes,
+263,05:D3B7,02D3B7,,dialogue,23,,{D5}を あげた。,Gave {D5}.,yes,
+264,05:D3BF,02D3BF,,dialogue,23,,"{D9}は 歓んで
+口にくわえて
+行ってしまった。
+{DA}ポイント
+なかよしに なった。","{D9} gladly
+took it in its mouth
+and left.
+Gained {DA} points of
+friendship.",yes,
+265,05:D3EA,02D3EA,,dialogue,23,,"{D9}は
+{D5}を 食べた。
+{DA}ポイント
+なかよしに なった。","{D9}
+ate {D5}.
+Gained {DA} points of
+friendship.",yes,
+266,05:D407,02D407,,dialogue,23,,"何か食べないと
+力つきて しまいます。","If you don't eat,
+you'll run out of
+strength.",yes,
+267,05:D41E,02D41E,,dialogue,23,,"泳ぎ 疲れて
+力つきて しまった。","Tired from swimming,
+you ran out of
+strength.",yes,
+268,05:D433,02D433,,dialogue,23,,"漕ぎ 疲れて
+力つきて しまった。","Tired from rowing,
+you ran out of
+strength.",yes,
+269,05:D448,02D448,,dialogue,23,,"{D9}は 歓んで
+口にくわえて
+行ってしまった。
+大のなかよしに なった。","{D9} gladly
+took it in its mouth
+and left.
+Became best friends.",yes,
+270,05:D470,02D470,,dialogue,23,,"{D9}は
+{D5}を 食べた。
+大のなかよしに なった。","{D9}
+ate {D5}.
+Became best friends.",yes,
+271,05:D48A,02D48A,,dialogue,23,,"{D9}は
+かわいい目で 見ている。","{D9}
+is watching with
+cute eyes.",yes,
+272,05:D49C,02D49C,,dialogue,23,,"{D9}は
+{D5}を 食べると
+突然 ばったり
+倒れてしまった。","{D9}
+ate {D5} and
+suddenly collapsed.",yes,
+273,05:D4BC,02D4BC,,dialogue,23,,"{D8}5尾の
+体長の合計を競う
+大会です。
+参加料{DA}円です。
+優勝賞金は 1000円
+計量した魚は放流します。
+がんばって 釣ってきて
+ください。","This is a contest
+to see who can land
+the greatest combined
+length of 5
+{D8}.
+Entry fee: {DA} yen.
+First prize: 1000 yen.
+Measured fish are
+released. Do your best,
+and happy fishing!",yes,
+274,05:D51B,02D51B,,dialogue,23,,"釣れていますね。
+計量しますか?","You've got some fish.
+Want to measure them?",yes,
+275,05:D52F,02D52F,,dialogue,23,,{DA}尾で{D4}cmです。,"{DA} fish, {D4}cm.",yes,
+276,05:D539,02D539,,dialogue,23,,"現在{DA}位です。
+おめでとうございます。","Your rank is {DA}.
+Congratulations!",yes,
+277,05:D550,02D550,,dialogue,23,,"前回の記録のほうが
+よいので登録しません。
+また がんばって下さい。","Your previous record
+is better, so it
+won't be registered.
+Try again!",yes,
+278,05:D57A,02D57A,,dialogue,23,,"お金がないのか!
+しょうがねえなあ!","No money?
+That can't be helped!",yes,
+279,05:D58E,02D58E,,dialogue,23,,それは 残念ですね。,That's too bad.,yes,
+280,05:D59B,02D59B,,dialogue,23,,"おめでとうございます。
+賞金として 1000円
+が贈られます。","Congratulations!
+You win 1000 yen
+in prize money.",yes,
+281,05:D5BF,02D5BF,,fixed columns,see note,1,順位名前記録,RankNameBest,yes,Three column headers run together.
+282,05:D5CC,02D5CC,,dialogue,23,,  イワナの記録,Char Records,yes,
+283,05:D5D7,02D5D7,,dialogue,23,,ブラックバス大会,Bass Contest,yes,
+284,05:D5E2,02D5E2,,dialogue,23,, アユ釣りの記録,Sweetfish Records,yes,
+285,05:D5EE,02D5EE,,dialogue,23,,  ヘラブナ大会,W.Crucian Contest,yes,
+286,05:D5F9,02D5F9,,dialogue,23,, ドジョウの記録,Loach Records,yes,
+287,05:D604,02D604,,dialogue,23,,   スズキ大会,Seabass Contest,yes,
+288,05:D60F,02D60F,,dialogue,23,,"現在、ランキングの
+トップに立ちました!","You're now at the
+top of the rankings!",yes,
+289,05:D627,02D627,,wide window,32,,誰に絵はがきを送りますか?,Send a postcard to whom?,yes,
+290,05:D638,02D638,,dialogue,23,,岩魚沢  魚止め村,Fishstop Village,yes,
+291,05:D648,02D648,,dialogue,23,,山奥湖  六つ墓村,Sixgrave Village,yes,
+292,05:D658,02D658,,dialogue,23,,清瀬川  鮎の里,Sweetfish Hamlet,yes,
+293,05:D666,02D666,,dialogue,23,,芦の湖  鯉の町,Carp Town,yes,
+294,05:D673,02D673,,dialogue,23,,大蓮沼  田の村,Paddy Village,yes,
+295,05:D681,02D681,,dialogue,23,,海の口  愛の浜,Love Beach,yes,
+296,05:D68E,02D68E,,dialogue,23,,5行以内にしてください。,Keep it within 5 lines.,yes,
+297,05:D69E,02D69E,,wide window,32,,投函しますか?  はい  いいえ,Mail it?        Yes   No    ,yes,Prompt plus Yes/No at fixed columns; keep the spacing.
+298,05:D6B1,02D6B1,,dialogue,23,,絵はがきを投函しました。,Postcard mailed.,yes,
+299,05:D6C1,02D6C1,,fixed columns,see note,1,?!,? !,yes,"Two keys, one per 16px slot; keep the space between them."
+300,05:D6C4,02D6C4,,dialogue,23,,届いた 絵はがき,Received postcard,yes,
+301,05:D6CF,02D6CF,,dialogue,23,,"絵はがきを、送る相手が
+いません。","You have no one to
+send a postcard to.",yes,
+302,05:D6E5,02D6E5,,dialogue,23,,"前回の絵はがきが、
+まだ届いていません。","Your last postcard
+hasn't arrived yet.",yes,
+303,05:D6FE,02D6FE,,dialogue,23,,"前回の絵はがきを削除して
+送りますか?","Delete the last card
+and send a new one?",yes,
+304,05:D718,02D718,,dialogue,23,,魚が いなくなった。,The fish are gone.,yes,
+305,05:D724,02D724,,dialogue,23,,何も 入っていない。,There's nothing inside.,yes,
+306,05:D731,02D731,,dialogue,23,,"宝箱を 開けた。
+{D2}が
+入っていた。","Opened the chest.
+Found
+{D2}.",yes,
+307,05:D748,02D748,,dialogue,23,,"宝箱を 開けた。
+{D6}が 入っていた。","Opened the chest.
+Found {D6}.",yes,
+308,05:D75F,02D75F,,dialogue,23,,"宝箱を 開けた。
+{D3}が
+入っていた。","Opened the chest.
+Found
+{D3}.",yes,
+309,05:D776,02D776,,dialogue,23,,確かに 記憶しました。,"Your progress
+has been saved.",yes,
+310,05:D785,02D785,,dialogue,23,,"お地蔵さまに
+何をお供えしますか?","What will you offer
+to the Jizo statue?",yes,
+311,05:D79B,02D79B,,dialogue,23,,"{D5}を
+お供えしました。",Offered {D5}.,yes,
+312,05:D7A8,02D7A8,,dialogue,23,,"宝箱に カギが
+かかっている。","The treasure chest
+is locked.",yes,
+313,05:D7BA,02D7BA,,dialogue,23,,"バックアップデータが
+こわれています。","Your save data is
+corrupted.",yes,
+314,05:D7CE,02D7CE,,dialogue,23,,"ボタンを押して下さい。
+全体を初期化して
+ゲームをはじめます。","Press a button.
+Everything will be
+reset and the game
+will start.",yes,
+315,05:D7F5,02D7F5,,dialogue,23,,"やったーっ! ついに
+ぬしの{D8}を
+釣り上げた。
+大きさは {DA}cm。
+でも! {D8}の成魚は
+珍しい魚です。
+釣り上げずに
+逃がしてあげて下さい。","Hooray! You finally
+caught the River King
+{D8}!
+Size: {DA}cm.
+But! Adult
+{D8}
+are rare fish.
+Please let it go
+instead of keeping it.",yes,
+316,05:D846,02D846,,dialogue,23,,"やったーっ! ついに
+白いタナゴを 釣り上げた。
+大きさは {DA}cm。
+さあ! 願い事を
+唱えましょう。
+・・・・・・・・
+・・・・・・
+願いが かなう
+といいですね。
+白いタナゴは
+釣り上げずに
+逃がしてあげて下さい。","Hooray! You finally
+caught the white
+bitterling!
+Size: {DA}cm.
+Now! Make your wish.
+........
+......
+I hope it comes true.
+Please let the white
+bitterling go free.",yes,
+317,05:D8C0,02D8C0,,dialogue,23,,"やったーっ! ついに
+金色のコイを 釣り上げた。
+大きさは {DA}cm。
+さあ! すぐに家へ帰って
+家族に 金色のコイを
+食べさせてあげて下さい。","Hooray! You finally
+caught the golden carp!
+Size: {DA}cm.
+Now! Hurry home and
+feed the golden carp
+to your family.",yes,
+318,05:D914,02D914,,dialogue,23,,"やったーっ! ついに
+大ナマズを 釣り上げた。
+大きさは {DA}cm。
+さあ! これで村人も
+安心です。","Hooray! You finally
+caught the big catfish!
+Size: {DA}cm.
+Now the villagers can
+rest easy.",yes,
+319,05:D94E,02D94E,,dialogue,23,,"やったーっ! ついに
+{D8}を釣り上げた。
+大きさは {DA}cm。
+さあ! 村に戻って
+やぶ医者に 食べさせて
+あげましょう。","Hooray! You finally
+caught
+{D8}!
+Size: {DA}cm.
+Now! Return to the
+village and feed it to
+the quack doctor.",yes,
+320,05:D991,02D991,,dialogue,23,,"この井戸の中に アマゴを
+入れとったが いなくなっ
+てしもうてのう!
+お願いじゃが 釣ってきて
+もらえんじゃろうか?","I kept redspot trout in
+this well, but they've
+all disappeared! Could
+you catch me some?",yes,
+321,05:D9D2,02D9D2,,dialogue,23,,"おおっ! アマゴじゃな。
+もらって いいのか。
+お礼に わしの金アミを
+差しあげよう。","Oh! A redspot trout!
+Is it really for me?
+As thanks, take my
+gold net.",yes,
+322,05:DA01,02DA01,,dialogue,23,,"あんたのおかげで 毎日
+アマゴの姿を見られるよ。","Thanks to you, I can
+see redspot trout
+every day.",yes,
+323,05:DA1E,02DA1E,,dialogue,23,,"金アミを使って、
+川の浅瀬のゴミをすくえば
+エサなんか いくらでも
+めっかるぞ。","Use the gold net to
+scoop trash in shallow
+water and you'll find
+plenty of bait.",yes,
+324,05:DA4C,02DA4C,,dialogue,23,,"みんな 病気をしない
+ように こうして 毎日
+祈っているんじゃよ。
+おじぞうさんに
+お供えを するんじゃよ。
+きっといいことがあるから","I make offerings
+to the Jizo statue,
+and I pray every day
+for the health and
+safety of the village.
+Good things will surely
+come of it.",yes,
+325,05:DA96,02DA96,,dialogue,23,,"魚が 釣れなくなったら
+宿に 泊まってみてね。
+また すぐに釣れだすよ。","If the fish stop
+biting, try staying at
+an inn. They'll bite
+again right away.",yes,
+326,05:DAC0,02DAC0,,dialogue,23,,"あー忙しか 忙しか。
+魚が 釣れない時には
+魚の集まる ポイントを
+見つけろよ。
+エサも よく選ぶんだぞ。","Ah, so busy, so busy.
+When the fish aren't
+biting, find a spot
+where they gather.
+And choose bait well.",yes,
+327,05:DB04,02DB04,,dialogue,23,,"ウキが ピクピク動いても
+エサが合ってないと 魚は
+絶対に食べないからね。","Even if the float
+twitches, fish never
+eat bait that doesn't
+suit them.",yes,
+328,05:DB35,02DB35,,dialogue,23,,"私が この村の医者だが。
+ここの村人は 健康で
+病気をしないから 毎日
+釣りをしているんだ。","I'm this village's
+doctor. The villagers
+are so healthy they
+just fish every day.",yes,
+329,05:DB76,02DB76,,dialogue,23,,"洞穴は、下流の村への
+近道だから じょうずに
+利用してね。
+磁石があれば、洞穴の方角
+が分かるよ。","The cave is a shortcut
+to the downstream
+village, so use it
+well. With a compass,
+you'll know which way
+the cave runs.",yes,
+330,05:DBBD,02DBBD,,dialogue,23,,"洞穴に入ったら虫めがねを
+使ってみろや。 ええこと
+あるぞー。","In the cave, try the
+magnifying glass.
+You'll find something
+good!",yes,
+331,05:DBE7,02DBE7,,dialogue,23,,"若魚を釣りあげた時は
+逃がさないかんぞ","If you catch a young
+fish, let it go.",yes,
+332,05:DC00,02DC00,,dialogue,23,,"ナムアミダブツ!
+いのししは 強いけど
+食べ物には 弱いんだよ。","Namu Amida Butsu!
+Boars are strong, but
+they can't resist food.",yes,
+333,05:DC25,02DC25,,dialogue,23,,じゃまするなっ!,Don't get in the way!,yes,
+334,05:DC2E,02DC2E,,dialogue,23,,ナムアミダブツ!,Namu Amida Butsu!,yes,
+335,05:DC37,02DC37,,dialogue,23,,散らかさないでーっ!,Don't make a mess!,yes,
+336,05:DC43,02DC43,,dialogue,23,,"タライ作りの じいとは
+わしのことじゃ!
+じつは ハリヨの魚拓を
+作りたいが 釣って来て
+もらえんじゃろうか?","I'm the old man who
+makes washtubs!
+I want a fish print of
+a stickleback. Can you
+go catch one for me?",yes,
+337,05:DC81,02DC81,,dialogue,23,,"おうっ! やりおったな。
+わしにも釣れんかった魚を
+とうとう 釣りあげたか!
+わしが たんねんに作った
+タライじゃが持っていけ。","Oh! You did it! You
+finally caught a fish
+even I couldn't!
+Take the washtub I
+carefully made.",yes,
+338,05:DCC7,02DCC7,,dialogue,23,,タライに 乗っているか!,Riding the washtub?,yes,
+339,05:DCDA,02DCDA,,dialogue,23,,"りっぱな ルアー竿を
+お持ちですなあ。","That's quite a fine
+lure rod you have.",yes,
+340,05:DCF0,02DCF0,,dialogue,23,,"宝箱を見つけてないんか?
+立派な竿が 入っとるぞ。","Haven't you found the
+treasure chest? There's
+a fine rod inside.",yes,
+341,05:DD16,02DD16,,dialogue,23,,"島に おなかをすかせて
+倒れているクマがいたんだ
+かわいそうに・・・・","A hungry bear was
+collapsed on the
+island... poor thing.",yes,
+342,05:DD43,02DD43,,dialogue,23,,"沖の魚を釣りたけりゃあ
+タライか カヌーを
+手に入れるんだなっ。","To catch fish offshore,
+get a washtub or a
+canoe!",yes,
+343,05:DD70,02DD70,,dialogue,23,,"ほらほらっ アブラハヤが
+入れぐいだぞっ!","Look, look! The
+minnows are biting
+like mad!",yes,
+344,05:DD8C,02DD8C,,dialogue,23,,"サクラマスを この先の
+渓谷で みかけたよ。","I saw a masu salmon
+in the gorge ahead.",yes,
+345,05:DDA6,02DDA6,,dialogue,23,,"グーグー おなかが
+すいて 動けないんだ。
+サクラマスを 釣ってきて
+食べさせてくれ。","I'm so hungry I can't
+move. Please catch a
+masu salmon and
+feed me.",yes,
+346,05:DDD5,02DDD5,,dialogue,23,,"大好きな サクラマスだ。
+ムシャムシャ 美味しい。
+ありがとう。","My favorite, masu
+salmon! Munch munch,
+delicious. Thank you.",yes,
+347,05:DDFA,02DDFA,,dialogue,23,,"お腹が一杯で 眠くて
+グーグー
+・・・・・","My belly's full and
+I'm sleepy. Zzz...
+.....",yes,
+348,05:DE14,02DE14,,dialogue,23,,"カヌー作りの じいとは
+わしのことじゃ!
+じつは おいしい牛乳が
+呑みたいんじゃが
+しぼってきて
+もらえんじゃろうか?
+牛乳ビンは 家の中の箱に
+入っているから。","I'm the old man who
+makes canoes!
+I'd love some tasty
+milk. Could you go
+milk a cow for me?
+The milk bottle is in
+a box in the house.",yes,
+349,05:DE70,02DE70,,dialogue,23,,"おうっ! ありがとう。
+ゴクゴクゴク 仕事の後の
+しぼりたての 牛乳は
+最高じゃ! ゴクゴク
+わしが たんねんに作った
+カヌーじゃが持っていけ。","Oh! Thank you.
+Glug glug glug. Fresh
+milk after work is
+the best! Glug glug.
+Take the canoe I
+carefully made.",yes,
+350,05:DEC2,02DEC2,,dialogue,23,,カヌーに 乗っているか!,Riding the canoe?,yes,
+351,05:DED0,02DED0,,dialogue,23,,"ヤマノカミを釣ったことが
+あるかい? 釣って来たら
+名人と 言ってやるぜっ!","Ever caught a rough
+sculpin? Catch one
+and I'll call you a
+master!",yes,
+352,05:DEFD,02DEFD,,dialogue,23,,"いよっ!
+ヤマノカミ釣り名人。
+わしの畑でとれた
+ダイコンだけど
+持っていっていいよ。","Yo! Sculpin master!
+Here, take this radish
+from my field.",yes,
+353,05:DF2E,02DF2E,,dialogue,23,,"いよっ!
+ヤマノカミ釣り名人。","Yo!
+Sculpin master!",yes,
+354,05:DF41,02DF41,,dialogue,23,,"最近は わたしの姿も
+少なくなりました。","Not many folks like me
+work the fields
+these days.",yes,
+355,05:DF5A,02DF5A,,dialogue,23,,"カヌーがないと
+この先の滝は登れないよ。
+カヌーを こぐ時にゃ用心
+せいよ。体力をいっぱい
+使うからなっ。","Without a canoe you
+can't climb the falls
+ahead. Be careful when
+paddling; it takes lots
+of stamina.",yes,
+356,05:DF99,02DF99,,dialogue,23,,"草むしりは 大変だけんど
+いい汗かくべなあ。
+おめえも やるべか?","Weeding is tough, but
+you work up a good
+sweat. Wanna join me?",yes,
+357,05:DFC4,02DFC4,,dialogue,23,,"あんた アユを釣るんなら
+友釣りが ええぞ。
+釣ったばかりの
+元気なアユを あげるから
+友釣りを やってごらん。","After sweetfish? Then
+friend fishing is the
+way. I'll give you a
+lively decoy sweetfish,
+so try it out.",yes,
+358,05:E005,02E005,,dialogue,23,,"オトリのアユが
+なわばりに 入り込むと
+アユは 体当たりで
+追い払おうとして
+針にかかるんじゃ。","When a decoy sweetfish
+enters their territory,
+sweetfish ram it to
+drive it off and get
+hooked.",yes,
+359,05:E044,02E044,,dialogue,23,,"サツキマスを 滝の上で
+つり上げたんだ。
+うそじゃないよ","I caught a redspot
+salmon above the falls.
+No lie!",yes,
+360,05:E069,02E069,,dialogue,23,,"大きな ひぐまが
+冬眠からさめて
+うろうろ しちょったぞ。","A big brown bear woke
+from hibernation and
+was wandering about.",yes,
+361,05:E08F,02E08F,,dialogue,23,,"カラスに 魚を盗られない
+ように 注意してね。","Watch out so crows
+don't steal your fish.",yes,
+362,05:E0B2,02E0B2,,dialogue,23,,"ヤマノカミは 少し下で
+見かけたけどなあ!","I saw a rough sculpin
+a bit downstream,
+though!",yes,
+363,05:E0CB,02E0CB,,dialogue,23,,"モー モー
+お乳がはって 痛いのよ。
+早くしぼってちょうだい。","Moo moo
+My udders ache.
+Milk me quick, please.",yes,
+364,05:E0EE,02E0EE,,dialogue,23,,"モー モー
+さっき 乳をしぼったから
+もう出ないわ。ごめんね。","Moo moo
+I was just milked, so
+no more now. Sorry.",yes,
+365,05:E110,02E110,,dialogue,23,,"モー モー
+早くしぼってちょうだい。
+ジュッジュッジュッ・・
+ジュッジュッジョ
+ジュッジョ
+モー 気持ちがいいわ。","Moo moo
+Milk me quick, please.
+Squirt squirt squirt...
+Squirt squirt
+Squirt
+Moo, that feels nice.",yes,
+366,05:E14D,02E14D,,dialogue,23,,モー モー,Moo moo,yes,
+367,05:E153,02E153,,dialogue,23,,"モー モー
+「人生牧場」では
+わたしが 主役よ。
+かわいがってね・・
+モー","Moo moo
+At ""Life Ranch,"" I'm
+the star. Take care of
+me... Moo",yes,
+368,05:E17F,02E17F,,dialogue,23,,"カメ釣り名人とは俺様よ。
+カメの経験値は とびきり
+高いからな。","I'm the turtle-fishing
+master! Turtle EXP is
+extra high.",yes,
+369,05:E1A9,02E1A9,,dialogue,23,,"バブ バブ
+マンマ マンマ","Goo goo
+Mama mama",yes,
+370,05:E1B7,02E1B7,,dialogue,23,,"太陽の下で せんこう花火
+なんて、ちょっといいわよ
+ね!?","A sparkler in the
+sunlight is kinda nice,
+isn't it?!",yes,
+371,05:E1DA,02E1DA,,dialogue,23,,"まあ 花火をくれるの。
+ありがとう。キツネを
+花火で おどかすと
+おもしろいわよ。","Oh, fireworks for me?
+Thank you. Scaring
+foxes with fireworks
+is fun, you know.",yes,
+372,05:E208,02E208,,dialogue,23,,"最近、村人の多くが
+キツネに化かされて
+いろいろな被害にあって
+いるんだ
+あんたも気をつけなよ!","Lately many villagers
+have been tricked by
+foxes and suffered all
+sorts of damage.
+Be careful too!",yes,
+373,05:E242,02E242,,dialogue,23,,ピシャッ!!,Slap!!,yes,
+374,05:E3C3,02E3C3,,dialogue,23,,"おなかがすいたので
+友だちが 魚を釣ったら
+もらうんだ。","I'm hungry, so when a
+friend catches fish,
+I'll get some.",yes,
+375,05:E250,02E250,,dialogue,23,,"おぬしも ぬし釣りの
+旅をしているだか?
+ウム がんばれよ!","Are you on a River
+King journey too?
+Mm, do your best!",yes,
+376,05:E271,02E271,,dialogue,23,,"貴方なら
+必ずきてくれると
+信じていました。
+大きなナマズが 暴れて
+漁師が こまっています。
+釣り上げて 退治して
+ください。
+困った 困った ・・・","I believed you would
+surely come.
+A huge catfish is
+rampaging and the
+fishermen are in a
+bind.
+Please catch and
+subdue it.
+What a bind...",yes,
+377,05:E2CC,02E2CC,,dialogue,23,,"イョ!
+日本一の釣り師。
+これで 安心して
+漁をすることが出来ます。
+ありがとう。
+うむ、すごいお人だ・・・","Hey!
+Japan's best angler.
+Now we can fish
+in peace.
+Thank you.
+Hm, what a remarkable
+person...",yes,
+378,05:E315,02E315,,dialogue,23,,"私の まごむすめを
+見かけなかったかい?
+花火をして 遊んでばかり
+まごむすめに 花火を
+みせないで 下さいね。","Have you seen my
+granddaughter? She does
+nothing but play with
+fireworks. Please don't
+show her any fireworks.",yes,
+379,05:E35D,02E35D,,dialogue,23,,"どっしり かまえて
+アタリを待つ。
+これが釣りの王道よお!","Sit tight and wait for
+a bite. That's the true
+way of fishing!",yes,
+380,05:E384,02E384,,dialogue,23,,"大きな魚を
+釣り上げるには
+大物用ルアーロッドが
+いいよ。","To land a big fish,
+a big-game lure rod
+is the way to go.",yes,
+381,05:E3B0,02E3B0,,dialogue,23,,"エサだけ とられると
+くやしいよね。","It's frustrating when
+only the bait gets
+taken, isn't it?",yes,
+382,05:E3E3,02E3E3,,dialogue,23,,"おなかがすいて動けないの
+おねがい わたしの好きな
+あぶらあげ 持ってきて
+頂けないかしら。","I'm so hungry I can't
+move. Please, could you
+bring me my favorite
+fried tofu?",yes,
+383,05:E416,02E416,,dialogue,23,,"あら ありがとう。
+パク パク パク
+このあぶらあげ 最高に
+おいしいわ。
+でも もっと食べないと
+動けそうにないわ。","Oh, thank you.
+Munch munch munch
+This fried tofu is the
+best. But I still need
+more to eat or I won't
+be able to move.",yes,
+384,05:E456,02E456,,dialogue,23,,シュー 花火を使った。,Fizzle! Used fireworks.,yes,
+385,05:E465,02E465,,dialogue,23,,"きつねが 驚いて姿を
+見せて 逃げていった。","The fox was startled,
+showed itself, and
+ran away.",yes,
+386,05:E480,02E480,,dialogue,23,,"ごめんなさい。
+もう 悪いことはしません
+だから 花火で
+いじめないでね。","I'm sorry. I won't do
+anything bad anymore.
+So please don't bully
+me with fireworks.",yes,
+387,05:E4A9,02E4A9,,dialogue,23,,"ごめんなさい。
+もう 悪いことはしません
+おいらより このあたりで
+暴れている 大きなナマズ
+のほうが悪いヤツですよ。","I'm sorry. I won't do
+anything bad anymore.
+The big catfish rampag-
+ing around here is the
+real villain, not me.",yes,
+388,05:E4E9,02E4E9,,dialogue,23,,ふいーっ 疲れたべー。,"Phew, I'm tired.",yes,
+389,05:E4F6,02E4F6,,dialogue,23,,"田んぼの 仕事は
+腰が 疲れるのよ。","Working the paddy
+wears out your back.",yes,
+390,05:E50E,02E50E,,dialogue,23,,"そろそろ おなかが
+すいてきたわ。
+グー。
+あら 失礼。","I'm getting hungry.
+Growl.
+Oh, excuse me.",yes,
+391,05:E52D,02E52D,,dialogue,23,,"知ってる。知ってる。
+願い事がかなう 魚って
+白いタナゴの ことよ。","I know, I know!
+The fish that grants
+wishes is the white
+bitterling.",yes,
+392,05:E556,02E556,,dialogue,23,,"ねえねえ 教えて。
+どこで 白いタナゴが
+釣れたの。
+わたし 願い事たくさん
+あるのよ。ねえ 教えて。","Hey, tell me. Where
+did you catch a white
+bitterling? I have so
+many wishes. Please,
+tell me.",yes,
+393,05:E590,02E590,,dialogue,23,,"ドジョウなら
+そこらに いるぞ。","If it's loaches you
+want, they're right
+over there.",yes,
+394,05:E5A6,02E5A6,,dialogue,23,,"あんたの竿じゃあ 魚に
+逃げられちゃうねぇ。
+沼のさきの 竿屋さんで
+いい竿を 売ってるよ。","Your rod will let the
+fish get away. The rod
+shop past the swamp
+sells good rods.",yes,
+395,05:E5E2,02E5E2,,dialogue,23,,"わたし 釣りは初めてなの。
+富くじが 当たって
+竿を買って 始めたの。
+このあたりでは 何が
+釣れるのかしら。","This is my first time
+fishing. I won the
+lottery, bought a rod
+and started. What can
+you catch around here?",yes,
+396,05:E62C,02E62C,,dialogue,23,,"魚止め村から はるばる
+来ただか!
+頑張れよーっ!","You came all the way
+from Fishstop Village?
+Do your best!",yes,
+397,05:E651,02E651,,dialogue,23,,"今日は 大物が釣れる
+予感がするんだ!","I have a feeling I'll
+catch a big one today!",yes,
+398,05:E673,02E673,,dialogue,23,,ブヒーッ。ブヒーッ。,Oink. Oink.,yes,
+399,05:E67E,02E67E,,dialogue,23,,"ブヒーッ。
+食べると 元気になる魚?
+それは
+川の王者 金色のコイだ!
+おいらは 陸の王者だ。
+ブヒーツ。","Oink. A fish that
+makes you healthy when
+you eat it? That's
+the champion of the
+river, the golden carp!
+I'm the champ of the
+land. Oink.",yes,
+400,05:E6C0,02E6C0,,dialogue,23,,"ブヒーッ。
+金色のコイだ!
+ぶったまげた。
+ブヒーツ。","Oink.
+The golden carp!
+I'm flabbergasted.
+Oink.",yes,
+401,05:E6DE,02E6DE,,dialogue,23,,富くじの 抽選所です。,"This is the lottery
+drawing office.",yes,
+402,05:E6EE,02E6EE,,dialogue,23,,"おめでとう ございます。
+一等 5000円です。
+いやーすごく幸運な方じゃ","Congratulations!
+First prize: 5000 yen.
+You're so lucky!",yes,
+403,05:E71A,02E71A,,dialogue,23,,"おめでとう ございます。
+大当たり。
+二等 1000円です。
+きっと、おこないが良いの
+でしょう。","Congratulations!
+It's a winner.
+Second prize: 1000 yen.
+You must live right.",yes,
+404,05:E752,02E752,,dialogue,23,,"おめでとう ございます。
+当たりです。
+三等 100円です。
+運は少しづつ使うのがコツ
+ですよね。","Congratulations!
+A modest win.
+Third prize: 100 yen.
+Luck is best used
+little by little.",yes,
+405,05:E78B,02E78B,,dialogue,23,,"残念です。空くじです。
+また挑戦してね。
+収益は 魚の放流資金に
+使わせて もらいます。","Too bad, a blank.
+Try again!
+Proceeds go to funds
+for stocking fish.",yes,
+406,05:E7C5,02E7C5,,dialogue,23,,"パンパカパーン!
+大当たり!","Ta-da!
+Jackpot!",yes,
+407,05:E7D6,02E7D6,,dialogue,23,,気持ちがいーよーっ。,That feels good!,yes,
+408,05:E7E3,02E7E3,,dialogue,23,,"ポチには話しかけないで。
+今 腹をすかしているの。","Don't talk to Pochi.
+He's hungry right now.",yes,
+409,05:E800,02E800,,dialogue,23,,"ウーッ ワンッ!
+パク パク パク","Grr, woof!
+Munch munch munch",yes,
+410,05:E812,02E812,,dialogue,23,,"ごちそうさんでしたっ!
+ワンッ!","Thanks for the meal!
+Woof!",yes,
+411,05:E823,02E823,,dialogue,23,,ウーッ ワンッ!,"Grr, woof!",yes,
+412,05:E82C,02E82C,,dialogue,23,,ゴロ ゴロ ニャーン。,"Purr, purr, meow.",yes,
+413,05:E838,02E838,,dialogue,23,,"こまった。こまった。
+ロウソクが ないんです。
+好江さんが 合図を
+待っているのに・・・","What a pickle! I have
+no candle. Yoshie is
+waiting for the
+signal...",yes,
+414,05:E86A,02E86A,,dialogue,23,,"えっ! ロウソクを
+頂けるのですか?
+たすかります。","Oh! You'll give me a
+candle?
+That's a lifesaver.",yes,
+415,05:E886,02E886,,dialogue,23,,"ありがとう
+ございました。","Thank you
+very much.",yes,
+416,05:E894,02E894,,dialogue,23,,"ありがとう
+ございました。
+二人で ここから
+湖を見ていると
+北西側の大きな深みで、
+真っ赤な目をした
+すごく大きな アカメが
+泳いでいるのを
+見られるんです。
+二人の 守り神なんです。","Thank you
+very much.
+If you look at the lake
+from here, you can see
+in the deep northwest
+a huge Japanese lates
+with bright red eyes
+swimming. It's our
+guardian spirit.",yes,
+417,05:E90A,02E90A,,dialogue,23,,"ここには
+大物が潜んで いるような
+気がするのだが・・・・","I feel like a big one
+is lurking here...",yes,
+418,05:E92C,02E92C,,dialogue,23,,"おお やっぱり
+大ウナギが 潜んで
+いたのか。","Oh, so the giant eel
+was lurking here
+after all.",yes,
+419,05:E94D,02E94D,,dialogue,23,,"足をすべらして
+潮に 流されるなよ。","Don't slip and get
+swept away by the tide!",yes,
+420,05:E968,02E968,,dialogue,23,,"チクショー! 1mもある
+コイに逃げられたっ。","Damn! A carp over a
+meter long got away!",yes,
+421,05:E986,02E986,,dialogue,23,,"カニ釣りって
+おもしろいのよ。","Crab fishing is
+fun, you know.",yes,
+422,05:E99C,02E99C,,dialogue,23,,"ハゼの 天ぷらが
+うまいんだよ。","Goby tempura is
+delicious.",yes,
+423,05:E9AE,02E9AE,,dialogue,23,,"岬の とうろうに
+灯りが ともらないの。
+・・シク シク
+とうろうの火は
+勝洋さんが 呼んでいる
+合図なの・・・
+・・・シク シク","The lantern on the
+cape won't light.
+..Sob sob
+The lantern's flame is
+the signal Katsuhiro
+is calling with...
+...Sob sob",yes,
+424,05:E9F8,02E9F8,,dialogue,23,,勝洋さーん!,Katsuhiro!,yes,
+425,05:EA01,02EA01,,dialogue,23,,好江さん。,Yoshie.,yes,
+426,05:EA09,02EA09,,dialogue,23,,"勝洋さんに 会えて
+うれしいわ!","I'm so glad to see
+Katsuhiro!",yes,
+427,05:EA1D,02EA1D,,dialogue,23,,"おう!{CD}
+。
+大きな アカメを
+釣り上げるんだ。
+どっちが先に釣り上げるか
+競争だぞ。","Hey, {CD}!
+I'm going to land a big
+Japanese lates. Let's
+race to see who
+catches it first.",yes,
+428,05:EA51,02EA51,,dialogue,23,,"{CD}さん
+釣れていますか?","{CD},
+how's the fishing?",yes,
+429,05:EA5F,02EA5F,,dialogue,23,,"{CD}ちゃん
+釣れているかい?","{CD},
+catching anything?",yes,
+430,05:EA6E,02EA6E,,dialogue,23,,"くやしい! くやしい!
+とにかく くやしーい。","I'm so frustrated!
+Just so frustrated!",yes,
+431,05:EA86,02EA86,,dialogue,23,,"大ウナギを 釣るなんて
+おめえ すごいな!
+おいらも がんばるぞー。","You caught a giant eel?
+You're amazing!
+I'll do my best too!",yes,
+432,05:EAAB,02EAAB,,dialogue,23,,ただいま。,I'm home.,yes,
+433,05:EAB1,02EAB1,,dialogue,23,,おかえりなさい,Welcome back.,yes,
+434,05:EAB9,02EAB9,,dialogue,23,,"{CD}は、
+川のぬしを釣り上げた
+話をしました。","{CD}
+told the story of
+catching the River
+King.",yes,
+435,05:EAD4,02EAD4,,dialogue,23,,"川のぬしは、「アカメ」
+という魚で 目が赤く
+体は銀色の でかい魚で
+・・・・・","The River King was a
+Japanese lates: a big
+silver fish with red
+eyes...",yes,
+436,05:EB05,02EB05,,dialogue,23,,"話を聞いて、よろこびの
+声がわき上がりました。","Hearing the story,
+cheers rose up.",yes,
+437,05:EB21,02EB21,,dialogue,23,,   バンザーイ。,   Hooray!,yes,
+438,05:EB2B,02EB2B,,dialogue,23,,よくやった。,Well done.,yes,
+439,05:EB32,02EB32,,dialogue,23,,"遊んでばかりいないで
+勉強しなさい。
+釣りノートも まだ
+完成していないんでしょ。","Stop playing around
+and study. Your fishing
+notebook isn't done
+yet, is it?",yes,
+440,05:EB62,02EB62,,dialogue,23,,でも、本当につりあげたの。,But I really caught it.,yes,
+441,05:EB72,02EB72,,dialogue,23,,ただいま。,I'm home.,yes,
+442,05:EB78,02EB78,,dialogue,23,,おかえりなさい,Welcome back.,yes,
+443,05:EB80,02EB80,,dialogue,23,,"{CD}は、
+川のぬしを釣り上げた
+話をしました。","{CD}
+told the story of
+catching the River
+King.",yes,
+444,05:EB9B,02EB9B,,dialogue,23,,"川のぬしは、「タナゴ」
+という魚で ひらべったく
+小さな魚で
+・・・・・","The River King was a
+fish called
+""bitterling"": a flat,
+small fish...",yes,
+445,05:EBC4,02EBC4,,dialogue,23,,"話を聞いて、よろこびの
+声がわき上がりました。","Hearing the story,
+cheers rose up.",yes,
+446,05:EBE0,02EBE0,,dialogue,23,,   バンザーイ。,   Hooray!,yes,
+447,05:EBEA,02EBEA,,dialogue,23,,"よくやった。
+富くじの一等が当たるぞ。","Well done.
+You'll win first prize
+in the lottery!",yes,
+448,05:EC02,02EC02,,dialogue,23,,"父さんがまじめに働くよう
+お願いすればよかったわ。
+{CD}は、何を
+お願いしたの?","I should have wished
+for Dad to work hard.
+What did {CD}
+wish for?",yes,
+449,05:EC2F,02EC2F,,dialogue,23,,"釣りノートが完成したら
+おいらの 宿題を
+てつだえよ。","When your fishing
+notebook is finished,
+help me with homework.",yes,
+450,05:EC50,02EC50,,dialogue,23,,ただいま。,I'm home.,yes,
+451,05:EC56,02EC56,,dialogue,23,,おかえりなさい,Welcome back.,yes,
+452,05:EC5E,02EC5E,,dialogue,23,,"さっそく{CD}は、
+川のぬしを料理して
+みんなで食べました。","Right away, {CD}
+cooked the River King
+and everyone ate it.",yes,
+453,05:EC7F,02EC7F,,dialogue,23,,"パクパク
+むしゃむしゃ
+バリバリ
+・・・・・","Munch munch
+Chomp chomp
+Crunch crunch
+.....",yes,
+454,05:EC96,02EC96,,dialogue,23,,"美味しくて、よろこびの
+歓声がわき上がりました。","It was so tasty that
+cheers of joy rose up.",yes,
+455,05:ECB4,02ECB4,,dialogue,23,,   バンザーイ。,   Hooray!,yes,
+456,05:ECBE,02ECBE,,dialogue,23,,"よくやった。
+やっぱり、おまえの料理は
+うまい。","Well done.
+Your cooking really is
+delicious.",yes,
+457,05:ECD9,02ECD9,,dialogue,23,,"かあさんの料理には
+かなわないわ。
+お手伝いするから
+作り方おしえて。","I can't match Mom's
+cooking. I'll help, so
+teach me the recipe.",yes,
+458,05:ED03,02ED03,,dialogue,23,,"お母さん、おいしかったよ
+ぼくの誕生日に
+また作ってね。
+早く、釣りノートが
+完成するといいね。","Mom, it was delicious.
+Make it again on my
+birthday. I hope the
+fishing notebook gets
+finished soon.",yes,
+459,05:ED3D,02ED3D,,dialogue,23,,ただいま。,I'm home.,yes,
+460,05:ED43,02ED43,,dialogue,23,,おかえりなさい,Welcome back.,yes,
+461,05:ED4B,02ED4B,,dialogue,23,,"{CD}は、
+川のぬしを釣り上げた
+話をしました。","{CD}
+told the story of
+catching the River
+King.",yes,
+462,05:ED66,02ED66,,dialogue,23,,"川のぬしは、大ナマズ
+という魚で でかくて
+重たくて、獰猛で
+・・・・・","The River King was a
+fish called ""big
+catfish"": huge, heavy
+and fierce...",yes,
+463,05:ED91,02ED91,,dialogue,23,,"話を聞いて、よろこびの
+歓声がわき上がりました。","Hearing the story,
+cheers of joy rose up.",yes,
+464,05:EDAF,02EDAF,,dialogue,23,,   バンザーイ。,   Hooray!,yes,
+465,05:EDB9,02EDB9,,dialogue,23,,"見直したわ。
+素敵。
+でも、村でどんちゃん騒ぎ
+したんじゃ、
+ないでしょうね。","I see you in a new
+light. Wonderful.
+But you didn't make a
+big party in the
+village, did you?",yes,
+466,05:EDE7,02EDE7,,dialogue,23,,"おとうちゃん
+もう、
+危険なことはしないでね。","Daddy,
+please don't do
+dangerous things again.",yes,
+467,05:EE01,02EE01,,dialogue,23,,"とうちゃんは、
+すごいや。
+早く、釣りノートが
+完成するといいね。","Dad is amazing!
+I hope the fishing
+notebook gets finished
+soon.",yes,
+468,05:EE27,02EE27,,dialogue,23,,めでたし めでたし,"And they all lived
+happily ever after.",yes,
+469,05:EE31,02EE31,,dialogue,23,,"おいら 大ウナギを
+河口の 湖で
+見たことがあるんだ。","I've seen a giant eel
+in the lake at the
+river mouth.",yes,
+470,05:EE52,02EE52,,dialogue,23,,"大ウナギって とっても
+おいしいのよ。","Giant eel is really
+delicious, you know.",yes,
+471,05:EE67,02EE67,,dialogue,23,,"大ウナギは肉食だから
+餌はカエルやエビなんかが
+いいとおもうぞ。","Giant eels are
+carnivores, so frogs
+or shrimp should work
+as bait.",yes,
+472,05:EE8C,02EE8C,,dialogue,23,,"大ウナギを 食べれば
+病気はすぐに 治るわ。","Eat a giant eel and
+your illness will heal
+fast.",yes,
+473,05:EEA8,02EEA8,,dialogue,23,,"おいらも 負けずに
+がんばるぞ。","I won't lose.
+I'll do my best.",yes,
+474,05:EEBA,02EEBA,,dialogue,23,,"大ウナギさんって
+本当に大きいのね","Mr. Giant Eel really is
+big, isn't he?",yes,
+475,05:EED0,02EED0,,dialogue,23,,"父さんも 川のぬしを
+釣りにいくぞ。","Dad's going to go
+fishing for the River
+King too!",yes,
+476,05:EEE6,02EEE6,,dialogue,23,,"釣りばっかり していて
+こまった ものね。","He does nothing but
+fish. What a pain.",yes,
+477,05:EEFD,02EEFD,,dialogue,23,,"やぶ医者でも 村でたった
+一人の医者なの。
+たすけて あげましょう。","A quack is still the
+only doctor in the
+village. Let's help.",yes,
+478,05:EF27,02EF27,,dialogue,23,,たたりじゃ たたりじゃ,A curse! A curse!,yes,
+479,05:EF33,02EF33,,dialogue,23,,"大ウナギは 獰猛な肉食
+だから 餌はカエルや
+小魚、エビ、ゴカイなどで
+釣れるはずよ。","Giant eels are fierce
+carnivores, so you
+should catch them with
+frogs, small fish,
+shrimp or lugworms.",yes,
+480,05:EF68,02EF68,,dialogue,23,,"大ウナギは 河口の湖で
+釣れたことがあるそうだ。","They say a giant eel
+was once caught in the
+lake at the river
+mouth.",yes,
+481,05:EF86,02EF86,,dialogue,23,,"ゴホ ゴホ・・・
+・・・・・・
+村の医者の私が 病気に
+なってしまった。","Cough cough...
+......
+I, the village doctor,
+have fallen ill.",yes,
+482,05:EFB1,02EFB1,,dialogue,23,,"ウーン・・・。そうだっ
+この病気を治すには今すぐ
+大ウナギを 釣ってきて
+食べなくては。","Hmm... That's it!
+To cure this illness I
+must eat a giant eel
+right now.",yes,
+483,05:EFE5,02EFE5,,dialogue,23,,"すまないが・・・
+ゴホ ゴホ
+大ウナギを 釣ってきて
+もらえんじゃろか。","I'm sorry to ask...
+Cough cough
+Could you catch a big
+eel for me?",yes,
+484,05:F00C,02F00C,,dialogue,23,,"大ウナギから 作った薬を
+医者に 飲ませてあげた。
+すると すぐに元気になり
+立ち上がりました。","They gave the doctor
+medicine made from the
+giant eel. He recovered
+at once and stood up.",yes,
+485,05:F047,02F047,,dialogue,23,,"  バンザーイ
+村人の間から よろこびの
+歓声がわき上がりました。","  Hooray!
+Cheers of joy rose up
+from the villagers.",yes,
+486,05:F06F,02F06F,,dialogue,23,,"釣ってきた 大ウナギを
+料理してみんなで
+食べました。
+ 
+    おわり","They cooked the giant
+eel they caught and
+everyone ate it.
+ 
+    The End",yes,
+487,05:F09A,02F09A,,dialogue,23,,"おいらが 料理を
+つくるぞ",I'll do the cooking!,yes,
+488,05:F0AA,02F0AA,,dialogue,23,,"母さんに負けないくらい
+おいしい料理をつくるわ!","I'll make food as good
+as Mom's!",yes,
+489,05:F0C7,02F0C7,,dialogue,23,,"実は料理も得意なんだ
+うまいのつくるぞ","I'm actually good at
+cooking. I'll make
+something tasty!",yes,
+490,05:F0E0,02F0E0,,dialogue,23,,"蒲焼きは私の十八番
+おいしいのつくるわ","Grilled eel is my
+specialty. I'll make
+it delicious!",yes,
+491,05:F0FA,02F0FA,,dialogue,23,,"あんたのおかげで
+みんな 元気じゃよ。","Thanks to you,
+everyone is well.",yes,
+492,05:F110,02F110,,dialogue,23,,"みんな 病気をしない
+ように 祈るんじゃよ。
+ナムアミダブツ!","We pray so that
+nobody gets sick.
+Namu Amida Butsu!",yes,
+493,05:F133,02F133,,dialogue,23,,"わたしにも 釣りを
+教えて ちょうだい。","Teach me how to
+fish, too.",yes,
+494,05:F14A,02F14A,,dialogue,23,,"いやー 村のほこりじゃ。
+めでたい めでたい。","Ah, the pride of the
+village. How joyous!",yes,
+495,05:F163,02F163,,dialogue,23,,"ありがとう
+おかげで助かった","Thank you.
+You saved me.",yes,
+496,05:F173,02F173,,dialogue,23,,"実は、・・・・・
+病気というのは・・
+ウソだったんだ。
+大ウナギを どうしても
+食べてみたくて・・・・
+病気だとうそをついて
+ごめんなさい。
+こんな私の ために
+ぬしを釣ってきてくれて
+ありがとう。","Actually... the
+illness was...
+a lie.
+I really wanted to
+eat a giant eel...
+I'm sorry I lied
+about being sick.
+Thank you for catching
+the River King for me.",yes,
+497,05:DAFF,02DAFF,,dialogue,23,,七郎,Shichiro,yes,
+498,05:DB30,02DB30,,dialogue,23,,義平,Yoshihei,yes,
+499,05:DB71,02DB71,,dialogue,23,,富蔵,Tomizo,yes,
+500,05:DBB8,02DBB8,,dialogue,23,,寿次,Juji,yes,
+501,05:DBE2,02DBE2,,dialogue,23,,三平,Sanpei,yes,
+502,05:DCD5,02DCD5,,dialogue,23,,音吉,Otokichi,yes,
+503,05:DD11,02DD11,,dialogue,23,,忠吉,Tadakichi,yes,
+504,05:DD3C,02DD3C,,dialogue,23,,小次郎,Kojiro,yes,
+505,05:DD69,02DD69,,dialogue,23,,大五郎,Daigoro,yes,
+506,05:DD87,02DD87,,dialogue,23,,弥吉,Yakichi,yes,
+507,05:DFBF,02DFBF,,dialogue,23,,東作,Tosaku,yes,
+508,05:E03D,02E03D,,dialogue,23,,安太郎,Yasutaro,yes,
+509,05:E064,02E064,,dialogue,23,,団次,Danji,yes,
+510,05:E08A,02E08A,,dialogue,23,,拓助,Takusuke,yes,
+511,05:E0AB,02E0AB,,dialogue,23,,銀之助,Ginnosuke,yes,
+512,05:E249,02E249,,dialogue,23,,民次郎,Tamijiro,yes,
+513,05:E30E,02E30E,,dialogue,23,,聡次郎,Sojiro,yes,
+514,05:E356,02E356,,dialogue,23,,信吉郎,Shinkichiro,yes,
+515,05:E37F,02E37F,,dialogue,23,,波介,Namisuke,yes,
+516,05:E3A9,02E3A9,,dialogue,23,,貞次郎,Teijiro,yes,
+517,05:E5A1,02E5A1,,dialogue,23,,春吉,Harukichi,yes,
+518,05:E5DD,02E5DD,,dialogue,23,,小梅,Koume,yes,
+519,05:E623,02E623,,dialogue,23,,富士太郎,Fujitaro,yes,
+520,05:E64C,02E64C,,dialogue,23,,時貞,Tokisada,yes,
+521,05:E66C,02E66C,,dialogue,23,,喜太郎,Kitaro,yes,
+522,05:E905,02E905,,dialogue,23,,忠治,Chuji,yes,
+523,05:E946,02E946,,dialogue,23,,金太郎,Kintaro,yes,
+524,05:E963,02E963,,dialogue,23,,春雄,Haruo,yes,
+525,05:E981,02E981,,dialogue,23,,菊次,Kikuji,yes,
+526,05:E997,02E997,,dialogue,23,,三平,Sanpei,yes,
+527,05:F1E0,02F1E0,,postcard/letter,28,5,"前略 医者の私が、病気に
+なってしまいました。病気を
+治すには、大ウナギを食べなく
+てはなりません。釣ってきて
+下さい。待っています。","Dear Sir, I, the village
+doctor, have fallen ill. To
+cure it, I must eat a giant
+eel. Please go catch one.
+I'll be waiting.",yes,
+528,05:F233,02F233,,postcard/letter,28,5,"拝啓 この度は、川のぬし釣り
+を最後まで 遊んでいただき
+ありがとうございます。
+これからも 釣りのゲームを
+応援して下さい。    敬具","Dear Sir, thank you for
+playing Super Legend of the
+River King to the very end.
+Keep supporting fishing
+games!     - The Developers",yes,
+529,05:F287,02F287,,dialogue,23,,東京都  南青山,"Aoyama, Tokyo",yes,
+530,05:F296,02F296,,dialogue,23,,作者,Author,yes,
+531,05:F29B,02F29B,,postcard/letter,28,5,"        感謝状
+いつも 私たちをかわいがって
+くれて ありがとう。
+これからも なかよくして
+くださいね。    動物組合","      Letter of Thanks
+Thank you for always being
+so kind to us. Please stay
+friends.       Sincerely,
+            The Animal Union",yes,
+532,05:F2E5,02F2E5,,dialogue,23,,海の口  愛の岬,Love Cape,yes,
+533,05:F2F2,02F2F2,,dialogue,23,,月の輪熊,Moonbear,yes,
+534,05:F2FA,02F2FA,,postcard/letter,28,5,"      優良釣師認定証
+釣師としての マナーを守り
+我々を 見事だまし釣り上げる
+貴方の技術を評価し 優良釣師
+と認定します。   魚類組合","     Fine Angler Award
+For your good manners and
+your skill at tricking and
+landing us, you are a fine
+angler!  - The Fish Union",yes,
+535,05:F362,02F362,,dialogue,23,,岩魚沢  魚止め滝,Fishstop Falls,yes,
+536,05:F372,02F372,,dialogue,23,,大岩魚,Big Char,yes,
