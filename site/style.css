@@ -1,0 +1,79 @@
+:root {
+  --bg: #f6f4ef;
+  --panel: #ffffff;
+  --ink: #1d2126;
+  --muted: #5d6670;
+  --line: #e1ddd3;
+  --accent: #1f6f78;
+  --good: #2e7d4f;
+  --ok: #3f6aa8;
+  --warn: #a8641f;
+  --ai: #6b4fa8;
+  --radius: 10px;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16191d; --panel: #1f2328; --ink: #e8e6e1; --muted: #9aa3ad; --line: #30363d;
+    --accent: #5fb7c0; --good: #6cc58f; --ok: #86a9e0; --warn: #e0a35f; --ai: #ae98e6;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; line-height: 1.55; }
+a { color: var(--accent); }
+code { font-family: ui-monospace, Consolas, monospace; font-size: 0.88em; overflow-wrap: anywhere; }
+main { max-width: 1040px; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+header.top { display: flex; gap: 1.25rem; align-items: center; max-width: 1040px; margin: 0 auto; padding: 1rem 1.25rem 0; }
+header.top .home { font-weight: 700; color: var(--ink); text-decoration: none; margin-right: auto; letter-spacing: 0.01em; }
+footer { max-width: 1040px; margin: 0 auto; padding: 1.5rem 1.25rem 2.5rem; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--line); }
+h1 { font-size: clamp(1.6rem, 3.5vw, 2.3rem); line-height: 1.2; margin: 0.2rem 0 0.6rem; }
+h2 { font-size: 1.05rem; margin: 0 0 0.75rem; }
+.lede { font-size: 1.1rem; color: var(--muted); max-width: 46rem; margin-top: 0; }
+.intro p { max-width: 46rem; }
+.muted { color: var(--muted); }
+.platform { color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; margin: 0; }
+
+.filters { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1.5rem 0 1rem; }
+.filters button {
+  font: inherit; font-size: 0.85rem; padding: 0.3rem 0.75rem; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--panel); color: var(--ink);
+}
+.filters button.on { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 0.9rem; }
+.card {
+  display: flex; flex-direction: column; gap: 0.35rem; padding: 1rem 1.1rem; text-decoration: none; color: inherit;
+  background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
+  transition: border-color 0.15s, transform 0.15s;
+}
+.card:hover { border-color: var(--accent); transform: translateY(-1px); }
+.card[hidden] { display: none; }
+.card .name { font-weight: 650; font-size: 1.02rem; }
+.card .summary { color: var(--muted); font-size: 0.92rem; flex: 1; }
+.card .meta { font-size: 0.8rem; color: var(--muted); }
+
+.badges { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.badge { font-size: 0.78rem; padding: 0.15rem 0.6rem; border-radius: 999px; border: 1px solid var(--line); background: var(--panel); }
+.badge.good { color: var(--good); border-color: currentColor; }
+.badge.ok { color: var(--ok); border-color: currentColor; }
+.badge.warn { color: var(--warn); border-color: currentColor; }
+.badge.ai { color: var(--ai); border-color: currentColor; }
+
+.cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 0.9rem; margin-top: 1.25rem; }
+.box { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.1rem 1.2rem; margin-top: 0.9rem; }
+.cols .box { margin-top: 0; }
+table { border-collapse: collapse; width: 100%; font-size: 0.92rem; }
+th { text-align: left; color: var(--muted); font-weight: 500; padding: 0.25rem 0.9rem 0.25rem 0; white-space: nowrap; vertical-align: top; }
+td { padding: 0.25rem 0; }
+ul.dl { padding-left: 1.1rem; margin: 0 0 0.6rem; }
+ul.dl li { margin-bottom: 0.35rem; }
+.note { font-size: 0.9rem; color: var(--warn); }
+.links { line-height: 2; }
+
+/* Rom Patcher JS sits inside our box; keep its colours readable on both themes. */
+/* The patcher keeps its own light panel in both themes, so its text stays dark on light. */
+#rom-patcher-container { margin-top: 0.75rem; border: 1px solid var(--line); }
+#rom-patcher-container.error { color: #a8641f; }
+#rom-patcher-container input[type=file], #rom-patcher-container select { max-width: 100%; }

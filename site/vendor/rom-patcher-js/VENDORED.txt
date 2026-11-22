@@ -1,0 +1,1 @@
+Rom Patcher JS by Marc Robledo, MIT license. Upstream https://github.com/marcrobledo/RomPatcher.js commit 4f17297 (2026-10-21).
