@@ -1,0 +1,282 @@
+id	location	limits	jp	en	notes
+save_lost	$C1:4200 (pointer operands at ROM none: fixed address)	38 bytes in place, else relocated to $E1:8000+	\n\n\n\n\n\n\n\n\n\n\n      記録がきえています。	\n\n\n\n\n\n\n\n\n\n\n     Records were erased.	Two entry points ($4200 from $C0:6B6A, $4210 from $C0:6994), so it stays in place: text from $4211 to the end code at $4225 (20 bytes).
+sound_test	$C1:4226 (pointer operands at ROM 0x06BA5)	71 bytes in place, else relocated to $E1:8000+	\n\n\n\n　　　 ｻｳﾝﾄﾞﾃｽﾄ\n\n\n\n　　　　^ｷｮｸ\n\n\n　　　　^ｺｵｶｵﾝ\n\n\n　　　　^ﾋﾟｼｰｴﾑ	>\n\n\n\n      Sound Test\n\n\n\n        ^Music\n\n\n        ^Sound FX\n\n\n        ^PCM	Hidden sound test.
+catch_list	$C1:426D (pointer operands at ROM 0x0705A)	795 bytes in place, else relocated to $E1:8000+	\n\n\n\n\n 　　 魚 種 別 釣 果 一 覧\n\n\n       ^ｱｲｺﾞ~         ^ｻﾖﾘ\n\n       ^ｱｲﾅﾒ~~        ^ｻﾜﾗ\n\n       ^ｱｵﾌﾞﾀﾞｲ       ^ｼｲﾗ\n\n       ^ｱｼﾞ~          ^ｼﾏｱｼﾞ\n\n       ^ｲｻｷ~~         ^ﾀｶﾉﾊﾀﾞｲ\n\n       ^ｲｼｶﾞｷﾀﾞｲ      ^ﾀｶﾍﾞ\n\n       ^ｲｼｶﾞｷﾌｸﾞ      ^ﾀﾁｳｵ\n\n       ^ｲｼﾀﾞｲ~        ^ﾀﾞﾂ\n\n       ^ｲｽｽﾞﾐ~        ^ﾂﾑﾌﾞﾘ\n\n       ^ｲﾅﾀﾞ~         ^ﾆｻﾞﾀﾞｲ\n\n       ^ｳﾂﾎﾞ~         ^ﾋﾗｽｽﾞｷ\n\n       ^ｳﾏﾂﾞﾗﾊｷﾞ      ^ﾋﾗﾏｻ\n\n       ^ｴｲ~~          ^ﾋﾗﾒ\n\n       ^ｵﾆｵｺｾﾞ~       ^ﾌｴﾌｷﾀﾞｲ\n\n       ^ｵﾆｶｻｺﾞ~       ^ﾌｸﾞ\n\n       ^ｶｲﾜﾘ~~        ^ﾌﾞﾀﾞｲ\n\n       ^ｶｺﾞｶｷﾀﾞｲ      ^ﾍﾞﾗ\n\n       ^ｶｻｺﾞ~         ^ﾎｳﾎﾞｳ\n\n       ^ｶﾂｵ~~         ^ﾎﾞﾗ\n\n       ^ｶｯﾎﾟﾚ~        ^ﾏｻﾊﾞ\n\n       ^ｶﾏｽ~~         ^ﾏﾀﾞｲ\n\n       ^ｶﾜﾊｷﾞ~        ^ﾏﾊﾀ\n\n       ^ｶﾝﾊﾟﾁ~        ^ﾑﾛｱｼﾞ\n\n       ^ｷｽ~~          ^ﾒｼﾞﾅ\n\n       ^ｸｴ~~          ^ﾒｼﾞﾏｸﾞﾛ\n\n       ^ｸﾛﾀﾞｲ~        ^ﾜﾗｻ		Y on the sea map: catch by species. Two boxed columns about 9 columns wide.
+name_entry	$C1:4D43 (pointer operands at ROM 0x07495, 0x0769C)	367 bytes in place, else relocated to $E1:8000+	>\n\n\n\n  名前を入れて下さい\n\n\n\n      ^ｱ ^ｶ ^ｻ ^ﾀ ^ﾅ ^ﾊ ^ﾏ ^ﾔ ^ﾗ\n\n      ^ｲ ^ｷ ^ｼ ^ﾁ ^ﾆ ^ﾋ ^ﾐ ^ﾕ ^ﾘ\n\n      ^ｳ ^ｸ ^ｽ ^ﾂ ^ﾇ ^ﾌ ^ﾑ ^ﾖ ^ﾙ\n\n      ^ｴ ^ｹ ^ｾ ^ﾃ ^ﾈ ^ﾍ ^ﾒ ^ﾜ ^ﾚ\n\n      ^ｵ ^ｺ ^ｿ ^ﾄ ^ﾉ ^ﾎ ^ﾓ ^ﾝ ^ﾛ\n\n      ^ｶﾞ ^ｻﾞ ^ﾀﾞ ^ﾊﾞ ^ﾊﾟ ^ｦ ^ｰ\n\n      ^ｷﾞ ^ｼﾞ ^ﾁﾞ ^ﾋﾞ ^ﾋﾟ ^ｯ\n\n      ^ｸﾞ ^ｽﾞ ^ﾂﾞ ^ﾌﾞ ^ﾌﾟ ^ｬ\n\n      ^ｹﾞ ^ｾﾞ ^ﾃﾞ ^ﾍﾞ ^ﾍﾟ ^ｭ\n\n      ^ｺﾞ ^ｿﾞ ^ﾄﾞ ^ﾎﾞ ^ﾎﾟ ^ｮ          ^~ｵﾜﾘ\n	\n\n\n\n  Enter your name\n\n\n\n>      ^A ^B ^C ^D ^E ^F ^G ^H ^I\n\n      ^J ^K ^L ^M ^N ^O ^P ^Q ^R\n\n      ^S ^T ^U ^V ^W ^X ^Y ^Z ^.\n\n      ^a ^b ^c ^d ^e ^f ^g ^h ^i\n\n      ^j ^k ^l ^m ^n ^o ^p ^q ^r\n\n      ^s ^t ^u ^v ^w ^x ^y\n\n      ^z ^- ^' ^! ^? ^&\n\n      ^0 ^1 ^2 ^3 ^4 ^5\n\n      ^6 ^7 ^8 ^9 ^( ^)\n\n      ^, ^: ^; ^" ^+ ^*          ^~End\n	Keyboard: each ^ is a key, the byte after it is the letter typed. The END key is ^~.
+new_record	$C1:4EB2 (pointer operands at ROM 0x07D84)	7 bytes in place, else relocated to $E1:8000+	新記録	New Record!	
+game_over	$C1:4EB9 (pointer operands at ROM 0x08037)	19 bytes in place, else relocated to $E1:8000+	ＧＡＭＥ　ＯＶＥＲ	GAME OVER	
+title_menu	$C1:5BA8 (pointer operands at ROM 0x074F1)	110 bytes in place, else relocated to $E1:8000+	>\n\n\n\n　　　 ^出発     ^釣り人の変更\n\n\n\n\n　 　　釣り人        得点\n\n\n\n　　　^\n\n\n\n　　　^\n\n\n\n　　　^\n\n\n\n　　　^	\n\n\n\n       ^Depart     ^New Angler\n\n\n\n\n     Angler          Score\n>\n\n\n      ^\n\n\n\n      ^\n\n\n\n      ^\n\n\n\n      ^	^ = menu cursor and angler-name slots.
+records	$C1:5C16 (pointer operands at ROM 0x07105)	212 bytes in place, else relocated to $E1:8000+	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n　  最 大 体 長      総  数\n\n\n  釣り人   体 長  釣り人    計\n\n  1 ^  　　　  cm  1 ^　　　   h\n\n  2 ^　　      cm  2 ^         h\n\n  3 ^　　　 　 cm  3 ^         h\n\n  4 ^　　   　 cm  4 ^ 　 　　 h	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      Longest     Most Caught\n\n\n   Angler  Size   Angler   Qty\n\n>  1 ^          cm  1 ^\n\n  2 ^          cm  2 ^\n\n  3 ^          cm  3 ^\n\n  4 ^          cm  4 ^<	Per-fish records: longest catch and most caught, 4 anglers each. Numbers are drawn by the game after the ^ name slots. Columns: name slot at col 4/20 (6 chars), size digits end at col 13, "cm" at 14. "Qty" (JP 計, total caught) fits the 3-column count cell.
+intro	$C1:5CEA (pointer operands at ROM 0x0C596)	speech font, each line <= 224 px	　　やあ！　こんにちは。\n　最近は、釣れなく　なったなあ。\n　それでも、磯釣りや　陸釣りに　比べると\n　船釣りは　まだ、よく　釣れて　いるよ。\n　だから、楽しい。\n　釣れる　魚の　種類も　多く\n　それぞれの　魚に　釣りの　おもしろ味が　ある。\n　船釣りでは、陸から　仕掛けが　届かない\n　沖合いの　魚も　釣れる。\n　さらに、釣り場の　移動も　簡単だ。\n　そして、魚を　ハリガカリ　させてからの\n　根ガカリも　起きにくい。\n　また、離島の　磯釣りを　する場合\n　波が　少し　高くなっただけで\n　磯に　乗れなくて　ガッカリ　することが　あるが\n　船釣りでは　そうした　ことが　ない。\n\n　　さあ！　船に　乗って　釣りに　出発だ！\n　そして、いろんな　種類の　魚を　釣ろう。\n　最後に、イナンバの　ぬしが　あなたを　待っている。\n　それでは、健闘を　祈る。\n　　　さようなら。\n\n　　　　　　　　　　　　　　　　　　　　ふね太郎	Well, hello there!\nFish don't bite like they\nused to these days.\nStill, boats catch plenty\ncompared to fishing from\nthe rocks or the shore.\nThat's why it's so much fun!\nThere are lots of kinds\nof fish, and each one is a\nthrill in its own way.\nFrom a boat you can reach\nfish far offshore, out of\ncasting range from land.\nMoving to a new spot is\neasy, too.\nOnce a fish is hooked, it's\nless likely to snag your\nline on the rocks.\nWhen you fish the rocks\nof a far-off island, even\na small swell can keep you\nfrom landing on them.\nThat's a real letdown, but it\nnever happens on a boat!\n\nNow, all aboard!\nLet's go fishing!\nCatch all kinds of fish.\nAnd at the end, the Sea King\nof Inanba is waiting for you.\nGood luck out there!\nSo long!\n\n                                     Fune Tarō	Opening speech after a new name. Drawn in the proportional speech font (data/font_speech.txt): each line at most 224 px (engine.speech_width), lines wrapped by sense units.
+fish_title_00	fish_title list, entry 0 (Japanese at $C1:4588, stride 17)	16 columns	イサキ	Grunt	
+fish_title_01	fish_title list, entry 1 (Japanese at $C1:4599, stride 17)	16 columns	イシガキダイ	Spot Beakfish	
+fish_title_02	fish_title list, entry 2 (Japanese at $C1:45AA, stride 17)	16 columns	イシダイ	Beakfish	
+fish_title_03	fish_title list, entry 3 (Japanese at $C1:45BB, stride 17)	16 columns	イスズミ	Rudderfish	
+fish_title_04	fish_title list, entry 4 (Japanese at $C1:45CC, stride 17)	16 columns	イナダ	Jr. Yellowtail	
+fish_title_05	fish_title list, entry 5 (Japanese at $C1:45DD, stride 17)	16 columns	カサゴ	Scorpionfish	
+fish_title_06	fish_title list, entry 6 (Japanese at $C1:45EE, stride 17)	16 columns	カツオ	Bonito	
+fish_title_07	fish_title list, entry 7 (Japanese at $C1:45FF, stride 17)	16 columns	カッポレ	Black Trevally	
+fish_title_08	fish_title list, entry 8 (Japanese at $C1:4610, stride 17)	16 columns	カンパチ	Amberjack	
+fish_title_09	fish_title list, entry 9 (Japanese at $C1:4621, stride 17)	16 columns	クエ	Kelp Grouper	Same species as Umi no Nushi Tsuri's モロコ (Kanto name), which that patch calls Kelp Grouper.
+fish_title_10	fish_title list, entry 10 (Japanese at $C1:4632, stride 17)	16 columns	シイラ	Mahi-mahi	
+fish_title_11	fish_title list, entry 11 (Japanese at $C1:4643, stride 17)	16 columns	シマアジ	Striped Jack	
+fish_title_12	fish_title list, entry 12 (Japanese at $C1:4654, stride 17)	16 columns	ツムブリ	Rainbow Runner	
+fish_title_13	fish_title list, entry 13 (Japanese at $C1:4665, stride 17)	16 columns	ヒラマサ	Kingfish	
+fish_title_14	fish_title list, entry 14 (Japanese at $C1:4676, stride 17)	16 columns	フエフキダイ	Emperor	Lethrinus haematopterus, emperor.
+fish_title_15	fish_title list, entry 15 (Japanese at $C1:4687, stride 17)	16 columns	ブダイ	Parrotfish	
+fish_title_16	fish_title list, entry 16 (Japanese at $C1:4698, stride 17)	16 columns	マハタ	Grouper	
+fish_title_17	fish_title list, entry 17 (Japanese at $C1:46A9, stride 17)	16 columns	メジナ	Opaleye	
+fish_title_18	fish_title list, entry 18 (Japanese at $C1:46BA, stride 17)	16 columns	メジマグロ	Young Bluefin	
+fish_title_19	fish_title list, entry 19 (Japanese at $C1:46CB, stride 17)	16 columns	ワラサ	Big Yellowtail	
+fish_title_20	fish_title list, entry 20 (Japanese at $C1:46DC, stride 17)	16 columns	アイゴ	Rabbitfish	
+fish_title_21	fish_title list, entry 21 (Japanese at $C1:46ED, stride 17)	16 columns	アイナメ	Greenling	
+fish_title_22	fish_title list, entry 22 (Japanese at $C1:46FE, stride 17)	16 columns	アオブダイ	Blue Parrotfish	
+fish_title_23	fish_title list, entry 23 (Japanese at $C1:470F, stride 17)	16 columns	アジ	Jack Mackerel	
+fish_title_24	fish_title list, entry 24 (Japanese at $C1:4720, stride 17)	16 columns	イシガキフグ	Burrfish	Chilomycterus reticulatus, spotfin burrfish.
+fish_title_25	fish_title list, entry 25 (Japanese at $C1:4731, stride 17)	16 columns	ウツボ	Moray Eel	
+fish_title_26	fish_title list, entry 26 (Japanese at $C1:4742, stride 17)	16 columns	ウマヅラハギ	Horse Filefish	
+fish_title_27	fish_title list, entry 27 (Japanese at $C1:4753, stride 17)	16 columns	エイ	Stingray	
+fish_title_28	fish_title list, entry 28 (Japanese at $C1:4764, stride 17)	16 columns	オニオコゼ	Devil Stinger	
+fish_title_29	fish_title list, entry 29 (Japanese at $C1:4775, stride 17)	16 columns	オニカサゴ	Stingfish	Scorpaenopsis cirrosa, weedy stingfish. Not in Umi no Nushi Tsuri.
+fish_title_30	fish_title list, entry 30 (Japanese at $C1:4786, stride 17)	16 columns	カイワリ	Trevally	
+fish_title_31	fish_title list, entry 31 (Japanese at $C1:4797, stride 17)	16 columns	カゴカキダイ	Stripey	Microcanthus strigatus, stripey.
+fish_title_32	fish_title list, entry 32 (Japanese at $C1:47A8, stride 17)	16 columns	カマス	Barracuda	
+fish_title_33	fish_title list, entry 33 (Japanese at $C1:47B9, stride 17)	16 columns	カワハギ	Filefish	
+fish_title_34	fish_title list, entry 34 (Japanese at $C1:47CA, stride 17)	16 columns	キス	Whiting	
+fish_title_35	fish_title list, entry 35 (Japanese at $C1:47DB, stride 17)	16 columns	クロダイ	Black Porgy	
+fish_title_36	fish_title list, entry 36 (Japanese at $C1:47EC, stride 17)	16 columns	サヨリ	Halfbeak	
+fish_title_37	fish_title list, entry 37 (Japanese at $C1:47FD, stride 17)	16 columns	サワラ	Seerfish	
+fish_title_38	fish_title list, entry 38 (Japanese at $C1:480E, stride 17)	16 columns	タカノハダイ	Morwong	Goniistius zonatus, spottedtail morwong.
+fish_title_39	fish_title list, entry 39 (Japanese at $C1:481F, stride 17)	16 columns	タカベ	Butterfish	
+fish_title_40	fish_title list, entry 40 (Japanese at $C1:4830, stride 17)	16 columns	タチウオ	Cutlassfish	
+fish_title_41	fish_title list, entry 41 (Japanese at $C1:4841, stride 17)	16 columns	ダツ	Needlefish	
+fish_title_42	fish_title list, entry 42 (Japanese at $C1:4852, stride 17)	16 columns	ニザダイ	Surgeonfish	Prionurus scalprum, sawtail surgeonfish.
+fish_title_43	fish_title list, entry 43 (Japanese at $C1:4863, stride 17)	16 columns	ヒラスズキ	Blackfin Bass	Lateolabrax latus, blackfin sea bass.
+fish_title_44	fish_title list, entry 44 (Japanese at $C1:4874, stride 17)	16 columns	ヒラメ	Flounder	
+fish_title_45	fish_title list, entry 45 (Japanese at $C1:4885, stride 17)	16 columns	フグ	Puffer	
+fish_title_46	fish_title list, entry 46 (Japanese at $C1:4896, stride 17)	16 columns	ベラ	Wrasse	
+fish_title_47	fish_title list, entry 47 (Japanese at $C1:48A7, stride 17)	16 columns	ホウボウ	Gurnard	
+fish_title_48	fish_title list, entry 48 (Japanese at $C1:48B8, stride 17)	16 columns	ボラ	Mullet	
+fish_title_49	fish_title list, entry 49 (Japanese at $C1:48C9, stride 17)	16 columns	マサバ	Mackerel	
+fish_title_50	fish_title list, entry 50 (Japanese at $C1:48DA, stride 17)	16 columns	マダイ	Red Sea Bream	
+fish_title_51	fish_title list, entry 51 (Japanese at $C1:48EB, stride 17)	16 columns	ムロアジ	Round Scad	
+fish_title_52	fish_title list, entry 52 (Japanese at $C1:48FC, stride 17)	16 columns	ヌシ	Sea King	ぬし: Sea King, as in Super Legend of the Sea King (海のぬし).
+fish_name_00	fish_name list, entry 0 (Japanese at $C1:510B, stride 12)	15 columns	イサキ	Grunt	
+fish_name_01	fish_name list, entry 1 (Japanese at $C1:5117, stride 12)	15 columns	イシガキダイ	Spot Beakfish	
+fish_name_02	fish_name list, entry 2 (Japanese at $C1:5123, stride 12)	15 columns	イシダイ	Beakfish	
+fish_name_03	fish_name list, entry 3 (Japanese at $C1:512F, stride 12)	15 columns	イスズミ	Rudderfish	
+fish_name_04	fish_name list, entry 4 (Japanese at $C1:513B, stride 12)	15 columns	イナダ	Jr. Yellowtail	
+fish_name_05	fish_name list, entry 5 (Japanese at $C1:5147, stride 12)	15 columns	カサゴ	Scorpionfish	
+fish_name_06	fish_name list, entry 6 (Japanese at $C1:5153, stride 12)	15 columns	カツオ	Bonito	
+fish_name_07	fish_name list, entry 7 (Japanese at $C1:515F, stride 12)	15 columns	カッポレ	Black Trevally	
+fish_name_08	fish_name list, entry 8 (Japanese at $C1:516B, stride 12)	15 columns	カンパチ	Amberjack	
+fish_name_09	fish_name list, entry 9 (Japanese at $C1:5177, stride 12)	15 columns	クエ	Kelp Grouper	Same species as Umi no Nushi Tsuri's モロコ (Kanto name), which that patch calls Kelp Grouper.
+fish_name_10	fish_name list, entry 10 (Japanese at $C1:5183, stride 12)	15 columns	シイラ	Mahi-mahi	
+fish_name_11	fish_name list, entry 11 (Japanese at $C1:518F, stride 12)	15 columns	シマアジ	Striped Jack	
+fish_name_12	fish_name list, entry 12 (Japanese at $C1:519B, stride 12)	15 columns	ツムブリ	Rainbow Runner	
+fish_name_13	fish_name list, entry 13 (Japanese at $C1:51A7, stride 12)	15 columns	ヒラマサ	Kingfish	
+fish_name_14	fish_name list, entry 14 (Japanese at $C1:51B3, stride 12)	15 columns	フエフキダイ	Emperor	Lethrinus haematopterus, emperor.
+fish_name_15	fish_name list, entry 15 (Japanese at $C1:51BF, stride 12)	15 columns	ブダイ	Parrotfish	
+fish_name_16	fish_name list, entry 16 (Japanese at $C1:51CB, stride 12)	15 columns	マハタ	Grouper	
+fish_name_17	fish_name list, entry 17 (Japanese at $C1:51D7, stride 12)	15 columns	メジナ	Opaleye	
+fish_name_18	fish_name list, entry 18 (Japanese at $C1:51E3, stride 12)	15 columns	メジマグロ	Young Bluefin	
+fish_name_19	fish_name list, entry 19 (Japanese at $C1:51EF, stride 12)	15 columns	ワラサ	Big Yellowtail	
+fish_name_20	fish_name list, entry 20 (Japanese at $C1:51FB, stride 12)	15 columns	アイゴ	Rabbitfish	
+fish_name_21	fish_name list, entry 21 (Japanese at $C1:5207, stride 12)	15 columns	アイナメ	Greenling	
+fish_name_22	fish_name list, entry 22 (Japanese at $C1:5213, stride 12)	15 columns	アオブダイ	Blue Parrotfish	
+fish_name_23	fish_name list, entry 23 (Japanese at $C1:521F, stride 12)	15 columns	アジ	Jack Mackerel	
+fish_name_24	fish_name list, entry 24 (Japanese at $C1:522B, stride 12)	15 columns	イシガキフグ	Burrfish	Chilomycterus reticulatus, spotfin burrfish.
+fish_name_25	fish_name list, entry 25 (Japanese at $C1:5237, stride 12)	15 columns	ウツボ	Moray Eel	
+fish_name_26	fish_name list, entry 26 (Japanese at $C1:5243, stride 12)	15 columns	ウマヅラハギ	Horse Filefish	
+fish_name_27	fish_name list, entry 27 (Japanese at $C1:524F, stride 12)	15 columns	エイ	Stingray	
+fish_name_28	fish_name list, entry 28 (Japanese at $C1:525B, stride 12)	15 columns	オニオコゼ	Devil Stinger	
+fish_name_29	fish_name list, entry 29 (Japanese at $C1:5267, stride 12)	15 columns	オニカサゴ	Stingfish	Scorpaenopsis cirrosa, weedy stingfish. Not in Umi no Nushi Tsuri.
+fish_name_30	fish_name list, entry 30 (Japanese at $C1:5273, stride 12)	15 columns	カイワリ	Trevally	
+fish_name_31	fish_name list, entry 31 (Japanese at $C1:527F, stride 12)	15 columns	カゴカキダイ	Stripey	Microcanthus strigatus, stripey.
+fish_name_32	fish_name list, entry 32 (Japanese at $C1:528B, stride 12)	15 columns	カマス	Barracuda	
+fish_name_33	fish_name list, entry 33 (Japanese at $C1:5297, stride 12)	15 columns	カワハギ	Filefish	
+fish_name_34	fish_name list, entry 34 (Japanese at $C1:52A3, stride 12)	15 columns	キス	Whiting	
+fish_name_35	fish_name list, entry 35 (Japanese at $C1:52AF, stride 12)	15 columns	クロダイ	Black Porgy	
+fish_name_36	fish_name list, entry 36 (Japanese at $C1:52BB, stride 12)	15 columns	サヨリ	Halfbeak	
+fish_name_37	fish_name list, entry 37 (Japanese at $C1:52C7, stride 12)	15 columns	サワラ	Seerfish	
+fish_name_38	fish_name list, entry 38 (Japanese at $C1:52D3, stride 12)	15 columns	タカノハダイ	Morwong	Goniistius zonatus, spottedtail morwong.
+fish_name_39	fish_name list, entry 39 (Japanese at $C1:52DF, stride 12)	15 columns	タカベ	Butterfish	
+fish_name_40	fish_name list, entry 40 (Japanese at $C1:52EB, stride 12)	15 columns	タチウオ	Cutlassfish	
+fish_name_41	fish_name list, entry 41 (Japanese at $C1:52F7, stride 12)	15 columns	ダツ	Needlefish	
+fish_name_42	fish_name list, entry 42 (Japanese at $C1:5303, stride 12)	15 columns	ニザダイ	Surgeonfish	Prionurus scalprum, sawtail surgeonfish.
+fish_name_43	fish_name list, entry 43 (Japanese at $C1:530F, stride 12)	15 columns	ヒラスズキ	Blackfin Bass	Lateolabrax latus, blackfin sea bass.
+fish_name_44	fish_name list, entry 44 (Japanese at $C1:531B, stride 12)	15 columns	ヒラメ	Flounder	
+fish_name_45	fish_name list, entry 45 (Japanese at $C1:5327, stride 12)	15 columns	フグ	Puffer	
+fish_name_46	fish_name list, entry 46 (Japanese at $C1:5333, stride 12)	15 columns	ベラ	Wrasse	
+fish_name_47	fish_name list, entry 47 (Japanese at $C1:533F, stride 12)	15 columns	ホウボウ	Gurnard	
+fish_name_48	fish_name list, entry 48 (Japanese at $C1:534B, stride 12)	15 columns	ボラ	Mullet	
+fish_name_49	fish_name list, entry 49 (Japanese at $C1:5357, stride 12)	15 columns	マサバ	Mackerel	
+fish_name_50	fish_name list, entry 50 (Japanese at $C1:5363, stride 12)	15 columns	マダイ	Red Sea Bream	
+fish_name_51	fish_name list, entry 51 (Japanese at $C1:536F, stride 12)	15 columns	ムロアジ	Round Scad	
+fish_name_52	fish_name list, entry 52 (Japanese at $C1:537B, stride 12)	15 columns	ヌシ	Sea King	ぬし: Sea King, as in Super Legend of the Sea King (海のぬし).
+mode_00	mode list, entry 0 (Japanese at $C1:4ECC, stride 15)	14 columns	ルアー釣り篇	Lure Fishing	ルアー釣り篇
+mode_01	mode list, entry 1 (Japanese at $C1:4EDB, stride 15)	14 columns	生きエサ釣り篇	Live Bait	生きエサ釣り篇
+mode_02	mode list, entry 2 (Japanese at $C1:4EEA, stride 15)	14 columns	タラシ釣り篇	Drop Fishing	タラシ釣り篇: tarashi, bait hung straight down
+mode_03	mode list, entry 3 (Japanese at $C1:4EF9, stride 15)	14 columns	コマセ釣り篇	Chum Fishing	コマセ釣り篇: komase, fishing over chum
+mode_04	mode list, entry 4 (Japanese at $C1:4F08, stride 15)	14 columns	ブッ込み釣り篇	Bottom Fishing	ブッ込み釣り篇: bukkomi, heavy bottom rig
+bait_00	bait list, entry 0 (Japanese at $C1:4F17, stride 20)	20 columns	メタルジグ	Metal Jig	
+bait_01	bait list, entry 1 (Japanese at $C1:4F2B, stride 20)	20 columns	スプーン	Spoon	
+bait_02	bait list, entry 2 (Japanese at $C1:4F3F, stride 20)	20 columns	フローティングミノー	Floating Minnow	
+bait_03	bait list, entry 3 (Japanese at $C1:4F53, stride 20)	20 columns	ディープダイバー	Deep Diver	
+bait_04	bait list, entry 4 (Japanese at $C1:4F67, stride 20)	20 columns	シンキングミノー	Sinking Minnow	
+bait_05	bait list, entry 5 (Japanese at $C1:4F7B, stride 20)	20 columns	イワシ	Sardine	
+bait_06	bait list, entry 6 (Japanese at $C1:4F8F, stride 20)	20 columns	小アジ	Small Scad	
+bait_07	bait list, entry 7 (Japanese at $C1:4FA3, stride 20)	20 columns	ムロアジ	Round Scad	
+bait_08	bait list, entry 8 (Japanese at $C1:4FB7, stride 20)	20 columns	イソメ	Lugworm	
+bait_09	bait list, entry 9 (Japanese at $C1:4FCB, stride 20)	20 columns	ゴカイ	Ragworm	
+bait_10	bait list, entry 10 (Japanese at $C1:4FDF, stride 20)	20 columns	オキアミ	Krill	
+bait_11	bait list, entry 11 (Japanese at $C1:4FF3, stride 20)	20 columns	タンザクイカ	Squid Strip	
+bait_12	bait list, entry 12 (Japanese at $C1:5007, stride 20)	20 columns	イワシ	Sardine	
+bait_13	bait list, entry 13 (Japanese at $C1:501B, stride 20)	20 columns	ハンペン	Hanpen	
+bait_14	bait list, entry 14 (Japanese at $C1:502F, stride 20)	20 columns	オキアミ（大）	Krill (L)	
+bait_15	bait list, entry 15 (Japanese at $C1:5043, stride 20)	20 columns	オキアミ（中）	Krill (M)	
+bait_16	bait list, entry 16 (Japanese at $C1:5057, stride 20)	20 columns	オキアミ（小）	Krill (S)	
+bait_17	bait list, entry 17 (Japanese at $C1:506B, stride 20)	20 columns	サザエ	Turban Shell	
+bait_18	bait list, entry 18 (Japanese at $C1:507F, stride 20)	20 columns	アワビ	Abalone	
+bait_19	bait list, entry 19 (Japanese at $C1:5093, stride 20)	20 columns	カニ	Crab	
+bait_20	bait list, entry 20 (Japanese at $C1:50A7, stride 20)	20 columns	ハンバノリ	Habanori	
+bait_21	bait list, entry 21 (Japanese at $C1:50BB, stride 20)	20 columns	イワシ	Sardine	
+bait_22	bait list, entry 22 (Japanese at $C1:50CF, stride 20)	20 columns	赤貝	Ark Shell	
+bait_23	bait list, entry 23 (Japanese at $C1:50E3, stride 20)	20 columns	ウニ	Sea Urchin	
+bait_24	bait list, entry 24 (Japanese at $C1:50F7, stride 20)	20 columns	ヤドカリ	Hermit Crab	
+chapter_00	chapter list, entry 0 (Japanese at $C1:5387, stride 19)	23 columns	イサキの巻き	Grunt Chapter	
+chapter_01	chapter list, entry 1 (Japanese at $C1:539A, stride 19)	23 columns	アジの巻き	Jack Mackerel Chapter	
+chapter_02	chapter list, entry 2 (Japanese at $C1:53AD, stride 19)	23 columns	シマアジの巻き	Striped Jack Chapter	
+chapter_03	chapter list, entry 3 (Japanese at $C1:53C0, stride 19)	23 columns	ウマヅラハギの巻き	Horse Filefish Chapter	
+chapter_04	chapter list, entry 4 (Japanese at $C1:53D3, stride 19)	23 columns	カゴカキダイの巻き	Stripey Chapter	
+chapter_05	chapter list, entry 5 (Japanese at $C1:53E6, stride 19)	23 columns	カワハギの巻き	Filefish Chapter	
+chapter_06	chapter list, entry 6 (Japanese at $C1:53F9, stride 19)	23 columns	タカノハダイの巻き	Morwong Chapter	
+chapter_07	chapter list, entry 7 (Japanese at $C1:540C, stride 19)	23 columns	ニザダイの巻き	Surgeonfish Chapter	
+chapter_08	chapter list, entry 8 (Japanese at $C1:541F, stride 19)	23 columns	マダイの巻き	Red Sea Bream Chapter	
+chapter_09	chapter list, entry 9 (Japanese at $C1:5432, stride 19)	23 columns	メジナの巻き	Opaleye Chapter	
+chapter_10	chapter list, entry 10 (Japanese at $C1:5445, stride 19)	23 columns	メジナの巻き	Opaleye Chapter	
+chapter_11	chapter list, entry 11 (Japanese at $C1:5458, stride 19)	23 columns	メジナの巻き	Opaleye Chapter	
+chapter_12	chapter list, entry 12 (Japanese at $C1:546B, stride 19)	23 columns	タカベの巻き	Butterfish Chapter	
+chapter_13	chapter list, entry 13 (Japanese at $C1:547E, stride 19)	23 columns	シマアジの巻き	Striped Jack Chapter	
+chapter_14	chapter list, entry 14 (Japanese at $C1:5491, stride 19)	23 columns	ムロアジの巻き	Round Scad Chapter	
+chapter_15	chapter list, entry 15 (Japanese at $C1:54A4, stride 19)	23 columns	アイゴの巻き	Rabbitfish Chapter	
+chapter_16	chapter list, entry 16 (Japanese at $C1:54B7, stride 19)	23 columns	アイナメの巻き	Greenling Chapter	
+chapter_17	chapter list, entry 17 (Japanese at $C1:54CA, stride 19)	23 columns	アオブダイの巻き	Blue Parrotfish Chapter	
+chapter_18	chapter list, entry 18 (Japanese at $C1:54DD, stride 19)	23 columns	イシガキフグの巻き	Burrfish Chapter	
+chapter_19	chapter list, entry 19 (Japanese at $C1:54F0, stride 19)	23 columns	オニオコゼの巻き	Devil Stinger Chapter	
+chapter_20	chapter list, entry 20 (Japanese at $C1:5503, stride 19)	23 columns	オニカサゴの巻き	Stingfish Chapter	
+chapter_21	chapter list, entry 21 (Japanese at $C1:5516, stride 19)	23 columns	キスの巻き	Whiting Chapter	
+chapter_22	chapter list, entry 22 (Japanese at $C1:5529, stride 19)	23 columns	クロダイの巻き	Black Porgy Chapter	
+chapter_23	chapter list, entry 23 (Japanese at $C1:553C, stride 19)	23 columns	サヨリの巻き	Halfbeak Chapter	
+chapter_24	chapter list, entry 24 (Japanese at $C1:554F, stride 19)	23 columns	フグの巻き	Puffer Chapter	
+chapter_25	chapter list, entry 25 (Japanese at $C1:5562, stride 19)	23 columns	ベラの巻き	Wrasse Chapter	
+chapter_26	chapter list, entry 26 (Japanese at $C1:5575, stride 19)	23 columns	ボラの巻き	Mullet Chapter	
+chapter_27	chapter list, entry 27 (Japanese at $C1:5588, stride 19)	23 columns	カンパチの巻き	Amberjack Chapter	
+chapter_28	chapter list, entry 28 (Japanese at $C1:559B, stride 19)	23 columns	カンパチの巻き	Amberjack Chapter	
+chapter_29	chapter list, entry 29 (Japanese at $C1:55AE, stride 19)	23 columns	カンパチの巻き	Amberjack Chapter	
+chapter_30	chapter list, entry 30 (Japanese at $C1:55C1, stride 19)	23 columns	クエの巻き	Kelp Grouper Chapter	
+chapter_31	chapter list, entry 31 (Japanese at $C1:55D4, stride 19)	23 columns	クエの巻き	Kelp Grouper Chapter	
+chapter_32	chapter list, entry 32 (Japanese at $C1:55E7, stride 19)	23 columns	ヒラメの巻き	Flounder Chapter	
+chapter_33	chapter list, entry 33 (Japanese at $C1:55FA, stride 19)	23 columns	サワラの巻き	Seerfish Chapter	
+chapter_34	chapter list, entry 34 (Japanese at $C1:560D, stride 19)	23 columns	ダツの巻き	Needlefish Chapter	
+chapter_35	chapter list, entry 35 (Japanese at $C1:5620, stride 19)	23 columns	ヒラマサの巻き	Kingfish Chapter	
+chapter_36	chapter list, entry 36 (Japanese at $C1:5633, stride 19)	23 columns	メジマグロの巻き	Young Bluefin Chapter	
+chapter_37	chapter list, entry 37 (Japanese at $C1:5646, stride 19)	23 columns	カイワリの巻き	Trevally Chapter	
+chapter_38	chapter list, entry 38 (Japanese at $C1:5659, stride 19)	23 columns	ツムブリの巻き	Rainbow Runner Chapter	
+chapter_39	chapter list, entry 39 (Japanese at $C1:566C, stride 19)	23 columns	カマスの巻き	Barracuda Chapter	
+chapter_40	chapter list, entry 40 (Japanese at $C1:567F, stride 19)	23 columns	シイラの巻き	Mahi-mahi Chapter	
+chapter_41	chapter list, entry 41 (Japanese at $C1:5692, stride 19)	23 columns	タチウオの巻き	Cutlassfish Chapter	
+chapter_42	chapter list, entry 42 (Japanese at $C1:56A5, stride 19)	23 columns	カッポレの巻き	Black Trevally Chapter	
+chapter_43	chapter list, entry 43 (Japanese at $C1:56B8, stride 19)	23 columns	カッポレの巻き	Black Trevally Chapter	
+chapter_44	chapter list, entry 44 (Japanese at $C1:56CB, stride 19)	23 columns	ヒラスズキの巻き	Blackfin Bass Chapter	
+chapter_45	chapter list, entry 45 (Japanese at $C1:56DE, stride 19)	23 columns	カツオの巻き	Bonito Chapter	
+chapter_46	chapter list, entry 46 (Japanese at $C1:56F1, stride 19)	23 columns	ワラサの巻き	Big Yellowtail Chapter	
+chapter_47	chapter list, entry 47 (Japanese at $C1:5704, stride 19)	23 columns	マサバの巻き	Mackerel Chapter	
+chapter_48	chapter list, entry 48 (Japanese at $C1:5717, stride 19)	23 columns	イナダの巻き	Jr. Yellowtail Chapter	
+chapter_49	chapter list, entry 49 (Japanese at $C1:572A, stride 19)	23 columns	イシガキダイの巻き	Spot Beakfish Chapter	
+chapter_50	chapter list, entry 50 (Japanese at $C1:573D, stride 19)	23 columns	イシガキダイの巻き	Spot Beakfish Chapter	
+chapter_51	chapter list, entry 51 (Japanese at $C1:5750, stride 19)	23 columns	イシガキダイの巻き	Spot Beakfish Chapter	
+chapter_52	chapter list, entry 52 (Japanese at $C1:5763, stride 19)	23 columns	イシダイの巻き	Beakfish Chapter	
+chapter_53	chapter list, entry 53 (Japanese at $C1:5776, stride 19)	23 columns	イシダイの巻き	Beakfish Chapter	
+chapter_54	chapter list, entry 54 (Japanese at $C1:5789, stride 19)	23 columns	イシダイの巻き	Beakfish Chapter	
+chapter_55	chapter list, entry 55 (Japanese at $C1:579C, stride 19)	23 columns	ウツボの巻き	Moray Eel Chapter	
+chapter_56	chapter list, entry 56 (Japanese at $C1:57AF, stride 19)	23 columns	エイの巻き	Stingray Chapter	
+chapter_57	chapter list, entry 57 (Japanese at $C1:57C2, stride 19)	23 columns	イスズミの巻き	Rudderfish Chapter	
+chapter_58	chapter list, entry 58 (Japanese at $C1:57D5, stride 19)	23 columns	カサゴの巻き	Scorpionfish Chapter	
+chapter_59	chapter list, entry 59 (Japanese at $C1:57E8, stride 19)	23 columns	フエフキダイの巻き	Emperor Chapter	
+chapter_60	chapter list, entry 60 (Japanese at $C1:57FB, stride 19)	23 columns	ブダイの巻き	Parrotfish Chapter	
+chapter_61	chapter list, entry 61 (Japanese at $C1:580E, stride 19)	23 columns	マハタの巻き	Grouper Chapter	
+chapter_62	chapter list, entry 62 (Japanese at $C1:5821, stride 19)	23 columns	マハタの巻き	Grouper Chapter	
+chapter_63	chapter list, entry 63 (Japanese at $C1:5834, stride 19)	23 columns	ホウボウの巻き	Gurnard Chapter	
+chapter_64	chapter list, entry 64 (Japanese at $C1:5847, stride 19)	23 columns	ヌシの巻き	Sea King Chapter	
+spot_00	spot list, entry 0 (Japanese at $C1:585A, stride 12)	19 columns	六双根沖	Off Rokusōne	UNSURE: reading of the place name
+spot_01	spot list, entry 1 (Japanese at $C1:5866, stride 12)	19 columns	伊豆岬沖	Off Cape Izu	
+spot_02	spot list, entry 2 (Japanese at $C1:5872, stride 12)	19 columns	湯ノ浜沖	Off Yunohama	
+spot_03	spot list, entry 3 (Japanese at $C1:587E, stride 12)	19 columns	三七山沖	Off Sanshichiyama	
+spot_04	spot list, entry 4 (Japanese at $C1:588A, stride 12)	19 columns	サタドー岬沖	Off Cape Satadō	
+spot_05	spot list, entry 5 (Japanese at $C1:5896, stride 12)	19 columns	三池浜沖	Off Miikehama	
+spot_06	spot list, entry 6 (Japanese at $C1:58A2, stride 12)	19 columns	クラマ根沖	Off Kuramane	UNSURE: reading of the place name
+spot_07	spot list, entry 7 (Japanese at $C1:58AE, stride 12)	19 columns	ツル根岬沖	Off Cape Tsurune	
+spot_08	spot list, entry 8 (Japanese at $C1:58BA, stride 12)	19 columns	新鼻沖	Off Shinbana	UNSURE: reading of the place name
+spot_09	spot list, entry 9 (Japanese at $C1:58C6, stride 12)	19 columns	新澪池沖	Off Shinmyōike	
+spot_10	spot list, entry 10 (Japanese at $C1:58D2, stride 12)	19 columns	薄木沖	Off Usuki	
+spot_11	spot list, entry 11 (Japanese at $C1:58DE, stride 12)	19 columns	間鼻沖	Off Mabana	UNSURE: reading of the place name
+spot_12	spot list, entry 12 (Japanese at $C1:58EA, stride 12)	19 columns	富賀神社沖	Off Tomiga Shrine	
+spot_13	spot list, entry 13 (Japanese at $C1:58F6, stride 12)	19 columns	阿古沖	Off Ako	
+spot_14	spot list, entry 14 (Japanese at $C1:5902, stride 12)	19 columns	錆ｹ浜沖	Off Sabigahama	
+spot_15	spot list, entry 15 (Japanese at $C1:590E, stride 12)	19 columns	大根東沖	Off Ōne East	
+spot_16	spot list, entry 16 (Japanese at $C1:591A, stride 12)	19 columns	大根南沖	Off Ōne South	
+spot_17	spot list, entry 17 (Japanese at $C1:5926, stride 12)	19 columns	文蔵根東沖	Off Bunzōne East	
+spot_18	spot list, entry 18 (Japanese at $C1:5932, stride 12)	19 columns	文蔵根南沖	Off Bunzōne South	
+spot_19	spot list, entry 19 (Japanese at $C1:593E, stride 12)	19 columns	文蔵根西沖	Off Bunzōne West	
+spot_20	spot list, entry 20 (Japanese at $C1:594A, stride 12)	19 columns	マカド根南沖	Off Makadone South	
+spot_21	spot list, entry 21 (Japanese at $C1:5956, stride 12)	19 columns	マカド根西沖	Off Makadone West	
+spot_22	spot list, entry 22 (Japanese at $C1:5962, stride 12)	19 columns	マカド根北沖	Off Makadone North	
+spot_23	spot list, entry 23 (Japanese at $C1:596E, stride 12)	19 columns	カサゴ根沖	Off Kasagone	
+spot_24	spot list, entry 24 (Japanese at $C1:597A, stride 12)	19 columns	エビ根沖	Off Ebine	
+spot_25	spot list, entry 25 (Japanese at $C1:5986, stride 12)	19 columns	ノコギリ根沖	Off Nokogirine	
+spot_26	spot list, entry 26 (Japanese at $C1:5992, stride 12)	19 columns	子安島沖	Off Koyasujima	UNSURE: reading of the place name
+spot_27	spot list, entry 27 (Japanese at $C1:599E, stride 12)	19 columns	徳利根沖	Off Tokkurine	
+spot_28	spot list, entry 28 (Japanese at $C1:59AA, stride 12)	19 columns	御蔵島北東沖	Off Mikurajima NE	
+spot_29	spot list, entry 29 (Japanese at $C1:59B6, stride 12)	19 columns	スバル岩沖	Off Subaru Rock	
+spot_30	spot list, entry 30 (Japanese at $C1:59C2, stride 12)	19 columns	御蔵島南東沖	Off Mikurajima SE	
+spot_31	spot list, entry 31 (Japanese at $C1:59CE, stride 12)	19 columns	元根北東沖	Off Motone NE	UNSURE: reading of the place name
+spot_32	spot list, entry 32 (Japanese at $C1:59DA, stride 12)	19 columns	元根東沖	Off Motone East	UNSURE: reading of the place name
+spot_33	spot list, entry 33 (Japanese at $C1:59E6, stride 12)	19 columns	元根南沖	Off Motone South	UNSURE: reading of the place name
+spot_34	spot list, entry 34 (Japanese at $C1:59F2, stride 12)	19 columns	元根西沖	Off Motone West	UNSURE: reading of the place name
+spot_35	spot list, entry 35 (Japanese at $C1:59FE, stride 12)	19 columns	川口の滝沖	Off Kawaguchi Falls	
+spot_36	spot list, entry 36 (Japanese at $C1:5A0A, stride 12)	19 columns	横塚根沖	Off Yokozukane	UNSURE: reading of the place name
+spot_37	spot list, entry 37 (Japanese at $C1:5A16, stride 12)	19 columns	小池根北沖	Off Koikene North	UNSURE: reading of the place name
+spot_38	spot list, entry 38 (Japanese at $C1:5A22, stride 12)	19 columns	小池根北西沖	Off Koikene NW	UNSURE: reading of the place name
+spot_39	spot list, entry 39 (Japanese at $C1:5A2E, stride 12)	19 columns	小池根南西沖	Off Koikene SW	UNSURE: reading of the place name
+spot_40	spot list, entry 40 (Japanese at $C1:5A3A, stride 12)	19 columns	小池根南沖	Off Koikene South	UNSURE: reading of the place name
+spot_41	spot list, entry 41 (Japanese at $C1:5A46, stride 12)	19 columns	横瀬根北沖	Off Yokosene North	UNSURE: reading of the place name
+spot_42	spot list, entry 42 (Japanese at $C1:5A52, stride 12)	19 columns	横瀬根東沖	Off Yokosene East	UNSURE: reading of the place name
+spot_43	spot list, entry 43 (Japanese at $C1:5A5E, stride 12)	19 columns	横瀬根南沖	Off Yokosene South	UNSURE: reading of the place name
+spot_44	spot list, entry 44 (Japanese at $C1:5A6A, stride 12)	19 columns	横瀬根南西沖	Off Yokosene SW	UNSURE: reading of the place name
+spot_45	spot list, entry 45 (Japanese at $C1:5A76, stride 12)	19 columns	一ノ根南東沖	Off Ichinone SE	UNSURE: reading of the place name
+spot_46	spot list, entry 46 (Japanese at $C1:5A82, stride 12)	19 columns	一ノ根北沖	Off Ichinone North	UNSURE: reading of the place name
+spot_47	spot list, entry 47 (Japanese at $C1:5A8E, stride 12)	19 columns	中根沖	Off Nakane	
+spot_48	spot list, entry 48 (Japanese at $C1:5A9A, stride 12)	19 columns	下立鼻沖	Off Shitatatebana	UNSURE: reading of the place name
+spot_49	spot list, entry 49 (Japanese at $C1:5AA6, stride 12)	19 columns	長崎沖	Off Nagasaki	
+spot_50	spot list, entry 50 (Japanese at $C1:5AB2, stride 12)	19 columns	甚太沖	Off Jinta	
+spot_51	spot list, entry 51 (Japanese at $C1:5ABE, stride 12)	19 columns	荷浦沖	Off Niura	UNSURE: reading of the place name
+spot_52	spot list, entry 52 (Japanese at $C1:5ACA, stride 12)	19 columns	エイガ潟沖	Off Eigagata	UNSURE: reading of the place name
+spot_53	spot list, entry 53 (Japanese at $C1:5AD6, stride 12)	19 columns	ナズマド沖	Off Nazumado	
+spot_54	spot list, entry 54 (Japanese at $C1:5AE2, stride 12)	19 columns	神湊港沖	Off Kaminato Port	
+spot_55	spot list, entry 55 (Japanese at $C1:5AEE, stride 12)	19 columns	御正体根西沖	Off Mishōtaine West	UNSURE: reading of the place name
+spot_56	spot list, entry 56 (Japanese at $C1:5AFA, stride 12)	19 columns	御正体根東沖	Off Mishōtaine East	UNSURE: reading of the place name
+spot_57	spot list, entry 57 (Japanese at $C1:5B06, stride 12)	19 columns	大根沖	Off Ōne	
+spot_58	spot list, entry 58 (Japanese at $C1:5B12, stride 12)	19 columns	大ｹ根沖	Off Ōgane	UNSURE: reading of the place name
+spot_59	spot list, entry 59 (Japanese at $C1:5B1E, stride 12)	19 columns	石積ｹ鼻沖	Off Ishizumigahana	
+spot_60	spot list, entry 60 (Japanese at $C1:5B2A, stride 12)	19 columns	ハラブト沖	Off Harabuto	UNSURE: reading of the place name
+spot_61	spot list, entry 61 (Japanese at $C1:5B36, stride 12)	19 columns	畳根沖	Off Tatamine	
+spot_62	spot list, entry 62 (Japanese at $C1:5B42, stride 12)	19 columns	横塚沖	Off Yokozuka	
+spot_63	spot list, entry 63 (Japanese at $C1:5B4E, stride 12)	19 columns	横間ｹ浦沖	Off Yokomagaura	
+spot_64	spot list, entry 64 (Japanese at $C1:5B5A, stride 12)	19 columns	イナンバ沖	Off Inanba	
+island_00	island list, entry 0 (Japanese at $C1:5B66, stride 11)	14 columns	三宅島	Miyakejima	
+island_01	island list, entry 1 (Japanese at $C1:5B71, stride 11)	14 columns	三本岳	Sanbondake	
+island_02	island list, entry 2 (Japanese at $C1:5B7C, stride 11)	14 columns	御蔵島	Mikurajima	
+island_03	island list, entry 3 (Japanese at $C1:5B87, stride 11)	14 columns	八丈小島	Hachijō-kojima	
+island_04	island list, entry 4 (Japanese at $C1:5B92, stride 11)	14 columns	八丈島	Hachijōjima	
+island_05	island list, entry 5 (Japanese at $C1:5B9D, stride 11)	14 columns	イナンバ島	Inanbajima	

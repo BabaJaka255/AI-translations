@@ -1,0 +1,103 @@
+{
+ "block": "strings",
+ "entries": [
+  {
+   "id": "save_lost",
+   "offset": "0x14200",
+   "length": 38,
+   "refs": [],
+   "jp": "\n\n\n\n\n\n\n\n\n\n\n      記録がきえています。",
+   "en": "\n\n\n\n\n\n\n\n\n\n\n     Records were erased.",
+   "notes": "Two entry points ($4200 from $C0:6B6A, $4210 from $C0:6994), so it stays in place: text from $4211 to the end code at $4225 (20 bytes)."
+  },
+  {
+   "id": "sound_test",
+   "offset": "0x14226",
+   "length": 71,
+   "refs": [
+    "0x06BA5"
+   ],
+   "jp": "\n\n\n\n　　　 ｻｳﾝﾄﾞﾃｽﾄ\n\n\n\n　　　　^ｷｮｸ\n\n\n　　　　^ｺｵｶｵﾝ\n\n\n　　　　^ﾋﾟｼｰｴﾑ",
+   "en": ">\n\n\n\n      Sound Test\n\n\n\n        ^Music\n\n\n        ^Sound FX\n\n\n        ^PCM",
+   "notes": "Hidden sound test."
+  },
+  {
+   "id": "catch_list",
+   "offset": "0x1426D",
+   "length": 795,
+   "refs": [
+    "0x0705A"
+   ],
+   "jp": "\n\n\n\n\n 　　 魚 種 別 釣 果 一 覧\n\n\n       ^ｱｲｺﾞ~         ^ｻﾖﾘ\n\n       ^ｱｲﾅﾒ~~        ^ｻﾜﾗ\n\n       ^ｱｵﾌﾞﾀﾞｲ       ^ｼｲﾗ\n\n       ^ｱｼﾞ~          ^ｼﾏｱｼﾞ\n\n       ^ｲｻｷ~~         ^ﾀｶﾉﾊﾀﾞｲ\n\n       ^ｲｼｶﾞｷﾀﾞｲ      ^ﾀｶﾍﾞ\n\n       ^ｲｼｶﾞｷﾌｸﾞ      ^ﾀﾁｳｵ\n\n       ^ｲｼﾀﾞｲ~        ^ﾀﾞﾂ\n\n       ^ｲｽｽﾞﾐ~        ^ﾂﾑﾌﾞﾘ\n\n       ^ｲﾅﾀﾞ~         ^ﾆｻﾞﾀﾞｲ\n\n       ^ｳﾂﾎﾞ~         ^ﾋﾗｽｽﾞｷ\n\n       ^ｳﾏﾂﾞﾗﾊｷﾞ      ^ﾋﾗﾏｻ\n\n       ^ｴｲ~~          ^ﾋﾗﾒ\n\n       ^ｵﾆｵｺｾﾞ~       ^ﾌｴﾌｷﾀﾞｲ\n\n       ^ｵﾆｶｻｺﾞ~       ^ﾌｸﾞ\n\n       ^ｶｲﾜﾘ~~        ^ﾌﾞﾀﾞｲ\n\n       ^ｶｺﾞｶｷﾀﾞｲ      ^ﾍﾞﾗ\n\n       ^ｶｻｺﾞ~         ^ﾎｳﾎﾞｳ\n\n       ^ｶﾂｵ~~         ^ﾎﾞﾗ\n\n       ^ｶｯﾎﾟﾚ~        ^ﾏｻﾊﾞ\n\n       ^ｶﾏｽ~~         ^ﾏﾀﾞｲ\n\n       ^ｶﾜﾊｷﾞ~        ^ﾏﾊﾀ\n\n       ^ｶﾝﾊﾟﾁ~        ^ﾑﾛｱｼﾞ\n\n       ^ｷｽ~~          ^ﾒｼﾞﾅ\n\n       ^ｸｴ~~          ^ﾒｼﾞﾏｸﾞﾛ\n\n       ^ｸﾛﾀﾞｲ~        ^ﾜﾗｻ",
+   "en": "",
+   "notes": "Y on the sea map: catch by species. Two boxed columns about 9 columns wide."
+  },
+  {
+   "id": "name_entry",
+   "offset": "0x14D43",
+   "length": 367,
+   "refs": [
+    "0x07495",
+    "0x0769C"
+   ],
+   "jp": ">\n\n\n\n  名前を入れて下さい\n\n\n\n      ^ｱ ^ｶ ^ｻ ^ﾀ ^ﾅ ^ﾊ ^ﾏ ^ﾔ ^ﾗ\n\n      ^ｲ ^ｷ ^ｼ ^ﾁ ^ﾆ ^ﾋ ^ﾐ ^ﾕ ^ﾘ\n\n      ^ｳ ^ｸ ^ｽ ^ﾂ ^ﾇ ^ﾌ ^ﾑ ^ﾖ ^ﾙ\n\n      ^ｴ ^ｹ ^ｾ ^ﾃ ^ﾈ ^ﾍ ^ﾒ ^ﾜ ^ﾚ\n\n      ^ｵ ^ｺ ^ｿ ^ﾄ ^ﾉ ^ﾎ ^ﾓ ^ﾝ ^ﾛ\n\n      ^ｶﾞ ^ｻﾞ ^ﾀﾞ ^ﾊﾞ ^ﾊﾟ ^ｦ ^ｰ\n\n      ^ｷﾞ ^ｼﾞ ^ﾁﾞ ^ﾋﾞ ^ﾋﾟ ^ｯ\n\n      ^ｸﾞ ^ｽﾞ ^ﾂﾞ ^ﾌﾞ ^ﾌﾟ ^ｬ\n\n      ^ｹﾞ ^ｾﾞ ^ﾃﾞ ^ﾍﾞ ^ﾍﾟ ^ｭ\n\n      ^ｺﾞ ^ｿﾞ ^ﾄﾞ ^ﾎﾞ ^ﾎﾟ ^ｮ          ^~ｵﾜﾘ\n",
+   "en": "\n\n\n\n  Enter your name\n\n\n\n>      ^A ^B ^C ^D ^E ^F ^G ^H ^I\n\n      ^J ^K ^L ^M ^N ^O ^P ^Q ^R\n\n      ^S ^T ^U ^V ^W ^X ^Y ^Z ^.\n\n      ^a ^b ^c ^d ^e ^f ^g ^h ^i\n\n      ^j ^k ^l ^m ^n ^o ^p ^q ^r\n\n      ^s ^t ^u ^v ^w ^x ^y\n\n      ^z ^- ^' ^! ^? ^&\n\n      ^0 ^1 ^2 ^3 ^4 ^5\n\n      ^6 ^7 ^8 ^9 ^( ^)\n\n      ^, ^: ^; ^\" ^+ ^*          ^~End\n",
+   "notes": "Keyboard: each ^ is a key, the byte after it is the letter typed. The END key is ^~."
+  },
+  {
+   "id": "new_record",
+   "offset": "0x14EB2",
+   "length": 7,
+   "refs": [
+    "0x07D84"
+   ],
+   "jp": "新記録",
+   "en": "New Record!",
+   "notes": ""
+  },
+  {
+   "id": "game_over",
+   "offset": "0x14EB9",
+   "length": 19,
+   "refs": [
+    "0x08037"
+   ],
+   "jp": "ＧＡＭＥ　ＯＶＥＲ",
+   "en": "GAME OVER",
+   "notes": ""
+  },
+  {
+   "id": "title_menu",
+   "offset": "0x15BA8",
+   "length": 110,
+   "refs": [
+    "0x074F1"
+   ],
+   "jp": ">\n\n\n\n　　　 ^出発     ^釣り人の変更\n\n\n\n\n　 　　釣り人        得点\n\n\n\n　　　^\n\n\n\n　　　^\n\n\n\n　　　^\n\n\n\n　　　^",
+   "en": "\n\n\n\n       ^Depart     ^New Angler\n\n\n\n\n     Angler          Score\n>\n\n\n      ^\n\n\n\n      ^\n\n\n\n      ^\n\n\n\n      ^",
+   "notes": "^ = menu cursor and angler-name slots."
+  },
+  {
+   "id": "records",
+   "offset": "0x15C16",
+   "length": 212,
+   "refs": [
+    "0x07105"
+   ],
+   "jp": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n　  最 大 体 長      総  数\n\n\n  釣り人   体 長  釣り人    計\n\n  1 ^  　　　  cm  1 ^　　　   h\n\n  2 ^　　      cm  2 ^         h\n\n  3 ^　　　 　 cm  3 ^         h\n\n  4 ^　　   　 cm  4 ^ 　 　　 h",
+   "en": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      Longest     Most Caught\n\n\n   Angler  Size   Angler   Qty\n\n>  1 ^          cm  1 ^\n\n  2 ^          cm  2 ^\n\n  3 ^          cm  3 ^\n\n  4 ^          cm  4 ^<",
+   "notes": "Per-fish records: longest catch and most caught, 4 anglers each. Numbers are drawn by the game after the ^ name slots. Columns: name slot at col 4/20 (6 chars), size digits end at col 13, \"cm\" at 14. \"Qty\" (JP 計, total caught) fits the 3-column count cell."
+  },
+  {
+   "id": "intro",
+   "offset": "0x15CEA",
+   "length": 800,
+   "refs": [
+    "0x0C596"
+   ],
+   "jp": "　　やあ！　こんにちは。\n　最近は、釣れなく　なったなあ。\n　それでも、磯釣りや　陸釣りに　比べると\n　船釣りは　まだ、よく　釣れて　いるよ。\n　だから、楽しい。\n　釣れる　魚の　種類も　多く\n　それぞれの　魚に　釣りの　おもしろ味が　ある。\n　船釣りでは、陸から　仕掛けが　届かない\n　沖合いの　魚も　釣れる。\n　さらに、釣り場の　移動も　簡単だ。\n　そして、魚を　ハリガカリ　させてからの\n　根ガカリも　起きにくい。\n　また、離島の　磯釣りを　する場合\n　波が　少し　高くなっただけで\n　磯に　乗れなくて　ガッカリ　することが　あるが\n　船釣りでは　そうした　ことが　ない。\n\n　　さあ！　船に　乗って　釣りに　出発だ！\n　そして、いろんな　種類の　魚を　釣ろう。\n　最後に、イナンバの　ぬしが　あなたを　待っている。\n　それでは、健闘を　祈る。\n　　　さようなら。\n\n　　　　　　　　　　　　　　　　　　　　ふね太郎",
+   "en": "Well, hello there!\nFish don't bite like they\nused to these days.\nStill, boats catch plenty\ncompared to fishing from\nthe rocks or the shore.\nThat's why it's so much fun!\nThere are lots of kinds\nof fish, and each one is a\nthrill in its own way.\nFrom a boat you can reach\nfish far offshore, out of\ncasting range from land.\nMoving to a new spot is\neasy, too.\nOnce a fish is hooked, it's\nless likely to snag your\nline on the rocks.\nWhen you fish the rocks\nof a far-off island, even\na small swell can keep you\nfrom landing on them.\nThat's a real letdown, but it\nnever happens on a boat!\n\nNow, all aboard!\nLet's go fishing!\nCatch all kinds of fish.\nAnd at the end, the Sea King\nof Inanba is waiting for you.\nGood luck out there!\nSo long!\n\n                                     Fune Tarō",
+   "notes": "Opening speech after a new name. Drawn in the proportional speech font (data/font_speech.txt): each line at most 224 px (engine.speech_width), lines wrapped by sense units."
+  }
+ ]
+}

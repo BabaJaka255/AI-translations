@@ -1,0 +1,1683 @@
+{
+ "fish_title": {
+  "base": "0x14588",
+  "stride": 17,
+  "count": 53,
+  "entries": [
+   {
+    "id": "fish_title_00",
+    "jp": "イサキ",
+    "en": "Grunt",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_01",
+    "jp": "イシガキダイ",
+    "en": "Spot Beakfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_02",
+    "jp": "イシダイ",
+    "en": "Beakfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_03",
+    "jp": "イスズミ",
+    "en": "Rudderfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_04",
+    "jp": "イナダ",
+    "en": "Jr. Yellowtail",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_05",
+    "jp": "カサゴ",
+    "en": "Scorpionfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_06",
+    "jp": "カツオ",
+    "en": "Bonito",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_07",
+    "jp": "カッポレ",
+    "en": "Black Trevally",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_08",
+    "jp": "カンパチ",
+    "en": "Amberjack",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_09",
+    "jp": "クエ",
+    "en": "Kelp Grouper",
+    "notes": "Same species as Umi no Nushi Tsuri's モロコ (Kanto name), which that patch calls Kelp Grouper."
+   },
+   {
+    "id": "fish_title_10",
+    "jp": "シイラ",
+    "en": "Mahi-mahi",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_11",
+    "jp": "シマアジ",
+    "en": "Striped Jack",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_12",
+    "jp": "ツムブリ",
+    "en": "Rainbow Runner",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_13",
+    "jp": "ヒラマサ",
+    "en": "Kingfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_14",
+    "jp": "フエフキダイ",
+    "en": "Emperor",
+    "notes": "Lethrinus haematopterus, emperor."
+   },
+   {
+    "id": "fish_title_15",
+    "jp": "ブダイ",
+    "en": "Parrotfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_16",
+    "jp": "マハタ",
+    "en": "Grouper",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_17",
+    "jp": "メジナ",
+    "en": "Opaleye",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_18",
+    "jp": "メジマグロ",
+    "en": "Young Bluefin",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_19",
+    "jp": "ワラサ",
+    "en": "Big Yellowtail",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_20",
+    "jp": "アイゴ",
+    "en": "Rabbitfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_21",
+    "jp": "アイナメ",
+    "en": "Greenling",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_22",
+    "jp": "アオブダイ",
+    "en": "Blue Parrotfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_23",
+    "jp": "アジ",
+    "en": "Jack Mackerel",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_24",
+    "jp": "イシガキフグ",
+    "en": "Burrfish",
+    "notes": "Chilomycterus reticulatus, spotfin burrfish."
+   },
+   {
+    "id": "fish_title_25",
+    "jp": "ウツボ",
+    "en": "Moray Eel",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_26",
+    "jp": "ウマヅラハギ",
+    "en": "Horse Filefish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_27",
+    "jp": "エイ",
+    "en": "Stingray",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_28",
+    "jp": "オニオコゼ",
+    "en": "Devil Stinger",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_29",
+    "jp": "オニカサゴ",
+    "en": "Stingfish",
+    "notes": "Scorpaenopsis cirrosa, weedy stingfish. Not in Umi no Nushi Tsuri."
+   },
+   {
+    "id": "fish_title_30",
+    "jp": "カイワリ",
+    "en": "Trevally",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_31",
+    "jp": "カゴカキダイ",
+    "en": "Stripey",
+    "notes": "Microcanthus strigatus, stripey."
+   },
+   {
+    "id": "fish_title_32",
+    "jp": "カマス",
+    "en": "Barracuda",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_33",
+    "jp": "カワハギ",
+    "en": "Filefish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_34",
+    "jp": "キス",
+    "en": "Whiting",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_35",
+    "jp": "クロダイ",
+    "en": "Black Porgy",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_36",
+    "jp": "サヨリ",
+    "en": "Halfbeak",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_37",
+    "jp": "サワラ",
+    "en": "Seerfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_38",
+    "jp": "タカノハダイ",
+    "en": "Morwong",
+    "notes": "Goniistius zonatus, spottedtail morwong."
+   },
+   {
+    "id": "fish_title_39",
+    "jp": "タカベ",
+    "en": "Butterfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_40",
+    "jp": "タチウオ",
+    "en": "Cutlassfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_41",
+    "jp": "ダツ",
+    "en": "Needlefish",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_42",
+    "jp": "ニザダイ",
+    "en": "Surgeonfish",
+    "notes": "Prionurus scalprum, sawtail surgeonfish."
+   },
+   {
+    "id": "fish_title_43",
+    "jp": "ヒラスズキ",
+    "en": "Blackfin Bass",
+    "notes": "Lateolabrax latus, blackfin sea bass."
+   },
+   {
+    "id": "fish_title_44",
+    "jp": "ヒラメ",
+    "en": "Flounder",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_45",
+    "jp": "フグ",
+    "en": "Puffer",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_46",
+    "jp": "ベラ",
+    "en": "Wrasse",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_47",
+    "jp": "ホウボウ",
+    "en": "Gurnard",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_48",
+    "jp": "ボラ",
+    "en": "Mullet",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_49",
+    "jp": "マサバ",
+    "en": "Mackerel",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_50",
+    "jp": "マダイ",
+    "en": "Red Sea Bream",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_51",
+    "jp": "ムロアジ",
+    "en": "Round Scad",
+    "notes": ""
+   },
+   {
+    "id": "fish_title_52",
+    "jp": "ヌシ",
+    "en": "Sea King",
+    "notes": "ぬし: Sea King, as in Super Legend of the Sea King (海のぬし)."
+   }
+  ]
+ },
+ "fish_name": {
+  "base": "0x1510B",
+  "stride": 12,
+  "count": 53,
+  "entries": [
+   {
+    "id": "fish_name_00",
+    "jp": "イサキ",
+    "en": "Grunt",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_01",
+    "jp": "イシガキダイ",
+    "en": "Spot Beakfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_02",
+    "jp": "イシダイ",
+    "en": "Beakfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_03",
+    "jp": "イスズミ",
+    "en": "Rudderfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_04",
+    "jp": "イナダ",
+    "en": "Jr. Yellowtail",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_05",
+    "jp": "カサゴ",
+    "en": "Scorpionfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_06",
+    "jp": "カツオ",
+    "en": "Bonito",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_07",
+    "jp": "カッポレ",
+    "en": "Black Trevally",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_08",
+    "jp": "カンパチ",
+    "en": "Amberjack",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_09",
+    "jp": "クエ",
+    "en": "Kelp Grouper",
+    "notes": "Same species as Umi no Nushi Tsuri's モロコ (Kanto name), which that patch calls Kelp Grouper."
+   },
+   {
+    "id": "fish_name_10",
+    "jp": "シイラ",
+    "en": "Mahi-mahi",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_11",
+    "jp": "シマアジ",
+    "en": "Striped Jack",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_12",
+    "jp": "ツムブリ",
+    "en": "Rainbow Runner",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_13",
+    "jp": "ヒラマサ",
+    "en": "Kingfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_14",
+    "jp": "フエフキダイ",
+    "en": "Emperor",
+    "notes": "Lethrinus haematopterus, emperor."
+   },
+   {
+    "id": "fish_name_15",
+    "jp": "ブダイ",
+    "en": "Parrotfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_16",
+    "jp": "マハタ",
+    "en": "Grouper",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_17",
+    "jp": "メジナ",
+    "en": "Opaleye",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_18",
+    "jp": "メジマグロ",
+    "en": "Young Bluefin",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_19",
+    "jp": "ワラサ",
+    "en": "Big Yellowtail",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_20",
+    "jp": "アイゴ",
+    "en": "Rabbitfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_21",
+    "jp": "アイナメ",
+    "en": "Greenling",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_22",
+    "jp": "アオブダイ",
+    "en": "Blue Parrotfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_23",
+    "jp": "アジ",
+    "en": "Jack Mackerel",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_24",
+    "jp": "イシガキフグ",
+    "en": "Burrfish",
+    "notes": "Chilomycterus reticulatus, spotfin burrfish."
+   },
+   {
+    "id": "fish_name_25",
+    "jp": "ウツボ",
+    "en": "Moray Eel",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_26",
+    "jp": "ウマヅラハギ",
+    "en": "Horse Filefish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_27",
+    "jp": "エイ",
+    "en": "Stingray",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_28",
+    "jp": "オニオコゼ",
+    "en": "Devil Stinger",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_29",
+    "jp": "オニカサゴ",
+    "en": "Stingfish",
+    "notes": "Scorpaenopsis cirrosa, weedy stingfish. Not in Umi no Nushi Tsuri."
+   },
+   {
+    "id": "fish_name_30",
+    "jp": "カイワリ",
+    "en": "Trevally",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_31",
+    "jp": "カゴカキダイ",
+    "en": "Stripey",
+    "notes": "Microcanthus strigatus, stripey."
+   },
+   {
+    "id": "fish_name_32",
+    "jp": "カマス",
+    "en": "Barracuda",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_33",
+    "jp": "カワハギ",
+    "en": "Filefish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_34",
+    "jp": "キス",
+    "en": "Whiting",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_35",
+    "jp": "クロダイ",
+    "en": "Black Porgy",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_36",
+    "jp": "サヨリ",
+    "en": "Halfbeak",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_37",
+    "jp": "サワラ",
+    "en": "Seerfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_38",
+    "jp": "タカノハダイ",
+    "en": "Morwong",
+    "notes": "Goniistius zonatus, spottedtail morwong."
+   },
+   {
+    "id": "fish_name_39",
+    "jp": "タカベ",
+    "en": "Butterfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_40",
+    "jp": "タチウオ",
+    "en": "Cutlassfish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_41",
+    "jp": "ダツ",
+    "en": "Needlefish",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_42",
+    "jp": "ニザダイ",
+    "en": "Surgeonfish",
+    "notes": "Prionurus scalprum, sawtail surgeonfish."
+   },
+   {
+    "id": "fish_name_43",
+    "jp": "ヒラスズキ",
+    "en": "Blackfin Bass",
+    "notes": "Lateolabrax latus, blackfin sea bass."
+   },
+   {
+    "id": "fish_name_44",
+    "jp": "ヒラメ",
+    "en": "Flounder",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_45",
+    "jp": "フグ",
+    "en": "Puffer",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_46",
+    "jp": "ベラ",
+    "en": "Wrasse",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_47",
+    "jp": "ホウボウ",
+    "en": "Gurnard",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_48",
+    "jp": "ボラ",
+    "en": "Mullet",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_49",
+    "jp": "マサバ",
+    "en": "Mackerel",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_50",
+    "jp": "マダイ",
+    "en": "Red Sea Bream",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_51",
+    "jp": "ムロアジ",
+    "en": "Round Scad",
+    "notes": ""
+   },
+   {
+    "id": "fish_name_52",
+    "jp": "ヌシ",
+    "en": "Sea King",
+    "notes": "ぬし: Sea King, as in Super Legend of the Sea King (海のぬし)."
+   }
+  ]
+ },
+ "mode": {
+  "base": "0x14ECC",
+  "stride": 15,
+  "count": 5,
+  "entries": [
+   {
+    "id": "mode_00",
+    "jp": "ルアー釣り篇",
+    "en": "Lure Fishing",
+    "notes": "ルアー釣り篇"
+   },
+   {
+    "id": "mode_01",
+    "jp": "生きエサ釣り篇",
+    "en": "Live Bait",
+    "notes": "生きエサ釣り篇"
+   },
+   {
+    "id": "mode_02",
+    "jp": "タラシ釣り篇",
+    "en": "Drop Fishing",
+    "notes": "タラシ釣り篇: tarashi, bait hung straight down"
+   },
+   {
+    "id": "mode_03",
+    "jp": "コマセ釣り篇",
+    "en": "Chum Fishing",
+    "notes": "コマセ釣り篇: komase, fishing over chum"
+   },
+   {
+    "id": "mode_04",
+    "jp": "ブッ込み釣り篇",
+    "en": "Bottom Fishing",
+    "notes": "ブッ込み釣り篇: bukkomi, heavy bottom rig"
+   }
+  ]
+ },
+ "bait": {
+  "base": "0x14F17",
+  "stride": 20,
+  "count": 25,
+  "entries": [
+   {
+    "id": "bait_00",
+    "jp": "メタルジグ",
+    "en": "Metal Jig",
+    "notes": ""
+   },
+   {
+    "id": "bait_01",
+    "jp": "スプーン",
+    "en": "Spoon",
+    "notes": ""
+   },
+   {
+    "id": "bait_02",
+    "jp": "フローティングミノー",
+    "en": "Floating Minnow",
+    "notes": ""
+   },
+   {
+    "id": "bait_03",
+    "jp": "ディープダイバー",
+    "en": "Deep Diver",
+    "notes": ""
+   },
+   {
+    "id": "bait_04",
+    "jp": "シンキングミノー",
+    "en": "Sinking Minnow",
+    "notes": ""
+   },
+   {
+    "id": "bait_05",
+    "jp": "イワシ",
+    "en": "Sardine",
+    "notes": ""
+   },
+   {
+    "id": "bait_06",
+    "jp": "小アジ",
+    "en": "Small Scad",
+    "notes": ""
+   },
+   {
+    "id": "bait_07",
+    "jp": "ムロアジ",
+    "en": "Round Scad",
+    "notes": ""
+   },
+   {
+    "id": "bait_08",
+    "jp": "イソメ",
+    "en": "Lugworm",
+    "notes": ""
+   },
+   {
+    "id": "bait_09",
+    "jp": "ゴカイ",
+    "en": "Ragworm",
+    "notes": ""
+   },
+   {
+    "id": "bait_10",
+    "jp": "オキアミ",
+    "en": "Krill",
+    "notes": ""
+   },
+   {
+    "id": "bait_11",
+    "jp": "タンザクイカ",
+    "en": "Squid Strip",
+    "notes": ""
+   },
+   {
+    "id": "bait_12",
+    "jp": "イワシ",
+    "en": "Sardine",
+    "notes": ""
+   },
+   {
+    "id": "bait_13",
+    "jp": "ハンペン",
+    "en": "Hanpen",
+    "notes": ""
+   },
+   {
+    "id": "bait_14",
+    "jp": "オキアミ（大）",
+    "en": "Krill (L)",
+    "notes": ""
+   },
+   {
+    "id": "bait_15",
+    "jp": "オキアミ（中）",
+    "en": "Krill (M)",
+    "notes": ""
+   },
+   {
+    "id": "bait_16",
+    "jp": "オキアミ（小）",
+    "en": "Krill (S)",
+    "notes": ""
+   },
+   {
+    "id": "bait_17",
+    "jp": "サザエ",
+    "en": "Turban Shell",
+    "notes": ""
+   },
+   {
+    "id": "bait_18",
+    "jp": "アワビ",
+    "en": "Abalone",
+    "notes": ""
+   },
+   {
+    "id": "bait_19",
+    "jp": "カニ",
+    "en": "Crab",
+    "notes": ""
+   },
+   {
+    "id": "bait_20",
+    "jp": "ハンバノリ",
+    "en": "Habanori",
+    "notes": ""
+   },
+   {
+    "id": "bait_21",
+    "jp": "イワシ",
+    "en": "Sardine",
+    "notes": ""
+   },
+   {
+    "id": "bait_22",
+    "jp": "赤貝",
+    "en": "Ark Shell",
+    "notes": ""
+   },
+   {
+    "id": "bait_23",
+    "jp": "ウニ",
+    "en": "Sea Urchin",
+    "notes": ""
+   },
+   {
+    "id": "bait_24",
+    "jp": "ヤドカリ",
+    "en": "Hermit Crab",
+    "notes": ""
+   }
+  ]
+ },
+ "chapter": {
+  "base": "0x15387",
+  "stride": 19,
+  "count": 65,
+  "entries": [
+   {
+    "id": "chapter_00",
+    "jp": "イサキの巻き",
+    "en": "Grunt Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_01",
+    "jp": "アジの巻き",
+    "en": "Jack Mackerel Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_02",
+    "jp": "シマアジの巻き",
+    "en": "Striped Jack Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_03",
+    "jp": "ウマヅラハギの巻き",
+    "en": "Horse Filefish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_04",
+    "jp": "カゴカキダイの巻き",
+    "en": "Stripey Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_05",
+    "jp": "カワハギの巻き",
+    "en": "Filefish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_06",
+    "jp": "タカノハダイの巻き",
+    "en": "Morwong Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_07",
+    "jp": "ニザダイの巻き",
+    "en": "Surgeonfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_08",
+    "jp": "マダイの巻き",
+    "en": "Red Sea Bream Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_09",
+    "jp": "メジナの巻き",
+    "en": "Opaleye Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_10",
+    "jp": "メジナの巻き",
+    "en": "Opaleye Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_11",
+    "jp": "メジナの巻き",
+    "en": "Opaleye Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_12",
+    "jp": "タカベの巻き",
+    "en": "Butterfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_13",
+    "jp": "シマアジの巻き",
+    "en": "Striped Jack Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_14",
+    "jp": "ムロアジの巻き",
+    "en": "Round Scad Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_15",
+    "jp": "アイゴの巻き",
+    "en": "Rabbitfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_16",
+    "jp": "アイナメの巻き",
+    "en": "Greenling Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_17",
+    "jp": "アオブダイの巻き",
+    "en": "Blue Parrotfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_18",
+    "jp": "イシガキフグの巻き",
+    "en": "Burrfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_19",
+    "jp": "オニオコゼの巻き",
+    "en": "Devil Stinger Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_20",
+    "jp": "オニカサゴの巻き",
+    "en": "Stingfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_21",
+    "jp": "キスの巻き",
+    "en": "Whiting Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_22",
+    "jp": "クロダイの巻き",
+    "en": "Black Porgy Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_23",
+    "jp": "サヨリの巻き",
+    "en": "Halfbeak Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_24",
+    "jp": "フグの巻き",
+    "en": "Puffer Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_25",
+    "jp": "ベラの巻き",
+    "en": "Wrasse Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_26",
+    "jp": "ボラの巻き",
+    "en": "Mullet Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_27",
+    "jp": "カンパチの巻き",
+    "en": "Amberjack Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_28",
+    "jp": "カンパチの巻き",
+    "en": "Amberjack Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_29",
+    "jp": "カンパチの巻き",
+    "en": "Amberjack Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_30",
+    "jp": "クエの巻き",
+    "en": "Kelp Grouper Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_31",
+    "jp": "クエの巻き",
+    "en": "Kelp Grouper Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_32",
+    "jp": "ヒラメの巻き",
+    "en": "Flounder Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_33",
+    "jp": "サワラの巻き",
+    "en": "Seerfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_34",
+    "jp": "ダツの巻き",
+    "en": "Needlefish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_35",
+    "jp": "ヒラマサの巻き",
+    "en": "Kingfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_36",
+    "jp": "メジマグロの巻き",
+    "en": "Young Bluefin Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_37",
+    "jp": "カイワリの巻き",
+    "en": "Trevally Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_38",
+    "jp": "ツムブリの巻き",
+    "en": "Rainbow Runner Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_39",
+    "jp": "カマスの巻き",
+    "en": "Barracuda Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_40",
+    "jp": "シイラの巻き",
+    "en": "Mahi-mahi Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_41",
+    "jp": "タチウオの巻き",
+    "en": "Cutlassfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_42",
+    "jp": "カッポレの巻き",
+    "en": "Black Trevally Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_43",
+    "jp": "カッポレの巻き",
+    "en": "Black Trevally Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_44",
+    "jp": "ヒラスズキの巻き",
+    "en": "Blackfin Bass Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_45",
+    "jp": "カツオの巻き",
+    "en": "Bonito Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_46",
+    "jp": "ワラサの巻き",
+    "en": "Big Yellowtail Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_47",
+    "jp": "マサバの巻き",
+    "en": "Mackerel Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_48",
+    "jp": "イナダの巻き",
+    "en": "Jr. Yellowtail Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_49",
+    "jp": "イシガキダイの巻き",
+    "en": "Spot Beakfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_50",
+    "jp": "イシガキダイの巻き",
+    "en": "Spot Beakfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_51",
+    "jp": "イシガキダイの巻き",
+    "en": "Spot Beakfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_52",
+    "jp": "イシダイの巻き",
+    "en": "Beakfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_53",
+    "jp": "イシダイの巻き",
+    "en": "Beakfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_54",
+    "jp": "イシダイの巻き",
+    "en": "Beakfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_55",
+    "jp": "ウツボの巻き",
+    "en": "Moray Eel Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_56",
+    "jp": "エイの巻き",
+    "en": "Stingray Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_57",
+    "jp": "イスズミの巻き",
+    "en": "Rudderfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_58",
+    "jp": "カサゴの巻き",
+    "en": "Scorpionfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_59",
+    "jp": "フエフキダイの巻き",
+    "en": "Emperor Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_60",
+    "jp": "ブダイの巻き",
+    "en": "Parrotfish Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_61",
+    "jp": "マハタの巻き",
+    "en": "Grouper Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_62",
+    "jp": "マハタの巻き",
+    "en": "Grouper Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_63",
+    "jp": "ホウボウの巻き",
+    "en": "Gurnard Chapter",
+    "notes": ""
+   },
+   {
+    "id": "chapter_64",
+    "jp": "ヌシの巻き",
+    "en": "Sea King Chapter",
+    "notes": ""
+   }
+  ]
+ },
+ "spot": {
+  "base": "0x1585A",
+  "stride": 12,
+  "count": 65,
+  "entries": [
+   {
+    "id": "spot_00",
+    "jp": "六双根沖",
+    "en": "Off Rokusōne",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_01",
+    "jp": "伊豆岬沖",
+    "en": "Off Cape Izu",
+    "notes": ""
+   },
+   {
+    "id": "spot_02",
+    "jp": "湯ノ浜沖",
+    "en": "Off Yunohama",
+    "notes": ""
+   },
+   {
+    "id": "spot_03",
+    "jp": "三七山沖",
+    "en": "Off Sanshichiyama",
+    "notes": ""
+   },
+   {
+    "id": "spot_04",
+    "jp": "サタドー岬沖",
+    "en": "Off Cape Satadō",
+    "notes": ""
+   },
+   {
+    "id": "spot_05",
+    "jp": "三池浜沖",
+    "en": "Off Miikehama",
+    "notes": ""
+   },
+   {
+    "id": "spot_06",
+    "jp": "クラマ根沖",
+    "en": "Off Kuramane",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_07",
+    "jp": "ツル根岬沖",
+    "en": "Off Cape Tsurune",
+    "notes": ""
+   },
+   {
+    "id": "spot_08",
+    "jp": "新鼻沖",
+    "en": "Off Shinbana",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_09",
+    "jp": "新澪池沖",
+    "en": "Off Shinmyōike",
+    "notes": ""
+   },
+   {
+    "id": "spot_10",
+    "jp": "薄木沖",
+    "en": "Off Usuki",
+    "notes": ""
+   },
+   {
+    "id": "spot_11",
+    "jp": "間鼻沖",
+    "en": "Off Mabana",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_12",
+    "jp": "富賀神社沖",
+    "en": "Off Tomiga Shrine",
+    "notes": ""
+   },
+   {
+    "id": "spot_13",
+    "jp": "阿古沖",
+    "en": "Off Ako",
+    "notes": ""
+   },
+   {
+    "id": "spot_14",
+    "jp": "錆ｹ浜沖",
+    "en": "Off Sabigahama",
+    "notes": ""
+   },
+   {
+    "id": "spot_15",
+    "jp": "大根東沖",
+    "en": "Off Ōne East",
+    "notes": ""
+   },
+   {
+    "id": "spot_16",
+    "jp": "大根南沖",
+    "en": "Off Ōne South",
+    "notes": ""
+   },
+   {
+    "id": "spot_17",
+    "jp": "文蔵根東沖",
+    "en": "Off Bunzōne East",
+    "notes": ""
+   },
+   {
+    "id": "spot_18",
+    "jp": "文蔵根南沖",
+    "en": "Off Bunzōne South",
+    "notes": ""
+   },
+   {
+    "id": "spot_19",
+    "jp": "文蔵根西沖",
+    "en": "Off Bunzōne West",
+    "notes": ""
+   },
+   {
+    "id": "spot_20",
+    "jp": "マカド根南沖",
+    "en": "Off Makadone South",
+    "notes": ""
+   },
+   {
+    "id": "spot_21",
+    "jp": "マカド根西沖",
+    "en": "Off Makadone West",
+    "notes": ""
+   },
+   {
+    "id": "spot_22",
+    "jp": "マカド根北沖",
+    "en": "Off Makadone North",
+    "notes": ""
+   },
+   {
+    "id": "spot_23",
+    "jp": "カサゴ根沖",
+    "en": "Off Kasagone",
+    "notes": ""
+   },
+   {
+    "id": "spot_24",
+    "jp": "エビ根沖",
+    "en": "Off Ebine",
+    "notes": ""
+   },
+   {
+    "id": "spot_25",
+    "jp": "ノコギリ根沖",
+    "en": "Off Nokogirine",
+    "notes": ""
+   },
+   {
+    "id": "spot_26",
+    "jp": "子安島沖",
+    "en": "Off Koyasujima",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_27",
+    "jp": "徳利根沖",
+    "en": "Off Tokkurine",
+    "notes": ""
+   },
+   {
+    "id": "spot_28",
+    "jp": "御蔵島北東沖",
+    "en": "Off Mikurajima NE",
+    "notes": ""
+   },
+   {
+    "id": "spot_29",
+    "jp": "スバル岩沖",
+    "en": "Off Subaru Rock",
+    "notes": ""
+   },
+   {
+    "id": "spot_30",
+    "jp": "御蔵島南東沖",
+    "en": "Off Mikurajima SE",
+    "notes": ""
+   },
+   {
+    "id": "spot_31",
+    "jp": "元根北東沖",
+    "en": "Off Motone NE",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_32",
+    "jp": "元根東沖",
+    "en": "Off Motone East",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_33",
+    "jp": "元根南沖",
+    "en": "Off Motone South",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_34",
+    "jp": "元根西沖",
+    "en": "Off Motone West",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_35",
+    "jp": "川口の滝沖",
+    "en": "Off Kawaguchi Falls",
+    "notes": ""
+   },
+   {
+    "id": "spot_36",
+    "jp": "横塚根沖",
+    "en": "Off Yokozukane",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_37",
+    "jp": "小池根北沖",
+    "en": "Off Koikene North",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_38",
+    "jp": "小池根北西沖",
+    "en": "Off Koikene NW",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_39",
+    "jp": "小池根南西沖",
+    "en": "Off Koikene SW",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_40",
+    "jp": "小池根南沖",
+    "en": "Off Koikene South",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_41",
+    "jp": "横瀬根北沖",
+    "en": "Off Yokosene North",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_42",
+    "jp": "横瀬根東沖",
+    "en": "Off Yokosene East",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_43",
+    "jp": "横瀬根南沖",
+    "en": "Off Yokosene South",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_44",
+    "jp": "横瀬根南西沖",
+    "en": "Off Yokosene SW",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_45",
+    "jp": "一ノ根南東沖",
+    "en": "Off Ichinone SE",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_46",
+    "jp": "一ノ根北沖",
+    "en": "Off Ichinone North",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_47",
+    "jp": "中根沖",
+    "en": "Off Nakane",
+    "notes": ""
+   },
+   {
+    "id": "spot_48",
+    "jp": "下立鼻沖",
+    "en": "Off Shitatatebana",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_49",
+    "jp": "長崎沖",
+    "en": "Off Nagasaki",
+    "notes": ""
+   },
+   {
+    "id": "spot_50",
+    "jp": "甚太沖",
+    "en": "Off Jinta",
+    "notes": ""
+   },
+   {
+    "id": "spot_51",
+    "jp": "荷浦沖",
+    "en": "Off Niura",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_52",
+    "jp": "エイガ潟沖",
+    "en": "Off Eigagata",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_53",
+    "jp": "ナズマド沖",
+    "en": "Off Nazumado",
+    "notes": ""
+   },
+   {
+    "id": "spot_54",
+    "jp": "神湊港沖",
+    "en": "Off Kaminato Port",
+    "notes": ""
+   },
+   {
+    "id": "spot_55",
+    "jp": "御正体根西沖",
+    "en": "Off Mishōtaine West",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_56",
+    "jp": "御正体根東沖",
+    "en": "Off Mishōtaine East",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_57",
+    "jp": "大根沖",
+    "en": "Off Ōne",
+    "notes": ""
+   },
+   {
+    "id": "spot_58",
+    "jp": "大ｹ根沖",
+    "en": "Off Ōgane",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_59",
+    "jp": "石積ｹ鼻沖",
+    "en": "Off Ishizumigahana",
+    "notes": ""
+   },
+   {
+    "id": "spot_60",
+    "jp": "ハラブト沖",
+    "en": "Off Harabuto",
+    "notes": "UNSURE: reading of the place name"
+   },
+   {
+    "id": "spot_61",
+    "jp": "畳根沖",
+    "en": "Off Tatamine",
+    "notes": ""
+   },
+   {
+    "id": "spot_62",
+    "jp": "横塚沖",
+    "en": "Off Yokozuka",
+    "notes": ""
+   },
+   {
+    "id": "spot_63",
+    "jp": "横間ｹ浦沖",
+    "en": "Off Yokomagaura",
+    "notes": ""
+   },
+   {
+    "id": "spot_64",
+    "jp": "イナンバ沖",
+    "en": "Off Inanba",
+    "notes": ""
+   }
+  ]
+ },
+ "island": {
+  "base": "0x15B66",
+  "stride": 11,
+  "count": 6,
+  "entries": [
+   {
+    "id": "island_00",
+    "jp": "三宅島",
+    "en": "Miyakejima",
+    "notes": ""
+   },
+   {
+    "id": "island_01",
+    "jp": "三本岳",
+    "en": "Sanbondake",
+    "notes": ""
+   },
+   {
+    "id": "island_02",
+    "jp": "御蔵島",
+    "en": "Mikurajima",
+    "notes": ""
+   },
+   {
+    "id": "island_03",
+    "jp": "八丈小島",
+    "en": "Hachijō-kojima",
+    "notes": ""
+   },
+   {
+    "id": "island_04",
+    "jp": "八丈島",
+    "en": "Hachijōjima",
+    "notes": ""
+   },
+   {
+    "id": "island_05",
+    "jp": "イナンバ島",
+    "en": "Inanbajima",
+    "notes": ""
+   }
+  ]
+ }
+}

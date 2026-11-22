@@ -1,0 +1,15 @@
+{
+  "slug": "fune-tarou",
+  "name": "Fune Tarou (English)",
+  "platform": "Super Famicom",
+  "type": "translation",
+  "version": "1.0",
+  "summary": "Complete English translation of Pack-In-Video's 1997 boat-fishing game Fune Tarou, with new fonts sized for every text box, a proportional opening speech and a hand-drawn title subtitle.",
+  "base": {"name": "Fune Tarou (Japan).sfc", "size": 2097152, "crc32": "5D6BA598", "sha1": "2c26f7432fe35c58545063ae44ea7daacbd50de3", "header": false},
+  "patches": [{"file": "patches/FuneTarou_SFC_EN_v1.0.bps", "format": "bps", "result_crc32": "B440B1B2", "result_sha1": "b4485371a627a90c7bc7500b12d4c8c394c29c1c"}],
+  "tested_on": "emulator",
+  "source": "verified",
+  "devlog": true,
+  "ai_assisted": true,
+  "updated": "2026-11-22"
+}
