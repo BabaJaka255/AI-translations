@@ -25,15 +25,28 @@ Known issues:
 - Staff names are romanised from the Japanese credits; a few readings are best guesses.
 - Save states from older versions can show old text already in memory.
 
+## Build on this
+- [src/BUILD.md](src/BUILD.md): how to rebuild the patch from your own copy of the game. The build was verified byte for byte against the published patches.
+- [docs/ENGINE_NOTES.md](docs/ENGINE_NOTES.md): how the game stores its text, fonts and graphics, with addresses and hooks.
+- `src/script/` (`dialogue.tsv`, `ui.tsv`): the whole script, Japanese next to English, one row per string.
+- [DEVLOG.md](DEVLOG.md): how the patch was made, what was tested, and what went wrong along the way.
+
 ## About AI use
 This project was made with substantial help from Claude (Anthropic). Claude did the reverse engineering, all of the ROM-hacking code (expanded ROM, text and name hooks, logo and tag graphics), and the whole translation.
 
 The human tester directed the project, chose the names and English titles, playtested the builds in emulators and reported bugs with screenshots, and designed the title logo.
 
+## License
+Code, tools and docs made for this project: MIT. Translation text and new art: CC BY 4.0. Extracted game material (the Japanese script dumps, tables and graphics in `src/`) remains the property of its rights holders and is included for research and modding.
+
+The New Game / Continue letter masks in `src/art/` were rendered from Noto Sans Condensed Bold (SIL Open Font License 1.1).
+
 ## Credits
 - Testing, direction and title logo design: the project's tester
 - Translation and hacking: Claude (Anthropic)
 - Original game: *Kawa no Nushi Tsuri 5: Fushigi no Mori kara* © 2001 Victor Interactive Software. This is an unofficial fan translation. Please distribute the patch, not patched ROMs.
+- Fonts: Noto Sans Condensed Bold (menu letters)
+- Tools: mGBA (libretro) for testing; Unicorn, Keystone and Capstone; xdelta3
 
 ## Changelog
 - **0.9.2:** Wide m/M; EQUIP tag; English place names on the six Fishing Note maps.

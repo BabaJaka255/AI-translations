@@ -1,0 +1,1 @@
+Put "Kawa no Nushi-tsuri - Hikyou o Motomete (Japan).bin" here, renamed to orig.bin (85,412,880 bytes, CRC32 98CED29A). It is git-ignored.

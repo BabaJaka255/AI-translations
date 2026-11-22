@@ -1,0 +1,221 @@
+# Hikyou o Motomete English script, part 6 (ids 1641-1860): creek village, lake village
+1641|{7:0}:{E}You call that treatment?{D}It was really swollen.
+1642|{7:1}:{E}That's weird.{D}It had a scrape, so I just{E}put some spit on it.
+1643|{7:0}:{E}Hm? What have you been{D}eating all this time?
+1644|{7:1}: This village's specialty,{E}"chili crackers."{D}I love them.
+1645|{7:0}:{E}(Bonk!) You fool!{D}Spit on it while eating{E}those,{D}and of course the wound gets worse.{E}Don't you know that?
+1646|{7:1}:{E}Ow! Sorry, Dad.
+1647|{7:0}:{E}Don't apologize to me.{D}I'll bring medicine. You go on{E}ahead and apologize to the rabbit.
+1648|{7:1}:{E}Okay, Dad.
+1649|{7:0}:{E}Where could the River King be?
+1650|{7:0}: There, I caught one.{E}I'll grill it and try it right away.
+1651|{7:0}: Oh my,{E}how delicious.{D}.{8:6}.{8:6}.{8:6}.But{E}this isn't the River King.{D}Sigh, it looks like the River{E}King isn't here either.
+1652|Farmer's Wife:{E}A fish that makes you younger?{D}Is there such a thing? Oh, I know.{D}Have you ever eaten dark chub?{E}They're delicious.{D}But dark chub only live{E}above the waterfall,{D}so they're hard to catch.
+1653|Farmer's Wife:{E}Did you catch a dark chub?
+1654|Farmer's Wife:{E}Well? Delicious, wasn't it?
+1655|{7:0}: What's wrong? Oh my!{E}That's terribly swollen.
+1656|{7:0}: This needs{E}medicine.{D}All right, wait here.{E}I'll bring some.
+1657|{7:0}:{E}No need to thank me.
+1658|{7:0}:{E}Oh, I wonder what it is.
+1659|{7:0}: A canoe!{E}Now I can go upstream.
+1660|{7:0}: I wish I'd find the{E}River King soon.
+1661|Smooth Guy:{E}Want to go sweetfish fishing?
+1662|{7:0}: Huh? Oh, yes.{E}(Is th-this that fox?)
+1663|Smooth Guy: For sweetfish,{E}decoy fishing is best. Got gear?
+1664|{7:0}:{E}I don't have any.
+1665|Smooth Guy: Then{E}I'll lend you mine.{D}I brought a spare.
+1666|{7:0}:{E}Oh, really? How nice.{D}But I don't know how{E}to use it.{8:6}.{8:6}.{8:6}.
+1667|Smooth Guy: Don't worry.{E}I'll teach you properly.
+1668|{7:0}:{E}Thank you. (He never learns.)
+1669|Smooth Guy:{E}How's it going?
+1670|{7:0}:{E}Not bad.
+1671|Smooth Guy:{E}Oh, you're catching some!{D}Say,{E}how about a break from fishing{D}and a canoe trip{E}down the river?
+1672|{7:0}:{E}A canoe? I wonder.{D}(So that's his game.)
+1673|Smooth Guy:{E}I've got life jackets too.
+1674|{7:0}:{E}Hmm.{D}(Maybe it's time{E}I saw through him.)
+1675|Smooth Guy:{E}So, how about it?
+1676|{7:0}:{E}Oh, you've got a tail!
+1677|Smooth Guy: What, no way!{E}My disguise was perfect.
+1678|{7:0}: I knew it.{E}You're that fox from before.
+1679|Fox:{E}Wh-whoops! Run for it!
+1680|{7:0}:{E}I'll take that canoe!
+1681|{7:0}:{E}Is the River King here?
+1682|{7:0}: A canoe!{E}Now I can go upstream.
+1683|Sanpei: Hey, {7:0}.
+1684|{7:0}: Oh, Sanpei.{E}What are you doing here?
+1685|Sanpei: This and that.{E}Here to buy bait or something?
+1686|{7:0}:{E}No,{D}I found a hurt rabbit{E}on the riverbank,{D}so I want to treat it.
+1687|Sanpei:{E}Huh?{D}Is that the rabbit I saved{E}from a fox?
+1688|{7:0}: Oh, so the one passing by{E}was you, Sanpei.
+1689|Sanpei: Yeah, but I already{E}treated it.
+1690|{7:0}: Really?{E}It was terribly swollen.
+1691|Sanpei:{E}That's weird.{D}It had a scrape, so I just{E}put some spit on it.
+1692|{7:0}: Hm? Sanpei, what have{E}you been eating all this time?
+1693|{7:0}:{E}Butler, where's {7:1}?{D}Hm? Butler, what's wrong?
+1694|Butler:{E}Young master, I have important news.
+1695|{7:0}:{E}What? What important news?
+1696|Butler:{E}The master has ordered{D}me to return{E}to the mansion.
+1697|{7:0}:{E}Go home? Why?
+1698|Butler: I couldn't say.{E}I don't know myself.{D}In any case, you must continue{E}your journey alone.{D}For now, I leave you{E}1000 yen for expenses.{D}Farewell, and take care.
+1699|{7:0}:{E}H-hey! Butler!{D}He's gone.
+1700|{7:0}:{E}Huh. I wonder what it is.
+1701|{7:1}:{E}Ah! {7:0}.
+1702|{7:0}: Hm? {7:1}.{E}So this is where you were.
+1703|{7:1}:{E}You made it this far already?{D}Huh, where's your butler?
+1704|{7:0}:{E}None of your business.{D}More importantly, I found a hurt{E}rabbit on the riverbank.{D}I came to buy medicine{E}to treat it.
+1705|{7:1}:{E}Hm? A hurt rabbit?{D}Is that the rabbit I saved{E}from a fox?
+1706|{7:0}:{E}Oh, so that was you.
+1707|{7:1}: Yeah, but I already{E}treated it.
+1708|{7:0}:{E}You call that treatment?{D}It was really swollen.
+1709|{7:1}: That's weird.{E}It had a scrape,{D}so I just put some spit{E}on it.
+1710|{7:0}: Hm? What have you been{E}eating all this time?
+1711|{7:1}:{E}This village's specialty,{D}"chili crackers."{E}My favorite.
+1712|{7:0}: Spit on it while eating{E}those,{D}and of course the wound gets worse.{E}Don't you know that?
+1713|{7:1}:{E}Oops.
+1714|{7:0}:{E}Honestly, you're hopeless.
+1715|{7:1}: {7:0},{E}I'll leave the rest to you.
+1716|{7:0}: The lake, huh. What fish{E}live here, I wonder?
+1717|Fox:{E}Rustle rustle.{D}Uh-oh. Him again.
+1718|{7:0}:{E}Hm? That fox from before?{D}He'd better not be{E}up to something again.
+1719|{7:0}: Now then,{E}on to the next fishing spot.
+1720|Angler: Fishing for ricefish{E}is pretty fun.
+1721|Angler:{E}Lots of kinds of fish{D}gather in the shallows{E}around here.
+1722|Angler:{E}Darn, it got away again.{D}Bitterling are hard to catch.
+1723|Angler:{E}Pike gudgeon look weird,{D}but they're really tasty.
+1724|Angler: Go on ahead and{E}you'll reach the south lake.{D}Different fish live in the{E}north and south lakes.
+1725|Angler: For snakehead and{E}amur snakehead,{D}frogs are the best bait.
+1726|Angler:{E}Do you know the grass carp?{D}Some big ones grow{E}over a meter long.
+1727|Angler: Can you tell a snakehead from an amur snakehead?
+1728|Angler:{E}When you fish for carp,{D}you'd better use a big{E}casting rod.
+1729|Angler: Actually, this is the{E}secret spot for white crucian.
+1730|Angler:{E}I won't lose!{D}This time I'll win the{E}White Crucian Contest.
+1731|Angler:{E}White crucian fishing runs deep.{D}It took me 20 years{E}to get this far.
+1732|Angler: The white crucian around{E}here are small.
+1733|Angler: I'm going to catch a big eel{E}and feed it to my mom.{D}But eels only bite{E}in the evening.
+1734|Villager: This lake is split{E}into north and south.{D}The fish in the north and south{E}are completely different.
+1735|Official: The contest entry fee{E}is 150 yen.{D}First prize is 1500 yen.{D}The total length of 5 white{E}crucian decides the winner.{D}Will you enter?{E}{>16}Yes{>80}No
+1736|Official:{E}I can only measure once.{D}Shall I measure?{E}{>16}Yes{>80}No
+1737|Official: {7:0},{E}you are the winner!{D}Please accept your{E}1500 yen prize.
+1738|Official: Sorry,{E}someone else took 1st.
+1739|Official: Go catch{E}a big one!
+1740|Official:{E}Congratulations on your win!
+1741|Official:{E}Too bad.
+1742|Boy: They say a monster has been showing up at the inn up ahead.
+1743|Boy: So the monster{E}was really a fox!
+1744|Innkeeper:{E}Oh?{D}Someone wants to stay here?{E}That's rare.
+1745|{7:0}:{E}What do you mean?
+1746|Innkeeper: Well, it seems a monster{E}appears at this inn.{D}I've never seen it myself.{D}But several guests{E}were troubled by it.{D}Now nobody comes{E}to stay anymore.
+1747|{7:0}:{E}Troubled how?
+1748|Innkeeper:{E}Nothing too serious.{D}Some were scared stiff, some{E}nearly had their clothes stolen.
+1749|{7:0}:{E}Nobody got hurt?
+1750|Innkeeper: Yes, oddly enough,{E}not a single person was hurt.
+1751|{7:0}:{E}That monster sounds fishy.
+1752|Innkeeper:{E}Hm? Fishy?
+1753|{7:0}:{E}Hmm, I can't explain it,{D}but I'll look into it.
+1754|Innkeeper:{E}Will you be all right?
+1755|{7:1}: No worries, no worries.{E}Leave it to me.
+1756|Innkeeper:{E}Well then, I'm counting on you.
+1757|{7:1}: Probably that{E}fox's doing.{D}But how{E}do I expose him?{D}I know, fried tofu!{E}I'll use that.{D}Does the tackle shop sell it?
+1758|Innkeeper:{E}Find anything out?{D}If you're staying,{E}it's free.
+1759|Innkeeper: Thank you for getting{E}rid of the monster.{D}From now on, stay here{E}free any time.
+1760|Monster:{E}Grooah, grooah!
+1761|{7:1}:{E}There you are, monster!
+1762|{7:1}: Yuck,{E}that is seriously gross.
+1763|Monster: Grooah.{E}(Uh-oh, it's him.)
+1764|{7:1}:{E}Hey, you fox!{D}I know it's{E}you.{D}Knock off the pranks{E}already.
+1765|Monster: Grooah.{E}What are you talking aboooout?{D}I'll strip you bare{E}and eat you uuup!
+1766|{7:1}:{E}Playing dumb, huh?{D}Then how about this!
+1767|Monster:{E}Ah, fried tofu!
+1768|{7:1}:{E}See! What's that tail then?!
+1769|Monster:{E}Wh-whoops!
+1770|Innkeeper: You sneaky fox,{E}I'll teach you a lesson.
+1771|Fox: Eeek,{E}I'm sorry. Forgive me!
+1772|Innkeeper: Forgive you?{E}I'll make fox stew out of you.
+1773|Fox:{E}Eeek, help me!
+1774|{7:1}:{E}Mister, wait a second.
+1775|Innkeeper:{E}What is it, son?
+1776|{7:1}:{E}Please forgive him.
+1777|Innkeeper:{E}No way.{D}Thanks to him, my inn{E}nearly went under.
+1778|{7:1}:{E}That's why{D}you should make him{E}work it off.{D}An inn with a fox for a clerk{E}would be really popular.
+1779|Innkeeper:{E}Hmm, I see.{D}Hey, fox! Work for me and{E}I'll let you off this time.{D}What do you say?
+1780|Fox: Yes, sir!{E}I'll do it.
+1781|Innkeeper:{E}Good. You start today.{D}Slack off and you're in trouble.
+1782|Fox:{E}Thank you so much.{D}I'll never forget{E}your kindness.
+1783|{7:1}: Really?{E}I don't quite trust him.
+1784|Fox: R-really! As thanks, I'll tell you where a huge snakehead lives.{D}It's in the weeds at the very north end of the north lake.
+1785|{7:1}: All right!{E}I'll go fishing right away.
+1786|{7:0}: The lake, huh. It's been{E}a while since I've seen him.{D}He said he took over his{E}family's inn.
+1787|Boy: They say a ghost{E}haunts the inn up ahead lately.
+1788|Boy: So the ghost story{E}was just a rumor.
+1789|Innkeeper: Well, look who it is,{E}{7:0}!{D}Long time no see!
+1790|{7:0}:{E}Long time no see.{D}So, is business{E}good at the inn?
+1791|Innkeeper: Well, the thing is,{E}a ghost started haunting the inn.{D}The guests won't come{E}near the place.
+1792|{7:0}:{E}A ghost? Don't be silly!
+1793|Innkeeper:{E}It's true.{D}It shows up most when{E}anglers stay.{D}Hardly anyone but anglers{E}comes out here,{D}so business is dead.
+1794|{7:0}:{E}I see. That's rough.
+1795|Innkeeper: Yeah. This inn has been{E}passed down for generations,{D}and it may end{E}with me.
+1796|{7:0}: What are you saying?!{E}Don't be so weak.{D}All right, I'll do something.
+1797|Innkeeper: Do something?{E}Like what?
+1798|{7:0}: Well, first I'll{E}go meet this ghost of yours.{D}I need to get something ready,{E}so I'll be back later.
+1799|Innkeeper:{E}That's easy enough, but...
+1800|{7:0}: For a ghost, a talisman.{E}Does the tackle shop sell them?
+1801|Innkeeper: All set?{E}If you're staying, it's free.
+1802|Innkeeper:{E}Did you catch an eel?
+1803|Innkeeper: You saved me.{E}Now the inn is safe.
+1804|Ghost:{E}Eeeel... eeeel...
+1805|{7:0}:{E}There you are, ghost!
+1806|{7:0}:{E}Take this talisman, ghost!
+1807|{7:0}:{E}Huh, it's not working at all.
+1808|{7:0}:{E}Hm? It's saying something.
+1809|{7:0}: You...{E}you want to eat an eel?
+1810|Ghost:{E}Eeeel... want to eeeat...
+1811|{7:0}:{E}Got it.{D}I'll catch you an eel{E}and let you eat it.
+1812|Ghost:{E}Eeeel...
+1813|Innkeeper:{E}{7:0}, how was the ghost?
+1814|{7:0}: It showed up.{D}That ghost must want to eat an eel so badly it can't rest in peace.
+1815|Innkeeper:{E}What?!
+1816|{7:0}: Anyway, I'll go{E}catch an eel.
+1817|Innkeeper: Please. I haven't{E}fished in years.
+1818|{7:0}:{E}Leave it to me.
+1819|{7:0}:{E}Here you go, an eel.
+1820|{7:0}: It's really eating it.{E}How strange.
+1821|Ghost: Now I can rest in peace.{E}Thank yoooou.
+1822|{7:0}:{E}Case closed, I guess.
+1823|Innkeeper: You saved me.{E}Thank you so much.
+1824|{7:0}:{E}Don't mention it.{D}By the way, I have a favor{E}to ask you too.
+1825|Innkeeper:{E}What is it?{D}If I can do it,{E}just say the word.
+1826|{7:0}: Actually, I'm on a journey{E}to catch the River King.{D}Will you come with me again?
+1827|Innkeeper:{E}Hmm, sorry.{D}I have to get this inn{E}back on its feet.{D}Please let me off.
+1828|{7:0}: I see. Of course.{E}Sorry for asking too much.
+1829|Innkeeper: No, I'm sorry{E}I can't help.{D}But come stay here{E}any time.{D}You're always welcome.
+1830|{7:0}: Yeah, thanks.{E}I'll do that.
+1831|{7:0}: I need to go to the inn{E}and see him.
+1832|{7:0}: I can't abandon{E}a friend in trouble.
+1833|{7:0}: I have to keep my{E}promise to the ghost.
+1834|{7:0}:{E}I've come all the way to the lake.{D}Come to think of it, my husband{E}has a friend{D}who runs an inn{E}around here.{D}I'll go there{E}for now.
+1835|{7:0}: Is this the place?{E}Heave-ho.
+1836|I'll stay at the inn tonight and{E}come back in the morning.{D}I can't wait.
+1837|{7:0}:{E}What? It's gone, it's gone!{D}The catfish I left here{E}is gone!{D}Someone must be playing tricks.{E}Unforgivable!{D}I'll leave another catfish{E}and catch the culprit!
+1838|{7:0}: There.{E}I'll catch the culprit for sure!
+1839|Boy: Hello there,{E}pretty lady.
+1840|{7:0}:{E}Oh, thank you.{D}What a good boy.{E}Here's some pocket money.
+1841|Innkeeper: Well, look who it is,{E}{7:2}'s wife!{D}It's been a long time.
+1842|{7:0}: It's been too long.{E}Is business good at the inn?
+1843|Innkeeper: Oh,{E}so-so, I'd say.{D}By the way, where's your husband?
+1844|{7:0}: Oh, w-well,{E}you see.{8:6}.{8:6}.{8:6}.
+1845|Innkeeper: Don't tell me! You had a{E}fight and stormed out?
+1846|{7:0}: Oh, n-no,{E}nothing like that.{D}(Half right, though.)
+1847|Innkeeper: I see.{E}Well, that's good then.
+1848|{7:0}:{E}I'm looking for the River King.{D}Do you know where{E}it might be?
+1849|Innkeeper:{E}The River King? What's that?
+1850|{7:0}:{E}Well, the truth is.{8:6}.{8:6}.{8:6}.
+1851|Innkeeper: I see.{E}I understand the situation.{D}But I'm afraid I don't know{E}anything about the River King.
+1852|{7:0}:{E}I see.
+1853|Innkeeper: Well, don't lose heart.{E}Make yourself at home.
+1854|Traveling Angler:{E}Hello there.
+1855|{7:0}:{E}Oh, and you are?
+1856|Traveling Angler:{E}Just a traveling angler.{D}As I came into the inn I{E}overheard you just now.{D}Are you seeking the River King{E}to stay young, miss?
+1857|{7:0}: Oh, y-yes.{E}(He called me "miss," tee-hee.)
+1858|Traveling Angler:{E}Then{D}something I know{E}might help you.
+1859|{7:0}:{E}You know something?
+1860|Traveling Angler: Yes. From what I've heard, there's a shrine by the south lake.{D}Place a catfish over 40cm on the shrine's stone.{D}Leave it in the moonlight overnight, then eat it.{D}It's said to make you younger.

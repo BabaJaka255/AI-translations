@@ -1,0 +1,1 @@
+Put "Kawa no Nushi Tsuri 3 & 4 (Japan).gba" here, renamed to k34.gba (4,194,304 bytes, CRC32 4F09CA00). It is git-ignored.

@@ -1,0 +1,221 @@
+# Hikyou o Motomete English script, part 8 (ids 2081-2300): plains village, coast
+2081|Landowner: Interesting.{E}You're on.
+2082|Landowner's Son:{E}Dad!
+2083|Landowner:{E}Oh, with your skill,{D}you'll never lose{E}to a kid like this.
+2084|Landowner's Son:{E}Well, that's true.
+2085|{7:0}:{E}So it's a deal?
+2086|Landowner:{E}Yes, very well.{D}The match is tomorrow.{E}Meet at the south side of the marsh{E}tomorrow morning.
+2087|{7:0}:{E}Okay, got it.{D}South side of the marsh.{E}It's a promise.
+2088|Landowner:{E}So, you came.{D}Let's start the match{E}right away.{D}Whoever catches the biggest{E}carp wins.{D}Agreed?
+2089|{7:0}:{E}Yeah, fine.{D}Let's start already.{E}We're wasting time.
+2090|Landowner:{E}Very well. Begin!
+2091|Landowner's Son:{E}A kid like this for an opponent?{D}This won't even be a contest.
+2092|{7:0}:{E}I win.{D}You'll open the floodgate, right?
+2093|Landowner: Hm, hmph.{E}A promise is a promise. Very well.
+2094|Landowner's Son:{E}Sorry, Dad.
+2095|Landowner:{E}I kept my promise.
+2096|{7:0}: I can't go on until{E}I win the carp-fishing match.
+2097|Landowner's Son:{E}Catch one?
+2098|{7:0}:{E}Yep, I did.{D}Mine's a {B}cm carp.{E}How about yours?
+2099|Landowner's Son:{E}Ugh! {B}cm.{8:6}.{8:6}.{8:6}.
+2100|{7:0}: I wonder how he's{E}doing.{D}He opened a carp restaurant{E}here, if I remember right.
+2101|Villager: The rice is growing well.{E}All thanks to that kid.
+2102|Villager: With the floodgate open,{E}we can relax.{D}What a kid.
+2103|Villager: The floodgate's open.{E}Thank goodness.
+2104|Landowner's Son:{E}You can't pass here.
+2105|{7:0}:{E}I need to talk to the landowner{D}about the carp supply.
+2106|Landowner's Son:{E}What, that?{D}I don't think there's anything{E}to talk about.
+2107|{7:0}: Never mind that.{E}Just go get him.
+2108|Landowner's Son:{E}O-okay.
+2109|Landowner: I hear you want to talk{E}about the carp supply.
+2110|{7:0}: Stop pulling strings{E}behind the scenes.
+2111|Landowner:{E}Oh, so you're with that shop.
+2112|{7:0}:{E}You could say that.
+2113|Landowner:{E}I'm afraid I can't do that.{D}I sank a lot of money into{E}opening my restaurant.
+2114|{7:0}:{E}I see.{D}Then how about this:{E}a carp-cooking contest,{D}and the loser stops doing{E}business in this village?
+2115|Landowner:{E}Interesting. Fine by me.{D}But do you even have{E}any carp to cook?{D}Without it, there's no{E}contest at all.
+2116|{7:0}:{E}Don't worry about that.
+2117|Landowner:{E}If you're so confident,{D}let me taste that cooking.{D}If your dish turns out{E}tastier,{D}I'll close{E}my restaurant.
+2118|{7:0}:{E}Deal.
+2119|Landowner's Son:{E}Another match?{D}You just lost to a kid.{E}Are you sure about this?
+2120|Landowner:{E}Don't worry.{D}My restaurant has first-rate fish{E}and cooks. I won't lose to that shop.
+2121|Owner:{E}How did it go?
+2122|{7:0}:{E}Leave it to me.{D}We're having a carp-cooking contest,{D}and the loser{E}closes shop.
+2123|Owner:{E}Wh-what?!{D}A cooking contest?{E}We don't have any carp!
+2124|{7:0}:{E}Don't worry.{D}I'll take care of the carp.{D}How big a carp{E}do you need?
+2125|Owner:{E}At least 60cm.
+2126|{7:0}: Leave it to me.{E}I'll catch one for sure.{D}In the meantime, get your{E}tools ready.
+2127|Owner:{E}Got it.
+2128|{7:0}:{E}Now, off to catch a carp.
+2129|Landowner's Son:{E}Good luck with that.
+2130|Landowner's Son:{E}Beating my dad's restaurant?{D}That's really something.
+2131|{7:0}:{E}We're ready over here.
+2132|Landowner's Son: Okay.{E}I'll bring my dad.
+2133|Landowner:{E}Here I am.{D}Let me taste this{E}carp dish of yours.
+2134|Owner:{E}Yes, one moment please.
+2135|Owner: It's ready.{E}Please, enjoy.
+2136|Landowner: Let's see...{E}(Munch munch)
+2137|Owner:{E}How is it?
+2138|Landowner: Hm, hmm.{E}(This can't be!)
+2139|{7:0}:{E}What's the matter?
+2140|Landowner:{E}.{8:6}.{8:6}.{8:6}.
+2141|Landowner's Son:{E}Dad, what's wrong?
+2142|Landowner:{E}Th-this one is tastier.
+2143|Landowner's Son:{E}What? That's impossible.
+2144|Landowner:{E}Why?{D}I used the finest ingredients and{E}the finest cooks, so why.{8:6}.{8:6}.{8:6}.
+2145|{7:0}: Mr. Landowner. Your restaurant's food is certainly good.{D}But the tastiest dish is made with carp caught right here, isn't it?
+2146|Landowner:{E}So that's it.{D}I'd forgotten something{E}important.{D}I lose this match.
+2147|{7:0}: Then you won't get in{E}the way of his supply anymore?
+2148|Landowner:{E}Yes, I promise.
+2149|Owner: We did it!{E}Now I can keep the shop going.
+2150|{7:0}:{E}Good for you.{D}(Guess I can't ask him along{E}on my River King journey now.)
+2151|Landowner:{E}I'm keeping my promise.
+2152|{7:0}:{E}Long time no see. How are you?
+2153|Owner: {7:0}! What brings you{E}here so suddenly?
+2154|{7:0}: Actually, I'm setting out{E}after the River King again.
+2155|Owner: Really? Your wife{E}actually let you?
+2156|{7:0}: Y-yeah.{E}With some conditions.{D}More importantly,{E}you seem down.
+2157|Owner: I am. My shop's specialty is carp dishes.{D}But the landowner opened a carp restaurant too,{D}and nearly all my customers went over there.
+2158|{7:0}:{E}Is his food better?
+2159|Owner: No. The landowner must have pulled some strings.{D}I can't get any carp anymore.
+2160|{7:0}:{E}That's rough.
+2161|Owner: Yeah. At this rate I'll{E}have to close the shop.
+2162|{7:0}:{E}All right, I'll do something.
+2163|Owner:{E}You have an idea?
+2164|{7:0}:{E}Just leave it to me.
+2165|Owner:{E}Are you sure?
+2166|Owner: Great, now we have{E}a chance of winning.
+2167|Owner: You saved me.{E}Thank you.{D}Good luck on your River King journey.
+2168|Old Man: I love Yanagawa stew, but my eyes have gone weak.{D}I can't fish for myself. Young one, feed me Yanagawa stew{D}and I'll give you something good. How about it?
+2169|{7:0}:{E}I can't wait for that carp dish.
+2170|{7:0}:{E}I can't go on until{D}I eat a carp dish.
+2171|Villager:{E}A good harvest this year.
+2172|Villager:{E}Grow up big and strong.
+2173|Villager: Lately carp dishes, my favorite,{E}are too pricey to eat.
+2174|Villager:{E}The rice is growing well.
+2175|Landowner: Look at the carp{E}in this pond. Splendid, eh?
+2176|Landowner: Wh-what is it?{E}Why the scary face?
+2177|Landowner:{E}What a fine carp you have.
+2178|Landowner:{E}Carp dishes are delicious.
+2179|{7:0}: It's been a long time.{E}How have you been?
+2180|Owner: Ma'am!{E}What brings you{D}here so suddenly?
+2181|{7:0}: I had a craving for{E}your carp dishes,{D}so I left everyone{E}behind.
+2182|Owner:{E}Is that so?{D}Your husband{E}actually let you?
+2183|{7:0}: (Gulp!){E}Oh ho, oh ho ho.
+2184|Owner: I'm sorry, after you{E}came all this way,{D}but I can't make carp dishes now.
+2185|{7:0}:{E}What! Why not?
+2186|Owner: The landowner here{E}loves carp dishes,{D}and he buys up all the carp{E}for himself. I can't get any.
+2187|{7:0}:{E}Oh, no.
+2188|Owner: You'd have to catch{E}one yourself.
+2189|{7:0}:{E}Hmm, all right.{D}I'll go catch a carp.
+2190|Owner:{E}Really?
+2191|{7:0}:{E}Yes. It's for my youth.
+2192|Owner:{E}Huh?
+2193|{7:0}:{E}N-nothing at all.
+2194|Owner:{E}Oh, looks like you caught one.
+2195|{7:0}: Will a carp this{E}size do?
+2196|Owner: With this I can make{E}a delicious carp dish.
+2197|Owner:{E}Please, enjoy.
+2198|{7:0}:{E}Well then, let's eat.
+2199|{7:0}:{E}That was delicious.
+2200|{7:0}:{E}Huh? That's strange.
+2201|Owner:{E}What is?
+2202|{7:0}: I heard eating carp{E}makes you younger.
+2203|Owner: .{8:6}.{8:6}.{8:6}.It'll give you{E}energy, sure,{D}but making you younger.{8:6}.{8:6}.{8:6}.
+2204|{7:0}: Is that so?{E}So this was wrong too.
+2205|Owner: M-ma'am. You're plenty{E}young just as you are.
+2206|{7:0}:{E}Sigh, thank you.{D}But I think I'll search{E}a little longer{D}for a fish that makes you younger.
+2207|Owner:{E}(So that's what this is about.){D}G-good luck.
+2208|Owner:{E}Did you catch one?
+2209|Owner: How was it?{E}Was the carp dish delicious?
+2210|{7:0}:{E}I see.{D}Will a carp this{E}size do?
+2211|{7:0}: Where could the old{E}man's rod be?
+2212|Villager:{E}Welcome to the plains village.{D}The landowner's son is a{E}bad sort, so be careful.
+2213|Villager:{E}The rice is growing well.
+2214|Landowner's Son:{E}Hello there, pretty lady.{D}What can I do for you?
+2215|{7:0}: I want to go to the coast.{E}Please let me through.
+2216|Landowner's Son:{E}I could let you through,{D}but how about it?{E}A date with me?
+2217|{7:0}:{E}No, thank you.
+2218|Landowner's Son:{E}Oh, how cold.{D}Come on,{E}just a little one.
+2219|{7:0}:{E}No.
+2220|Landowner's Son:{E}I know, here's the deal.{D}We have a carp-fishing match.{D}If you win, I'll let you{E}through the gate.{D}If I win, you go on a date with me{E}for a day. How about it?
+2221|{7:0}: (What a pest.{D}But this is getting{E}me nowhere.){D}All right.
+2222|Landowner's Son:{E}Yes! I'll do my best!{D}The match is tomorrow, then.{E}South side of the marsh, morning.
+2223|{7:0}:{E}All right.
+2224|{7:0}:{E}I need to get some gear.
+2225|Landowner's Son:{E}Hey, you came.{D}Let's start the match{E}right away.{D}Whoever catches the bigger carp{E}wins. Okay?
+2226|{7:0}:{E}Yes, fine.
+2227|Landowner's Son: (Huh?{E}How does she have gear?){D}Okay, begin!
+2228|{7:0}: I win.{E}Now let me through.
+2229|Landowner's Son: Tch! Oh well.{E}A promise is a promise.
+2230|Landowner's Son:{E}How's it going?
+2231|Landowner's Son:{E}Tch, so close.
+2232|Tackle Shop: Sorry. I can't{E}sell you any gear.
+2233|{7:0}:{E}What? Why not?
+2234|Tackle Shop: Well, the young master{E}told me not to.{D}I'm very sorry.
+2235|{7:0}:{E}(The young master?{D}Hmph. So it's his doing.){E}I understand.
+2236|{7:0}: Y-you're that fox{E}from before.{8:6}.{8:6}.{8:6}.{D}And this is a carp rod!
+2237|{7:0}: Thank you.{E}You're not so bad after all.
+2238|{7:0}: Oh, right, I promised{E}to have a fishing match.
+2239|Landowner's Son:{E}I can't wait.
+2240|Old Man: I love Yanagawa stew, but my eyes have gone weak.{D}I can't fish for myself. Young lady, feed me Yanagawa stew{D}and I'll give you something good. How about it?
+2241|Landowner's Son:{E}Catch one?
+2242|{7:0}:{E}Yes, I did.{D}Mine's a {B}cm carp.{E}How about yours?
+2243|Landowner's Son:{E}Tch! {B}cm.{8:6}.{8:6}.{8:6}.
+2244|{7:0}: Where could the old{E}man's rod be?{D}I have to find it for him soon.
+2245|Villager: Lately{E}the landowner's been ill.{D}Everyone in the village says{E}it's payback for{D}how he's behaved.
+2246|Villager: Lately the landowner's{E}become a good man,{D}like a different person.
+2247|Villager:{E}The rice is growing well.
+2248|Landowner's Son: What, my dad's condition? It's not so good.{D}The doctor says to feed him something nourishing,{D}but Dad was always eating carp dishes.{D}The only thing more nourishing is softshell turtle,{D}and softshell turtles are really hard to get.
+2249|{7:0}: Then{E}I'll catch one for you.
+2250|Landowner's Son:{E}Really?{D}But everyone hates{E}my dad, you know.
+2251|{7:0}:{E}If he's sick and suffering,{D}I can't just leave him.
+2252|Landowner's Son:{E}Thank you.{D}I should really go fishing{E}myself, but{D}Dad ordered me{E}to guard this gate.
+2253|{7:0}:{E}It's fine. Leave it to me.
+2254|Landowner's Son: Now Dad{E}will get better.
+2255|Landowner's Son:{E}It's already working.{D}He can't go out by himself{E}yet, but{D}he said to thank you.
+2256|{7:0}:{E}I'm glad.{D}Say,{E}I want to go to the coast.{D}Will you let me through?
+2257|Landowner's Son:{E}Of course.{D}Dad's learned his lesson,{D}and he says he'll stop{E}blocking the road.
+2258|Landowner's Son:{E}Need something?
+2259|Landowner's Son:{E}I'm counting on you.
+2260|Landowner's Son:{E}Thank you.
+2261|Landowner: Thank you so much.{E}Thanks to you I'm well again.
+2262|Old Man: I love Yanagawa stew, but my eyes have gone weak.{D}I can't fish for myself. Little miss, feed me Yanagawa stew{D}and I'll give you something good. How about it?
+2263|{7:0}: This time I'll{E}catch up to {7:1}.
+2264|Villager: Yesterday a kid{E}told me the same thing.
+2265|{7:0}:{E}What? Could it be...{D}Do you know where{E}that kid is?
+2266|Villager: I hear he's having a carp-fishing match at the marsh.
+2267|{7:0}: All right,{E}I'll go there too.
+2268|Villager: I hope that kid{E}wins.
+2269|Villager: You're in the carp match too, kid? We're counting on you!
+2270|Villager:{E}If only I were good at fishing.
+2271|{7:1}: Darn it!{E}Just 1cm short.
+2272|Landowner's Son:{E}Even 1cm is a loss.
+2273|{7:0}:{E}{7:1}, you lost?
+2274|{7:1}:{E}{7:0}.
+2275|Landowner's Son: What?{E}Another weirdo showed up.
+2276|{7:0}:{E}Grr, now you face me!
+2277|Landowner's Son:{E}What? Another match?{D}It'll be the same every time.{E}Right, Dad?
+2278|Landowner:{E}Indeed.
+2279|{7:0}:{E}Scared of losing to me?
+2280|Landowner's Son: Why, this brat{E}and his mouth.
+2281|Landowner:{E}Hmph.{D}If you insist, I don't mind{E}another match.{D}But it won't be free.
+2282|{7:0}:{E}Fine. I'll bet{D}everything I have on me.
+2283|Landowner:{E}Very well.{D}The match is tomorrow.{E}Meet here again tomorrow morning.
+2284|Landowner's Son: Honestly,{E}it'll be the same every time.
+2285|{7:1}:{E}{7:0}, thank you.{D}You saved me.
+2286|{7:0}: I didn't do it{E}for you.
+2287|{7:1}:{E}Yeah, but I'm still glad.
+2288|{7:0}:{E}.{8:6}.{8:6}.{8:6}.
+2289|Landowner's Son:{E}At least make it a little fun.
+2290|Landowner's Son:{E}I can't believe I lost to a kid.
+2291|Landowner:{E}I kept my promise.
+2292|{7:0}: I can't go on until{E}I find where {7:1} is.
+2293|{7:0}:{E}I can smell the sea.
+2294|Angler:{E}Do you like grilled eel?
+2295|Angler: Starry flounder may only bite on the far side of the cape.
+2296|Angler: Sea bass{E}put up a real fight.
+2297|Angler: Seems there's nothing{E}but crabs around here.
+2298|Angler: Goby make great{E}tempura.
+2299|Angler:{E}Around here, not goby{D}but starry flounder seem common.
+2300|Angler: Darn it,{E}I'm after grass puffer,{D}but the crabs keep{E}getting in the way.

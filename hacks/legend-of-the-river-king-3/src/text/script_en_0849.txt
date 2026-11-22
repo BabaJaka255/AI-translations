@@ -1,0 +1,250 @@
+0849	【[0F]Fisherman[0E]】/Wow! Legs!! Hands!! Yahoo!!!
+0850	【[0F]Fisherman[0E]】/Worked hard again today! Food tastes great after a day's work!
+0851	【[0F]Fisherman[0E]】/I heard all about it. The women nearly went off|to marry into the [10]Farmers' Village[0E]!?
+0852	【[0F]Fisherman[0E]】/I wanted to get back to the village even as a fish, but the current was too strong.
+0853	【[0F]Fisherman[0E]】/Well, if it ain't [0F][03][0E].|Did you find out why we got turned into fish?
+0854	【[0F]Fisherman[0E]】/Sorry we left [0F]Angus[0E] out in the cold.|From now on we'll get along.
+0855	【[0F]Fisherman[0E]】/But... what did we ever do to deserve this?|Payback for catching fish? No, surely not, after all this time... Hmm. It still doesn't add up.
+0856	【[0F]Fisherman's Wife[0E]】/The village men are coming back! I'd nearly given up... I'm so glad!|Now then, welcome! What can I do for you?
+0857	Welcome! What can I do for you?
+0858	【[0F]Fisherman's Wife[0E]】/The men went out fishing days ago and still haven't come back.|They're usually back the same day. My husband too... Oh, I'm sorry.|Now then, welcome! What can I do for you?
+0859	【[0F]Fisherman's Wife[0E]】/The women here have never gone out fishing,|so on our own, we don't know what to do.
+0860	【[0F]Fisherman's Wife[0E]】/Guess what! My husband came home.|I never wanted to go to the next village anyway, so I'm glad.
+0861	【[0F]Fisherman's Wife[0E]】/I'm going to marry into the next village.|I didn't know what we'd do from here on, so it's for the best.
+0862	【[0F]Fisherman's Wife[0E]】/When [0F]Angus[0E]'s wife died,|he shut himself away on a deserted island.|He loved his wife so much... He could have married again, too.
+0863	【[0F]Fisherman's Wife[0E]】/This is the [10]Fishermen's Village[0E]. Lately some of the men here have gone missing.|We lived on the fish the men caught, and traded them for vegetables grown in the next village.|Now that it's just us women, what are we going to do...
+0864	【[0F]Fisherman's Wife[0E]】/Now that it's just us women, what are we going to do...
+0865	【[0F]Fisherman's Wife[0E]】/This is [10]Coconut Village[0E]. A village where women find happiness.
+0866	【[0F]Fisherman's Wife[0E]】/Thank goodness! You can't just go swapping husbands left and right!
+0867	【[0F]Fisherman's Wife[0E]】/I really don't want to go to another village either... but it can't be helped...
+0868	【[0F]Fisherman's Wife[0E]】/[0F]Angus[0E]...? He used to be the best fisherman in the village, but he retired, didn't he?
+0869	【[0F]Fisherman's Wife[0E]】/This is [10]Coconut Village[0E]. A village where women find misery.
+0870	【[0F]Old Woman[0E]】/Ah, [0F][03][0E]. Make yourself at home.
+0871	【[0F]Old Woman[0E]】/I hear you and [0F]Angus[0E] saved the men.|You saved our village... I'm grateful.
+0872	【[0F]Old Woman[0E]】/The village men are coming back! ...Oh, it's like a miracle...
+0873	【[0F]Old Woman[0E]】/It can't be helped. What other way is there?
+0874	【[0F]Old Woman[0E]】/We must think of some good way...
+0875	【[0F]Old Woman[0E]】/You mean that man? He lives alone on the outlying island...
+0876	【[0F]Old Woman[0E]】/This is the [10]Fishermen's Village[0E]. ...Though there isn't a single fisherman here now...
+0877	【[0F]Old Woman[0E]】/I'm grateful to you. I'm sure my [0F]sister[0E] is grateful too.
+0878	【[0F]Old Woman[0E]】/[0F]Goka[0E] came to tell me. It seems the villagers were saved and came home.
+0879	【[0F]Old Woman[0E]】/My twin [0F]sister[0E] asked me to help the women.|There's no other way, I suppose.
+0880	【[0F]Old Woman[0E]】/I do wish we could save that village somehow...
+0881	【[0F]Old Woman[0E]】/The truth is... I'm the mother of [0F]Angus[0E]'s late wife.|After my [0F]daughter[0E] died, [0F]Angus[0E] gave up fishing and moved alone to a deserted island.|Maybe that's why... Since then he won't open his heart to anyone at all. Poor man.|My legs are bad, so I can't go out there,|but here in the [10]Farmers' Village[0E] there's a man who's been friends with [0F]Angus[0E] for years. Why not ask him...
+0882	【[0F]Old Woman[0E]】/Here in the [10]Farmers' Village[0E] there's a man who's been friends with [0F]Angus[0E] for years.|Why not ask him...
+0883	【[0F]Old Woman[0E]】/At first everyone lived in this village. But as more people came, they built houses over the river.|The people there had no land, so instead they decided the fish would be theirs,|and the two villages trade vegetables for fish.
+0884	【[0F]Old Woman[0E]】/The one who taught the people of the [10]Fishermen's Village[0E] to fish was a boy named [0F]Goka[0E].|He's in touch with the gods. Is that why he looks so different from the rest of us?
+0885	【[0F]Old Woman[0E]】/You met the [0F]old woman[0E] in the other village, didn't you? Actually, she's my twin.
+0886	【[0F]Goka[0E]】/Hey, [0F][03][0E]! Been doing well?|Since then, the villages here have all been getting along.|Oh yeah, [0F]Lao's brother-in-law[0E] was making a fuss about some fish nobody's ever seen, over in the fishermen's village!
+0887	【[0F]Goka[0E]】/Where'd a fish like that come from...? Some kind of mutation?...
+0888	【[0F]Goka[0E]】/Yo, [0F][03][0E].
+0889	【[0F]Goka[0E]】/I'm really grateful to you, you know.|...I won't forget you.
+0890	【[0F]Goka[0E]】/Hey, you came!
+0891	【[0F]Goka[0E]】/Well then, take care of [0F]Haruki[0E] for me.
+0892	【[0F]Goka[0E]】/You're full up on lures. Make some room and come back.
+0893	【[0F]Goka[0E]】/Looks like you made room for lures like I said.|Here, this is from me.
+0894	= /    Got the [10]Legendary Lure[0E]!/ 
+0895	【[0F]Goka[0E]】/Use this to catch the [10]River King[0E].
+0896	【[0F]Tadao[0E]】/The [10]River King[0E] lives in this here swamp.
+0897	【[0F]Kick[0E]】/[0F][03][0E]! We've got the [10]Legendary Tackle[0E] now, but|the [10]River King[0E] won't show up till all the people are reeled in.|So let's hurry to [0F]Haruki[0E]'s town first!
+0898	【[0F]Goka[0E]】/Hey, what's up?
+0899	【[0F]Goka[0E]】/Some of the people who were fish have come back to the [10]Fishermen's Village[0E].|Now there's just [0F]Lao's brother-in-law[0E]. He should have turned into a big fish called a [10]Pangasius[0E].|It'll be tough to reel in, but do your best!
+0900	【[0F]Goka[0E]】/Thanks to you, [0F][03][0E], the village is getting its peace back.|We're just one step away. So don't let your guard down!
+0901	【[0F]Goka[0E]】/...Five villagers were turned into fish in all.|[0F]Lao's brother-in-law[0E], [0F]Keto[0E], and three fishermen. Looks like they all turned into fish while out fishing...|To reel them in, you'll need to take a boat way out into the lake...
+0902	【[0F]Goka[0E]】/Things are getting really bad.|If we don't hurry, it'll be too late.
+0903	【[0F]Goka[0E]】/Dammit... It's our fault, isn't it?|Dragging the villagers into it... Ah, no...
+0904	【[0F]Goka[0E]】/Old [0F]Angus[0E] is a good guy, really.|He's apart from his son now... So I've been sort of filling in as his son...
+0905	【[0F]Goka[0E]】/When your strength goes up, you can|pull the line and turn a fish toward you even while it's running.|But push too hard and it'll snap your line or throw the hook, so be careful.
+0906	【[0F]Keto[0E]】/Hi, [0F][03][0E]. How's the fishing going?|Want to come out fishing with me sometime?
+0907	【[0F]Keto[0E]】/The truth is, I always wanted to see [0F]Dad[0E]! Fate sure is strange.
+0908	【[0F]Keto[0E]】/I'm so glad I'm human again! This air tastes wonderful!!
+0909	【[0F]Lao[0E]】/[0F]My sister[0E]'s baby is a girl. I'm going to protect [0F]Potipa[0E]!
+0910	【[0F]Lao[0E]】/Thank you!! You're really good at fishing, mister!|I want to grow up fast so I can go out fishing too!
+0911	【[0F]Lao[0E]】/Please, hurry and save my [0F]brother-in-law[0E]! I don't want to go to the next village!
+0912	【[0F]Lao[0E]】/Actually, I know there's one boat on the outlying island.|If you take it to the lake, maybe you can save my [0F]brother-in-law[0E] and the others.|It's just that I've never steered one...
+0913	【[0F]Lao[0E]】/My [0F]brother-in-law[0E] was the best fisherman in the village...
+0914	【[0F]Lao's Brother-in-law[0E]】/The other day I saw an unusual fish. There's never been a fish like that around here...
+0915	【[0F]Lao's Brother-in-law[0E]】/It's about time I taught [0F]Lao[0E] the ropes as a fisherman.
+0916	【[0F]Lao's Brother-in-law[0E]】/The whole time I was a fish, I thought I'd do anything to get this life back.|I won't forget that feeling. Thank you!
+0917	【[0F]Lao's Sister[0E]】/I hope you stay safe on the rest of your journey, [0F][03][0E].
+0918	【[0F]Lao's Sister[0E]】/Is he...? Haven't you found him yet?|Please. Please save him!
+0919	【[0F]Lao's Sister[0E]】/Um... is it true? That he's still alive?|I can believe it, can't I?
+0920	【[0F]Lao's Sister[0E]】/Oh, [0F][03][0E].|...I'm going to remarry, to a man from the [10]Farmers' Village[0E]...
+0921	【[0F]Lao's Sister[0E]】/He's not old enough to go out fishing yet. And still...
+0922	【[0F]Fisherman's Wife[0E]】/Where on earth is [0F]Lao[0E] wandering off to...?
+0923	【[0F]Emmett[0E]】/Working with [0F]Yokanan[0E] every day is so much fun. I'm so happy!
+0924	【[0F]Emmett[0E]】/Thank you, [0F][03][0E]! I don't know how to thank you...|It's thanks to you, [0F][03][0E], that [0F]Father[0E] gave his blessing and I could marry [0F]Yokanan[0E]!
+0925	【[0F]Emmett[0E]】/I'm sorry for all the trouble... [0F]Haruki[0E] cheered me up.|He said not to worry, [0F][03][0E] would be sure to save [0F]Yokanan[0E].
+0926	【[0F]Emmett[0E]】/Marrying someone I don't even love... I just can't do it...
+0927	【[0F]Emmett[0E]】/...My sweetheart [0F]Yokanan[0E] threw himself into the river.|He gave up hope because we couldn't marry. If I'd known, I'd have left home to be with him...|See the two [0F]squirrels[0E] in this [10]square[0E]? They look so close. I'm so jealous.|He and I used to say that someday we'd spend our time together in this [10]square[0E] like them...|But now I'm all alone...
+0928	【[0F]Emmett[0E]】/I met him at the [10]market[0E].|Cross the bridge on the other side of the [10]square[0E] and there's a [10]market[0E] full of tents.|He sold fish there with his father.
+0929	【[0F]Emmett[0E]】/I still love him...|When I'm in this [10]square[0E]... all the happy memories of our time together come back.
+0930	【[0F]Emmett's Father[0E]】/My [0F]daughter[0E] is doing well with [0F]Yokanan[0E]. I knew I was right all along!
+0931	【[0F]Emmett's Father[0E]】/I wanted my [0F]daughter[0E] to be happy so badly that I did such a thing... I was wrong.
+0932	【[0F]Emmett's Father[0E]】/To think this gentleman was the real [0F]Mr. Sancherico[0E].|I nearly ended up giving away my entire fortune.|But either way, with [0F]Emmett[0E] gone, I don't know what to say...
+0933	【[0F]Emmett's Father[0E]】/Oh... [0F]Mr. Sancherico[0E] is furious.|I may have to give up everything, but if [0F]Emmett[0E] is dead,|no amount of money matters. If I'd known, I'd have let her marry [0F]Yokanan[0E]...
+0934	【[0F]Emmett's Father[0E]】/I'd like [0F]Mr. Sancherico[0E] to stay with us a while|and get to know [0F]Emmett[0E].
+0935	【[0F]Emmett's Father[0E]】/I want relatives among the nobility.|If [0F]Emmett[0E] marries a noble, she'll never have to struggle.
+0936	【[0F]Haruki[0E]】/Hi, [0F][03][0E]. You came!|Before you go to the [10]Mysterious Forest[0E], I want to tell you what I know.|What do you want to hear first?
+0937	=How to catch the [10]River King[0E].
+0938	=About the [10]Shamans[0E].
+0939	【[0F]Haruki[0E]】/By reeling in the [10]River King[0E], you can go back to your world.|The [10]River King[0E] is a legendary fish. We've never seen it either,|but they say it travels between this world and others, and has lived for hundreds of years.|As for how to catch the [10]River King[0E], it seems it only goes for the [10]Legendary Lure[0E].|And only the [10]Legendary Tackle[0E] can use the [10]Legendary Lure[0E]...|But it's okay! I'm sure you can handle it, [0F][03][0E]!
+0940	【[0F]Haruki[0E]】/About my brothers and sister? Sure, I'll tell you!|A while ago I was very sick and suffering a lot,|and seeing me like that, [0F]my brothers and sister[0E] went to the [10]Mysterious Forest[0E] to catch a fish that would cure me.|But that day was the day the god appears, and the law of the forest says no hunting or fishing that day.|But [0F]my brothers and sister[0E] broke the law to save me...
+0941	【[0F]Haruki[0E]】/Since then, we [10]Shamans[0E] can't enter the [10]Mysterious Forest[0E],|...and people were turned into fish, but
+0942	I don't think it's [0F]my brothers' and sister's[0E] fault one bit!
+0943	I'm so happy to have such kind brothers and a sister.
+0944	【[0F]Kick[0E]】/So that's what happened...
+0945	【[0F]Haruki[0E]】/Anything else you want to ask?
+0946	=How to catch the [10]River King[0E]
+0947	=About the [10]Shamans[0E]
+0948	【[0F]Haruki[0E]】/Since then, we [10]Shamans[0E] can't enter the [10]Mysterious Forest[0E], but
+0949	【[0F]Haruki[0E]】/Good luck! I'm sure you'll be fine, [0F][03][0E].|Even if we live in different worlds from now on, I'll never forget you, [0F][03][0E].
+0950	【[0F]Haruki[0E]】/What's up?
+0951	【[0F]Haruki[0E]】/Thicker lure line is harder to break,|but it makes fish wary, so they're less likely to go for the lure.|Thinner line breaks more easily, but fish bite better.|Switch between them to suit the situation.
+0952	【[0F]Haruki[0E]】/[0F][03][0E]! I did a reading and finally figured it out!
+0953	Two people were turned into fish. One is [0F]Yokanan[0E], just as I thought.|The other is a nobleman from the countryside to the east. For some reason he's a fish too...|They should have turned into a [10]Muskie[0E] and a [10]Texas Cichlid[0E].
+0954	From here on, I don't think there's anything more I can do to help.|Please turn the people who became fish back somehow!
+0955	【[0F]Haruki[0E]】/Oh, I forgot to tell you. [0F]Emmett[0E] is fine!|She'll stay at my house until [0F]Yokanan[0E] is back to normal, so do your best to reel him in!
+0956	【[0F]Haruki[0E]】/Thanks, [0F][03][0E]!|[0F]Yokanan's dad[0E] brought me the list of fish in this town!|I'll do a reading based on it! Can you come back in a little while?|I'll do my best, so wait and see!
+0957	【[0F]Haruki[0E]】/Sorry, I'm still in the middle of the reading.
+0958	But that [0F]Sancherico[0E] guy... According to my reading...
+0959	But I'm also worried about how [0F]Emmett's dad[0E] is acting...
+0960	【[0F]Haruki[0E]】/Sorry... I don't know about that either...|I don't know why, but it seems the god is angry...|Could you get [0F]Yokanan's dad[0E] to give you a detailed list of the fish you can catch in this town?|I'll do a reading of my own based on it.
+0961	【[0F]Haruki[0E]】/Nobody can say [0F]Emmett[0E] won't try to throw herself into the river again.|We're just kids thinking this up, so if she says she wants to go home, there's nothing we can do...
+0962	【[0F]Haruki[0E]】/What's wrong?
+0963	【[0F]Haruki[0E]】/People in town are saying [0F]Yokanan[0E] is dead,|but he's probably turned into a fish. ...But with my powers as they are now, I can't tell anything about it...|I don't know why, but it seems the god is angry...
+0964	【[0F]Kick[0E]】/I see... If even [0F]Haruki[0E] can't tell,|we'll just have to talk to the [0F]townspeople[0E] and gather information ourselves.
+0965	【[0F]Haruki[0E]】/I was really worried about what to do from here.|I can count on you, right?
+0966	【[0F]Yokanan[0E]】/How about it, sir! Need some fish?|Huh? Why, it's [0F][03][0E]! I run the fish shop now, taking over from [0F]Dad[0E].|And [0F]Emmett[0E]'s with me, of course. Drop by whenever you need anything!
+0967	【[0F]Yokanan[0E]】/How about it, [0F][03][0E]! Need some fish?
+0968	There aren't any fish in your creel.
+0969	Come again!
+0970	【[0F]Yokanan[0E]】/To think a poor commoner like me could marry [0F]Emmett[0E]!|I'm truly grateful to you for saving me, [0F][03][0E]. And thanks for everything you did for [0F]Emmett[0E]!
+0971	【[0F]Yokanan's Father[0E]】/Ha ha, [0F]Yokanan[0E] takes after me. He's a natural!
+0972	【[0F]Yokanan's Father[0E]】/Oh, [0F]Yokanan[0E], my son. You've grown into such a fine man... sniff, sniff.
+0973	【[0F]Yokanan's Father[0E]】/Did [0F]Miss Emmett[0E] throw herself into the river thinking of [0F]Yokanan[0E]...?|Oh, [0F]Yokanan[0E], my son. Why throw yourself into the river when your love might have come true...|Oh, sorry. Don't mind me talking to myself.|How about it, young man! Drop by now and then.
+0974	【[0F]Yokanan's Father[0E]】/Hm? You want a detailed list of the fish you can catch in this town, for [0F]Haruki[0E]?
+0975	No problem at all! I run a fish shop, after all, so I know a thing or two.
+0976	I'll whip one up right now, so wait just a moment.
+0977	Let's see, [10]Black Bass[0E], [10]Bluegill[0E]...Hmm!?
+0978	Too bad, I'm out of [10]Alligator Gar[0E] right now. I don't have one here...
+0979	The list won't be complete without this fish, so sorry, but could you catch me one?
+0980	The [10]Alligator Gar[0E] is a big fish with a pointy mouth. You'll know it when you see it.
+0981	【[0F]Yokanan's Father[0E]】/Hey, welcome!!|Oh, this is it! You caught one for me?|Hmm, then I do this... put this here... write this...|Okay, done! Now I'll give this to... no, wait, I'll deliver it for you.|Reeling that in must have been hard... At least let me handle the delivery!
+0982	【[0F]Yokanan's Father[0E]】/Hey, welcome!!
+0983	Looks like there aren't any fish in your creel... I'm counting on that [10]Alligator Gar[0E]!
+0984	Looks like there's no [10]Alligator Gar[0E] in your creel...|All the fish in your creel come to [04]G. Want to sell them all?
+0985	【[0F]Yokanan's Father[0E]】/Oh, [0F]Yokanan[0E], my son. It's such a shame.|Of all people, you fell for the daughter of that great merchant, [0F]Mr. Gozzane[0E]...|Even if your love could never be, to throw yourself into the river...|Oh, sorry. Don't mind me talking to myself.|How about it, young man! I run the fish shop here, so drop by anytime.
+0986	Looks like there aren't any fish in your creel...
+0987	【[0F]Boat Rental[0E]】/Well, it's slow today...
+0988	【[0F]Boat Rental[0E]】/Well, this calls for a celebration!!
+0989	【[0F]Boat Rental[0E]】/Do you know about [0F]Emmett[0E] and [0F]Yokanan[0E]?|When you're young, you take things so hard...
+0990	【[0F]Boat Rental[0E]】/The other day I rented a boat to two men,|but for some reason only one came back. Come to think of it, they weren't from this town...
+0991	【[0F]Boat Rental[0E]】/The boat I rented to [0F]Yokanan[0E] never came back either...|Well, I hate to speak ill of the dead.
+0992	【[0F]Meat & Milk Seller[0E]】/The meat and milk are fresh! I just brought them from the farm.
+0993	【[0F]Meat & Milk Seller[0E]】/Marrying a fine young lady like that... [0F]Yokanan[0E] is a lucky man.
+0994	【[0F]Meat & Milk Seller[0E]】/The fishmonger must be awfully down.|[0F]Yokanan[0E] was his hardworking only son...
+0995	【[0F]Shopkeeper[0E]】/Welcome! Take your time choosing.
+0996	We look forward to your next visit!
+0997	【[0F]Innkeeper[0E]】/Hey, you. Listen to this!|The guest I thought had gone missing came back!|I was worried it would hurt the inn's name, so what a relief.
+0998	【[0F]Innkeeper[0E]】/Some guests who stayed here left their luggage and never came back.|Two of them went missing, and they had nothing to do with each other... Oh, never mind that.|Welcome. Will you be staying tonight?
+0999	You have [07]G./It's 200G a night. Will you stay?
+1000	You don't seem to have enough money.
+1001	Thank you. Please make yourself at home.
+1002	I see.|Thank you very much.
+1003	【[0F]Townsman[0E]】/This is [10]Fairy Town[0E].
+1004	【[0F]Townsman[0E]】/I loved seeing [0F]Emmett[0E] watch from her window for [0F]Yokanan[0E]'s boat.|At the wedding, [0F]Emmett[0E] looked just like she did back then.
+1005	【[0F]Townsman[0E]】/I happened to see [0F]Miss Emmett[0E] jump from her window into the river.|It looked like someone saved her, but I guess [0F]Miss Emmett[0E] didn't make it after all?
+1006	【[0F]Townswoman[0E]】/I want to get married soon too. I know, I'll have the fortune-teller at the market do a reading!
+1007	【[0F]Townsman[0E]】/Just between us, it's a good thing [0F]Emmett[0E] doesn't take after her father.
+1008	【[0F]Townsman[0E]】/I know [0F]Emmett[0E] well.|It's because that father of hers tried to force her into a marriage of convenience...
+1009	【[0F]Townsman[0E]】/My mother is obsessed with fortune-telling. It's a real pain.|She goes to that [10]tent[0E] every day.
+1010	【[0F]Greengrocer[0E]】/Fresh vegetables in stock!
+1011	【[0F]Maid[0E]】/Since then, [0F]Miss Emmett[0E] has been living at [0F]Yokanan[0E]'s house.|So I have no one to talk to... Now I'm the lonely one.|Maybe I'll throw myself into the river too...
+1012	【[0F]Maid[0E]】/It's been ages since I saw [0F]Miss Emmett[0E] look so happy.|[0F]Miss Emmett[0E] just needs [0F]Yokanan[0E]! I'm only a maid, so I couldn't say anything|to her [0F]father[0E]...
+1013	【[0F]Maid[0E]】/[0F]Miss Emmett[0E] jumped into the river to end her life...|She must have loved [0F]Yokanan[0E] so much. Rather than marry [0F]Mr. Sancherico[0E],|she decided to go where [0F]Yokanan[0E] went. As a woman, I can sort of understand.
+1014	【[0F]Maid[0E]】/This is [0F]Miss Emmett[0E]'s mansion. Isn't it grand?|[0F]Miss Emmett's father[0E] made his fortune in all kinds of business.|But her [0F]father[0E] wants relatives among the nobility,|so he's told [0F]Miss Emmett[0E] to marry anyone at all with noble blood.
+1015	【[0F]Maid[0E]】/But, but!!|[0F]Miss Emmett[0E] has a sweetheart named [0F]Yokanan[0E].|He's a town merchant's son, so of course he's not a noble, and he's not rich either.|Her [0F]father[0E] would never allow it, so every day they'd just catch a glimpse of each other to keep their spirits up.
+1016	【[0F]Townswoman[0E]】/[0F]Yokanan[0E] makes a pretty good fishmonger.
+1017	【[0F]Townswoman[0E]】/[0F]Emmett[0E] was so beautiful. I was spellbound!
+1018	【[0F]Townswoman[0E]】/Rumor is spreading all over town that [0F]Emmett[0E] has disappeared.
+1019	【[0F]Townswoman[0E]】/This market is always so lively!
+1020	【[0F]Sancherico[0E]】/Truth be told, my parents sent me to marry [0F]Miss Emmett[0E],|but I have a sweetheart in my own village, so I meant to refuse. Seeing this, I want to marry soon too.
+1021	【[0F]Sancherico[0E]】/Can you believe it, while I was gone someone was posing as me!|And he was a man who stayed at the same inn as me and even rode in the same boat!
+1022	【[0F]Sancherico[0E]】/Too bad I can't marry [0F]Emmett[0E], but I'll grab the money and run...
+1023	【[0F]Sancherico[0E]】/I am Sancherio, er, no, [0F]Sancherico[0E]...
+1024	【[0F]Tamia[0E]】/You're leaving already? Well, it was kind of fun.
+1025	【[0F]Tamia[0E]】/Brides are so pretty. Maybe I'll ask my [0F]fiance[0E] too.
+1026	【[0F]Tamia[0E]】/But really... Hmm. I've never met anyone like you!
+1027	【[0F]Tamia[0E]】/I hear [0F]Miss Emmett[0E] jumped out of her window.|Come to think of it, my [0F]fiance[0E] said her sweetheart [0F]Yokanan[0E] jumped off a boat too.
+1028	【[0F]Tamia[0E]】/Oh, nice to meet you! I don't know your face from around here.
+1029	【[0F]Tamia[0E]】/What a surprise. You understand what I'm...|...I'm [0F]Tamia[0E]. Nice to meet you!|See the striped squirrel over there, just like me? He's... my [0F]fiance[0E].|Since we can talk, come chat if anything interesting happens!
+1030	【[0F]Tamia[0E]】/Since we can talk, if anything interesting happens,|come chat!
+1031	【[0F]Tamia's Fiance[0E]】/Oh, thank you. I'm sure I'll be happy!
+1032	【[0F]Tamia's Fiance[0E]】/I hope we can have a wedding everyone celebrates...
+1033	【[0F]Tamia's Fiance[0E]】/You seem to have a lot going on, but hang in there!!
+1034	【[0F]Tamia's Fiance[0E]】/I definitely saw [0F]Yokanan[0E] jump off his boat.|But to be precise, it was less like jumping and more like being sucked into the river.
+1035	【[0F]Tamia's Fiance[0E]】/[0F]Tamia[0E] has been so short-tempered lately... How should I deal with her?
+1036	【[0F]Squirrel[0E]】/Wow, I've never seen a squirrel without stripes.
+1037	【[0F]Chatty Bird[0E]】/I know of 5 villages, kingdoms and towns. There are fish everywhere!
+1038	【[0F]Chatty Bird[0E]】/Today's news: where to catch [10]Carp[0E]!|[10]Carp[0E] live in a village called [10]Nushikiri Village[0E]!
+1039	【[0F]Chatty Bird[0E]】/This [0F]Curious Tree[0E] listens to my stories|with its eyes all sparkling, so they're worth telling!
+1040	【[0F]Flightless Bird[0E]】/Knowing everything is a wonderful thing in its own way.|But I think there are many things more important than that.
+1041	Mole/Victor rules!!
+1042	【[0F]Wise Monkey[0E]】/I'm sure the god is right beside you, watching over you.|Why? I don't know. I'm not a god, after all.
+1043	【[0F]Wise Monkey[0E]】/He's always off somewhere. He's hard to find.|I suppose all you can do is leave a message for everyone.|I know, there's a [10]message board[0E] at the edge of the forest. Why not write it there?
+1044	【[0F]Wise Monkey[0E]】/I don't know everything,|but the one who knows least of all is the [0F]Curious Tree[0E].|He can't move from that spot.|And the one who knows everything is the [0F]Chatty Bird[0E].|He's told me all sorts of things about the world. Sometimes he even crossed the [10]Mysterious Forest[0E] to go to town.
+1045	【[0F]Gentle Tree[0E]】/That squirrel you have with you... Oh, no, never mind.
+1046	【[0F]Gentle Tree[0E]】/So you're the child the god called. You're helping the [10]Shamans[0E], aren't you?|I know. The real reason people were turned into fish is the [10]Shamans[0E].|But it couldn't be helped. And I'm sure there's a reason they lied to you.|As for why it couldn't be helped, ask the [10]Shaman[0E] in the town ahead yourself.
+1047	【[0F]Mean Tree[0E]】/Going back to your world, huh? Well, it's nothing to me.
+1048	【[0F]Mean Tree[0E]】/H-hey. I don't need you anymore. Just go away already.
+1049	【[0F]Nasty Tree[0E]】/Going back to your world, huh? Hmph, good for you.
+1050	【[0F]Nasty Tree[0E]】/H-hey. What?|I won't call you names anymore, so just go away already.
+1051	【[0F]Old Tree[0E]】/Ah... what, you're still here? I don't know anything. ...Yawwwn.|ZZZZZZZZZZZZZ...
+1052	【[0F]Old Tree[0E]】/If you're looking for [10]Carp[0E], go to [10]Nushikiri Village[0E].|I'm fairly sure there's a place in that village where [10]Carp[0E] live.
+1053	【[0F]Old Tree[0E]】/ZZZZZZZZZZZZZ...
+1054	【[0F]Old Tree[0E]】/Yawwwn. Hmm...? What, a person...? People shouldn't be able to get in here...|Then it must be a fox in disguise.
+1055	【[0F]Old Tree[0E]】/Ah... you're lost. But for a human child to notice me...
+1056	【[0F]Curious Tree[0E]】/The [0F]Chatty Bird[0E] always tells me all kinds of things!|Knowing everything is such a wonderful thing. I'm jealous of [0F]Bird[0E].
+1057	【[0F]Kind Tree[0E]】/Do you want to hear about the god?|Once a year, the god takes a walk through the forest. Sometimes as a bird in the sky, sometimes as a beast.|So nobody eats the god by mistake, nobody hunts that day.|Break that law and something terrible happens. Not that I know what.
+1058	【[0F]Kind Tree[0E]】/Watch out, there's a lying [0F]Baron[0E] up ahead.|He said he was a god and caused trouble for everyone in the forest, so as punishment he has to live underground,|but he never learns. He keeps popping out of the ground wanting to tell lies.
+1059	【[0F]Mr. Weasel[0E]】/Ah, [0F][03][0E]. You can pass through here anytime.|Just don't kick up any dust. Mark my words.
+1060	【[0F]Mrs. Weasel[0E]】/I'm so sorry, my husband is always like that.
+1061	【[0F]Mrs. Weasel[0E]】/I'm so sorry, my husband is always like this.
+1062	【[0F]Boy[0E]】/I found it.
+1063	【[0F][03]'s Dad[0E]】/[0F][03][0E], I'm thinking of going back to the countryside for Obon.|Want to come along, [0F][03][0E]?
+1064	【[0F][03]'s Dad[0E]】/My, you look awfully happy.|Are you that happy to have some free time?|I bet you're thinking there's no morning exercises and no tiresome visits to make.|Honestly, kids these days...
+1065	【[0F][03]'s Dad[0E]】/[0F][03]![0E]
+1066	【[0F][03]'s Dad[0E]】/It's [0F]Tadao[0E] from next door.|He says he'll take you, [0F][03][0E], to the woods by the village.|Lucky you. I used to go there a lot when I was little.|Come on, don't be shy. Off you go, and be careful.
+1067	【[0F]Tadao[0E]】/We're here!
+1068	【[0F]Tadao[0E]】/The [10]River King[0E] lives in this here swamp. I saw it once, an' that was it.
+1069	【[0F]Tadao[0E]】/Shh. Ain't never caught a fish, huh? I'll show ya.
+1070	【[0F]Tadao[0E]】/Keep it quiet, now.
+1071	【[0F]Tadao[0E]】/Like this, see.
+1072	【[0F]Tadao[0E]】/Put on one of them worms from around here an' give it a go. I'm countin' on ya.|I'll be right back, y'hear.
+1073	【[0F]Boy[0E]】/Hey, it's been a long time since I saw another person.
+1074	...You may have noticed, but there's no one in this village...|except me.
+1075	...Oh, I'm [0F]Shizuki[0E]. This is my friend [0F]Kick[0E]. Nice to meet you.
+1076	【[0F]Shizuki[0E]】/...And you are?
+1077	...[0F][03][0E], huh. ...So, where did you come from?
+1078	=That squirrel led me here...
+1079	=A faraway land
+1080	=...I don't know
+1081	【[0F]Shizuki[0E]】/...I see...Hmm...|...Could it be...?
+1082	...Hey, could you do me a favor?
+1083	I'd like you to go catch some fish around here...|...What do you say?
+1084	=Sure.
+1085	=No way!
+1086	【[0F]Shizuki[0E]】/I see... It is pretty sudden...|But please, won't you...?
+1087	【[0F]Shizuki[0E]】/Thanks! Then I'll give you some tackle. I'm counting on you!
+1088	= /   Got the [10]Bait Rod S[0E]!/ 
+1089	= /   Got the [10]Bait Line[0E]!/ 
+1090	= /     Got the [10]Worms[0E]!/ 
+1091	= /   Got the [10]Fishing Note[0E]!
+1092	【[0F]Shizuki[0E]】/When you catch one, be sure to tell me. I'll explain everything later...|Oh, and...when you're tired, stay at the [10]Elder's house[0E].|To get to the [10]Elder's house[0E], come down the mountain and cross the bridge on the right.|If there's anything about fishing you don't get, come ask me anytime.
+1093	= /     Got the [10]Hook S[0E]!/ 
+1094	【[0F]Kick[0E]】/Hey, wait up!
+1095	【[0F]Kick[0E]】/Phew. Wait for me. I'm coming with you...
+1096	【[0F]Kick[0E]】/...What? What are you staring at...
+1097	【[0F]Kick[0E]】/!? ...Wait, can you understand what I'm saying?
+1098	【[0F]Kick[0E]】/...Okay, then from now on I'll talk to you freely.|Oh, right, about [0F]Shizuki[0E]. He's what's called a [10]Shaman[0E]. He can hear the words of the god.|So he tells fortunes and passes the god's messages on to the villagers.|So I bet he had a good reason for asking you a favor.|...As his friend, I want to help him too, so I'm coming with you.|Come on, let's do our best and catch some fish!

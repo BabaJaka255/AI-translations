@@ -1,0 +1,221 @@
+# Hikyou o Motomete English script, part 7 (ids 1861-2080): lake village, plains village
+1861|{7:0}: Oh, really?{E}I'll try it right away.{D}Thank you so much.
+1862|Traveling Angler:{E}Not at all.{D}To be of help to a lovely{E}young lady like you{D}is my honor.
+1863|{7:0}:{E}What a flatterer.
+1864|Traveling Angler:{E}Oh, one more thing.{D}The catfish spot is on the{E}east side of the shrine.
+1865|{7:0}: Thank you for telling{E}me so much.
+1866|Traveling Angler: Well then,{E}good luck.
+1867|Innkeeper: Please, please,{E}no charge.
+1868|Fox:{E}Ooh, there it is.{D}Sure enough, the old lady{E}left another catfish.
+1869|{7:0}: (Old lady?!{E}Unforgivable!)
+1870|Fox: Now then, time to eat.{E}Thanks for the meal, old lady!
+1871|{7:0}:{E}That's far enough!
+1872|Fox:{E}Gyah! Busted!
+1873|{7:0}: You sneaky fox!{E}You won't get away with this.
+1874|{7:0}:{E}How dare you trick me.{D}What shall I do with you?
+1875|Fox:{E}P-please, spare my life!
+1876|{7:0}:{E}So that whole story was a lie?
+1877|Fox:{E}Y-yes.
+1878|{7:0}: Sigh,{E}how disappointing. I had such hopes.
+1879|Fox:{E}Um, er...
+1880|{7:0}:{E}What?
+1881|Fox: I don't know if it has anything{E}to do with staying young,{D}but I've heard that eating{E}carp dishes{D}helps you live a long life.
+1882|{7:0}:{E}That had better be true.{D}Lie to me again and I'll have you{E}stuffed and sell you off.
+1883|Fox:{E}Eek! It's true, it's true!
+1884|{7:0}: All right.{E}I'll forgive you just this once.{D}Now go away,{E}and be quick about it.
+1885|Fox:{E}Th-thank you very much.
+1886|{7:0}: I think the plains village has a famous carp restaurant.{D}Maybe I'll go there.
+1887|{7:0}: I haven't met my husband's{E}friend yet.
+1888|{7:0}: Before going back,{E}I have to try the catfish.
+1889|{7:0}: I can't go back until{E}I catch the prankster.
+1890|{7:0}:{E}Oh, thank you.
+1891|{7:0}: The lake, huh.{E}Is the River King here?
+1892|Gentleman:{E}Amazing, young lady.{D}I never thought you'd win.
+1893|{7:0}:{E}It's all thanks to you, sir.{D}Thank you so much.
+1894|Gentleman: No, no,{E}it was your own skill.{D}I only gave you{E}a little advice.
+1895|Wife:{E}Oh, so this time{D}you missed out{E}on winning, dear.
+1896|{7:0}:{E}(Who's this lady?)
+1897|Gentleman:{E}Yes, that's right.{D}This young lady{E}has a real knack.{D}I was no match.
+1898|{7:0}: You won the contest?{E}Of course you did.
+1899|Gentleman:{E}Oh, it was just luck.
+1900|{7:0}:{E}Thanks to you, sir,{D}I've come to enjoy{E}white crucian fishing.
+1901|Gentleman:{E}Is that so? I'm glad.
+1902|Wife:{E}You won again, dear.
+1903|{7:0}:{E}(Who's this lady?)
+1904|Gentleman:{E}Yes, though this young lady{D}nearly beat me.
+1905|Wife: My, my,{E}so young and so skilled.
+1906|{7:0}: (Could she be{E}his wife? Oh no...)
+1907|Gentleman: Hm? What's the matter?{E}You've gone quiet.
+1908|{7:0}:{E}N-nothing. Nothing at all.
+1909|Wife: Well then, dear,{E}shall we be going?
+1910|Gentleman:{E}Yes, let's.{D}Young lady, let's both do{E}our best next time too.
+1911|{7:0}:{E}Y-yes.
+1912|{7:0}:{E}Sigh, what a shock.{D}Of course. No way a man his{E}age would still be single.{D}Oh well.{E}On to the next fishing spot.
+1913|Gentleman:{E}White crucian fishing runs deep.{D}It took me 20 years{E}to get this far.{D}How about you, young lady?
+1914|{7:0}:{E}(Oh my, he's so distinguished.){D}Oh, but I've never done{E}white crucian fishing.
+1915|Gentleman:{E}If there's anything you don't know,{D}I'll teach you.
+1916|{7:0}:{E}Oh, really?{D}Then maybe I'll enter{E}the contest too.
+1917|Gentleman:{E}Yes, you should.{D}They take entries at the{E}pier on the north lake,{D}so off you go.
+1918|{7:0}:{E}Okay!
+1919|Gentleman: Have you signed up{E}for the contest?
+1920|Gentleman:{E}White crucian fishing runs deep.{D}It took me 20 years{E}to get this far.{D}Do you fish for white{E}crucian too, young lady?
+1921|{7:0}: (Oh my, how distinguished.) Yes, I've only just started.
+1922|Gentleman:{E}If there's anything you don't know,{D}feel free to ask.
+1923|{7:0}:{E}Oh, really?{D}Thank you so much.
+1924|Gentleman:{E}When fishing for white crucian.{8:6}.{8:6}.{8:6}.
+1925|{7:0}:{E}(He really is wonderful.)
+1926|Gentleman: .{8:6}.{8:6}.{8:6}.and that's{E}how it's done. Got it?
+1927|{7:0}: Huh? Oh, yes.{E}I'll try it right away.
+1928|Boy:{E}They say a ghost{D}haunts the inn up ahead{E}lately.
+1929|Boy: So the ghost story{E}was a fox's prank.
+1930|{7:0}:{E}Zzz...
+1931|Ghost:{E}I'll haunt youuu... haunt youuu...
+1932|{7:0}:{E}Ah! A-a ghost?
+1933|{7:0}: (Eeek! Help!{E}I-I can't move!{D}Is this what they call{E}sleep paralysis?)
+1934|{7:0}: (Hm?{E}I know that voice...{D}It's that fox who kept{E}hitting on me!)
+1935|{7:0}:{E}(In that case...){D}Hey! You sneaky fox!{E}Hyah!
+1936|Fox:{E}Ah, {7:0}!
+1937|{7:0}: Don't you "ah" me.{D}Are you{E}still pulling this stuff?
+1938|Fox:{E}I'm sorry.
+1939|{7:0}: That's why you can't{E}get a girlfriend.
+1940|Fox:{E}(Says the one with no boyfriend.){D}Mumble mumble.{8:6}.{8:6}.{8:6}.
+1941|{7:0}:{E}Did you say something?
+1942|Fox:{E}Nothing at all.
+1943|{7:0}: Anyway,{E}get out of here, now!
+1944|Fox:{E}Y-yes, ma'am!
+1945|{7:0}:{E}Now, back to sleep.
+1946|{7:0}: The lake at last.{E}Still a long way to go.
+1947|{7:0}:{E}Mr. Fox, what's that cloth?
+1948|Fox:{E}Ah, uh-oh.
+1949|{7:0}:{E}I knew it. The ghost{D}was you, Mr. Fox.
+1950|Fox:{E}.{8:6}.{8:6}.{8:6}.
+1951|{7:0}: Why do you keep{E}playing these pranks?
+1952|{7:0}:{E}Answer me.
+1953|Fox:{E}I was lonely.
+1954|{7:0}:{E}What's that?
+1955|Fox: I don't have a single{E}friend. I'm lonely.
+1956|{7:0}:{E}So that's it.{D}That's why you kept{E}playing all those pranks.
+1957|Fox:{E}Yeah.
+1958|{7:0}: Then I'll be{E}your friend.
+1959|Fox:{E}What, really?!
+1960|{7:0}: Yes. So no more{E}pranks, okay?
+1961|Fox:{E}No more, no more. I promise.
+1962|{7:0}:{E}Then let's pinky swear.
+1963|Fox:{E}I'm so happy.{D}Oh, I know a spot with a really{E}big fish.{D}Want me to tell you?
+1964|{7:0}:{E}Ooh, tell me, tell me!
+1965|Fox: Let's see. Off the south side of the biggest island in the north lake,{D}there's a grass carp over 1m long.
+1966|{7:0}:{E}Over 1m? Wow!{D}I'll go right away.
+1967|Fox: Good idea.{E}See you later.
+1968|Fox:{E}You did it! Congratulations.
+1969|{7:0}:{E}Thank you, Mr. Fox.
+1970|Fox:{E}(That's the first time anyone{D}ever thanked me. Friends are great.){E}Oh, it was nothing.
+1971|{7:0}:{E}It's all thanks to you, Mr. Fox.
+1972|Fox:{E}If it makes you that happy,{D}I'll tell you whenever{E}I hear something new.
+1973|{7:0}:{E}Really? How nice.
+1974|Fox: Well then,{E}off to gather information.
+1975|Boy: They say a ghost{E}haunts the inn up ahead lately.
+1976|Boy:{E}Is there really a ghost?
+1977|Boy:{E}Someone says they saw a ghost{D}in the field west of the inn.{E}In broad daylight, too.
+1978|Boy:{E}So the ghost story{D}was a fox's prank.
+1979|{7:0}:{E}(Oh! A ghost really did appear.)
+1980|{7:0}:{E}(But it's not very scary.)
+1981|{7:0}:{E}Good evening, Mr. Ghost.
+1982|Fox:{E}(What's with her? She's not scared.){D}I'll haunt youuu... haunt youuu...
+1983|{7:0}:{E}It's late now,{D}so let's play tomorrow.
+1984|Fox:{E}(This is no fun. I'm going home.)
+1985|{7:0}: I've heard that voice{E}somewhere before.
+1986|{7:0}: So this is the lake.{E}I have to catch up to {7:1}.
+1987|{7:1}:{E}Oh, you caught one. Let's see.
+1988|{7:0}:{E}Wh-what?
+1989|{7:1}:{E}{B}cm, huh? I win.{D}Look, mine's {B}cm.{E}Well, see you later!
+1990|{7:0}:{E}Drat. I'll win next time.
+1991|Boy: They say a monster has been showing up at the inn up ahead.
+1992|Boy: So the monster{E}was really a fox!
+1993|{7:1}:{E}That monster sounds fishy.
+1994|Innkeeper:{E}Hm? Fishy?
+1995|{7:1}:{E}Hmm, I can't explain it,{D}but I'll look into it.
+1996|Innkeeper:{E}Will you be all right?
+1997|{7:1}: No worries, no worries.{E}Leave it to me.
+1998|Innkeeper:{E}Well then, I'm counting on you.
+1999|{7:0}:{E}What happened?
+2000|{7:1}:{E}You again?!
+2001|Innkeeper:{E}Oh, you know this boy?
+2002|Both:{E}No way!
+2003|Innkeeper: Well, you see, a monster has been troubling this inn lately.{D}This boy offered to look into it.
+2004|{7:0}:{E}In that case,{D}don't ask him.{E}Leave it to me.
+2005|Innkeeper:{E}Even if you say so...{D}I know, why don't you two{E}look into it together?
+2006|Both:{E}You've got to be kidding.
+2007|{7:0}:{E}Then it's a race to see{D}who solves this case first.
+2008|{7:1}:{E}Suit yourself.
+2009|{7:1}:{E}It's probably that.{8:6}.{8:6}.{8:6}.{D}I know, I'll use that.{E}Does the tackle shop sell it?
+2010|{7:0}: What has {7:1}{E}come up with?
+2011|{7:1}:{E}Thanks a lot.
+2012|Shopkeeper:{E}Come again.
+2013|{7:0}: What did that boy{E}just buy?
+2014|Shopkeeper:{E}He bought fried tofu.
+2015|{7:0}:{E}What could that mean?
+2016|{7:6}:{E}Waaah! What is that?!
+2017|{7:6}:{E}Waaah, I'm scared!
+2018|Monster:{E}Grooah! I'll eat you up!
+2019|{7:6}:{E}I'm scared!
+2020|{7:6}:{E}What? A fox?
+2021|{7:6}:{E}Darn it, scaring me like that.
+2022|{7:6}:{E}Yeah, yeah.
+2023|{7:6}:{E}What are you saying, {7:1}?
+2024|{7:6}:{E}Huh?
+2025|{7:6}: I'm the one who'll{E}catch that snakehead.
+2026|{7:0}: Where could the old{E}man's rod be?
+2027|Angler:{E}With amur snakehead and snakehead,{D}be careful even after you catch them.
+2028|Angler: For catfish,{E}use frogs as bait.
+2029|Angler: The marsh has bigger carp{E}than the river.
+2030|Angler: Make noise and the{E}ninespine will run off!
+2031|Angler: I came for bitterling,{E}but look at this.
+2032|Angler: Now I can enjoy{E}bitterling fishing.
+2033|Angler:{E}There's no water,{D}so the loach have burrowed{E}into the mud.
+2034|Angler:{E}I'll catch lots of loach{D}and have Yanagawa stew.
+2035|Angler: Actually, I'm after{E}softshell turtles.
+2036|Angler: A really big carp lives in the pond in the landowner's garden.{D}Makes you curious, huh?
+2037|Angler:{E}You can't catch loach now, right?{D}So I'm fishing for{E}spined loach instead.
+2038|Angler: What, the loach{E}are biting again?{D}Loach-ly day!{E}Ha, just kidding.
+2039|Angler:{E}Around here{D}there are fish over{E}a meter long.{D}I'm after{E}bighead carp.
+2040|Angler: I heard this was{E}the eel spot.{D}No bites, though.
+2041|Angler: The carp here are{E}smaller than the marsh ones.
+2042|Villager: At this rate the rice{E}in the paddies will wither.
+2043|Villager:{E}Now the rice will recover.{D}Thank goodness.
+2044|Villager:{E}If only they'd open the floodgate.
+2045|Villager: Someone talked the landowner into opening the gate. We're so grateful.
+2046|Old Man: I love Yanagawa stew, but with the paddies like this...{D}What a shame. Young one, feed me Yanagawa stew{D}and I'll give you something good. How about it?
+2047|Old Man:{E}That few? If I'm going to eat it,{D}I want Yanagawa with lots{E}more loach.
+2048|Old Man:{E}Oh, loach!{D}I'll make Yanagawa stew right away.{D}Oops, I nearly forgot.{E}Here's a creel as thanks.{D}I used it when I was young.{E}Take it.
+2049|Old Man:{E}I'd like 6 at least.
+2050|Old Man:{E}How's the creel?{D}It holds lots of fish, eh?
+2051|Villager:{E}Sigh. At this rate...
+2052|{7:0}:{E}What's wrong, mister?
+2053|Villager:{E}Look at that paddy.{D}It's all dried up.
+2054|{7:0}:{E}You're right. Why?
+2055|Villager: The water for our paddies is pumped up from the river{D}by the landowner's waterwheel.{D}We pay to use it every year, but this year the price went up{D}and we can't pay.
+2056|{7:0}: So he closed{E}the floodgate?
+2057|Villager:{E}That's right.
+2058|{7:0}: That landowner{E}is awful.{D}Okay, leave it to me.
+2059|Villager: Leave it to you? What{E}are you going to do?
+2060|Villager: It's no use. You'll never{E}talk that landowner around.
+2061|Villager: A carp-fishing match?!{E}We're counting on you, kid.
+2062|Villager: Thank you, kid. Thanks to you{E}the paddies are alive again.
+2063|Villager:{E}That blasted floodgate.
+2064|Villager: Just for spite, maybe I'll{E}catch a carp from his pond.
+2065|Villager:{E}Do your best.
+2066|Villager: Thank you. Now our{E}paddy is saved too.
+2067|Landowner's Son:{E}What do you want?
+2068|Landowner's Son:{E}What, open the floodgate?{D}Sure, I'll open it any time.{E}If you pay.
+2069|Landowner's Son: At least make{E}it a little fun.
+2070|Landowner's Son: I can't believe I lost{E}to a kid like this...
+2071|Landowner's Son:{E}Hey, what's he doing?!
+2072|{7:0}:{E}Carp fishing.
+2073|Landowner's Son:{E}Why, you little...{D}I'm telling my dad,{E}and he'll fix you.
+2074|Landowner:{E}What's going on? Who's this kid?
+2075|Landowner's Son: This kid{E}was catching carp from our pond.
+2076|Landowner:{E}What! What a little rascal.
+2077|{7:0}: Why won't you open{E}the floodgate?
+2078|Landowner: Aha,{E}so that's it. Sorry, kid,{D}unless they pay, the floodgate{E}stays shut.
+2079|{7:0}: Then have a{E}carp-fishing match with me,{D}and if I win, open the gate.
+2080|Landowner's Son:{E}A carp-fishing match?{D}What are you talking about?{E}Don't make me laugh.

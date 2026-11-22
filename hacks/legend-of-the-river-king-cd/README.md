@@ -29,16 +29,26 @@ Known issues:
 - Each Japanese character cell holds two English letters, so text uses a narrow 8x16 font. Some menu words are short because the slots are tiny (Item window 6 letters, food window 4).
 - Save states from older versions keep old graphics in memory.
 
+## Build on this
+- [src/BUILD.md](src/BUILD.md): how to rebuild the patch from your own copy of the game. The build was verified byte for byte against the published patches.
+- [docs/ENGINE_NOTES.md](docs/ENGINE_NOTES.md): how the game stores its text, fonts and graphics, with addresses and hooks.
+- `src/script/` (`script.tsv`, `names.tsv`): the whole script, Japanese next to English, one row per string.
+- [DEVLOG.md](DEVLOG.md): how the patch was made, what was tested, and what went wrong along the way.
+
 ## About AI use
 This project was made with substantial help from Claude (Anthropic). Claude did the reverse engineering of the HuC6280 code and text format, all of the hacking code (font in CD RAM, sector checksum repair, sign and logo graphics), and the whole translation.
 
 The human tester directed the project, chose the names and English titles, playtested the builds in emulators and reported bugs with screenshots, and designed the title logo.
+
+## License
+Code, tools and docs made for this project: MIT. Translation text and new art: CC BY 4.0. Extracted game material (the Japanese script dumps, tables and graphics in `src/`) remains the property of its rights holders and is included for research and modding.
 
 ## Credits
 - Testing, direction and title logo design: the project's tester
 - Translation and hacking: Claude (Anthropic)
 - Font: based on the X11 `koi8x16` font (public domain)
 - Original game: *Kawa no Nushi Tsuri: Shizen-ha* © 1992 Pack-In-Video. This is an unofficial fan translation. Please distribute the patch, not patched images.
+- Tools: Beetle PCE (libretro) for testing; xdelta3
 
 ## Changelog
 - **0.9.6:** Names follow the Super Legend of the River King glossary (v1.3): Masu Trout, Redspot Trout, Stone Moroko, Itomoroko and others in Title Case; Tanuki; cooking notes Arai, Kabayaki, Bottarga; paste bait.

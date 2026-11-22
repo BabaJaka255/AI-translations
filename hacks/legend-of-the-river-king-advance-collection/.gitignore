@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+# never commit game images or build outputs
+*.sfc
+*.smc
+*.gba
+*.iso
+*.img
+*.chd
+*.7z
+src/rom/*
+!src/rom/PUT_ROM_HERE.txt
+src/out_build/
+src/files/
+src/files.txt
+src/orig.bin

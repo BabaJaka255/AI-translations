@@ -36,15 +36,28 @@ Known issues:
 - Long fish names are kept to 14 letters, and the fish market's daily special uses short forms for names over 12 letters.
 - Empty gear slots are blank, as in the Japanese game.
 
+## Build on this
+- [src/BUILD.md](src/BUILD.md): how to rebuild the patch from your own copy of the game. The build was verified byte for byte against the published patch.
+- [docs/ENGINE_NOTES.md](docs/ENGINE_NOTES.md): how the game stores its text, fonts and graphics, with addresses and hooks.
+- `src/script/` (`script.tsv`, `names.tsv`, `fish.tsv`): the whole script, Japanese next to English, one row per string.
+- [DEVLOG.md](DEVLOG.md): how the patch was made, what was tested, and what went wrong along the way.
+
 ## About AI use
 This project was made with substantial help from Claude (Anthropic). Claude did the reverse engineering, all of the ROM-hacking code (English text mode, keyboards, graphics replacement), and the whole translation.
 
 The human tester directed the project, chose the names and English titles, playtested the builds in emulators and reported bugs with screenshots, and drew the title logo.
 
+## License
+Code, tools and docs made for this project: MIT. Translation text and new art: CC BY 4.0. Extracted game material (the Japanese script dumps, tables and graphics in `src/`) remains the property of its rights holders and is included for research and modding.
+
+Fonts bundled in `src/build/fonts/`: DejaVu Sans Bold (Bitstream Vera license) and the X11 koi8x16 and koi5x8 fonts (public domain); see `LICENSE-fonts.txt` there.
+
 ## Credits
 - Testing, direction and title logo art: the project's tester
 - Translation and ROM hacking: Claude (Anthropic)
 - Original game: *Umi no Nushi Tsuri* © 1996 Pack-In-Video. This is an unofficial fan translation. Please distribute the patch, not patched ROMs.
+- Fonts: DejaVu Sans Bold; X11 koi8x16 and koi5x8 (public domain)
+- Tools: snes9x through stable-retro (testing); the toolkit from Super Legend of the River King
 
 ## Changelog
 - **1.1:** Names and terms match the Super Legend of the River King glossary (v1.3): Title Case fish, bait, gear and item names, Yen, New Game / Erase Data, Arai, Bottarga and Kabayaki. Sea Louse is now Sea Slater and the Olive Sinker is the Date Sinker.

@@ -1,0 +1,209 @@
+# Hikyou o Motomete English script, part 3 (ids 1000-1200): villagers, brother and family scenarios
+1000|Shichiro
+1001|Yoshihei
+1002|Tomizo
+1003|Juji
+1004|Sanpei
+1005|Tamijiro
+1006|Sojiro
+1007|Shinkichiro
+1008|Namisuke
+1009|Teijiro
+1010|Sanpei's Mom: {7:0}!{E}Sanpei, Sanpei is...
+1011|{7:3}: Goodness,{E}whatever is the matter?
+1012|Sanpei's Mom: Sanpei left a note and went after the River King!
+1013|{7:3}: Oh my,{E}that's terrible.
+1014|Sanpei's Mom: {7:0}, any idea where he might have gone?
+1015|{7:1}: Hmm,{E}I don't really know.
+1016|{7:2}:{E}You two play together every day,{D}and you don't know that?!
+1017|{7:1}:{E}Well, you can't expect me to.{8:6}.{8:6}.{8:6}.
+1018|Sanpei's Mom:{E}I see.
+1019|{7:1}:{E}Wait, ma'am.{D}I'll find Sanpei{E}for you.{D}That's okay, right, Dad?
+1020|{7:2}: Well said, {7:0}.{D}Then don't come home until you find Sanpei. Understood?
+1021|{7:3}:{E}Dear! You can't mean that.
+1022|{7:1}:{E}It's okay, Mom.{D}I'll find Sanpei and{E}come home, I promise.
+1023|{7:3}:{E}Be careful, {7:0}.
+1024|Sanpei's Mom:{E}Please, {7:0}.
+1025|Hermit:{E}Your friend Sanpei, is it?{D}If I recall, Sanpei{E}headed for the alpine lake.
+1026|By the way, {7:0},{D}you haven't seen my{E}fishing rod, have you?{D}The morning before last I let{E}it slip into the river.{D}If you find it for me,{E}I'll tell you something good.
+1027|Hermit: Seems you haven't{E}found my rod yet.{D}I'm counting on you.
+1028|Hermit:{E}You found it for me!{D}As thanks, I'll tell you about{E}the River King you seek.{D}The River King is the {A}{E}that lives in the {A}.
+1029|Hermit: Keep at it, now.
+1030|Hermit:{E}You did it at last!
+1031|Hermit:{E}What a pity.
+1032|Hermit: Well now, it seems{E}you caught the River King.
+1033|Angler: A kid about your age went upstream to see the old man.
+1034|Angler: It's dangerous around{E}here, so be careful.
+1035|Angler: This time I'm winning{E}the Char Contest for sure.
+1036|Angler:{E}You're {7:0}, the Char Contest{E}winner? Amazing!
+1037|Angler: Darn it,{E}I missed out on winning again.
+1038|Angler: Char are wary, so cast from a little back from the bank.
+1039|Angler: To go upstream of this pool,{E}you need straw sandals.
+1040|Angler: The char are{E}upstream from here.
+1041|Angler:{E}That kid? I think{D}he went much further{E}upstream from here.
+1042|Angler:{E}There should be masu salmon{D}in this pool,{E}but I'm not having any luck.
+1043|Angler: A bear sometimes shows up in that clearing. Be careful.
+1044|Angler: Just now I heard some animal groaning by the clearing.
+1045|Angler: Not much biting{E}today.
+1046|Angler: That kid?{E}He went upstream.
+1047|Angler:{E}If you fish an area out,{D}stay at the inn and wait{E}for the fish to come back.
+1048|Angler:{E}If you're after a big{D}redspot trout, try{E}using flies.
+1049|Angler: You should release{E}the young ones.
+1050|Official: The contest entry fee{E}is 100 yen.{D}First prize is 1000 yen.{D}Will you enter?{E}{>16}Yes{>80}No
+1051|Official:{E}I can only measure once.{D}Shall I measure?{E}{>16}Yes{>80}No
+1052|Official: Go catch{E}a big one!
+1053|Official: {7:0},{E}you are the winner!{D}Please accept your{E}1000 yen prize.
+1054|Official: Sorry,{E}someone else won.
+1055|Official:{E}You seem to be short of money.
+1056|Official:{E}Congratulations on your win!
+1057|Official: The contest is over.{E}See the board for the results.
+1058|Girl:{E}If you keep swimming,{D}your HP keeps going down,{E}so be careful.
+1059|Boy:{E}With the magnifier{D}you can find worms{E}and wasp larvae.
+1060|Boy:{E}Stream bugs are easy{D}to get with the gold net{E}in the shallows.
+1061|Guard: A landslide has closed{E}the road to the alpine lake.{D}A big rock is in the way. No{E}telling when it'll be open.{D}If only someone was as{E}strong as a bear...
+1062|Guard:{E}The road is open again.{D}They say a bear came{E}and moved the rock.
+1063|Off you go.
+1064|Guard: Kids shouldn't go{E}too far, you know.
+1065|Bear: Ow, ow, ow.{E}I fell off the cliff.
+1066|{7:0}: I'll bring you{E}some salve.
+1067|Bear: Thank you.{E}Please do.
+1068|Bear: Ow, ow, ow.
+1069|Bear:{E}Thank you.{D}I'd like to repay you.{E}Is anything troubling you?
+1070|{7:0}:{E}The landslide on the road to{D}the alpine lake... could{E}you do something about it?
+1071|Bear: In that case,{E}leave it to me.
+1072|{7:2}: Still haven't{E}found Sanpei?
+1073|{7:2}: Well done.{E}That's my boy.
+1074|{7:2}: What? You want to go{E}on a River King journey?{D}Hmm. All right, go until{E}you've had your fill.
+1075|{7:2}:{E}The River King is hard to catch.
+1076|{7:2}:{E}Hmm.
+1077|{7:3}:{E}Hurry and find him.
+1078|{7:3}:{E}I'm so proud of you, {7:0}.
+1079|{7:3}: Don't make your{E}mother worry too much.{D}Be careful, {7:0}.
+1080|{7:3}: You haven't hurt{E}yourself, have you, {7:0}?
+1081|{7:3}:{E}Congratulations, {7:0}.
+1082|{7:4}:{E}Are you really up to this?
+1083|{7:4}: Hmm, not bad{E}at all.
+1084|{7:4}: A fishing nut like you might just catch the River King. Go for it.
+1085|{7:4}:{E}How's it going?
+1086|{7:4}:{E}You actually caught it.{D}Pretty impressive.
+1087|{7:5}:{E}Good luck, big brother!
+1088|{7:5}:{E}You found Sanpei?{D}Wow, wow!
+1089|{7:5}: I know you can{E}catch it, big brother!
+1090|{7:5}: You really are{E}amazing, big brother!
+1091|Sanpei's Mom:{E}Please, {7:0}.
+1092|Sanpei's Mom: Thank you{E}so much, {7:0}.
+1093|Sanpei: I'll stay home and behave{E}for a while.{D}But I'll go after the River King{E}again. You're coming too.
+1094|Sanpei:{E}Come on, let's go.
+1095|Sanpei: I'll be right{E}behind you.
+1096|Sanpei: Darn it!{E}You beat me to it.{8:6}.{8:6}.{8:6}.{D}But congratulations.
+1097|{7:0}: I wonder if Sanpei{E}is home yet.
+1098|{7:0}: The River King...{E}Maybe I'll ask Dad.
+1099|{7:3}: That's odd.{8:6}.{8:6}.{8:6}.{E}Nothing has changed.{8:6}.{8:6}.{8:6}.
+1100|{7:4}:{E}Did I lose any weight?{8:6}.{8:6}.{8:6}.
+1101|Hermit: Ho ho ho.{E}Eating the River King won't make you young.{D}{7:3}, you look plenty{E}young just as you are.
+1102|Hermit: Ho ho ho.{E}Eating the River King won't make you thin.{D}And you've no need to{E}diet at all.
+1103|Hermit:{E}Keep at it, now.{D}I'm glad you and{E}{7:1} became friends.
+1104|{7:1}:{E}Well, I'm off.{D}Bye, Dad, Mom.
+1105|{7:0}: Go until you've{E}had your fill.
+1106|{7:3}:{E}Be careful, {7:1}.
+1107|{7:0}:{E}Hmm...
+1108|{7:3}:{E}What's wrong, dear?
+1109|{7:0}:{E}Oh, it's nothing.
+1110|{7:3}:{E}You've been odd these last few days.
+1111|{7:0}:{E}Really, it's nothing.
+1112|{7:3}:{E}.{8:6}.{8:6}.{8:6}.
+1113|{7:3}:{E}It's the River King, isn't it?
+1114|{7:0}:{E}Gulp.
+1115|{7:3}: You want to go after the River King again, don't you?
+1116|{7:0}:{E}.{8:6}.{8:6}.{8:6}.
+1117|{7:3}: Seven years ago, didn't you swear off the River King?
+1118|{7:0}:{E}.{8:6}.{8:6}.{8:6}.
+1119|{7:2}:{E}.{8:6} .{8:6} .{8:6} What is this?
+1120|I can't bear to watch you{E}suffer, unable to forget{E}the River King.{E}I knew this day would come,{E}so I never threw away{E}your fishing gear.{9}Please, go fishing for{E}the River King.{E}And bring it home in style.{E}{E}{>120}{7:3}{8:6}{9}P.S.{E}Since you're leaving your work,{E}please earn at least 5000 yen{E}while you're out there.{9}{7:2}: I'm sorry, {7:3}.
+1121|Hermit:{E}Long time no see, {7:0}.{D}Have you been well?{D}Hm? You've got a rod.{E}Itching for the River King again?
+1122|Hermit: Come to think of it,{E}your son {7:1}{D}shows real talent.{E}Don't let him beat you.
+1123|Angler:{E}They say the winner of the{D}Char Contest is still{E}in grade school.
+1124|Official: I'm terribly sorry,{E}but the contest is over.{D}See the board for the results.
+1125|{7:2}: I can't go to the alpine lake till I beat {7:1}'s char record.
+1126|{7:1}: That's Dad for you.{E}I'm no match for him.
+1127|{7:3}: Congratulations,{E}dear.
+1128|{7:3}:{E}You kept your promise.{D}That helps the household budget.
+1129|{7:3}: While you were away, I paid the bills from my savings. Now work hard and pay me back.
+1130|{7:4}:{E}Congratulations, Dad.
+1131|{7:5}:{E}Wow, wow!
+1132|{7:2}:{E}Too early to go to the creek.
+1133|{7:2}: Right, I should meet{E}the hermit upstream first.
+1134|{7:3}:{E}I've been getting crow's feet lately.{8:6}.{8:6}.{8:6}.{D}How awful.
+1135|TV:{E}.{8:6}.{8:6}.{8:6}.and so,{D}today's special: eat this fish{E}and become 10 years younger!
+1136|{7:3}:{E}What did they say?!
+1137|{7:3}: Oh, how frustrating!{E}If only I'd tuned in sooner.
+1138|{7:3}:{E}Say, dear.
+1139|{7:2}:{E}What is it, dear?
+1140|{7:3}:{E}I saw it on TV.{D}Do you know of a fish that makes{E}you 10 years younger to eat?
+1141|{7:2}:{E}What's that?{D}There's no such fish,{E}don't be silly.
+1142|{7:3}: But it was on TV{E}at lunchtime today.{D}They didn't say what fish it was,{D}so I thought you might{E}know.
+1143|{7:2}:{E}.{8:6}.{8:6}.{8:6}.The River King.
+1144|{7:3}: What?{E}What did you just say?
+1145|{7:2}: A fish that makes you 10 years younger? Only the River King.
+1146|{7:3}: Then, dear,{E}go catch it for me.
+1147|{7:2}:{E}What?!
+1148|{7:3}:{E}Go catch it for me.
+1149|{7:2}:{E}Wh-what are you saying?{D}I gave up fishing.
+1150|{7:3}: Then I'll go{E}fishing myself.
+1151|{7:2}:{E}And who'll look after the house?{D}I won't allow it!
+1152|{7:3}:{E}Don't you want to see me{E}young again?
+1153|{7:2}:{E}That's not the point!
+1154|{7:1}:{E}Here they go again.{D}They always forget{E}the kids are asleep.
+1155|{7:4}: So true.
+1156|{7:2}:{E}Wh-what's this?!
+1157|I've gone to catch the River King.{E}Sorry for being so selfish.{E}{7:4}, please look after{E}the house for me.{E}{E}{>150}Mom{9}{7:1}: This is your fault, Dad.
+1158|{7:2}:{E}Be quiet!
+1159|Hermit:{E}Looking for the River King, are you?{D}That's no small task.{E}To find it, you'll need to{D}visit all sorts of places.
+1160|By the way, {7:0},{D}you haven't seen my{E}fishing rod, have you?{D}The morning before last I let{E}it slip into the river.{D}If you find it for me,{E}I'll give you a reward.
+1161|Angler: It's dangerous around{E}here, so do be careful.
+1162|Angler:{E}You're {7:0}, the Char Contest{E}winner? Amazing!
+1163|Angler: The old man far upstream would know about the River King.
+1164|Angler: A bear sometimes shows up in that clearing. Be careful.
+1165|Angler:{E}The River King? No idea.{D}Maybe the anglers upstream{E}would know.
+1166|{7:0}:{E}Better not go on{D}until I'm a bit{E}better at fishing.
+1167|{7:0}: I'll go to the creek{E}after the alpine lake.
+1168|{7:0}: I'll bring you{E}some salve.
+1169|Bear: Thank you.{E}Please take this as thanks.
+1170|{7:2}:{E}Hmm.
+1171|{7:4}:{E}Mom is so stubborn.
+1172|{7:1}: What?{E}You really caught it?{D}Amazing!
+1173|{7:5}: Mommy,{E}did you go fishing?
+1174|{7:0}: Before the alpine lake, I'll check the stream all the way up.
+1175|{7:4}: {7:1}, sweetie.{E}Got a minute?
+1176|{7:1}:{E}"Sweetie"?{D}You never call me that.{E}You're up to something, Sis.
+1177|{7:4}: How rude! I just{E}want to ask you something.
+1178|{7:1}: Ask me{E}what?
+1179|{7:4}: (Grr, I'm being nice{E}and he gets cheeky!)
+1180|{7:1}:{E}Did you say something?
+1181|{7:4}: N-nothing at all.{E}Say, {7:1}.{D}Do you know of a strange fish{E}that makes you thin to eat?
+1182|{7:1}: What's that?{E}Are you dieting again?{D}It's a waste of time.{E}Just give up.
+1183|{7:4}:{E}Never mind that,{D}just answer the question!
+1184|{7:1}:{E}S-sorry.{D}But I've never heard of{E}food that makes you thin.
+1185|{7:4}:{E}Oh. I thought you{D}might know, {7:1}.
+1186|{7:1}:{E}You're not even fat, Sis.{D}Why do you want to be thinner?
+1187|{7:4}:{E}None of your business!
+1188|(If only I were a little thinner,{D}I could work up the nerve to confess{E}to that senior I admire.)
+1189|{7:1}: I don't know about thin, but I do know of a strange fish.
+1190|{7:4}:{E}Really? What fish?
+1191|{7:1}:{E}The River King.
+1192|{7:4}:{E}Where does it live?
+1193|{7:1}:{E}Nobody knows.{D}No one has ever{E}caught it.
+1194|{7:4}:{E}How could I find out{D}where this River King{E}lives?
+1195|{7:1}:{E}Hmm.{D}Why not ask the anglers{E}around the river?{D}But what will you do{E}once you know?
+1196|{7:4}: Isn't it obvious?!{E}I'll catch it and eat it.
+1197|{7:1}:{E}But eating the River King{D}won't make you thin.{8:6}.{8:6}.{8:6}.
+1198|{7:4}:{E}No time to waste.{D}I'm leaving right away.{E}{7:1}, cover for me{D}with Mom and Dad.
+1199|{7:1}:{E}H-{8:6}h-{8:6}hey, Sis!{D}Cover for you? What am{E}I supposed to tell them?{D}Oh well, she's gone.
+1200|Hermit: You want to hear{E}about the River King?{D}Even if I tell you, you{E}can't catch it as you are now.{D}To catch the River King you{E}need real fishing skill.
+993|Info: 
+994|Info: 
+995|Info: 
+996|Info: 
+997|Info: 
+998|Info: 
+999|Info: 

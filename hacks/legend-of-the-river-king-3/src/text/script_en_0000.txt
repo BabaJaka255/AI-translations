@@ -1,0 +1,602 @@
+# Kawa no Nushi Tsuri 5 English script. Format: ID<TAB>text
+# "|" = new page (wait for button), "/" = forced line break, "=" prefix = use as-is (no wrapping).
+# Lines wrap automatically at 36 columns, 3 lines per box (the speaker line counts on the first page).
+0000	It's [06]cm long.|Keep it up next time too!
+0001	It's [05]m [06]cm long.|Keep it up next time too!
+0002	It's [05]m long.|Keep it up next time too!
+0003	Huh...?/Something's odd about this fish!
+0004	It's [06]cm long./That's the biggest [04] there is!
+0005	It's [05]m [06]cm long./That's the biggest [04] there is!
+0006	It's [05]m long./That's the biggest [04] there is!
+0007	But it's still a young one./Want to release it?
+0008	It's [06]cm long./It's still young. Want to release it?
+0009	It's [05]m [06]cm long./It's still young. Want to release it?
+0010	It's [05]m long./It's still young. Want to release it?
+0011	It's [06]cm long./Now that's a rare fish!
+0012	It's [05]m [06]cm long./Now that's a rare fish!
+0013	It's [05]m long./Now that's a rare fish!
+0014	=Keep
+0015	=Release
+0016	It's [06]cm long.
+0017	It's [05]m [06]cm long.
+0018	【[0F]Fisherman[0E]】/I'm human again!?|Did you reel me in?/Thank you! Being a fish was awful.|But what a thing to happen! A fisherman turned into a fish... What a joke.|Hey, kiddo, thanks a lot. Yikes, I'd better get home or [0F]the missus[0E] will have my hide!!
+0019	【[0F]Fisherman[0E]】/Thank you, you saved my life! Stuck in that mud the whole time...|I nearly passed out. From now on I'll live like a new man and try even harder.
+0020	【[0F]Fisherman[0E]】/Well now, I don't know your face. Was it you who saved me?|The hook stung a bit, but never mind. Nothing beats being human again.|But... what did we ever do to deserve this?|Payback for catching fish? No, surely not, after all this time...
+0021	【[0F]Child[0E]】/...!!/What on earth happened!?|In fishing class I couldn't answer the teacher's question, so I wished something would happen.|That's why this happened to me! I'll never wish for that again!
+0022	【[0F]Child[0E]】/Brrr, brrr, I was so cold! It was freezing in the [10]lake[0E]!|So I just stayed still on the bottom. I want to get back to a warm room!!
+0023	【[0F]Child[0E]】/I-I-I can't believe it!!!|My t-teeth are chattering so much I c-c-can't talk straight. Th-th-thank you.|Y-you know, your face is s-so-so at b-best, but you're really sweet.|S-s-s-see you, smooch!
+0024	【[0F]Big Man[0E]】/...
+0025	【[0F]Kick[0E]】/What's with that guy!?|He could at least say thanks!!
+0026	【[0F]Hatsune[0E]】/Oh... I've been saved...|I was so afraid I'd live my whole life underwater. Thank you for saving me.|...Oh, that's right. I must thank him, too.
+0027	【[0F]Hatsune's Mom[0E]】/Ohh... Oh my, thank you so much...|Wh-where's [0F]Hatsune[0E]...?|Please! [0F]Hatsune[0E], my daughter, is still in this pond.|Please, save her!
+0028	【[0F]Keto[0E]】/[0F]Dad[0E]!!
+0029	【[0F]Angus[0E]】/[0F]Keto[0E]... Thank goodness!!|[0F]Ketooooo[0E]!!!
+0030	【[0F]Kick[0E]】/That's what parents and kids are like. It's not about blood or upbringing...|It's not a cold thing like that.
+0031	【[0F]Angus[0E]】/[0F]Keto[0E], go on back to the village. Once everyone who was turned into a fish is saved,|I'll come home too.
+0032	【[0F]Keto[0E]】/Okay, [0F]Dad[0E]. I'll go ahead and wait for you at home.
+0033	【[0F]Keto[0E]】/And thank you for catching me!
+0034	【[0F]Kiyo[0E]】/Oh, what a shock...|Heh... When I was reeled in, I thought I'd be eaten... Who'd think a boy would save my life?|I'm [0F]Kiyo[0E], an artist. I live by the clover field. Until we meet again!
+0035	【[0F]Shopkeeper[0E]】/Did you catch me? Thank you!|I was eating, went to get a drink of water, and suddenly I was a fish.|I have no idea what happened, but I'd better get home.|I run the [10]general store[0E], so come by sometime!
+0036	【[0F]Kick[0E]】/Whoa!? The fish glowed and turned into a person...|...What's going on? Let's go back to [0F]Shizuki[0E] and ask, [0F][03][0E]!
+0037	【[0F]Villager[0E]】/Hya! Oh, what a fright. I thought I was done for.|I figured I'd live as a fish forever, so I made up my mind and nibbled some fish food... and look, I got saved.|Life sure is funny. Thanks a bunch.
+0038	【[0F]Fishmonger[0E]】/Oh, I'm back to normal!! Thank goodness!|I was doing the washing at home when my body glowed, and next thing I was a fish in the river.|I run the village [10]fish shop[0E], so I thought maybe fish had it in for me!
+0039	【[0F]Villager[0E]】/Well, well. A boy saved me.|Being a fish was fun at first, but then I started worrying about my rice fields.|I'd better get home and back to work. Thanks a lot!
+0040	【[0F]Ms. Pumpt[0E]】/Oh my... what a thing to happen! Thank you, I'm so grateful.|How many days was I a fish? As a teacher who looks after children, I must take responsibility...|Oh, but I still can't believe I was a fish!!
+0041	【[0F]Lao's Brother-in-law[0E]】/...! I'm... I'm saved! Yes!! Yes!!|D-did you reel me in? At the bottom of that deep lake, all I thought about was my dear wife and child.|If I'd stayed a fish, I'd have forgotten I was ever human and become a fish for real.|I'm grateful. Thank you.
+0042	【[0F]Sancherico[0E]】/Eek. What a dreadful ordeal. Hmm, and who might you be?|I am [0F]Sancherico[0E], a nobleman from the countryside to the east.|I was drifting in a boat, gazing at the water,|and after that it's all a blur. When I came to, here I was.
+0043	【[0F]Kick[0E]】/You awake?|When you're tired, rest at the [10]Elder's house[0E].
+0044	【[0F]Kick[0E]】/You awake?
+0045	Stone
+0046	Altar
+0047	Light
+0048	Cloth
+0049	【[0F]Great Baron[0E]】/Yo!|Checking the futon in the back room [10]won't let you stay the night[0E].|Later!
+0050	Fish shop sign
+0051	General store sign
+0052	Clover field
+0053	Fishmonger's house
+0054	Shopkeeper's house
+0055	Elder's house
+0056	House
+0057	You checked the ground.
+0058	You got [10]Nuts[0E].
+0059	You found [10]Nuts[0E].
+0060	...but you can't carry any more.
+0061	Kiyo's house
+0062	Log bridge
+0063	Hatsune's house
+0064	Tree
+0065	It's bearing fruit.
+0066	Mysterious Forest
+0067	Bridge
+0068	Bed
+0069	Fish tank
+0070	Vase
+0071	Folding fan
+0072	Stone steps
+0073	Use the Rope here?
+0074	=Use it
+0075	=Don't
+0076	Welcome to the general store!
+0077	=Buy
+0078	=Sell
+0079	=Leave
+0080	Come again.
+0081	Counter
+0082	Fishing rod
+0083	Stove
+0084	Shelves
+0085	Kitchen
+0086	Pot
+0087	Low table
+0088	A low table with a half-eaten meal still on it.
+0089	Chest of drawers
+0090	Straw hat
+0091	Outside
+0092	Tub
+0093	Box
+0094	Basket
+0095	【[0F]Cyber Baron[0E]】/Yo!|If you catch and release a fish, the next day it comes back [10]smaller[0E].|And if you keep it, the next day there'll be [10]more[0E] of that kind.|Later!
+0096	Welcome! Welcome to the fish shop!
+0097	There aren't any fish in your creel...
+0098	All the fish in your creel come to [04]G. Want to sell them all?
+0099	=Sell all
+0100	=Choose fish
+0101	=Sell none
+0102	Thank you kindly!
+0103	Okay, choose the fish to sell!
+0104	You're stopping?
+0105	You won't sell me any?
+0106	Jar
+0107	Creel
+0108	Fresh fish
+0109	Rotten fish
+0110	Dried fish
+0111	Bucket
+0112	【[0F]Millennium Baron[0E]】/Yo!|Checking here, for example, [10]won't turn up any hooks[0E].|Later!
+0113	【[0F]Galaxy Baron[0E]】/Yo!|Like I said, checking this futon [10]won't let you sleep[0E].|Later!
+0114	Hearth
+0115	Hanging scroll
+0116	Sliding door
+0117	Cushion
+0118	【[0F]Elder[0E]】/Will you rest for today?
+0119	=Yes
+0120	=No
+0121	【[0F]Elder[0E]】/Good night.
+0122	【[0F]Elder[0E]】/Good morning.
+0123	【[0F]Elder[0E]】/Don't push yourself.
+0124	【[0F]Kick[0E]】/Going to bed for today?
+0125	【[0F]Kick[0E]】/Good night.
+0126	【[0F]Kick[0E]】/Good morning.
+0127	【[0F]Kick[0E]】/You okay?
+0128	Rest for today?
+0129	Bundle
+0130	【[0F]Super Baron[0E]】/Yo!|This [10]isn't the Elder's house[0E].|Later!
+0131	【[0F]Miracle Baron[0E]】/Yo!|There are [10]no fish here[0E], so you'd better go back.|Later!
+0132	Gonsaku's house
+0133	Big man's house
+0134	But you didn't find anything.
+0135	Fence
+0136	Drawer
+0137	Candle
+0138	Can't go
+0139	This is a BAR.
+0140	=Stay
+0141	=Eat
+0142	=Browse
+0143	You have [04]G./It's 100G a night. Will you stay?
+0144	You have [04]G./It's 10G a night. Will you stay?
+0145	=Stay
+0146	=Cancel
+0147	You don't seem to have enough money.|What will you do?
+0148	Then please, make yourself at home.
+0149	Good morning.
+0150	I see.|What will you do?
+0151	We don't serve drinks to kids.
+0152	Thank you very much.
+0153	Case
+0154	Shelf
+0155	It seems to be locked.
+0156	【[0F]Final Baron[0E]】/Yo!|Even if you come here after beating the game, [10]you can't get in[0E].|Later!
+0157	The King's Castle
+0158	General store
+0159	Fish shop
+0160	Tattoo parlor
+0161	Old Butler's house
+0162	BAR
+0163	The King's Castle, Basement
+0164	The King's Castle, ??
+0165	Tree in the water
+0166	Castle wall
+0167	Wall
+0168	[09]/       The chest was empty...
+0169	You can't carry any more.
+0170	Clay figure
+0171	= /    Got the [10]Royal Rod[0E]!/ 
+0172	= /    Got the [10]Royal Reel[0E]!/ 
+0173	= /    Got the [10]Royal Line[0E]!/ 
+0174	= /    Got the [10]Royal Lure[0E]!/ 
+0175	Table
+0176	Kettle
+0177	Stand
+0178	【[0F]Wonderful Baron[0E]】/Yo!|There's [10]no path[0E] where I'm standing, so there's no point coming over here.|Later!
+0179	Chair
+0180	Weapons
+0181	Desk
+0182	= /    Got the [10]Sun Stone[0E]!
+0183	= /    Found the [10]Sun Stone[0E]!
+0184	...but you can't carry any more.
+0185	【[0F]God Baron[0E]】/Yo!|The [0F]King[0E] is back to normal, but shop prices are [10]still high[0E].|Later!
+0186	Throne
+0187	Carpet
+0188	= /    Got the [10]Dungeon Key[0E]!
+0189	Big pot
+0190	Scales
+0191	Fish
+0192	Cell
+0193	【[0F]Shining Baron[0E]】/Yo!|When you use the fish grill, cooking [10]small fish[0E] restores more HP.|Later!
+0194	Barrel
+0195	A table with plates and bread
+0196	Oven
+0197	Cutting board
+0198	Cooking tools
+0199	【[0F]Master Baron[0E]】/Yo!|Coming here with the Rope [10]won't do anything[0E].|Later!
+0200	【[0F]Shining Baron[0E]】/Oh, and one more thing!
+0201	【[0F]Shining Baron[0E]】/Yo!
+0202	When you use the fish grill, cooking [10]small fish[0E] restores more HP.
+0203	Later!
+0204	【[0F]Shopkeeper[0E]】/The [10]Rope[0E] that was sold out is finally in stock!|With it you can climb down to the [10]river[0E] below the village! Buy one if you like.|So, what'll it be?
+0205	【[0F]Shopkeeper[0E]】/Oh, welcome! What'll it be?
+0206	【[0F]Shopkeeper[0E]】/Welcome. Selling fish? The [10]lake[0E]'s frozen over, after all.|Sorry, but I go fishing myself, down at the [10]river[0E] below the village. It never freezes, even in winter.|But nobody else goes all the way down there to fish. Try the [10]hotel[0E]. They'll be glad to buy.|Besides, this is a general store! I don't buy fish!
+0207	【[0F]Shopkeeper[0E]】/Sorry. I don't sell on blizzard days. Come back tomorrow.
+0208	Come again!
+0209	【[0F]Girl[0E]】/Who's there? On a blizzardy day like this...
+0210	【[0F]Villager[0E]】/Eek! Eek! Stay away!! Are you here to take me away too!?
+0211	【[0F]Villager[0E]】/You spirit! Where did you take my child? Give her back!!
+0212	【[0F]Villager[0E]】/This is the [10]sauna[0E]. But it's not ready yet.
+0213	【[0F]Shopkeeper[0E]】/Sorry. I don't sell on blizzard days. Come back tomorrow!
+0214	【[0F]Hotel[0E]】/Closed today due to the blizzard!
+0215	Sign
+0216	Hotel sign
+0217	Hotel
+0218	Sauna
+0219	Ms. Pumpt's house
+0220	Dorch's house
+0221	Snowman (boy)
+0222	Snowman (girl)
+0223	Drinks
+0224	Big sofa
+0225	Sofa
+0226	Lamp
+0227	Fireplace
+0228	"Last Night's Dinner"
+0229	"The Sauna Man"
+0230	Blackboard
+0231	Timetable
+0232	Bucket
+0233	Snowman (the boss)
+0234	School
+0235	Firewood
+0236	Sink
+0237	Apples
+0238	Fur
+0239	Window
+0240	Clothes chest
+0241	Clothes
+0242	"Swans on the Lake"
+0243	"My Favorite Teacher"
+0244	"Running Horse"
+0245	Sauna stones
+0246	Futon
+0247	Net
+0248	Goka's house
+0249	Lao's house
+0250	Keto's house
+0251	Old woman's house
+0252	Angus's house
+0253	Rest stop
+0254	Vegetables
+0255	Hammock
+0256	Ladder
+0257	Pillar
+0258	Vegetable basket
+0259	Screen
+0260	Dishes
+0261	Hanging vegetables
+0262	【[0F]Ultra Baron[0E]】/Yo!|To stay here, you'll [10]need lots of money[0E].|Later!
+0263	Trash can
+0264	Hanging fish
+0265	【[0F]King Baron[0E]】/Yo!|If you rent a boat at this shop, [10]something good will happen[0E].|Later!
+0266	Clock
+0267	"Portrait of Emmett's Mother"
+0268	Handrail
+0269	Closet
+0270	Door
+0271	Slippers
+0272	Inn sign
+0273	Antiques
+0274	Sundries
+0275	Meat & Milk
+0276	Tent
+0277	Boat
+0278	Boat rental
+0279	Haruki's house
+0280	Inn
+0281	Emmett's mansion
+0282	Fairy
+0283	Fountain
+0284	=Nushikiri Village music
+0285	=Next
+0286	=Quit
+0287	=Oven Kingdom music
+0288	=Cold Park music
+0289	=Coconut Village music
+0290	=Fairy Town music
+0291	=Mysterious Forest music
+0292	=(blank) music
+0293	=Ending music
+0294	=Title screen music
+0295	=Flashback music
+0296	Potted plant
+0297	【[0F]Message Board[0E]】/[0F]Tadao[0E] rules! [0F]Tadao[0E] rules! Hiding out in a house in the [10]Oven Kingdom[0E]! [0F]Bird[0E]
+0298	【[0F]Message Board[0E]】/Spotted a [10]Carp[0E] in [10]Nushikiri Village[0E]! It lives in a [10]lake[0E] up high. [0F]Bird[0E]
+0299	【[0F]Message Board[0E]】/In [10]Nushikiri Village[0E] there's a girl in trouble, her mom's sick! [0F]Bird[0E]
+0300	【[0F]Message Board[0E]】/Want to hear something unusual? Come to the town [10]square[0E]. [0F]Bird[0E]
+0301	【[0F]Message Board[0E]】/Breaking news! Breaking news!|The [0F]King[0E] of the [10]Land of the Sun[0E] was a fake! He's been caught and is in the [10]dungeon[0E]! [0F]Bird[0E]
+0302	But you didn't find anything.
+0303	【[0F]Hyper Baron[0E]】/Yo!|They'll [10]buy fish in this village too[0E].|Later!
+0304	【[0F]Zeus Baron[0E]】/Yo!|You made it all the way here.|Later!
+0305	【[0F]Saint Baron[0E]】/Yo!|You came back.|Later!
+0306	Goa~al!
+0307	Please take some [10]Nuts[0E] as a souvenir!
+0308	...Oh, but your bag is full! Make some room and come back here!
+0309	Bye now!
+0310	It's closed.
+0311	Miss
+0312	【[0F]Kick[0E]】/Maybe [0F]Gonsaku[0E] is a good guy after all.
+0313	【[0F]Kick[0E]】/What's wrong? [0F]Shizuki[0E] is right in front of you!
+0314	【[0F]Kick[0E]】/Let's go tell [0F]Shizuki[0E] that all the villagers are saved!
+0315	【[0F]Kick[0E]】/People sure are complicated.
+0316	【[0F]Kick[0E]】/Let's go see [0F]Gonsaku[0E]!
+0317	【[0F]Kick[0E]】/So that big guy's name is [0F]Gonsaku[0E].
+0318	【[0F]Kick[0E]】/What's with that [0F]big man[0E]? He makes me so mad!
+0319	【[0F]Kick[0E]】/Is something bothering you?
+0320	=I don't know how to fish.
+0321	=Not right now.
+0322	【[0F]Kick[0E]】/If you don't get something about fishing, ask [0F]Shizuki[0E].|[0F]Shizuki[0E] knows way more about fishing than me!
+0323	【[0F]Kick[0E]】/If anything comes up, talk to me anytime!
+0324	【[0F]Kick[0E]】/Come on, let's save the villagers!
+0325	【[0F]Kick[0E]】/Oh, right, [0F][03][0E]. You should release the young fish.|...Not that I thought of it. [0F]Shizuki[0E] said so. I don't really know why, so ask [0F]Shizuki[0E].
+0326	【[0F]Kick[0E]】/Let's hurry and tell [0F]Shizuki[0E].
+0327	【[0F]Kick[0E]】/Come on, let's go back to [0F]Shizuki[0E]!
+0328	【[0F]Kick[0E]】/Please. Just try to catch one fish, even one.
+0329	【[0F]Kick[0E]】/If you run out of bait, there's some on the ground around here. Go catch it.
+0330	【[0F]Kick[0E]】/...
+0331	【[0F]Kick[0E]】/That's everyone saved. Good job, [0F][03][0E]!
+0332	【[0F]Kick[0E]】/Only [04] left! Almost there, [0F][03][0E]!
+0333	【[0F]Kick[0E]】/There are [04] more people who were turned into fish. Let's keep at it!
+0334	【[0F]Kick[0E]】/Evil never wins! That's how it should be.
+0335	【[0F]Kick[0E]】/[0F]Akira[0E] wants us? What for?
+0336	【[0F]Kick[0E]】/We have to catch the [0F]King[0E] before anyone else. I'm counting on you, [0F][03][0E]!
+0337	【[0F]Kick[0E]】/Hey, [0F][03][0E].|Why do you think there are people who do bad things?
+0338	【[0F]Kick[0E]】/He's out there somewhere, no doubt about it. Let's find him fast!
+0339	【[0F]Kick[0E]】/Okay, let's go [10]into the castle[0E] to look for the [0F]Prince[0E]!
+0340	【[0F]Kick[0E]】/What? You forgot where the [10]castle[0E] is?
+0341	=I forgot...
+0342	=As if I'd forget.
+0343	【[0F]Kick[0E]】/It helps to remember places you've been.|If you can't get a feel for the whole map, check the map in your [10]Fishing Note[0E].
+0344	【[0F]Kick[0E]】/That's my [0F][03][0E]! I'm counting on you!
+0345	【[0F]Kick[0E]】/Tackle that can catch the [0F]King[0E], huh. What could it be like?
+0346	【[0F]Kick[0E]】/Right now I'm worried about [0F]Akira[0E], since the [0F]fake king[0E] is after her.|Let's go see [0F]Akira[0E]!
+0347	【[0F]Kick[0E]】/The [10]Sunsun Kingdom[0E] is the [10]Oven Kingdom[0E]. The [0F]King[0E] is a fake.|And [0F]Jimott[0E] is the [0F]Prince[0E]... Hmmm...
+0348	【[0F]Kick[0E]】/If I'm right, then the only one who can bring peace back to this land|is you, [0F][03][0E]!
+0349	【[0F]Kick[0E]】/Who'd have thought that [0F]boy[0E] was the [0F]Prince[0E]?
+0350	【[0F]Kick[0E]】/The [0F]King[0E] is a fake!? Anyway, let's go after [0F]Jimott[0E]!
+0351	【[0F]Kick[0E]】/What's wrong? Let's hurry after him!
+0352	【[0F]Kick[0E]】/Who's that boy standing in front of the [10]castle[0E] gate?
+0353	【[0F]Kick[0E]】/A guy who likes [10]Freshwater Stingrays[0E]... What a weirdo.
+0354	【[0F]Kick[0E]】/You reeled it in way faster than I expected.|You're amazing, [0F][03][0E]!
+0355	【[0F]Kick[0E]】/With a [0F]gate guard[0E] like that, is this country going to be okay?
+0356	【[0F]Kick[0E]】/I agreed to it so easily, but out of all those fish we have to catch a [10]Freshwater Stingray[0E].|That's going to be pretty tough, [0F][03][0E].
+0357	【[0F]Kick[0E]】/That [0F]girl[0E] just now... She smelled kind of like [0F]Shizuki[0E]...
+0358	【[0F]Kick[0E]】/What's with this shop!? Let's go somewhere else, [0F][03][0E].
+0359	【[0F]Kick[0E]】/I wonder where [0F]Shizuki[0E]'s brothers are.
+0360	【[0F]Kick[0E]】/So I won't see [0F]Shizuki[0E] for a while.
+0361	I've got [0F][03][0E], so I won't be lonely, but I hope you'll drop in on him now and then.
+0362	【[0F]Kick[0E]】/[0F]Gonsaku[0E] and [0F]Hatsune[0E] looked pretty good together.
+0363	【[0F]Kick[0E]】/That [0F]Baron[0E]! Sunsun Kingdom, my foot! It's really the [10]Oven Kingdom[0E]!
+0364	【[0F]Kick[0E]】/Next is the Land of the Sun, the [10]Sunsun Kingdom[0E].
+0365	【[0F]Kick[0E]】/We've said goodbye to [0F]Shizuki[0E], so let's go save the next town!
+0366	【[0F]Kick[0E]】/What, are you getting worried you can't save the next town?
+0367	=Yeah.
+0368	=I'm not worried at all.
+0369	【[0F]Kick[0E]】/Don't worry about it.|[0F][03][0E], you saved [10]Nushikiri Village[0E]. Keep this up and it's a cinch!|Besides, you've got me. Heh heh.
+0370	【[0F]Kick[0E]】/That's right, [0F][03][0E], you saved [10]Nushikiri Village[0E].|No need to worry!
+0371	【[0F]Kick[0E]】/You've gotten good at fishing, [0F][03][0E]. Maybe even better than [0F]Shizuki[0E].
+0372	【[0F]Kick[0E]】/I thought the [10]Sun Stone[0E] might work, but I never knew it'd work that well!
+0373	【[0F]Kick[0E]】/That's my [0F][03][0E]! Good job, anyway.|Let's go tell [0F]Toma[0E] right away.
+0374	【[0F]Kick[0E]】/That's all the kids, then. Now there's just [0F]Ms. Pumpt[0E].
+0375	【[0F]Kick[0E]】/All right, let's keep this up and save everyone!
+0376	【[0F]Kick[0E]】/Now we can finally catch the people who were turned into fish, [0F][03][0E]!
+0377	【[0F]Kick[0E]】/Let's try using the [10]Sun Stone[0E] on the ice!
+0378	【[0F]Kick[0E]】/Okay, straight to the [10]lake[0E]!
+0379	【[0F]Kick[0E]】/Phew, we finally get the [10]Sun Stone[0E].
+0380	【[0F]Kick[0E]】/Let's hurry and have him eat fish from [10]Cold Park[0E], then borrow the [10]Sun Stone[0E]!
+0381	【[0F]Kick[0E]】/Okay, let's ask the [0F]King[0E]!
+0382	=Will he lend it to us?
+0383	=Good idea.
+0384	【[0F]Kick[0E]】/Don't worry. The [0F]King[0E] knows better than anyone how it feels to be turned into a fish.|If we explain, he'll lend us the [10]Sun Stone[0E], precious as it is!
+0385	【[0F]Kick[0E]】/Let's go, [0F][03][0E]! To the [0F]King[0E]!
+0386	【[0F]Kick[0E]】/Come on, let's borrow the [10]Sun Stone[0E].
+0387	【[0F]Kick[0E]】/We have to do something about the ice on the [10]lake[0E].
+0388	【[0F]Kick[0E]】/[10]Cold Park[0E] is way, way colder than [10]Nushikiri Village[0E].|Are you okay, [0F][03][0E]?
+0389	=I'm fine. What about you, Kick?
+0390	=Of course I'm cold!
+0391	【[0F]Kick[0E]】/Thanks. You're nice, [0F][03][0E].
+0392	【[0F]Kick[0E]】/... Sorry.
+0393	【[0F]Kick[0E]】/Being with you is fun, [0F][03][0E].
+0394	【[0F]Kick[0E]】/By the way, [0F][03][0E], what's ice?
+0395	=It's something cold.
+0396	=It's frozen water.
+0397	【[0F]Kick[0E]】/So if it got warm, it wouldn't be ice anymore.
+0398	【[0F]Kick[0E]】/Wow, so if you warm ice up, it turns into water.|You know so much, [0F][03][0E], just like the [0F]Chatty Bird[0E].
+0399	【[0F]Kick[0E]】/The kids who were turned into fish are about your age, [0F][03][0E].
+0400	【[0F]Kick[0E]】/We have to get them out of that cold water fast!
+0401	【[0F]Kick[0E]】/Why do you think [0F]Toma[0E] wasn't there?
+0402	=Something important came up.
+0403	=Maybe he forgot?
+0404	【[0F]Kick[0E]】/... Yeah, I bet that's it.
+0405	【[0F]Kick[0E]】/I don't think that's it...
+0406	【[0F]Kick[0E]】/First we have to find [0F]Toma[0E]!
+0407	【[0F]Kick[0E]】/Nobody's here. Let's try another house.
+0408	【[0F]Kick[0E]】/What is this!?|I can't see a thing, and it's freezing! Let's get someone to let us into a house!
+0409	【[0F]Kick[0E]】/I don't think anyone's over this way. Let's visit the houses down below.
+0410	【[0F]Kick[0E]】/Come on, let's hurry.
+0411	【[0F]Kick[0E]】/Nobody's here.
+0412	【[0F]Kick[0E]】/Maybe some things really are better left unknown...
+0413	【[0F]Kick[0E]】/Let's look for the [0F]Chatty Bird[0E].
+0414	【[0F]Kick[0E]】/What now, [0F][03][0E]? The way he's acting, we'll never get past.
+0415	【[0F]Kick[0E]】/So after [10]Nushikiri Village[0E], we've saved the [10]Oven Kingdom[0E] too.|You're looking more and more like a real savior, [0F][03][0E]. Let's keep charging ahead!
+0416	【[0F]Kick[0E]】/Let's go, [0F][03][0E]! On to the next land!
+0417	【[0F]Kick[0E]】/What's wrong? You've been acting funny since you talked to [0F]Goka[0E].
+0418	=No, I haven't.
+0419	=I want to catch the [10]River King[0E].
+0420	【[0F]Kick[0E]】/Well, as long as you're okay.
+0421	【[0F]Kick[0E]】/You want to catch the [10]River King[0E]!?
+0422	【[0F]Kick[0E]】/Heh. Yeah.|I'd like to see you catch the [10]River King[0E] too, [0F][03][0E].|But right now we have to help the people of [0F]Haruki[0E]'s village.
+0423	【[0F]Kick[0E]】/Come on, let's go help [0F]Haruki[0E]!
+0424	【[0F]Kick[0E]】/Families really should stay together.|Let's hurry and save [0F]Lao's brother-in-law[0E] too!
+0425	【[0F]Kick[0E]】/Come on, let's save [0F]the old guy's son[0E] too!
+0426	【[0F]Kick[0E]】/You just watch, old man! Show him, [0F][03][0E]!
+0427	【[0F]Kick[0E]】/Let's hurry and save the villagers!
+0428	【[0F]Kick[0E]】/You must be ready by now!
+0429	【[0F]Kick[0E]】/Okay, let's leave that to [0F]Lao[0E] and go see the old guy!
+0430	【[0F]Kick[0E]】/Well, if anything's bothering you, just tell me.|Grown-up me will sort it out!
+0431	【[0F]Kick[0E]】/Geez, [0F][03][0E], you just don't get it.
+0432	【[0F]Kick[0E]】/I'm pretty grown-up, huh?
+0433	=I think so!
+0434	=Not at all.
+0435	【[0F]Kick[0E]】/Heh. You get it, [0F][03][0E].
+0436	【[0F]Kick[0E]】/Come on, really!
+0437	【[0F]Kick[0E]】/"When the time comes," huh. Geez, what a guy.|Let's go around the village till the old guy's in the mood!
+0438	【[0F]Kick[0E]】/I hope we managed to talk him around.
+0439	【[0F]Kick[0E]】/Let's go hand over the [10]Black Carp[0E]!
+0440	【[0F]Kick[0E]】/Ugh, maybe we got carried away bringing it so fast.
+0441	Oh well, let's go catch it! Don't worry, if he orders another one, I'll jump on him.
+0442	【[0F]Kick[0E]】/Come on, let's catch it already!
+0443	【[0F]Kick[0E]】/That's my [0F][03][0E]. You reeled that in in no time.
+0444	【[0F]Kick[0E]】/For you now, [0F][03][0E], an order like that is nothing!
+0445	[0F][03][0E], we've got to talk this old guy around somehow.
+0446	【[0F]Kick[0E]】/Now, how can we talk that old guy around?
+0447	【[0F]Kick[0E]】/That boy [0F]Lao[0E]'s [0F]brother-in-law[0E] is probably...
+0448	【[0F]Kick[0E]】/Let's hear what the other villagers have to say.
+0449	【[0F]Kick[0E]】/Only you can save the people who were turned into fish, [0F][03][0E].|I know you're getting tired, but hang in there!
+0450	【[0F]Kick[0E]】/We've got the [10]Carp[0E], so let's hurry and give it to [0F]Weasel[0E]!
+0451	【[0F]Kick[0E]】/A [10]Carp[0E]... Didn't we catch one in [10]Nushikiri Village[0E]?
+0452	【[0F]Kick[0E]】/Now that we know where, we just have to catch it. Let's go, [0F][03][0E]!
+0453	【[0F]Kick[0E]】/A [10]Carp[0E], huh. Where were they again?|If you'd caught one before, the [10]Fishing Note[0E] would show where they bite.
+0454	【[0F]Kick[0E]】/I know, [0F][03][0E]!|At times like this, we should ask the [10]Shaman[0E]. He knows all about the fish around his village!
+0455	【[0F]Kick[0E]】/Let's catch the [10]River King[0E]... [0F][03][0E].
+0456	【[0F]Kick[0E]】/[0F][03][0E], let's reel in the [10]River King[0E]!
+0457	Then you can go back to your own world.|...
+0458	【[0F]Kick[0E]】/Even though we'll be apart...
+0459	【[0F]Kick[0E]】/... Hm!? Something wrong?
+0460	【[0F]Kick[0E]】/Come on, let's go fish for the [10]River King[0E].
+0461	【[0F]Kick[0E]】/Here we go, [0F][03][0E]!
+0462	【[0F]Kick[0E]】/[0F][03][0E], the time has finally come to catch the [10]River King[0E].
+0463	【[0F]Kick[0E]】/There's nobody left in trouble.|Think only about the [10]River King[0E], and let's reel it in no matter what!!
+0464	【[0F]Kick[0E]】/The fish [0F]Yokanan[0E] turned into is a [10]Muskie[0E].
+0465	【[0F]Kick[0E]】/I hope [0F]Emmett's dad[0E] is okay.
+0466	【[0F]Kick[0E]】/I felt sorry for [0F]Emmett's dad[0E].|I'd like to bring [0F]Emmett[0E] here, but the real [0F]Sancherico[0E] is around now,|and this time they'd really make her marry him.
+0467	To talk them out of it, we've got to rescue [0F]Yokanan[0E] as soon as we can!
+0468	【[0F]Kick[0E]】/Two [0F]Sancherico[0E]s!?|Then who's the one at [0F]Emmett[0E]'s house!?
+0469	【[0F]Kick[0E]】/Something about that nobleman is fishy.
+0470	【[0F]Kick[0E]】/Like [0F]Haruki[0E] said, I'm worried about [0F]Emmett[0E]'s house.|Let's go take a look, [0F][03][0E]!
+0471	【[0F]Kick[0E]】/Let's ask [0F]Haruki[0E] about [0F]Yokanan[0E].
+0472	【[0F]Kick[0E]】/Same as in [10]Coconut Village[0E]... Women get sad when the men go missing.
+0473	【[0F]Kick[0E]】/For now, let's ask the townspeople about the people who were turned into fish.
+0474	【[0F]Kick[0E]】/Come to think of it, [0F][03][0E], you're not from this world.
+0475	It'll be lonely saying goodbye, but we have to find a way for [0F][03][0E] to get home!
+0476	【[0F]Kick[0E]】/You said you might have turned him down, but I don't think so.
+0477	Because the [0F][03][0E] I know can't leave people in trouble alone!
+0478	【[0F][03]'s Dad[0E]】/My, you look awfully happy.
+0479	=Came to sleep
+0480	【[0F][03]'s Dad[0E]】/Honestly, kids these days...
+0481	【[0F][03]'s Dad[0E]】/Are you that happy to have some free time?
+0482	【[0F][03]'s Dad[0E]】/[0F][03][0E], I'm thinking of going back to the countryside for Obon.
+0483	Come on, don't be shy. Off you go, and be careful.
+0484	【[0F][03]'s Dad[0E]】/You mustn't go fishing during Obon.
+0485	【[0F]Kick[0E]】/[0F][03][0E], are you okay? You look pale.
+0486	【[0F]Tadao[0E]】/I found it.
+0487	=Fight
+0488	=Pass
+0489	【[0F]Tadao[0E]】/I'm countin' on ya.
+0490	=Attack
+0491	=Dodge
+0492	=Focus    Press the B Button!
+0493	=Focus
+0494	=Super Attack
+0495	=Super Shield
+0496	=Super Heal
+0497	Tadao takes [04] damage.
+0498	HEROPOINT UP!/+[04]
+0499	HP+[04]
+0500	【[0F]Tadao[0E]】/I'll be right back, y'hear.
+0501	Hero's Super Heal, remaining./HP+10.
+0502	=[03]'s HP [0A]/HEROPOINT [10]MAX[0E][02]
+0503	=[03]'s HP [0A]/HEROPOINT [0B][02]
+0504	=[03]'s HP [0A]  [10]SHIELD[0E]/HEROPOINT [10]MAX[0E][02]
+0505	=[03]'s HP [0A]  [10]SHIELD[0E]/HEROPOINT [0B][02]
+0506	【[0F]Tadao[0E]】/Keep it quiet, now.
+0507	【[0F]Tadao[0E]】/The [10]River King[0E] lives in this here swamp. I saw it once, an' that was it.
+0508	【[0F]Tadao[0E]】/We're here!
+0509	Tadao takes 1[04] damage.
+0510	Tadao takes 10x4+1[04] damage.
+0511	Tadao takes 5[04] damage.
+0512	Tadao takes [04]x4+[04] damage.
+0513	Tadao takes 3[04] damage.
+0514	HEROPOINT UP!/+30
+0515	Hero's Super Heal./HP+50.
+0516	Drained Tadao's HP./HP+30.
+0517	Took a normal hit./1[04]
+0518	Took a normal hit./20
+0519	The attack was turned back./1[04] damage.
+0520	Couldn't dodge. 1[04] damage.
+0521	Couldn't dodge. 20 damage.
+0522	The attack was turned back./[04]x4+10 damage.
+0523	The attack was turned back./3[04] damage.
+0524	HEROPOINT DOWN!/-2[04]
+0525	It was dazzling.
+0526	Damage./3+5
+0527	Damage./5+4
+0528	Damage./7
+0529	Damage./4
+0530	Damage./1[04]
+0531	Tadao recovers HP./+1[04]
+0532	You found a treasure chest.
+0533	...but you can't carry any more./ /Bye-bye!
+0534	【[0F]Gonsaku[0E]】/Even a guy like me can be useful to someone.|I'm really grateful to you. Thanks.
+0535	【[0F]Gonsaku[0E]】/There's a pond farther up, too,|but you can't climb up there without [10]something like a rope[0E].
+0536	【[0F]Gonsaku[0E]】/[0F]Hatsune[0E]... Now I'm all alone again...
+0537	【[0F]Gonsaku[0E]】/...Go on, catch your fish and go home.
+0538	【[0F]Big Man[0E]】/You helped me out, but this is my pond. Don't go doing as you please!
+0539	【[0F]Big Man[0E]】/I was standing by the pond, and suddenly I got sucked into the water...
+0540	【[0F]Hatsune[0E]】/[0F]Gonsaku[0E] may look scary, but he has a kind heart.
+0541	【[0F]Hatsune[0E]】/It's such a help that [0F]Gonsaku[0E] came to us.
+0542	【[0F]Hatsune[0E]】/Since [0F]Mother[0E] fell ill, I haven't been able to bring in the harvest...
+0543	【[0F]Hatsune[0E]】/I'll never forget how you saved me, [0F][03][0E]!
+0544	【[0F]Hatsune's Mom[0E]】/Thanks to [0F]Gonsaku[0E], we're doing so much better.|Maybe I'll ask [0F]Gonsaku[0E] to stay with us for good.
+0545	【[0F]Hatsune's Mom[0E]】/[0F]Gonsaku[0E] came to help us, and it's been such a help.
+0546	【[0F]Hatsune's Mom[0E]】/Since then, my back has gone bad.|My [0F]daughter[0E] has her hands full nursing me, so we can't bring in the harvest.|If only we had a man around to help...
+0547	【[0F]Hatsune's Mom[0E]】/If only we had a man around to help...
+0548	【[0F]Hatsune's Mom[0E]】/Ever since I turned back into a human, the heat really gets to me. I wonder why?
+0549	【[0F]Hatsune's Mom[0E]】/It's thanks to you that I can live happily with [0F]Hatsune[0E] again!
+0550	【[0F]Hatsune's Mom[0E]】/I'm sure [0F]Hatsune[0E] was turned into a fish just like me.|Please, save [0F]Hatsune[0E]!
+0551	【[0F]Kiyo[0E]】/I keep dreaming I'm swimming in a faraway sea. It's a strange feeling.
+0552	【[0F]Kiyo[0E]】/All the villagers are back to normal! I'm glad everyone's safe.
+0553	【[0F]Kiyo[0E]】/I told [0F]Gonsaku[0E] to come see the [0F]Elder[0E], and he apologized without a fuss.
+0554	【[0F]Kiyo[0E]】/That fish in the [10]tank[0E] back then... that is, the fish the [0F]Elder[0E] had become...|I'm sure I saw it somewhere when I was a fish...|...Somehow I remember things from when I was a fish. Strange, isn't it...
+0555	【[0F]Kiyo[0E]】/It was a truly strange experience. Now that's what I call art!
+0556	【[0F]Elder[0E]】/Even a frail old man like me felt full of life as a fish.
+0557	【[0F]Elder[0E]】/Whenever you're tired, come stay at my house.|It's my thanks for saving me.
+0558	【[0F]Elder[0E]】/Listening to you talk from inside the tank,|I felt I might turn back into a human. I hear [0F]Kiyo[0E] was a fish too.|By the way, are there others who were turned into fish? I'm worried.
+0559	【[0F]Elder[0E]】/I wonder if others were turned into fish too. I'm worried.
+0560	Please make your purchases at the counter.
+0561	【[0F]Villager[0E]】/I always hated the heat, but char hate it even more than I do!|But when I was a fish, I was happily chasing after the lady char. Heh heh.
+0562	【[0F]Villager[0E]】/All I remember is looking at the river, and then I was a fish.|Now I'm just loafing around outside, leaving the fish shop all to [0F]my wife[0E].|I'm a no-good husband...
+0563	【[0F]Villager[0E]】/I haven't seen [0F]Hatsune[0E] or [0F]her mother[0E]. Are they all right?|Come to think of it, that day they said they were going up the mountain to pick wild greens.
+0564	【[0F]Villager[0E]】/Maybe they got turned into fish somewhere on the mountain?
+0565	Hey, hey! If you want to sell fish, talk to me from the other side!
+0566	【[0F]Villager[0E]】/A pushy char kept trying to get fresh with me...|I bet it was that [0F]dirty old fishmonger[0E].
+0567	【[0F]Villager[0E]】/This is [10]Nushikiri Village[0E].
+0568	【[0F]Villager[0E]】/I don't remember anything after I started cooking.|I'm safe now, but what on earth happened...?
+0569	【[0F]Villager[0E]】/By the way, [0F]Kiyo[0E] was looking for you.|And I haven't seen the [0F]Elder[0E]. What happened to him?|Don't tell me the [0F]Elder[0E] was turned into a fish too?
+0570	【[0F]Shizuki[0E]】/Hi, what's up?
+0571	=About fishing
+0572	=Other
+0573	【[0F]Shizuki[0E]】/Maybe I should have told you the whole truth when we met.|Not that it helps to say so now.
+0574	【[0F]Shizuki[0E]】/Once all the villagers are saved, the [10]River King[0E] will appear in the [10]heart of the Mysterious Forest[0E].|It'll be hard until then, but I hope you'll do your best.
+0575	【[0F]Shizuki[0E]】/Hm? Where can you catch [10]Carp[0E]?|Climb up with the [10]Rope[0E] near [0F]Gonsaku[0E]'s house.
+0576	【[0F]Shizuki[0E]】/Has [0F]Kick[0E] been any help since then? I worry he's holding you back.
+0577	【[0F]Shizuki[0E]】/[0F][03][0E]! Please help my brothers in the next town too!
+0578	=About the villagers
+0579	【[0F]Shizuki[0E]】/The people turned into fish are 9 villagers who live here in [10]Nushikiri Village[0E].|They've been turned into [10]Redspot Trout[0E], [10]Char[0E], [10]Pond Smelt[0E], [10]Silver Carp[0E], [10]Taimen[0E], [10]Masu Trout[0E] and [10]Masu Salmon[0E].|Please, help them somehow. But lots of fish already lived in this village,|so not every fish you catch, [0F][03][0E], will turn back into a person.
+0580	【[0F]Shizuki[0E]】/Until all the villagers are saved, I'll tell them not to go catching and eating fish on their own.|So, [0F][03][0E], you can just focus on fishing.
+0581	=Never mind
+0582	【[0F]Shizuki[0E]】/Anyway, I need you to catch fish. ...Please, I'm counting on you!
+0583	【[0F]Shizuki[0E]】/Leave fishing to me. Where shall we start?
+0584	=What to know before fishing
+0585	=How bait fishing works
+0586	=Practice bait fishing
+0587	【[0F]Shizuki[0E]】/Okay, here's what you should know before you go fishing.|Each fish you catch, or that gets away, means fewer fish left.|When you catch a young fish, release it whenever you can.|Bait and things you find by checking the ground will also run out as you search.|If you stay at an inn or similar, some of them will be back the next day.|Released fish come back bigger.|That's about it. Anything else?
+0588	What do you want to know about bait fishing?
+0589	=Setting up your tackle
+0590	=Getting a fish on the hook
+0591	=After a fish is hooked
+0592	【[0F]Shizuki[0E]】/Okay, let me explain setting up bait fishing tackle.|You equip it in this order: rod, line, hook, then bait.|First, choose "Tackle" from the SELECT menu and equip a rod, line and hook.|Next, choose "Bait/Lure" and equip some bait, and you're done.|Hooks and bait get used up, but you can sometimes find them by checking the ground.|If your tackle isn't complete, you can't fish, so be careful.|That's about it. Anything else?
+0593	【[0F]Shizuki[0E]】/Okay, let me explain how to get a fish on the hook.|With your tackle equipped, press the B Button on the map to get ready to fish.|Face where you want to cast and press the B Button to cast your rig.|How long you hold the B Button sets how far it flies.|While the rig is in the air, you can steer it with the Control Pad.|When a fish goes for it, wait for the float to sink, then press the B Button. That sets the hook.|That's about it. Anything else?
+0594	【[0F]Shizuki[0E]】/Okay, let me explain what to do once a fish is hooked.|While the hooked fish is running, don't force the line. Waiting is the key.|When the fish stops running, pick your moment and reel in.|After a while it'll try to run again, so stop reeling and wait till it stops.|Wait when it runs, reel when it stops. Keep that up and pull the fish close, and you'll land it.|That's about it. Anything else?
+0595	【[0F]Shizuki[0E]】/Okay. If you ever get stuck, come and ask me anytime.
+0596	Let's practice, then.
+0597	【[0F]Shizuki[0E]】/That's it, keep it up! Good luck.
+0598	【[0F]Shizuki[0E]】/Hmm, too bad. Looks like you need more practice.

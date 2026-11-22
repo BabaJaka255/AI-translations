@@ -1,0 +1,250 @@
+1099	【[0F]Shizuki[0E]】/How did it go? ...What! ...I knew it!
+1100	I see... You must have been shocked when the fish you caught turned into a person. Actually, he just went back to normal...|Okay, I'll explain properly, so listen carefully. The truth is...
+1101	The villagers... angered the god of the forest.|The god was angry at people's arrogance, and turned them into fish.
+1102	But please, [0F][03][0E]! Save the villagers who were turned into fish!!|To turn a fish back into a person, a savior has to reel that fish in.|The god said a savior would come from another world, not this one.|And that savior is you.|The only way I can help you is by teaching you to fish.|The god took our special powers too, and now we can't even speak with the god...
+1103	So you fish and turn the people who became fish back into humans,|and I'll do my best to help!
+1104	【[0F]Shizuki[0E]】/Wait a moment!
+1105	【[0F]Shizuki[0E]】/Take [0F]Kick[0E] with you. He seems to like you.
+1106	【[0F]Kick[0E]】/Heh heh. Nice to meet ya.
+1107	【[0F]Shizuki[0E]】/[0F]Kick[0E] seems to understand people, doesn't he?|Take [0F]Kick[0E] with you. He's pretty useful.|Oh, and when you're tired, rest at the [0F]Elder[0E]'s house.|If you're ever in trouble, come see me anytime.|Well, I'll be waiting to hear good news!
+1108	【[0F]Kick[0E]】/[0F]Shizuki[0E] can't understand what I say.|You're the only person who can understand me, [0F][03][0E]!|If there's anything you want to know, don't just ask [0F]Shizuki[0E], ask me too!
+1109	【[0F]Big Man[0E]】/What are you doing!!
+1110	【[0F]Big Man[0E]】/Hey, you! You were about to go into this pond just now!|This is my pond. Don't go doing as you please.|...You helped me out. But that's a different matter.
+1111	【[0F]Kick[0E]】/Says the guy who never even said thanks!
+1112	【[0F]Kiyo[0E]】/Ah, you came at just the right time. I was looking for you.|I heard from [0F]Shizuki[0E] that it's dangerous to catch or eat fish carelessly right now.|So there's something I'd like you to look at. Look over there.
+1113	【[0F]Kiyo[0E]】/That fish in the [10]tank[0E] now... the [0F]big man[0E] from the mountain was carrying it.|After the [0F]big man[0E] left, I took a quiet look, and this fish was flopping on the ground.
+1114	【[0F]Kiyo[0E]】/...Do you think, maybe, if you caught it, it'd turn into a person?
+1115	【[0F]Elder[0E]】/Cough, cough... Yes. ...I heard everything.|The [0F]big man[0E] who lives deep in the mountains. ...Yes. ...That would be [0F]Gonsaku[0E].|...[0F]Gonsaku[0E] is an odd fellow who hates company. He's shut himself away in the mountains...|...But what's the idea of leaving me on the bare ground?|I'll give him a piece of my mind. Go on, [0F]Kiyo[0E], hurry up the mountain and bring him here.
+1116	【[0F]Kiyo[0E]】/What, me? Fine, fine.
+1117	【[0F]Kiyo[0E]】/No need to fetch him. When I told him to come see the [0F]Elder[0E], he apologized without a fuss.|The [0F]Elder[0E] told me to bring him, but he's sorry, so I suppose it's fine...
+1118	【[0F]Gonsaku[0E]】/Sigh, so it's goodbye...
+1119	【[0F]Gonsaku[0E]】/...Go on, catch your fish and go home.
+1120	【[0F]Gonsaku[0E]】/...I wasn't gonna eat her or anything.
+1121	【[0F]Gonsaku[0E]】/...I just wanted her near me.|This [0F]girl[0E] smiled and said hello even to me, when the village calls me a weirdo.|...She's a kind [0F]girl[0E].|And the [0F]girl's mother[0E] was real kind to me too...|...When I thought of her going back to the village and being kind to everyone, I couldn't stand it...
+1122	【[0F]Hatsune[0E]】/[0F]Gonsakuuu[0E]?
+1123	【[0F]Gonsaku[0E]】/Wh... what?
+1124	【[0F]Hatsune[0E]】/Thank you, [0F]Gonsaku[0E].|When we were fish, we were somewhere dangerous where a big fish might eat us,|but you let us go in this safe pond, didn't you? I remember.
+1125	【[0F]Gonsaku[0E]】/H... [0F]Hatsune[0E]...
+1126	【[0F]Hatsune[0E]】/Thank you. Well then...
+1127	【[0F]Shizuki[0E]】/I heard you saved all the villagers! Thank you!
+1128	【[0F]Shizuki[0E]】/But the truth is, there must be people turned into fish in other towns too.|Now that nobody can travel between towns, I have no idea what's going on there,|but I want you to save the people in the other towns too.|The other towns connect through the [10]heart of the Mysterious Forest[0E], but I can't set foot there anymore.|Through the door in the heart of the forest is another town where my brother lives. The door should be open now.|I want you to help them there. They're waiting for you to come. And, here.
+1129	【[0F]Shizuki[0E]】/This is for you. Think of it as a good luck charm.
+1130	= /   Got the [10]Legendary Rod[0E]!/ 
+1131	= /       Got [10]100G[0E]!/ 
+1132	= /   Got a new [10]Fishing Note[0E]!
+1133	【[0F]Shizuki[0E]】/This is where I stay. I'm counting on you to help my siblings.|Goodbye. Take care, [0F]Kick[0E]!
+1134	【[0F]Gonsaku[0E]】/What're you here for!?
+1135	!? [0F]Hatsune's ma[0E] collapsed?
+1136	I see... [0F]Hatsune[0E] can't look after her and do the farm work all by herself.
+1137	【[0F]Gonsaku[0E]】/...Got it.|I don't wanna go back to the village, but you helped me out,|...and I wanna help [0F]Hatsune[0E] after all. So I'll go down to the village.
+1138	【[0F]Hatsune[0E]】/Thank you, [0F]Gonsaku[0E]. With [0F]Mother[0E] the way she is,|I can't keep up with the farm work, so this is such a help!
+1139	【[0F]Gonsaku[0E]】/Oh yeah! From now on, feel free to fish in my pond.|Nobody's ever been allowed in there before,|but you've done a lot for me, so I've made it so you can get in anytime. Fish all you like.|There's a pond farther up, too, but you can't climb up there without [10]something like a rope[0E].
+1140	【[0F]Kick[0E]】/Hey, it's so hot in this country, I'm parched.|Order something, [0F][03][0E]!
+1141	【[0F]Kick[0E]】/Oh! This place should be reasonably priced!|I'm so thirsty I could keel over. Hurry and order something, [0F][03][0E]!
+1142	=Order water
+1143	=Try ordering beer
+1144	【[0F]Bar Lady[0E]】/Water's not on the menu,|but if you really want some, it'll cost you 200G. That okay?
+1145	【[0F]Bar Lady[0E]】/Sonny, aren't you a little young to drink beer here?|It's not on the menu, but if you're drinking, have water. Sorry, but it's 200G.
+1146	【[0F]Kick[0E]】/Wha? Wh-why is it so expensive!!
+1147	【[0F]Bar Lady[0E]】/Hm!? Looks like the squirrel's got a complaint.|It's not just here, it's everywhere. Lately the [0F]King[0E] of the [10]Oven Kingdom[0E]|suddenly started taking lots of taxes.[09]|Thanks to that, everything costs twice what it used to.
+1148	【[0F]Kick[0E]】/No way. What a time to show up.
+1149	【[0F]Girl[0E]】/Help me!!
+1150	【[0F]Kick[0E]】/I don't know what's going on, but this way!
+1151	【[0F]Girl[0E]】/Thank you!!
+1152	【[0F]Kick[0E]】/Huh...? That girl...
+1153	=Order oolong tea
+1154	【[0F]Shopkeeper[0E]】/Thanks! Water is 200G.|Prices are high these days, so that's what it costs. Sorry...
+1155	【[0F]Shopkeeper[0E]】/Thanks! Oolong tea is 300G.|Prices are high these days, so that's what it costs. Sorry...
+1156	【[0F]Kick[0E]】/Y-you've got to be kidding!|Hey, [0F][03][0E]! This shop is way too expensive! Let's try another one!
+1157	【[0F]Boy[0E]】/You look suspicious. What do you want? You're not from this town, are you?|I'm [0F]Jimott[0E]. It's been dangerous around here lately, so stay away from the [10]castle[0E].
+1158	【[0F]Jimott[0E]】/Hey, wait!
+1159	【[0F]Jimott[0E]】/You're a sorcerer! This isn't really a squirrel, is it!|I'll squash it!!
+1160	【[0F]Jimott[0E]】/...Hm? I hear voices...
+1161	【[0F]Aide[0E]】/Who'd have thought it would go this well.
+1162	【[0F]King[0E]】/But if they find out I'm a fake, we're in big trouble.
+1163	【[0F]Aide[0E]】/Heh heh, don't worry. Even to me, you and the [0F]King[0E] look exactly alike.|Nobody will know.
+1164	【[0F]Jimott[0E]】/The [0F]King[0E]... is a fake? I have to tell [0F]Akira[0E]...
+1165	【[0F]Kick[0E]】/[0F]Akira[0E]... wait...
+1166	【[0F]Kick[0E]】/Let's go after him!!
+1167	【[0F]Old Butler[0E]】/What do you want?
+1168	【[0F]Old Butler[0E]】/Hmph. If you have no business here, leave.
+1169	【[0F]Jimott[0E]】/Whoa!!
+1170	【[0F]Old Butler[0E]】/[0F]Your Highness[0E]! Are you all right?
+1171	【[0F]Kick[0E]】/[0F]Your Highness[0E]???
+1172	【[0F]Old Butler[0E]】/...I see. So [0F]Shizuki[0E] asked you to come.|I've heard about [0F]Shizuki[0E] from [0F]Akira[0E]. It seems we can trust you.|Just now, [0F]Akira[0E] heard from the [0F]Prince[0E]|that "the [0F]King[0E] now is a fake," and she rushed out of the house...
+1173	【[0F]Old Butler[0E]】/[0F]Akira[0E] and I both used to serve the [0F]King[0E].
+1174	I was the [0F]King[0E]'s aide, and [0F]Akira[0E]'s job was to read the fortunes of the country's affairs.
+1175	But not long ago, I was dismissed for no reason. That's also when heavy taxes were put on the townspeople.
+1176	If the country was in trouble, [0F]Akira[0E] should have been the first one consulted, but she wasn't.
+1177	If the [0F]King[0E] is a fake, then he probably feared [0F]Akira[0E]'s special powers|would expose him,
+1178	and may have been after [0F]Akira[0E]'s life.
+1179	So [0F]Akira[0E], who sensed something was wrong, left the [10]castle[0E] and went into hiding,
+1180	and has been watching what happens with the [0F]Prince[0E], who also felt his father had changed.
+1181	【[0F]Prince Jimott[0E]】/When I said [0F]Father[0E] must have been killed, [0F]Akira[0E] just said, "No, maybe..."|and ran out of here.
+1182	【[0F]Kick[0E]】/Maybe... a fish? [0F][03][0E], you're up!
+1183	You didn't get any EXP.
+1184	【[0F]Kick[0E]】/What was that!? Hey, [0F][03][0E], the huge fish around here|must be too much for a normal rod. Let's leave fishing for now and go check out the [10]castle[0E]!
+1185	【[0F]Kick[0E]】/What was that!? Hey, [0F][03][0E], the huge fish around here|must be too much for a normal rod. Let's leave fishing for now and go after that boy!!
+1186	【[0F]Kick[0E]】/What was that!? Hey, [0F][03][0E], the huge fish around here|must be too much for a normal rod. Let's leave fishing for now and go look for [0F]Akira[0E]!
+1187	【[0F]Kick[0E]】/What was that!? Hey, [0F][03][0E], the huge fish around here|must be too much for a normal rod. Let's leave fishing for now and go look for the [10]King's tackle[0E]!!
+1188	【[0F]Kick[0E]】/What was that!? Hey, [0F][03][0E], the huge fish around here|must be too much for a normal rod. Let's leave fishing for now and go look for the [10]Dungeon Key[0E]!
+1189	【[0F]Kick[0E]】/What was that!? Hey, [0F][03][0E], the huge fish around here|must be too much for a normal rod. Let's leave fishing for now and go see [0F]Jimott[0E]!
+1190	【[0F]Kick[0E]】/What was that!? Hey, [0F][03][0E], the huge fish around here|must be too much for a normal rod. Let's leave fishing for now and go get the [0F]King[0E]'s own tackle!
+1191	【[0F]Kick[0E]】/What was that!? Hey, [0F][03][0E], the huge fish around here|must be too much for a normal rod. Let's try the [0F]King[0E]'s own tackle!
+1192	【[0F]Akira[0E]】/So you're [0F][03][0E]. I'm [0F]Akira[0E]. Nice to meet you!
+1193	=Nice to meet you too.
+1194	=I thought you'd be a guy...
+1195	【[0F]Akira[0E]】/...Heh! I'm glad to meet you, [0F][03][0E].
+1196	【[0F]Akira[0E]】/What? You thought I was a guy because my name is [0F]Akira[0E]? How rude!|...Heh! Oh, never mind! I'm glad to meet you, [0F][03][0E].
+1197	【[0F]Akira[0E]】/You've probably guessed, but the [0F]King[0E] has been turned into a fish.|The [0F]King[0E]'s fish form is huge and very strong.|Even I'd have trouble reeling it in.|And even you couldn't do it with normal tackle. You'll need special tackle.|So leave that to me. I'll think of something.
+1198	【[0F]Akira[0E]】/Looks like the [0F]gate guards[0E] followed me again.|...I'm staying with the [0F]old butler[0E] right now. Come anytime. I'll help however I can.
+1199	【[0F]Gate Guard[0E]】/Hey, you. Did anyone come by here? Hmm? You, I think I've seen you...
+1200	That's it! I caught a glimpse of you just when I was looking for [0F]Lady Akira[0E]...
+1201	【[0F]Gate Guard[0E]】/You're coming with us.
+1202	【[0F]Kick[0E]】/[0F][03][0E]!!
+1203	【[0F]Gate Guard[0E]】/Huh, [0F]Your Highness[0E]! What are you doing here?
+1204	【[0F]Prince Jimott[0E]】/Never mind that. Anyway, he's my friend. Let him go.
+1205	【[0F]Gate Guard[0E]】/We can't do that. This one is...
+1206	【[0F]Gate Guard[0E]】/Oh, let it go.|All we were ordered to do is catch [0F]Lady Akira[0E].
+1207	【[0F]Gate Guard[0E]】/Hey, don't go blabbing that!
+1208	【[0F]Kick[0E]】/We figured that out ages ago!!
+1209	【[0F]Gate Guard[0E]】/Ow ow ow! This squirrel bit me!
+1210	【[0F]Kick[0E]】/[0F][03][0E]! Let's scram while we can!
+1211	=Run for it
+1212	=Let them catch me
+1213	【[0F]Kick[0E]】/Whoa! Before we run, we'd better tell [0F]Jimott[0E]|the [0F]King[0E] is a fish!
+1214	【[0F]Prince Jimott[0E]】/The [0F]King[0E] is a fish!? I can't... I can't believe it...
+1215	But the way you look so serious, I don't think you're lying.|Okay! Anyway, leave these guys to me!
+1216	【[0F]Kick[0E]】/Don't dawdle, [0F][03][0E]! We have to get out of here!|Whoa! I almost forgot! First we have to tell [0F]Jimott[0E] the [0F]King[0E] is a fish!
+1217	【[0F]Prince Jimott[0E]】/Now, you two! Come back to the [10]castle[0E] with me!
+1218	【[0F]Gate Guard[0E]】/Y-yes...
+1219	【[0F]Prince Jimott[0E]】/What are you doing!? Come on, hurry!
+1220	【[0F]Gate Guard[0E]】/Y-yes, sir!!
+1221	【[0F]Akira[0E]】/Hi, you came. We were just talking about you.
+1222	【[0F]Akira[0E]】/The [0F]King[0E] loved fishing. I was hired as a [10]Shaman[0E],|but more than that, I spent a lot of time teaching him to fish.
+1223	【[0F]Old Butler[0E]】/The [0F]King[0E]'s tackle collection is magnificent, every piece of it.|He had a [10]general store[0E] set up near the [10]castle[0E] and was always having things made.
+1224	【[0F]Akira[0E]】/Do you see? To reel in the fish the [0F]King[0E] became,|you need the [0F]King[0E]'s own sturdy tackle.|Of course, the [0F]old butler[0E] and I can't go to the [10]castle[0E],|and the [0F]Prince[0E] has the [10]Tackle Room Key[0E]. Will you find it together with the [0F]Prince[0E]?
+1225	【[0F]Kick[0E]】/I hear a voice.
+1226	【[0F]Kick[0E]】/Calm down. That's the [0F]Prince[0E]'s voice. He must be somewhere on this floor.
+1227	【[0F]Kick[0E]】/I heard the voice again. It's definitely the [0F]Prince[0E].
+1228	【[0F]Kick[0E]】/[0F][03][0E], we're close! The [0F]Prince[0E] must be around here!
+1229	【[0F]Prince Jimott[0E]】/[0F][03][0E], [0F]Father[0E] is in danger!!
+1230	【[0F]Kick[0E]】/A fishing contest?
+1231	【[0F]Prince Jimott[0E]】/His real goal is to kill [0F]Father[0E]!|...After I helped you, he called me in, and I told him: you're a fake! The real [0F]Father[0E] was turned into a fish!|So... he locked me up, and he put out a notice to the townspeople.|That he'll pay a high price for any fish...
+1232	【[0F]Kick[0E]】/[0F][03][0E] has to reel him in fast...
+1233	【[0F]Prince Jimott[0E]】/I can't just sit here! I'm going to see the [0F]fake king[0E]!
+1234	【[0F]Prince Jimott[0E]】/That's dirty!! Using the townspeople like this to try to catch [0F]Father[0E]!
+1235	【[0F]King[0E]】/You...!? You got out of the [10]dungeon[0E]? Well, whatever. Ha ha.|I don't need to catch him myself. Look, there's that guy.
+1236	【[0F]Townsman[0E]】/All I have to do is catch a fish, right?
+1237	【[0F]Prince Jimott[0E]】/[0F][03][0E], reel him in before the townspeople do,|and save [0F]Father[0E]! You can do it, can't you, [0F][03][0E]?
+1238	【[0F]Prince Jimott[0E]】/What, you need a rod that can reel in big fish?|Then there's one in the [10]tackle room[0E] in the building behind the [10]castle[0E], down in the basement. I have the [10]key to that room[0E].|I'll give this to you, [0F][03][0E].|Oh, and I'll hang on to the [10]Dungeon Key[0E].
+1239	= /    Got the [10]Tackle Room Key[0E]!
+1240	【[0F]Prince Jimott[0E]】/[0F]Father[0E]!
+1241	【[0F]King[0E]】/Ah, [0F]Jimott[0E]!!
+1242	【[0F]Townsman[0E]】/Huh... Isn't that the [0F]King[0E]?
+1243	【[0F]Townsman[0E]】/It is!
+1244	【[0F]Townsman[0E]】/Wait a minute, then who's that...
+1245	【[0F]Kick[0E]】/Take that!!
+1246	【[0F]Townsman[0E]】/Whoa!! The royal crest that should be on his forehead isn't there!?|It's a [0F]fake king[0E]!!
+1247	【[0F]Fake King[0E]】/Waaah... Help me...
+1248	【[0F]Aide[0E]】/Tch! Looks like the game is up!
+1249	【[0F]King[0E]】/Don't let him escape! After him!
+1250	【[0F]Gate Guard[0E]】/Y-yes, sir!
+1251	【[0F]King[0E]】/You've truly saved us this time. I thank you.|I'm sorry for all the trouble I caused the [0F]Prince[0E], the townspeople, and even you.|The scoundrel who posed as king of this country in my place has been locked in the [10]dungeon[0E].|You've really saved me. Name anything you want.|How about 3 [10]Power Nuts[0E]? Anything but our heirloom, the [10]Sun Stone[0E].
+1252	【[0F]King[0E]】/That I could lend you, but I can't give it away.|Won't you choose something else?
+1253	【[0F]King[0E]】/That's what you want? Very well.|I've taken back the [10]Tackle Room Key[0E] and the [10]Royal Tackle[0E].|Also, [0F]Akira[0E] asked you to come to her room. Please visit her before you leave.|[0F][03][0E], come visit us again anytime.
+1254	=[09]/        Got [10]1000G[0E]!
+1255	=[09]/    Got 3 [10]Power Nuts[0E]!
+1256	【[0F]King[0E]】/What's this? Your bag seems to be full.|Then it can't be helped. Won't you choose something else?
+1257	【[0F]Akira[0E]】/[0F][03][0E], thank you so much for saving the [0F]King[0E]!|You know, when I left the [10]castle[0E], there was one thing I just had to take with me.|I'll give it to you as thanks. It's precious, so take good care of it!
+1258	=[09]/   Got the [10]Legendary Reel[0E]!/ 
+1259	=[09]/   Got a new [10]Fishing Note[0E]!
+1260	【[0F]Akira[0E]】/Don't worry. I was really keeping it to give to you.|And [0F]Shizuki[0E] may have asked you too, but please go to the other countries and meet our siblings.|I'm truly grateful to you.
+1261	【[0F]Kick[0E]】/Um... Ah-choo!!
+1262	【[0F]Girl[0E]】/A spirit...? Doesn't look like it... Anyway, come on in.
+1263	【[0F]Girl[0E]】/It must have been cold outside.
+1264	【[0F]Girl[0E]】/Have you been to the other houses?
+1265	=Nope.
+1266	【[0F]Girl[0E]】/I see... Let's talk more tomorrow.|Get a good rest tonight.
+1267	【[0F]Kick[0E]】/Yawwwn, I slept great.
+1268	【[0F]Girl[0E]】/Is that your pet?
+1269	【[0F]Girl[0E]】/I'm [0F]Dorch[0E]. Nice to meet you.
+1270	【[0F]Dorch[0E]】/Why were the townspeople so wary?|...This town has an old legend. A boy who comes on a blizzard day|is a spirit who takes children away, so you mustn't let him in. And the proof is,|on the day winter came to this town this year, the children who went to [10]school[0E] disappeared.|The townspeople say it's because [0F]Ms. Pumpt[0E] let a spirit into the [10]school[0E].|...[0F]Ms. Pumpt[0E] is so kind.
+1271	【[0F]Dorch[0E]】/But you don't seem like a spirit.|I think "spirit" must mean a boy like [0F]Toma[0E].
+1272	【[0F]Kick[0E]】/[0F]Toma[0E]?
+1273	【[0F]Dorch[0E]】/He's a boy with mysterious powers.|He can tell exactly what day an avalanche will come. He's amazing!|He always tells us when winter is coming, too...|But this year, just when it came, he wasn't in town...
+1274	【[0F]Dorch[0E]】/You probably don't know yet,|but this town has an old legend. A boy who comes on a blizzard day|is a spirit who takes children away, so you mustn't let him in. And the proof is,|on the day winter came to this town this year, the children who went to [10]school[0E] disappeared.|The townspeople say it's because [0F]Ms. Pumpt[0E] let a spirit into the [10]school[0E].|...[0F]Ms. Pumpt[0E] is so kind.
+1275	【[0F]Dorch[0E]】/But you don't seem like a spirit.|I think "spirit" must mean a boy like [0F]Toma[0E].
+1276	【[0F]Cook[0E]】/Thank ya kindly!|...Odd-looking fish, but oh well.
+1277	【[0F]Hotel Clerk[0E]】/Thank you very much! ...A rather unusual fish, but...|with our chef's skill, there's nothing to worry about!!
+1278	【[0F]Boy[0E]】/Ah... you finally came. I'm [0F]Toma[0E].|I've been waiting for you all this time.
+1279	【[0F]Toma[0E]】/That's right, the missing children were turned into fish.|Some of the townspeople say they can't trust me anymore.|But it can't be helped. It's my job to tell the town when winter is coming, and I failed to do it...
+1280	【[0F]Kick[0E]】/Don't be so down.|We'll do anything we can. Right, [0F][03][0E]!
+1281	【[0F]Toma[0E]】/Thanks. The people who became fish are in the [10]lake[0E] next to the [10]school[0E].|The [10]lake[0E] is frozen, but they're alive under the ice.
+1282	【[0F]Toma[0E]】/But the cold is definitely wearing them down.|If we don't save them soon, it'll be too late. We have to break the ice and save them somehow.
+1283	【[0F]Toma[0E]】/...But how can we break the ice?|Isn't there some good way...?
+1284	【[0F]Townsman[0E]】/When it's this cold, the [10]lake[0E] freezes over and you can't even fish.|On a cold day the [10]sauna[0E] is the best! These stones are hot, so don't touch them!
+1285	【[0F]Kick[0E]】/These stones are hot?|Are they really that hot?
+1286	【[0F]Kick[0E]】/Hot!!
+1287	【[0F]Townsman[0E]】/I told you not to touch them!
+1288	【[0F]Townsman[0E]】/Maybe these could thaw the [10]lake[0E]...!?|Nah, no way. These alone could never melt that ice...
+1289	【[0F]Cook[0E]】/There's no fat on it!
+1290	【[0F]Hotel Clerk[0E]】/Dealing with that is your job, isn't it?|Ugh, honestly!!
+1291	【[0F]Hotel Clerk[0E]】/Oh! Hey, you. Where did you catch that last fish?|Our chef won't stop complaining!
+1292	【[0F]Hotel Clerk[0E]】/[10]Nushikiri Village[0E], you say?
+1293	【[0F]Hotel Clerk[0E]】/See, he says it's from some backwater village.|If you're a pro, figure it out!
+1294	【[0F]Cook[0E]】/Oh, shut it. I cook my own way!
+1295	【[0F]Hotel Clerk[0E]】/Argh!! This is no time to be saying that!!|Quit grumbling and just make the food!!
+1296	【[0F]Hotel Clerk[0E]】/You there, sell us some of this country's fish if you can!|The fish here are nice and fatty, and so delicious.
+1297	【[0F]Hotel Clerk[0E]】/The [10]Land of the Sun[0E], you say?
+1298	【[0F]Hotel Clerk[0E]】/See, he says it's from some backwater country.|If you're a pro, figure it out!
+1299	【[0F]Hotel Clerk[0E]】/[10]Nushikiri Village[0E]? The [10]Land of the Sun[0E]??
+1300	【[0F]Hotel Clerk[0E]】/See, he says it's from places nobody's ever heard of.|If you're a pro, figure it out!
+1301	【[0F]Cook[0E]】/Thank ya kindly!
+1302	【[0F]Hotel Clerk[0E]】/Hm? Oh, this is a pretty good fish.|You should have sold us this in the first place.
+1303	【[0F]Hotel Clerk[0E]】/Now, cook with this, okay?
+1304	【[0F]Kick[0E]】/Hey, [0F][03][0E].|I guess there's no way to melt that thick ice on the [10]lake[0E] with [10]sauna stones[0E], huh?
+1305	【[0F]Hotel Clerk[0E]】/You've been chattering with that squirrel for a while. Are you all right?|Melt the ice with [10]sauna stones[0E]? That's obviously impossible!|Unless the stone were as hot as the sun, of course.|If there really is a place called the [10]Land of the Sun[0E], maybe you'd find a stone like that there.
+1306	【[0F]Kick[0E]】/Ahh!! ...That's it, a stone!|[0F]Jimott's father[0E] has one!!|The [10]Sun Stone[0E], passed down only in the royal family...! That would surely...
+1307	【[0F]King[0E]】/Oh, if it isn't [0F][03][0E]! Welcome!|What brings you here today?
+1308	=Just came to say hi.
+1309	=Please lend me the [10]Sun Stone[0E].
+1310	=Nothing.
+1311	【[0F]King[0E]】/I see. Our country always welcomes you.|Make yourself at home.
+1312	【[0F]King[0E]】/What!? That stone has been passed down in the royal family for generations.|Of course, if you have a good enough reason, I might lend it to you...
+1313	=Explain why
+1314	=Never mind
+1315	【[0F]King[0E]】/...I see. If that's the situation, I can lend you the [10]Sun Stone[0E].|But I can't lend out the precious [10]Sun Stone[0E] so easily...
+1316	【[0F]King[0E]】/...Then how about this?|[0F][03][0E], you travel to all sorts of countries, don't you?|Perhaps it's the hot climate, but the fish in this country have no fat on them and don't taste good.|So if you catch me a tasty, fatty fish, I'll lend you the [10]Sun Stone[0E] in return.|I'll be waiting for a tasty fish!
+1317	【[0F]King[0E]】/I've been waiting. So, did you bring|a fatty fish?
+1318	【[0F]King[0E]】/I see... I can't wait|to taste a fatty fish.
+1319	【[0F]King[0E]】/Hmm, this doesn't look very fatty...|Bring me a fish with firmer flesh, [0F][03][0E]!
+1320	【[0F]King[0E]】/This is a fish from this country, isn't it? I'm counting on a fatty one.
+1321	【[0F]King[0E]】/You don't have any fish! I understand they can't be caught so quickly,|but... I'll be waiting eagerly!
+1322	【[0F]King[0E]】/This is it, this is what I was waiting for!|[0F][03][0E], thank you for granting my wish. Now I'll give you the [10]Sun Stone[0E] as promised.|Or so I thought, but your bag seems to be full...|Make room so you can carry the [10]Sun Stone[0E].
+1323	【[0F]King[0E]】/This is it, this is what I was waiting for!|[0F][03][0E], thank you for granting my wish. Now I'll give you the [10]Sun Stone[0E] as promised.|As for the [10]Sun Stone[0E], it's actually kept on display on the roof of this [10]castle[0E].|So I'll give you the [10]Roof Key[0E]. Take it, go up to the roof, and take the [10]Sun Stone[0E].|But don't forget to bring the [10]Sun Stone[0E] next time you come. Good luck on your journey!
+1324	= /     Got the [10]Roof Key[0E]!/ 
+1325	【[0F]King[0E]】/Hmm, your bag still seems to be full.|Make room so you can carry the [10]Sun Stone[0E], then come back.
+1326	【[0F]King[0E]】/Very well, I'll give you the [10]Sun Stone[0E]. The [10]Sun Stone[0E] is actually kept|on display on the roof of this [10]castle[0E]. So I'll give you the [10]Roof Key[0E]. Take it, go up to the roof,|and take the [10]Sun Stone[0E]. But don't forget to bring the [10]Sun Stone[0E] next time you come.|Good luck on your journey!
+1327	【[0F]Kick[0E]】/[0F][03][0E]! Let's try using|the [10]Sun Stone[0E] around here!
+1328	=Use the [10]Sun Stone[0E].
+1329	=Do nothing.
+1330	【[0F]Kick[0E]】/Whoa! The ice is melting fast!?
+1331	【[0F]Kick[0E]】/You did it, [0F][03][0E]! That ice was so thick,|and you can already see the water.
+1332	【[0F]Toma[0E]】/I heard you saved everyone! Thank you so much!|I've been looking all over for you because I had to see you,|and I figured I'd find you here. And I want you to have this.
+1333	= /   Got the [10]Legendary Line[0E]!/ 
+1334	= /   Got a new [10]Fishing Note[0E]!/ 
+1335	【[0F]Toma[0E]】/These were each our treasures.|But I think we all feel it's better for you to have them. Don't be shy.|Just take good care of them.
+1336	【[0F]Toma[0E]】/Now, hurry to the next town and help my siblings!|Take care.
+1337	【[0F]Lao[0E]】/Mister, can you sail a boat? Will you take me to the lake?
+1338	【[0F]Lao's Sister[0E]】/[0F]Lao[0E], what are you saying? You're not thinking|of getting on a boat, are you?
+1339	【[0F]Lao[0E]】/...But, [0F]Sis[0E]!|It's been so long since my [0F]brother-in-law[0E] disappeared...!|I'm sure he's way out in that lake!|If nobody goes to save him, my [0F]brother-in-law[0E] will...
+1340	【[0F]Lao's Sister[0E]】/[0F]Lao[0E]...
+1341	【[0F]Lao's Sister[0E]】/I've... given up. To be honest...|I'm sure he's dead.
+1342	【[0F]Lao's Sister[0E]】/Besides, if [0F]Lao[0E] disappeared too, what would I do... He's still|not old enough to go out fishing.
+1343	【[0F]Old Woman[0E]】/Women in this village live long, because women are cherished here.|So... now that the men are all gone, it's hard to get food.
+1344	【[0F]Old Woman[0E]】/Come to think of it...there is one man still alive.|His wife died before him. That makes him the unluckiest of men.[09]|Now he's the only one who can sail a boat.[09]|Though with all the boats gone, even that's impossible...
+1345	【[0F]Kick[0E]】/Pfft. A man without a woman is unlucky, she says! What nonsense.|You're happy as long as you've got me, right? Right?
+1346	=Of course!
+1347	=...
+1348	【[0F]Kick[0E]】/That makes me happy, [0F][03][0E]![09]|Of course, I'm happy to have you too.

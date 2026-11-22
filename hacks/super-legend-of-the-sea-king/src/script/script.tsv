@@ -1,0 +1,637 @@
+id	location	japanese	english	limit	notes
+0	86:A0B2 (ROM 0320B2)	誰が釣りに\n出かけますか?	Who's going\nfishing?	22 cols, pages	
+1	86:A0C3 (ROM 0320C3)	誰の記録を\n消しますか?	Whose record\nwill you erase?	22 cols, pages	
+2	86:A0D4 (ROM 0320D4)	{CD}の 記録を\n消しますか?	Erase {CD}'s\nrecord?	22 cols, pages	
+3	86:A0E5 (ROM 0320E5)	弟姉父母年齢才最初から始める	BroSisDa | AgedMm | Mm |    New Game   	22 cols, pages	
+4	86:A0FE (ROM 0320FE)	一郎	Ichiro (default name)	22 cols, pages	
+5	86:A103 (ROM 032103)	真理	Mari (default name)	22 cols, pages	
+6	86:A108 (ROM 032108)	勝洋	Katsu (default name)	22 cols, pages	
+7	86:A10D (ROM 03210D)	好江	Yoshie (default name)	22 cols, pages	
+8	86:A112 (ROM 032112)	  はじめる  記録を消す	  Start     Erase Data	22 cols, pages	
+9	86:A123 (ROM 032123)	はいいいえ		22 cols, pages	not translated as text: a name insert code, the Yes/No graphic or an unused string
+10	86:A129 (ROM 032129)	決定あかさたなはまやらわいきしちにひみゃりをうくすつぬふむゆるんえけせてねへめゅれょおこそとのほ	DoneA B C D E F G H I J K L M N O P Q R S T U V W X Y Z . , ' - a b c d e f g h i j k l m n o p 	22 cols, pages	
+11	86:A15C (ROM 03215C)	もよろっ一二三八十英規義久恭敬宏幸広康浩行作司治樹秀重俊順助彰昌丈真仁成政晴正生精荘造太泰男知哲徹典年之博繁克明也勇裕雄利隆郎和	q r s t u v w x y z ! ? &   0 1 2 3 4 5 6 7 8 9 ( ) / : ; + * = # ~                                                             	22 cols, pages	
+12	86:A1D9 (ROM 0321D9)	もよろっ春夏秋冬亜愛栄英延佳花雅紀輝義菊京君恵江菜三子志枝糸時実紗寿重俊順昌照真政静千代知智津定登道徳敦八美敏穂芳満由理良緑倫和	q r s t u v w x y z ! ? &   0 1 2 3 4 5 6 7 8 9 ( ) / : ; + * = # ~                                                             	22 cols, pages	
+13	86:A256 (ROM 032256)	釣果最長釣率利用生活	Qty BestRateUsesInfo	22 cols, pages	
+14	86:A26B (ROM 03226B)	釣りノートもくじ防波堤砂浜磯沿岸沖島外洋離島	FishngNoteCBrakwcRIlOpS	22 cols, pages	
+15	86:A291 (ROM 032291)	防波堤	Jetty	22 cols, pages	
+16	86:A298 (ROM 032298)	 砂浜	Beach	22 cols, pages	
+17	86:A29E (ROM 03229E)	  磯	Rocks	22 cols, pages	
+18	86:A2A3 (ROM 0322A3)	 沿岸	Coast	22 cols, pages	
+19	86:A2A9 (ROM 0322A9)	 沖島	Islet	22 cols, pages	
+20	86:A2AF (ROM 0322AF)	 外洋	Ocean	22 cols, pages	
+21	86:A2B5 (ROM 0322B5)	 離島	 Isle	22 cols, pages	
+22	86:A2BB (ROM 0322BB)	順位名前記録	RankNameRecord.	22 cols, pages	
+23	86:A2C8 (ROM 0322C8)	  クロダイ大会	Black Porgy Cup	22 cols, pages	
+24	86:A2D3 (ROM 0322D3)	  シロギス大会	Whiting Cup	22 cols, pages	
+25	86:A2DE (ROM 0322DE)	  メジナの記録	Opaleye Record	22 cols, pages	
+26	86:A2E9 (ROM 0322E9)	 イカ釣りの記録	Squid Record	22 cols, pages	
+27	86:A2F5 (ROM 0322F5)	   スズキ大会	Sea Bass Cup	22 cols, pages	
+28	86:A300 (ROM 032300)	   カジキ大会	Marlin Cup	22 cols, pages	
+29	86:A30B (ROM 03230B)	   クエの記録	Grouper Record	22 cols, pages	
+30	86:A316 (ROM 032316)	弘樹	Hiroki	22 cols, pages	
+31	86:A31B (ROM 03231B)	三平	Sanpei	22 cols, pages	
+32	86:A320 (ROM 032320)	義平	Yoshihei	22 cols, pages	
+33	86:A325 (ROM 032325)	富蔵	Tomizo	22 cols, pages	
+34	86:A32A (ROM 03232A)	寿次	Toshiji	22 cols, pages	
+35	86:A32F (ROM 03232F)	七郎	Shichiro	22 cols, pages	
+36	86:A334 (ROM 032334)	音吉	Otokichi	22 cols, pages	
+37	86:A339 (ROM 032339)	忠吉	Chukichi	22 cols, pages	
+38	86:A33E (ROM 03233E)	小次郎	Kojiro	22 cols, pages	
+39	86:A345 (ROM 032345)	大五郎	Daigoro	22 cols, pages	
+40	86:A34C (ROM 03234C)	弥吉	Yakichi	22 cols, pages	
+41	86:A351 (ROM 032351)	東作	Tosaku	22 cols, pages	
+42	86:A356 (ROM 032356)	安太郎	Yasutaro	22 cols, pages	
+43	86:A35D (ROM 03235D)	団次	Danji	22 cols, pages	
+44	86:A362 (ROM 032362)	拓助	Takusuke	22 cols, pages	
+45	86:A367 (ROM 032367)	銀之助	Ginsuke	22 cols, pages	
+46	86:A36E (ROM 03236E)	民次郎	Tamijiro	22 cols, pages	
+47	86:A375 (ROM 032375)	聴次郎	Chojiro	22 cols, pages	
+48	86:A37C (ROM 03237C)	信吉郎	Kichiro	22 cols, pages	
+49	86:A383 (ROM 032383)	波介	Namisuke	22 cols, pages	
+50	86:A388 (ROM 032388)	貞次郎	Sadajiro	22 cols, pages	
+51	86:A38F (ROM 03238F)	春吉	Haruki	22 cols, pages	
+52	86:A394 (ROM 032394)	小梅	Koume	22 cols, pages	
+53	86:A399 (ROM 032399)	富士太郎	Fujitaro	22 cols, pages	
+54	86:A3A2 (ROM 0323A2)	時貞	Tokisada	22 cols, pages	
+55	86:A3A7 (ROM 0323A7)	喜太郎	Kitaro	22 cols, pages	
+56	86:A3AE (ROM 0323AE)	忠治	Chuji	22 cols, pages	
+57	86:A3B3 (ROM 0323B3)	金太郎	Kintaro	22 cols, pages	
+58	86:A3BA (ROM 0323BA)	春雄	Haruo	22 cols, pages	
+59	86:A3BF (ROM 0323BF)	菊次	Kikuji	22 cols, pages	
+60	86:A3C4 (ROM 0323C4)	英樹	Hideki	22 cols, pages	
+61	86:A3C9 (ROM 0323C9)	長生	Nagao	22 cols, pages	
+62	86:A3CE (ROM 0323CE)	海野町  波野港	Namino Port	22 cols, pages	
+63	86:A3DD (ROM 0323DD)	前略 この度は、海のぬし釣り\nを最後まで 遊んでいただき\nありがとうございます。\n海を愛する人は 私の友達。\n大好きです。    かしこ	Dear player, thank you for\nplaying Umi no Nushi Tsuri\nall the way to the end.\nAnyone who loves the sea is\nmy friend. With love.	27 cols, 5 lines	
+64	86:A432 (ROM 032432)	大海原  龍宮城	Dragon Palace	22 cols, pages	
+65	86:A441 (ROM 032441)	乙姫	Otohime	22 cols, pages	
+66	86:A446 (ROM 032446)	           感謝状\nいつも 私たちをかわいがって\nくれて ありがとう。\nこれからも なかよくして\nくださいね。    動物組合	     Letter of Thanks\nThank you for always being\nso kind to us. Let's stay\ngood friends from now on.\n       The Animal Union	27 cols, 5 lines	
+67	86:A493 (ROM 032493)	海野町  愛の浜	Love Beach	22 cols, pages	
+68	86:A4A1 (ROM 0324A1)	ウミガメ	Turtle	22 cols, pages	
+69	86:A4A6 (ROM 0324A6)	       優良釣師認定証\n釣師としての マナーを守り\n我々を見事だまし 釣り上げる\n貴方の技術を評価し 優良釣師\nと認定します。   魚類組合	   Certified Fine Angler\nFor keeping good manners\nand outwitting us so well,\nwe name you a Fine Angler.\n          The Fish Union	27 cols, 5 lines	
+70	86:A50F (ROM 03250F)	大海原  沖の底	Sea Floor	22 cols, pages	
+71	86:A51D (ROM 03251D)	イシダイ	Beakfish	22 cols, pages	
+72	86:A522 (ROM 032522)	記録していたゲームが\n消えてしまいました。	The saved game\nhas been erased.	22 cols, pages	
+73	86:A53B (ROM 03253B)	ボタンを押して下さい。\nゲームを初期化して\nはじめます。	Press a button.\nThe game will be\nreset and start over.	22 cols, pages	
+74	86:A55D (ROM 03255D)	家族の伝言板	Family Board	22 cols, pages	
+75	86:A569 (ROM 032569)	?!改行あかさたなはまやらわいきしちにひみゃりをうくすつぬふむゆるんえけせてねへめゅれょおこそとのほもよろっ	"? ! LineA B C D E F G H I J K L M N O P Q R S T U V W X Y Z . , ' - ! ? & ( ) / : ; + * = # % ~ @ "" < > _   "	22 cols, pages	
+76	86:A5A2 (ROM 0325A2)	?!改行アカサタナハマヤラワイキシチニヒミャリヲウクスツヌフムユルンエケセテネヘメュレョオコソトノホモヨロッ	"? ! Linea b c d e f g h i j k l m n o p q r s t u v w x y z . , ' - ! ? & ( ) / : ; + * = # % ~ @ "" < > _   "	22 cols, pages	
+77	86:A5DB (ROM 0325DB)	?!改行家防波堤砂浜磯沿岸沖島外洋離釣竿針餌魚尾船振投大小行場所動物僕私友達曜日時教勝負恋愛好嫌彼女男約束遊	"? ! Line0 1 2 3 4 5 6 7 8 9 ! ? & ( ) / : ; + * = # % ~ @ "" < > _ ^ [ ] { } | $ `                           "	22 cols, pages	
+78	86:A646 (ROM 032646)	決定	Done	22 cols, pages	
+79	86:A64B (ROM 03264B)	改行	Line	22 cols, pages	
+80	86:A650 (ROM 032650)	{D8}大会\n5尾合計{DA}cm	{D8} Cup\n5-fish total {DA}cm	22 cols, pages	
+81	86:A660 (ROM 032660)	大会本部で検査の結果、{CD}\n選手が2位に{DA}cmの差をつけ\n見事、トップにおどり出た。	After the officials' check,\n{CD} won by {DA}cm over\nsecond place and took the lead.	32 cols, 3 lines	
+82	86:A6A2 (ROM 0326A2)	シロギス\n数釣り{DA}尾	Whiting\nCount: {DA} fish	22 cols, pages	
+83	86:A6B0 (ROM 0326B0)	町長杯争奪シロギス数釣り大会が\n開催され、{CD}さんが{DA}尾\n釣り上げて町長杯を手中にした。	At the Mayor's Cup whiting\ncontest, {CD} caught {DA}\nfish and took the Mayor's Cup.	32 cols, 3 lines	
+84	86:A6F4 (ROM 0326F4)	カジキ大会\n最高記録{DA}cm	Marlin Contest\nBest: {DA}cm	22 cols, pages	
+85	86:A707 (ROM 032707)	{CD}さんが、壮絶なバトルの\n結果{DA}cmのカジキを釣り上げた。\n{D3}のサオを使用。	After an epic battle, {CD}\nlanded a {DA}cm marlin\nusing the {D3} rod.	32 cols, 3 lines	
+86	86:A73A (ROM 03273A)	{D8}\n新記録{DA}cm	{D8}\nNew record {DA}cm	22 cols, pages	
+87	86:A745 (ROM 032745)	{CD}氏が{DA}cmのメジナを\n上げた。ポイントは{DB}。\n大物に大喜びで ハイポーズ。	{CD} landed a {DA}cm\nopaleye at {DB}.\nA big one, and a big smile!	32 cols, 3 lines	
+88	86:A771 (ROM 032771)	{CD}氏が{DA}cmのモロコを\n上げた。ポイントは{DB}。\nガツンとヒット。大物にびっくり。	{CD} landed a {DA}cm\nkelp grouper at {DB}.\nWhat a hit! What a monster!	32 cols, 3 lines	
+89	86:A7A7 (ROM 0327A7)	イカ釣り\n記録更新{DA}尾	Squid Fishing\nNew record: {DA}	22 cols, pages	
+90	86:A7B9 (ROM 0327B9)	イカ釣り好調。入れ掛かりで乗り\nまくり、{CD}さんは最高記録\nの{DA}尾を釣り上げた。	Squid are biting! Catching\nnonstop, {CD} set a new\nrecord of {DA} squid.	32 cols, 3 lines	
+98	86:A7F3 (ROM 0327F3)	{DB}\n{D8}好調	{DB}\n{D8}	14 cols, 2 lines	
+99	86:A7FB (ROM 0327FB)	{DB}\n{D8}堪能	{DB}\n{D8}	14 cols, 2 lines	
+100	86:A803 (ROM 032803)	{DB}\n{D8}順調	{DB}\n{D8}	14 cols, 2 lines	
+101	86:A80B (ROM 03280B)	{DB}\n{D8}	{DB}\n{D8}	14 cols, 2 lines	
+102	86:A80F (ROM 03280F)	ユラユラ落ちる仕掛けが食い気を\n誘う。底についたら、軽く竿を\nフワァとあおって、また沈める。	A slowly sinking rig tempts\nthe fish. When it hits bottom,\nlift gently, then let it sink.	30 cols, 3 lines	
+104	86:A84F (ROM 03284F)	ミャク釣りでは、オモリを底に\nつけ、トントントンと仕掛けを\n動かしては止め、アナゴを誘う。	Bottom fishing: rest the\nsinker on the bottom, tap the\nrig, stop, tempt the eel.	30 cols, 3 lines	
+106	86:A88B (ROM 03288B)	岩礁の穴や、ブロックの間に潜み\n目の前のエサに食いつく。穴に\n潜る前に、すばやくぬき上げる。	Hides in reef holes, grabbing\nbait in front of it. Yank it\nout before it dives.	30 cols, 3 lines	
+108	86:A8CD (ROM 0328CD)	ベタ底を釣るので、水深を測り\nウキ下を調節する。コマセを入れ、\n仕掛けをその中に投入する。	Fish right on the bottom. Set\nthe float to the depth, add\nchum, cast the rig into it.	30 cols, 3 lines	
+110	86:A910 (ROM 032910)	表層近くを、回遊する魚なので、\nコマセをまいて、サヨリを近く\nまで寄せて釣る。エサはオキアミ。	They roam near the surface, so\nscatter chum to draw halfbeak\nin close. Use krill for bait.	30 cols, 3 lines	
+112	86:A950 (ROM 032950)	防波堤でポピュラーな釣り。\nアジ、サバ。それでいて味がいい。\n数釣りも楽しめる人気魚。	Breakwater favorites: horse\nmackerel and mackerel. Tasty,\nand fun to catch by the dozen.	30 cols, 3 lines	
+114	86:A98E (ROM 03298E)	波の静かな、ナギの日にメバル\nは活動する。夕まずめから夜に\nよく釣れる。別名「春告魚」	Rockfish feed on calm days,\nbiting from dusk into night.\nAlso called the spring fish.	30 cols, 3 lines	
+116	86:A9CE (ROM 0329CE)	鋭い歯を持つ、獰猛な魚。エサに\n生きたアジ、サバを使う。ハリスは\n切られない為にワイヤーを使う。	A fierce fish, sharp teeth.\nUse live mackerel for bait,\nand a bite-proof wire leader.	30 cols, 3 lines	
+118	86:AA11 (ROM 032A11)	潮と潮がぶつかるところ、潮通し\nがよいところがポイント。冬場の\n人気魚、酒の肴にピッタリ。	Look where tides meet and the\nwater flows. A winter treat,\nperfect with a drink.	30 cols, 3 lines	
+120	86:AA51 (ROM 032A51)	砂浜で豪快に投げる釣り。砂地に\nできる、ヨブに沿ってシロギスは\n泳ぎまわる。ヨブがポイント。	Cast far from the beach. Fish\nthe troughs by the sandbar,\nwhere the whiting swim.	30 cols, 3 lines	
+122	86:AA91 (ROM 032A91)	海のルアーフィッシング。\nロッドワークは必要ない。同じ\nスピードでリトリーブしよう。	Lure fishing in the sea.\nNo rod work needed. Just\nretrieve at a steady speed.	30 cols, 3 lines	
+124	86:AAC7 (ROM 032AC7)	夜行性の魚だが、海が濁ったり\nすると、日中でもよく釣れる。\nヨブやカケアガリがポイント。	A night fish, but when the sea\nturns murky it bites by day.\nTry the troughs and drop-offs.	30 cols, 3 lines	
+126	86:AB04 (ROM 032B04)	ビギナーにおすすめのハゼ釣り。\nウロコを取って、頭を落とし\n背開きにして、テンプラにする。	Goby fishing, great for\nbeginners. Scale, cut off the\nhead, open the back: tempura!	30 cols, 3 lines	
+128	86:AB3F (ROM 032B3F)	投げ込んだら、ときどき引いて\n掛かっているか見る。重みを感じ\nたら大きくあわせ、素早く巻く。	After casting, pull now and\nthen to check. Feel weight?\nSet the hook hard, reel fast.	30 cols, 3 lines	
+130	86:AB80 (ROM 032B80)	シロギスと同じようなところで\n釣れる。仕掛けが底をはうと\nメゴチばかり釣れる。	Caught where whiting are. Let\nyour rig drag the bottom and\nyou'll catch only flathead.	30 cols, 3 lines	
+132	86:ABB5 (ROM 032BB5)	イカの切り身を、カニ網に縛り\nつけ投げる。カニの足が網に\nからみつき外れなくなる。	Tie squid strips to a crab net\nand cast. The crab's legs get\ntangled and can't come free.	30 cols, 3 lines	
+134	86:ABEE (ROM 032BEE)	磯で家族で楽しむ釣り。海藻の多\nい、海底が変化しているところ\nがポイント。コマセで寄せる。	Family fun on the rocks. Look\nfor seaweed and an uneven\nbottom. Draw fish with chum.	30 cols, 3 lines	
+136	86:AC30 (ROM 032C30)	メジナ好食い。他外道多数大釣り。\n女性にも釣れちゃう食いっぷり。\n抜群の引き味が、楽しめる。	Opaleye are biting, and lots\nmore besides. Even beginners\ncatch them. A great fight!	30 cols, 3 lines	
+138	86:AC78 (ROM 032C78)	色のきれいなヒョウキン者。特に\n冬場は美味の人気魚。起伏が激し\nく海藻が多いところがポイント。	A colorful clown, tastiest in\nwinter. Look where the bottom\nis rough and full of seaweed.	30 cols, 3 lines	
+140	86:ACBF (ROM 032CBF)	磯の王者、イシダイ。大物を求め\n釣り人が荒磯にいどむ。潮表が\n絶好のポイント。磯のヘチ際。	The striped beakfish, king of\nthe rocks. Anglers brave wild\nshores for it. Fish the edges.	30 cols, 3 lines	
+142	86:AD04 (ROM 032D04)	岩礁帯の底近くにすみ、サザエ、\nフジツボ、トコブシ、カニなどを、\nクチバシの様な歯で噛み砕く。	Lives near the reef bottom and\ncrunches turban shells, crabs\nand barnacles with beak teeth.	30 cols, 3 lines	
+144	86:AD44 (ROM 032D44)	カワハギは底近くの、岩礁帯や\n海藻の多いところがポイント。\nエサ取り名人、アワセが難しい。	Filefish stay near the bottom\nin reefs and seaweed. Expert\nbait thieves, hard to hook.	30 cols, 3 lines	
+146	86:AD85 (ROM 032D85)	小さな口でエサを噛み切る、エサ\n取り名人。背ビレや尻ビレに毒が\nあるから注意。引きは抜群。	A bait thief that nips with a\ntiny mouth. Its fins are\npoisonous, beware. Great pull.	30 cols, 3 lines	
+148	86:ADC9 (ROM 032DC9)	群れに当たれば数釣りが、楽しめ\nる。晴れの日は食いが悪い。曇りか\n小雨、夜釣りに向いている。	Find a school and catch lots.\nThey bite poorly in sun: try\ncloudy days, drizzle, night.	30 cols, 3 lines	
+150	86:AE0E (ROM 032E0E)	魚料理でおなじみのアマダイ釣り\n起伏の多い釣り場なので、タナを\nときどき とりなおすこと。	Tilefish, a favorite dish.\nThe ground is uneven, so reset\nyour depth now and then.	30 cols, 3 lines	
+152	86:AE4C (ROM 032E4C)	ファン待望!冬の使者。ヤリイカ\n底近くで、段をつけるように\nしゃくり上げ20mまで探る。	Fans' favorite! Winter's spear\nsquid. Jerk up in steps from\nthe bottom, searching to 20m.	30 cols, 3 lines	
+154	86:AE8A (ROM 032E8A)	底すれすれをエサが流れるように\nする。コチがクックッときたら\n食い込ませ、大きくあわせる。	Drift the bait just over the\nbottom. When flathead nibble,\nlet them take it, then strike.	30 cols, 3 lines	
+156	86:AEC4 (ROM 032EC4)	グルメの憧れ「ヒラメの縁側」\n早あわせは禁物。アタリがきても\nじっと我慢。相手が引き込むまで。	Flounder fins: gourmet dream.\nDon't strike early. Wait until\nthe fish pulls it under.	30 cols, 3 lines	
+158	86:AF07 (ROM 032F07)	チダイの大物を釣らせますよ!\nタナで寄せエサを軽くひと振り。\n誘いはサオをゆっくりあおる。	Big crimson sea bream for you!\nShake a little chum out at the\nright depth, lift rod slowly.	30 cols, 3 lines	
+160	86:AF43 (ROM 032F43)	マダイ本番突入。仕掛けが底に\nついたら、糸ふけを取る。誘いは\nサオを立て、仕掛けを動かす。	Red sea bream season is here.\nWhen the rig hits bottom, take\nup the slack. Lift to tempt.	30 cols, 3 lines	
+162	86:AF86 (ROM 032F86)	深場の釣り。キンメダイ。\n深紅の魚体が深海から次々と\n上がってくる。鍋、刺し身よし。	Deep-water alfonsino.\nCrimson fish rise one after\nanother. Great stewed or raw.	30 cols, 3 lines	
+164	86:AFC6 (ROM 032FC6)	引き味豪快。海のスプリンター。\nオキアミで狙うもよし、生きエサ\nルアー釣りでもよし。刺し身極上。	A thrilling pull, the sprinter\nof the sea. Krill, live bait,\nlures all work. Great sashimi.	30 cols, 3 lines	
+166	86:B00A (ROM 03300A)	アコウダイ、良型オンパレード。\n深場の岩礁帯のカケアガリが\nポイント。起伏にあわせて底立ち。	Big rosefish galore.\nFish the deep reef drop-offs.\nKeep your rig at the bottom.	30 cols, 3 lines	
+168	86:B04B (ROM 03304B)	大型なら、深場を狙え。\n海底の起伏にあわせて、底立ちを\nする。岩礁帯の底層がポイント。	For big ones, go deep: keep\nthe rig near the bottom over\nrough ground. Reef floors pay.	30 cols, 3 lines	
+170	86:B08E (ROM 03308E)	ルアー釣り、ゲーム・フィッシュ\n人気急上昇。ルアーはナブラの\n端を狙い、ハイスピードで巻く。	Lure fishing for game fish is\nbooming. Aim lures at the edge\nof the boil and reel in fast.	30 cols, 3 lines	
+172	86:B0CD (ROM 0330CD)	スポーツフィッシング人気急上昇\n日本沿岸でも200キロ以上の\n大物が上がっている。	Sport fishing is booming.\nMonsters over 200kg are being\nlanded off Japan's coast too.	30 cols, 3 lines	
+174	86:B10C (ROM 03310C)	コマセで群れを集めて、付けエサ\nをその中に投入する。魚を散らさ\nなければ、数釣りも楽しめる。	Gather a school with chum and\ncast your baited hook into it.\nKeep them close; catch lots!	30 cols, 3 lines	
+176	86:B14D (ROM 03314D)	ヒラマサ元気!海のスプリンター\nサオ先がググと突き刺さる。この\nアタリがたまらない。味も一級品	Amberjack on fire! The rod tip\nplunges down: what a bite! And\nit tastes first-rate.	30 cols, 3 lines	
+178	86:B18E (ROM 03318E)	高級魚、シマアジ。コマセの中に\n仕掛けを入れ、海底をはわせる\nようにする。何といっても刺し身。	Striped jack, a luxury fish.\nPut the rig in the chum, drag\nthe bottom. Sashimi is a must.	30 cols, 3 lines	
+180	86:B1D1 (ROM 0331D1)	ブリ好調持続。寒ブリの食味は\n最高。刺し身、ブリの照り焼き。\nアタリは一気にグウッと引き込む	Yellowtail still biting. It's\nbest in winter, raw or as\nteriyaki. Bites hard and fast.	30 cols, 3 lines	
+182	86:B218 (ROM 033218)	防波堤	Breakwater	22 cols, pages	
+183	86:B21F (ROM 03321F)	砂浜	Beach	22 cols, pages	
+184	86:B224 (ROM 033224)	磯	Rocks	22 cols, pages	
+185	86:B227 (ROM 033227)	沿岸	Coast	22 cols, pages	
+186	86:B22C (ROM 03322C)	沖島	Islet	22 cols, pages	
+187	86:B231 (ROM 033231)	外洋	Open Sea	22 cols, pages	
+188	86:B236 (ROM 033236)	離島	Far Isle	22 cols, pages	
+189	86:B23B (ROM 03323B)	{CD}は\n釣りを始めた。	{CD} started\nfishing.	22 cols, pages	
+190	86:B248 (ROM 033248)	{CD}は\n釣りを止めた。	{CD} stopped\nfishing.	22 cols, pages	
+191	86:B255 (ROM 033255)	ここでは 釣れない。	Nothing's biting here.	22 cols, pages	
+192	86:B261 (ROM 033261)	コマセを まかないと\n釣れない。	Nothing will bite\nwithout chum.	22 cols, pages	
+193	86:B273 (ROM 033273)	泳いでいるときは\n釣りができない。	You can't fish while\nswimming.	22 cols, pages	
+194	86:B287 (ROM 033287)	ここでは釣りができない。	You can't fish here.	22 cols, pages	
+195	86:B295 (ROM 033295)	サオを選んでいない。	No rod selected.	22 cols, pages	
+196	86:B2A1 (ROM 0332A1)	ウキを選んでいない。	No float selected.	22 cols, pages	
+197	86:B2AD (ROM 0332AD)	ハリを選んでいない。	No hook selected.	22 cols, pages	
+198	86:B2B9 (ROM 0332B9)	オモリを選んでいない。	No sinker selected.	22 cols, pages	
+199	86:B2C6 (ROM 0332C6)	ルアーがついていない。	No lure attached.	22 cols, pages	
+200	86:B2D2 (ROM 0332D2)	ギジバリがついていない。	No decoy hook on.	22 cols, pages	
+201	86:B2DF (ROM 0332DF)	シカケがついていない。	No rig attached.	22 cols, pages	
+202	86:B2EB (ROM 0332EB)	エサがついていない。	No bait attached.	22 cols, pages	
+203	86:B2F6 (ROM 0332F6)	磯アミがいっぱいで\n釣りができない。	Your keep net is full,\nso you can't fish.	22 cols, pages	
+204	86:B30B (ROM 03330B)	クーラーがいっぱいで\n釣りができない。	Your cooler is full,\nso you can't fish.	22 cols, pages	
+205	86:B320 (ROM 033320)	陸では 船釣りができない。	You can't boat fish\non land.	22 cols, pages	
+206	86:B331 (ROM 033331)	クルーザーでないと\nトローリングができない。	You need a cruiser\nto go trolling.	22 cols, pages	
+207	86:B348 (ROM 033348)	{D5}を食べた。	Ate {D5}.	22 cols, pages	
+208	86:B350 (ROM 033350)	体力が {DA}回復した。	Recovered {DA} HP.	22 cols, pages	
+209	86:B35F (ROM 03335F)	最大体力まで\nあと {DA}です。	{DA} more until\nmax HP.	22 cols, pages	
+210	86:B372 (ROM 033372)	体力が、全部回復した。	HP fully recovered.	22 cols, pages	
+211	86:B384 (ROM 033384)	これ以上食べきれない。	You can't eat more.	22 cols, pages	
+212	86:B393 (ROM 033393)	{D8}を\n焼いてたべた。	Grilled and ate\n{D8}.	22 cols, pages	
+213	86:B39F (ROM 03339F)	食べ物を持っていない。	You have no food.	22 cols, pages	
+214	86:B3AE (ROM 0333AE)	{D8}の毒で\n力つきてしまった。	The poison of\n{D8}\nexhausted you.	22 cols, pages	
+215	86:B3BF (ROM 0333BF)	泳いでいるときは\n食事ができない。	You can't eat while\nswimming.	22 cols, pages	
+216	86:B3D4 (ROM 0333D4)	{D5}を飲んだ。	Drank {D5}.	22 cols, pages	
+217	86:B3DC (ROM 0333DC)	空の水筒です。	An empty canteen.	22 cols, pages	
+218	86:B3E7 (ROM 0333E7)	ゴクゴクゴク・・・\nおいしー	Gulp gulp gulp...\nDelicious!	22 cols, pages	
+219	86:B3F6 (ROM 0333F6)	パクパクパク・・・\nおいしー	Munch munch munch...\nDelicious!	22 cols, pages	
+220	86:B405 (ROM 033405)	{D6}は\nここでは使えない。	{D6} can't\nbe used here.	22 cols, pages	
+221	86:B413 (ROM 033413)	今は使えない。	Can't use that now.	22 cols, pages	
+222	86:B41D (ROM 03341D)	カヌーを水に浮かべた。	You put the canoe\non the water.	22 cols, pages	
+223	86:B42B (ROM 03342B)	{CE}を\n{DA}匹見つけた。	Found {DA}\n{CE}.	22 cols, pages	
+224	86:B438 (ROM 033438)	{CE}を\n{DA}コ見つけた。	Found {DA}\n{CE}.	22 cols, pages	
+225	86:B444 (ROM 033444)	何も見つからない。	Nothing was found.	22 cols, pages	
+226	86:B450 (ROM 033450)	カヌーは今使っている。	The canoe is in use.	22 cols, pages	
+227	86:B45E (ROM 03345E)	磁石の針が {D7}を指した。	The compass needle\npoints {D7}.	22 cols, pages	
+228	86:B46F (ROM 03346F)	針が動かなくなった。	The needle stopped\nmoving.	22 cols, pages	
+229	86:B47C (ROM 03347C)	{D5}を見つけた。	Found {D5}.	22 cols, pages	
+230	86:B485 (ROM 033485)	道具を持っていない。	You have no items.	22 cols, pages	
+231	86:B493 (ROM 033493)	泳いでいるときは\n道具を使えない。	You can't use items\nwhile swimming.	22 cols, pages	
+232	86:B4A9 (ROM 0334A9)	ここでは、カヌーを水に\n浮かべられない。	You can't launch the\ncanoe here.	22 cols, pages	
+233	86:B4C0 (ROM 0334C0)	泳いでいるときは\nカヌーに乗れない。	You can't board the\ncanoe while swimming.	22 cols, pages	
+234	86:B4D5 (ROM 0334D5)	{CE}を見つけたが\nこれ以上 持てません。	Found\n{CE},\nbut you can't carry\nany more.	22 cols, pages	
+235	86:B4ED (ROM 0334ED)	東	East	22 cols, pages	
+236	86:B4F0 (ROM 0334F0)	西	West	22 cols, pages	
+237	86:B4F3 (ROM 0334F3)	南	South	22 cols, pages	
+238	86:B4F6 (ROM 0334F6)	北	North	22 cols, pages	
+239	86:B4F9 (ROM 0334F9)	音楽を ステレオに\nしました。	Music set to\nstereo.	22 cols, pages	
+240	86:B50B (ROM 03350B)	音楽を モノラルに\nしました。	Music set to\nmono.	22 cols, pages	
+241	86:B51D (ROM 03351D)	救命胴衣です。\n海に落ちても 大丈夫。	A life jacket.\nSafe even if you fall\ninto the sea.	22 cols, pages	
+242	86:B53A (ROM 03353A)	磯タビです。磯場で\nすべらず 転ばない。	Reef boots. You won't\nslip and fall on the\nrocky shore.	22 cols, pages	
+243	86:B553 (ROM 033553)	皮手袋です。魚のトゲや\n岩でけがをしないように。	Leather gloves. Keep\nyour hands safe from\nfish spines and rocks.	22 cols, pages	
+244	86:B571 (ROM 033571)	ヘッドライトです。\n夜釣りに 必要です。	A headlamp.\nYou need it for\nnight fishing.	22 cols, pages	
+245	86:B58A (ROM 03358A)	ギャフです。大きな魚を\n引き上げます。	A gaff. It hauls\nbig fish aboard.	22 cols, pages	
+246	86:B5A2 (ROM 0335A2)	クジラのヒゲです。\nバネのような弾力です。	Whale baleen. It\nbends and springs\nright back.	22 cols, pages	
+247	86:B5BA (ROM 0335BA)	宝箱の カギです。	A treasure chest key.	22 cols, pages	
+248	86:B5C6 (ROM 0335C6)	{D6}を\n手に入れた。	Got\n{D6}.	22 cols, pages	
+249	86:B5D2 (ROM 0335D2)	{D6}です。	This is\n{D6}.	22 cols, pages	
+250	86:B5D7 (ROM 0335D7)	潮に流されて 遭難して\nしまいますよ。	The tide will carry\nyou away and you'll\nbe lost at sea!	22 cols, pages	
+251	86:B5EF (ROM 0335EF)	泳いでいるときは\n磯アミの中を見られない。	You can't check your\nkeep net while\nswimming.	22 cols, pages	
+252	86:B609 (ROM 033609)	泳いでいるときは\nクーラーを見られない。	You can't check your\ncooler while swimming.	22 cols, pages	
+253	86:B620 (ROM 033620)	お泊まりには お金を\n{DA}円 いただきますが	A night's stay will\ncost {DA} yen,	22 cols, pages	
+254	86:B639 (ROM 033639)	どうぞ ごゆっくり。	Please, make yourself\nat home.	22 cols, pages	
+255	86:B644 (ROM 033644)	それは 残念ですね。	That's too bad.	22 cols, pages	
+256	86:B651 (ROM 033651)	この度は ありがとう\nございました。	Thank you for\nstaying with us.	22 cols, pages	
+257	86:B665 (ROM 033665)	お金がないのか!\nしょうがないねえ!	No money? Oh well,\nI'll let it slide!	22 cols, pages	
+258	86:B679 (ROM 033679)	よろしいですか?	Is that all right?	22 cols, pages	
+259	86:B682 (ROM 033682)	お客さん、朝ですよ。\n起きてください。	Good morning! Time\nto get up.	22 cols, pages	
+260	86:B699 (ROM 033699)	いらっしゃいませ!\n何を、お探しですか?	Welcome! What can\nI get you?	22 cols, pages	
+261	86:B6B0 (ROM 0336B0)	どれに しましょうか?	Which one will it be?	22 cols, pages	
+262	86:B6BC (ROM 0336BC)	これ以上 持つことは\nできません。	You can't carry\nany more.	22 cols, pages	
+263	86:B6D1 (ROM 0336D1)	クーラーは 今持っている\nじゃないですか!	You already have\nthat cooler!	22 cols, pages	
+264	86:B6E9 (ROM 0336E9)	今持っているクーラー\nよりも 小さいですよ。	That one's smaller\nthan the cooler you\nhave now.	22 cols, pages	
+265	86:B703 (ROM 033703)	{D6}はすでに\n持っていますよ。	You already have\n{D6}.	22 cols, pages	
+266	86:B713 (ROM 033713)	ハリは それ以上\n持てません。	You can't carry any\nmore hooks.	22 cols, pages	
+267	86:B726 (ROM 033726)	コマセは それ以上\n持てません。	You can't carry any\nmore chum.	22 cols, pages	
+268	86:B73A (ROM 03373A)	ほかに ございませんか?	Anything else?	22 cols, pages	
+269	86:B747 (ROM 033747)	お金が 足らないけれど。	You don't have\nenough money.	22 cols, pages	
+270	86:B756 (ROM 033756)	1本だけだぞ!\n大事に使えよ。	Only one, mind you!\nTake good care of it.	22 cols, pages	
+271	86:B76A (ROM 03376A)	{DA}円 いただきますが\nよろしいですか?	That'll be {DA} yen.\nIs that all right?	22 cols, pages	
+272	86:B77F (ROM 03377F)	これと同じ ルアーを\nすでに 持っていますよ。	You already have a\nlure just like this.	22 cols, pages	
+273	86:B799 (ROM 033799)	これと同じ ギジバリを\nすでに 持っていますよ。	You already have a\ndecoy hook like this.	22 cols, pages	
+274	86:B7B4 (ROM 0337B4)	{D1}は9本以上\n持てません。	You can't carry more\nthan 9 of\n{D1}.	22 cols, pages	
+275	86:B7C6 (ROM 0337C6)	{D2}は\nすでに 持っていますよ。	You already have\n{D2}.	22 cols, pages	
+276	86:B7D7 (ROM 0337D7)	{D3}\nは 持っていますよ。	You already have\n{D3}.	22 cols, pages	
+277	86:B7E5 (ROM 0337E5)	いらっしゃいませ!\nわたしの 竿は最高だよ。	Welcome!\nMy rods are the best.	22 cols, pages	
+278	86:B7FF (ROM 0337FF)	{CE}は9個以上\n持てません。	You can't carry more\nthan 9 of\n{CE}.	22 cols, pages	
+279	86:B811 (ROM 033811)	{D1}は\nすでに 持っていますよ。	You already have\n{D1}.	22 cols, pages	
+280	86:B822 (ROM 033822)	お金がないのか。\nしょうがないねえ!	No money? Oh well,\nI'll let it slide!	22 cols, pages	
+281	86:B836 (ROM 033836)	何をあげますか?	What will you give?	22 cols, pages	
+282	86:B840 (ROM 033840)	ありがとう。	Thank you.	22 cols, pages	
+283	86:B847 (ROM 033847)	大切に使ってよ。	Take good care of it.	22 cols, pages	
+284	86:B853 (ROM 033853)	大切に使ってね。	Take good care of it.	22 cols, pages	
+285	86:B85F (ROM 03385F)	大切に使うのよ。	Take good care of it.	22 cols, pages	
+286	86:B86B (ROM 03386B)	大切に使うんだぞ。	Take good care of it.	22 cols, pages	
+287	86:B878 (ROM 033878)	これはあげられない。	You can't give this.	22 cols, pages	
+288	86:B883 (ROM 033883)	これ以上 持つことは\nできないようです。	It seems they can't\ncarry any more.	22 cols, pages	
+289	86:B89B (ROM 03389B)	同じ物を すでに\n持っているようです。	It seems they already\nhave the same thing.	22 cols, pages	
+290	86:B8B2 (ROM 0338B2)	{D3}\nを あげますか?	Give\n{D3}?	22 cols, pages	
+291	86:B8BD (ROM 0338BD)	{CF}\nを あげますか?	Give\n{CF}?	22 cols, pages	
+292	86:B8C8 (ROM 0338C8)	{D2}を\nあげますか?	Give\n{D2}?	22 cols, pages	
+293	86:B8D2 (ROM 0338D2)	あげられる サオを\n持っていません。	You have no rods to\ngive away.	22 cols, pages	
+294	86:B8E6 (ROM 0338E6)	ルアーを持っていません。	You have no lures.	22 cols, pages	
+295	86:B8F4 (ROM 0338F4)	ウキ・アミ・カゴを\n持っていません。	You have no floats,\nnets or cages.	22 cols, pages	
+296	86:B908 (ROM 033908)	釣れているじゃないか!\n磯アミの中の 魚全部で	You're catching some!\nAll the fish in your\nkeep net	22 cols, pages	
+297	86:B926 (ROM 033926)	{DA}円 になるけど\n売ってくれるかい?	come to {DA} yen.\nWill you sell them?	22 cols, pages	
+298	86:B93B (ROM 03393B)	ありがとうございました。	Thank you very much.	22 cols, pages	
+299	86:B948 (ROM 033948)	それは 残念だなあ!	That's too bad!	22 cols, pages	
+300	86:B955 (ROM 033955)	魚が 釣れていない\nようですけれど!	Looks like you\nhaven't caught any\nfish!	22 cols, pages	
+301	86:B96A (ROM 03396A)	お祝いに アンコウ鍋を\nみんなで 食べましょう。	Let's all celebrate\nwith anglerfish stew!	22 cols, pages	
+302	86:B986 (ROM 033986)	クロマグロのカブト焼きを\n早く家族に 食べさせて\nあげてください。	Hurry and feed your\nfamily the grilled\nbluefin tuna head!	22 cols, pages	
+303	86:B9AD (ROM 0339AD)	釣れているじゃないか!\nクーラーの 魚全部で	You're catching some!\nAll the fish in your\ncooler	22 cols, pages	
+304	86:B9C8 (ROM 0339C8)	だめだめ 救命胴衣が\nなくちゃ。\n船から落ちたら大変だぞ。	No, no, you need a\nlife jacket.\nFall off the boat and\nyou're in trouble.	22 cols, pages	
+305	86:B9EE (ROM 0339EE)	船賃は{DA}円です。\n船に乗るかい。	Fare: {DA} yen.\nWant to come aboard?	22 cols, pages	
+306	86:BA04 (ROM 033A04)	それは 残念だな。	That's too bad.	22 cols, pages	
+307	86:BA10 (ROM 033A10)	出港しますよ。\n船から落ちないようにね。	We're leaving port.\nDon't fall overboard.	22 cols, pages	
+308	86:BA29 (ROM 033A29)	お金がないのか。\nしょうがないねえ!\n乗った乗った 出港するぞ。	No money?\nOh, all right!\nHop on, hop on,\nwe're setting off.	22 cols, pages	
+309	86:BA4F (ROM 033A4F)	お金が無くて 釣り船を\n売ってしまったんだ。	I had no money, so I\nsold my fishing boat.	22 cols, pages	
+310	86:BA6B (ROM 033A6B)	この船は 沿岸までしか\n出られないんだ。\nイカ釣りでも どうだい。	This boat can only go\nout to the coast.\nHow about some squid\nfishing?	22 cols, pages	
+311	86:BA98 (ROM 033A98)	りっぱな 釣り船だろ。\nやっと 買えたんだ。	Fine fishing boat, eh?\nI finally bought one.	22 cols, pages	
+312	86:BAB2 (ROM 033AB2)	クルーザーを\n売ってしまったんだ。	I sold my cruiser.	22 cols, pages	
+313	86:BAC5 (ROM 033AC5)	この釣り船で 外洋に\n釣りに出かけられるよ。\nキンメダイが 面白いぞ。	This fishing boat can\ntake you out to the\nopen sea. Alfonsino\nfishing is great fun.	22 cols, pages	
+314	86:BAF7 (ROM 033AF7)	あこがれの クルーザーを\nついに 手に入れたぞ。	I finally got the\ncruiser I've always\nwanted!	22 cols, pages	
+315	86:BB12 (ROM 033B12)	トローリングで カジキに\n挑戦できるよ。	You can go trolling\nfor marlin with it.	22 cols, pages	
+316	86:BB2F (ROM 033B2F)	{D9}が\n現われた!	{D9}\nappeared!	22 cols, pages	
+317	86:BB39 (ROM 033B39)	食べ物は 残っていない。	There's no food left.	22 cols, pages	
+318	86:BB49 (ROM 033B49)	どうする?	What will you do?	22 cols, pages	
+319	86:BB4F (ROM 033B4F)	  力一杯 踏みつけた!	  Stomped on it with\n  all your might!	22 cols, pages	
+320	86:BB60 (ROM 033B60)	  力一杯 石を投げた!	  Threw a rock with\n  all your might!	22 cols, pages	
+321	86:BB72 (ROM 033B72)	  力一杯 ぶんなぐった!	  Punched with all\n  your might!	22 cols, pages	
+322	86:BB83 (ROM 033B83)	  力一杯 銛でついた!	  Speared it with\n  all your might!	22 cols, pages	
+323	86:BB94 (ROM 033B94)	  力一杯 立ち向かった!	  Stood up to it with\n  all your might!	22 cols, pages	
+324	86:BBA7 (ROM 033BA7)	  必死に 逃げた!	  Desperately fled!	22 cols, pages	
+325	86:BBB5 (ROM 033BB5)	{D9}の反撃!	{D9}\nstrikes back!	22 cols, pages	
+326	86:BBBD (ROM 033BBD)	{D9}の攻撃!	{D9}\nattacks!	22 cols, pages	
+327	86:BBC5 (ROM 033BC5)	{D9}が 打ち寄せた!	{D9}\ncame crashing in!	22 cols, pages	
+328	86:BBD1 (ROM 033BD1)	{D9}を 倒した。	Defeated\n{D9}.	22 cols, pages	
+329	86:BBDA (ROM 033BDA)	{D9}が おさまった。	{D9}\ncalmed down.	22 cols, pages	
+330	86:BBE4 (ROM 033BE4)	{D9}に\n捕まった。	Caught by\n{D9}.	22 cols, pages	
+331	86:BBEE (ROM 033BEE)	{D9}は\n追って来なかった。	{D9} did\nnot follow you.	22 cols, pages	
+332	86:BBFD (ROM 033BFD)	{D9}に\nやられてしまった。	Beaten by\n{D9}.	22 cols, pages	
+333	86:BC0A (ROM 033C0A)	{D9}に\nのまれてしまった。	Swallowed by\n{D9}.	22 cols, pages	
+334	86:BC17 (ROM 033C17)	{DA}ポイントの\nダメージを受けた。	Took {DA} points\nof damage.	22 cols, pages	
+335	86:BC29 (ROM 033C29)	{DA}ポイントの\nダメージを与えた。	Dealt {DA} points\nof damage.	22 cols, pages	
+336	86:BC3B (ROM 033C3B)	最大体力が 一つふえて\n{DA}になった。	Max HP went up by one\nto {DA}.	22 cols, pages	
+337	86:BC53 (ROM 033C53)	{DA}ポイント 力をつけた。	Gained {DA} points\nof strength.	22 cols, pages	
+338	86:BC61 (ROM 033C61)	かわされて しまった。	It dodged.	22 cols, pages	
+339	86:BC6D (ROM 033C6D)	寄せエサを 持っていた。	It was carrying chum.	22 cols, pages	
+340	86:BC7C (ROM 033C7C)	はりを1本 持っていた。	It had a hook on it.	22 cols, pages	
+341	86:BC8B (ROM 033C8B)	{D8}を\n1匹 盗まれた。	It stole one\n{D8}.	22 cols, pages	
+342	86:BC99 (ROM 033C99)	{CD}は\n力を 使い果たした。	{CD} is out\nof strength.	22 cols, pages	
+343	86:BCAA (ROM 033CAA)	{D5}を あげた。	Gave {D5}.	22 cols, pages	
+344	86:BCB2 (ROM 033CB2)	{D8}を\nあげた。	Gave\n{D8}.	22 cols, pages	
+345	86:BCBA (ROM 033CBA)	{D9}は 歓んで\n口にくわえて\n行ってしまった。\n{DA}ポイント\nなかよしに なった。	{D9}\ngladly took it in its\nmouth and left.\nGained {DA} points\nof friendship.	22 cols, pages	
+346	86:BCE5 (ROM 033CE5)	{D9}は\nよろこんで 食べた。\n{DA}ポイント\nなかよしに なった。	{D9}\nate it happily.\nGained {DA} points\nof friendship.	22 cols, pages	
+347	86:BD05 (ROM 033D05)	何か食べないと\n力つきて しまいます。	If you don't eat,\nyou'll run out of\nstrength.	22 cols, pages	
+348	86:BD1C (ROM 033D1C)	泳ぎ 疲れて\n力つきて しまった。	Tired from swimming,\nyou ran out of\nstrength.	22 cols, pages	
+349	86:BD31 (ROM 033D31)	漕ぎ 疲れて\n力つきて しまった。	Tired from rowing,\nyou ran out of\nstrength.	22 cols, pages	
+350	86:BD46 (ROM 033D46)	{D9}は 歓んで\n口にくわえて\n行ってしまった。\n大のなかよしに なった。	{D9} gladly\ntook it in its mouth\nand left.\nBecame best friends.	22 cols, pages	
+351	86:BD6E (ROM 033D6E)	{D9}は\nよろこんで 食べた。\n大のなかよしに なった。	{D9}\nate it happily.\nBecame best friends.	22 cols, pages	
+352	86:BD8B (ROM 033D8B)	{D9}は\nかわいい目で 見ていた。	{D9}\nis gazing at you\nadorably.	22 cols, pages	
+353	86:BD9D (ROM 033D9D)	{D9}は\n{D8}を食べると\n突然 ばったり\n倒れてしまった。	{D9}\nate {D8}\nand suddenly\ncollapsed.	22 cols, pages	
+354	86:BDBC (ROM 033DBC)	{D9}は\n餌づけできない。	{D9}\nwon't take food.	22 cols, pages	
+355	86:BDC9 (ROM 033DC9)	魚は 残っていない。	No fish left.	22 cols, pages	
+356	86:BDD6 (ROM 033DD6)	{D9}の\n攻撃を かわした。	Dodged the attack\nof {D9}.	22 cols, pages	
+357	86:BDE5 (ROM 033DE5)	{D8}5尾の\n体長の合計を競う\n大会です。\n参加料{DA}円です。\n優勝賞金は 2000円\n計量した魚は放流します。\nがんばって5尾まとめて\n釣って来てください。	A contest for the\nbest total length of\nfive {D8}.\nEntry fee: {DA} yen.\nFirst prize: 2000 yen.\nWeighed fish are\nreleased. Do your best\nto bring in all 5!	22 cols, pages	
+358	86:BE4B (ROM 033E4B)	釣れていますね。\n大会参加料{DA}円で\n計量しますか?	You've caught some.\nWeigh them for the\n{DA} yen entry fee?	22 cols, pages	
+359	86:BE6E (ROM 033E6E)	{DA}尾で{D4}cmです。	{DA} fish, {D4}cm.	22 cols, pages	
+360	86:BE78 (ROM 033E78)	現在{DA}位です。\nおめでとうございます。	Current rank: {DA}.\nCongratulations!	22 cols, pages	
+361	86:BE8F (ROM 033E8F)	前回の記録のほうが\nよいので登録しません。\nまた がんばって下さい。	Your previous record\nis better, so it\nwon't be registered.\nTry again!	22 cols, pages	
+362	86:BEB9 (ROM 033EB9)	お金がないのか!\nしょうがねえなあ!	No money? Oh well,\nI'll let it slide!	22 cols, pages	
+363	86:BECD (ROM 033ECD)	それは 残念ですね。	That's too bad.	22 cols, pages	
+364	86:BEDA (ROM 033EDA)	おめでとうございます。\n賞金として 2000円\nが贈られます。	Congratulations!\nYou win 2000 yen\nin prize money.	22 cols, pages	
+365	86:BEFE (ROM 033EFE)	現在、ランキングの\nトップに立ちました!	You're now at the top\nof the rankings!	22 cols, pages	also used by #366,367,368,369,370,371,372
+373	86:BF16 (ROM 033F16)	   クエの記録	Grouper Record	22 cols, pages	
+374	86:BF21 (ROM 033F21)	{D8}の釣り上げ数を\n競う大会です。\n参加料{DA}円です。\n優勝賞金は 2000円\n数えた魚は 頂きます。\nがんばって 釣って来て\nください。	A contest of how many\n{D8}\nyou can catch.\nEntry fee: {DA} yen.\nFirst prize: 2000 yen.\nCounted fish are kept.\nGood luck out there!	22 cols, pages	
+375	86:BF79 (ROM 033F79)	釣れていますね。\n大会参加料{DA}円で\nシロギスを数えますか?	You've caught some.\nCount your whiting for\nthe {DA} yen fee?	22 cols, pages	
+376	86:BF9F (ROM 033F9F)	全部で{D4}尾です。	{D4} fish in all.	22 cols, pages	
+377	86:BFAB (ROM 033FAB)	カジキの大きさを\n競う大会です。\n参加料{DA}円です。\n優勝賞金は 3000円\n計測した魚は 頂きます。\nがんばって 釣って来て\nください。	A contest of marlin\nsize.\nEntry fee: {DA} yen.\nFirst prize: 3000 yen.\nMeasured fish are kept\nby us. Good luck!	22 cols, pages	
+378	86:C003 (ROM 034003)	釣れていますね。\n大会参加料{DA}円で\nカジキを計測します?	You've caught some.\nMeasure your marlin\nfor {DA} yen?	22 cols, pages	
+379	86:C029 (ROM 034029)	全長{D4}cmです。	Length: {D4}cm.	22 cols, pages	
+380	86:C033 (ROM 034033)	いままでのを合計すると\n全部で{D4}尾になります。	Counting them all,\nthat's {D4} fish.	22 cols, pages	
+381	86:C050 (ROM 034050)	おめでとうございます。\n賞金として 3000円\nが贈られます。	Congratulations!\nYou win 3000 yen\nin prize money.	22 cols, pages	
+382	86:C074 (ROM 034074)	何も 入っていない。	There's nothing in it.	22 cols, pages	
+383	86:C081 (ROM 034081)	宝箱を 開けた。\n{D2}が\n入っていた。	You opened the chest.\nInside was\n{D2}.	22 cols, pages	
+384	86:C098 (ROM 034098)	宝箱を 開けた。\n{D5}が 入っていた。	You opened the chest.\nInside was\n{D5}.	22 cols, pages	
+385	86:C0AF (ROM 0340AF)	宝箱を 開けた。\n{D3}が\n入っていた。	You opened the chest.\nInside was\n{D3}.	22 cols, pages	
+386	86:C0C6 (ROM 0340C6)	確かに 記憶しました。	Your progress has\nbeen saved.	22 cols, pages	
+387	86:C0D5 (ROM 0340D5)	お地蔵さまに\n何をお供えしますか?	What will you offer\nthe Jizo statue?	22 cols, pages	
+388	86:C0EB (ROM 0340EB)	{D5}を\nお供えしました。	You offered\n{D5}.	22 cols, pages	
+389	86:C0F8 (ROM 0340F8)	宝箱に カギが\nかかっている。	The treasure chest\nis locked.	22 cols, pages	
+390	86:C10A (ROM 03410A)	{CE}\nにした。	Baited with\n{CE}.	22 cols, pages	
+391	86:C111 (ROM 034111)	{CE}\nは、ついている。	{CE}\nis already on.	22 cols, pages	
+392	86:C11C (ROM 03411C)	針が無いので、エサを\nつけられない。	No hook, so the bait\ncan't be attached.	22 cols, pages	
+393	86:C131 (ROM 034131)	{CF}\nにした。	Changed to\n{CF}.	22 cols, pages	
+394	86:C138 (ROM 034138)	エサが無い。	No bait left.	22 cols, pages	
+395	86:C140 (ROM 034140)	ルアーを持っていない。	You have no lures.	22 cols, pages	
+396	86:C14D (ROM 03414D)	この針にはエサが大きくて\nつけられない。	The bait is too big\nfor this hook.	22 cols, pages	
+397	86:C164 (ROM 034164)	この針にはエサが小さくて\nつけられない。	The bait is too small\nfor this hook.	22 cols, pages	
+398	86:C17B (ROM 03417B)	釣った{D8}を\n生きエサにした。	You made the\n{D8}\nyou caught into\nlive bait.	22 cols, pages	
+399	86:C18C (ROM 03418C)	ギジバリを持っていない。	You have no decoy\nhooks.	22 cols, pages	
+400	86:C19A (ROM 03419A)	{D1}を\nつけた。	Attached\n{D1}.	22 cols, pages	
+401	86:C1A2 (ROM 0341A2)	{D2}を\nつけた。	Attached\n{D2}.	22 cols, pages	
+402	86:C1AA (ROM 0341AA)	{D3}\nに 持ちかえた。	Switched to\n{D3}.	22 cols, pages	
+403	86:C1B6 (ROM 0341B6)	ハリを選んでください。	Choose a hook.	22 cols, pages	
+404	86:C1C3 (ROM 0341C3)	ウキを選んでください。	Choose a float.	22 cols, pages	
+405	86:C1D0 (ROM 0341D0)	サオを選んでください。	Choose a rod.	22 cols, pages	
+406	86:C1DD (ROM 0341DD)	オモリを選んでください。	Choose a sinker.	22 cols, pages	
+407	86:C1EB (ROM 0341EB)	ルアーを選んでください。	Choose a lure.	22 cols, pages	
+408	86:C1F9 (ROM 0341F9)	ギジバリを選んでください。	Choose a decoy hook.	22 cols, pages	
+409	86:C208 (ROM 034208)	ハリは、残っていない。	No hooks left.	22 cols, pages	
+410	86:C215 (ROM 034215)	ウキを持っていない。	You have no float.	22 cols, pages	
+411	86:C221 (ROM 034221)	サオを持っていない。	You have no rod.	22 cols, pages	
+412	86:C22D (ROM 03422D)	オモリを持っていない。	You have no sinker.	22 cols, pages	
+413	86:C23A (ROM 03423A)	カゴを持っていない。	You have no cage.	22 cols, pages	
+414	86:C246 (ROM 034246)	ビシを持っていない。	You have no feeder.	22 cols, pages	
+415	86:C252 (ROM 034252)	ウキづりを\nすることにした。	You decided to go\nfloat fishing.	22 cols, pages	
+416	86:C261 (ROM 034261)	泳がせづりを\nすることにした。	You decided to fish\nwith live bait.	22 cols, pages	
+417	86:C272 (ROM 034272)	ルアーづりを\nすることにした。	You decided to go\nlure fishing.	22 cols, pages	
+418	86:C282 (ROM 034282)	夜づりを\nすることにした。	You decided to go\nnight fishing.	22 cols, pages	
+419	86:C291 (ROM 034291)	投げ込みづりを\nすることにした。	You decided to cast\nand wait.	22 cols, pages	
+420	86:C2A4 (ROM 0342A4)	コマセを まいた。	You scattered chum.	22 cols, pages	
+421	86:C2AE (ROM 0342AE)	さっき まいたのでまだ\nまく必要がありません。	You just scattered\nsome, no need yet.	22 cols, pages	
+422	86:C2C8 (ROM 0342C8)	水際で、コマセを\nまきましょう。	Scatter chum at the\nwater's edge.	22 cols, pages	
+423	86:C2DB (ROM 0342DB)	泳いでいるときは\n選べない。	You can't choose while\nswimming.	22 cols, pages	
+424	86:C2EC (ROM 0342EC)	この釣り方では、\nつかえません。	Can't be used with\nthis fishing style.	22 cols, pages	
+425	86:C2FF (ROM 0342FF)	ミャクづりを\nすることにした。	You decided to go\nbottom fishing.	22 cols, pages	
+426	86:C30F (ROM 03430F)	フカセづりを\nすることにした。	You decided to go\ndrift fishing.	22 cols, pages	
+427	86:C31F (ROM 03431F)	ヘチづりを\nすることにした。	You decided to fish\nalong the wall.	22 cols, pages	
+428	86:C32E (ROM 03432E)	サビキづりを\nすることにした。	You decided to go\nsabiki fishing.	22 cols, pages	
+429	86:C33E (ROM 03433E)	カゴづりを\nすることにした。	You decided to go\ncage fishing.	22 cols, pages	
+430	86:C34D (ROM 03434D)	投げづりを\nすることにした。	You decided to go\nsurf casting.	22 cols, pages	
+431	86:C35D (ROM 03435D)	ビシづりを\nすることにした。	You decided to go\nfeeder fishing.	22 cols, pages	
+432	86:C36C (ROM 03436C)	イカづりを\nすることにした。	You decided to go\nsquid fishing.	22 cols, pages	
+433	86:C37B (ROM 03437B)	タコづりを\nすることにした。	You decided to go\noctopus fishing.	22 cols, pages	
+434	86:C38A (ROM 03438A)	カニづりを\nすることにした。	You decided to go\ncrab fishing.	22 cols, pages	
+435	86:C399 (ROM 034399)	トローリングを\nすることにした。	You decided to go\ntrolling.	22 cols, pages	
+436	86:C3AA (ROM 0343AA)	{D2}は\nつけれない。	{D2}\ncan't be attached.	22 cols, pages	
+437	86:C3B4 (ROM 0343B4)	{D2}は\nすでについている。	{D2}\nis already attached.	22 cols, pages	
+438	86:C3C1 (ROM 0343C1)	{D1}は\nすでについている。	{D1}\nis already attached.	22 cols, pages	
+439	86:C3CE (ROM 0343CE)	{D1}は\nつけれない。	{D1}\ncan't be attached.	22 cols, pages	
+440	86:C3D8 (ROM 0343D8)	{D8}を\n釣り上げた。\n大きさは {DA}cm。	You caught\n{D8}!\nSize: {DA}cm.	22 cols, pages	
+441	86:C3EE (ROM 0343EE)	ハリが盗られてしまった。\n{D8}に\n逃げられた。\n{DA}ポイントの\nダメージを受けた。	The hook was stolen.\n{D8}\ngot away.\nTook {DA} points\nof damage.	22 cols, pages	
+442	86:C419 (ROM 034419)	{CD}は、力を\n使い果たした。	{CD} is out of\nstrength.	22 cols, pages	
+443	86:C42A (ROM 03442A)	{D8}に\n逃げられた。\nエサが盗られてしまった。	{D8}\ngot away.\nThe bait was stolen.	22 cols, pages	
+444	86:C443 (ROM 034443)	{D8}の\n若魚を 釣り上げた。\n大きさは {DA}cm。	You caught a young\n{D8}!\nSize: {DA}cm.	22 cols, pages	
+445	86:C45F (ROM 03445F)	{D8}は\n元気良く 泳いで行った。	{D8}\nswam happily away.	22 cols, pages	
+446	86:C474 (ROM 034474)	{D8}を\n釣り上げた。\n大きさは {DA}cm。\n{D8}の\n最高記録だ。	You caught\n{D8}!\nSize: {DA}cm.\nA new personal best\nfor {D8}!	22 cols, pages	
+447	86:C498 (ROM 034498)	磯アミがいっぱいに\nなってしまった。	Your keep net is\nnow full.	22 cols, pages	
+448	86:C4AC (ROM 0344AC)	クーラーがいっぱいに\nなってしまった。	Your cooler is\nnow full.	22 cols, pages	
+449	86:C4C0 (ROM 0344C0)	ルアーが盗られた。\n{D8}に\n逃げられた。\n{DA}ポイントの\nダメージを受けた。	The lure was stolen.\n{D8}\ngot away.\nTook {DA} points\nof damage.	22 cols, pages	
+450	86:C4E8 (ROM 0344E8)	ギジバリが盗られた。\n{D8}に\n逃げられた。\n{DA}ポイントの\nダメージを受けた。	The decoy hook was\nstolen.\n{D8}\ngot away.\nTook {DA} points\nof damage.	22 cols, pages	
+451	86:C511 (ROM 034511)	シカケが盗られた。\n{D8}に\n逃げられた。\n{DA}ポイントの\nダメージを受けた。	The rig was stolen.\n{D8}\ngot away.\nTook {DA} points\nof damage.	22 cols, pages	
+452	86:C539 (ROM 034539)	{D8}に\n逃げられた。	{D8}\ngot away.	22 cols, pages	
+453	86:C544 (ROM 034544)	{D8}を釣り上げた。\n経験値 {DA} 獲得。	Caught\n{D8}!\nGot {DA} EXP.	22 cols, pages	
+454	86:C55E (ROM 03455E)	{D8}を釣り上げた。\n経験値 {DA} 獲得。\n最大体力が 一つふえて\n{D4}になった。	Caught\n{D8}!\nGot {DA} EXP.\nMax HP went up by one\nto {D4}.	22 cols, pages	
+455	86:C590 (ROM 034590)	生きエサが\n死んでしまった。	The live bait\nhas died.	22 cols, pages	
+456	86:C5A1 (ROM 0345A1)	生きエサに 逃げられた。\n{DA}ポイントの\nダメージを受けた。	The live bait\ngot away.\nTook {DA} points\nof damage.	22 cols, pages	
+457	86:C5C2 (ROM 0345C2)	シカケが こわれて\nしまった。	The rig broke.	22 cols, pages	
+458	86:C5D2 (ROM 0345D2)	ルアーが こわれて\nしまった。	The lure broke.	22 cols, pages	
+459	86:C5E2 (ROM 0345E2)	ギジバリが こわれて\nしまった。	The decoy hook broke.	22 cols, pages	
+460	86:C5F3 (ROM 0345F3)	ハリが だめになって\nしまった。	The hook is ruined.	22 cols, pages	
+461	86:C604 (ROM 034604)	手に けがをした。\n{DA}ポイントの\nダメージを受けた。	You hurt your hand.\nTook {DA} points\nof damage.	22 cols, pages	
+462	86:C621 (ROM 034621)	{CE}		22 cols, pages	not translated as text: a name insert code, the Yes/No graphic or an unused string
+463	86:C623 (ROM 034623)	{CF}		22 cols, pages	not translated as text: a name insert code, the Yes/No graphic or an unused string
+464	86:C625 (ROM 034625)	{D1}		22 cols, pages	not translated as text: a name insert code, the Yes/No graphic or an unused string
+465	86:C627 (ROM 034627)	{D2}		22 cols, pages	not translated as text: a name insert code, the Yes/No graphic or an unused string
+466	86:C629 (ROM 034629)	{D3}		22 cols, pages	not translated as text: a name insert code, the Yes/No graphic or an unused string
+467	86:C62B (ROM 03462B)	{D5}		22 cols, pages	not translated as text: a name insert code, the Yes/No graphic or an unused string
+468	86:C62D (ROM 03462D)	{D8}		22 cols, pages	not translated as text: a name insert code, the Yes/No graphic or an unused string
+469	86:C62F (ROM 03462F)	朝、太陽が 水平線の\n向こうから 顔を出し\n海面に 黄金色の\n光の絨毯を しきつめる。\n潮が 夜のうちに 砂浜の\n足跡を 洗い流している。\n波が 体当たりをして\n砕け散り すべてを\n飲み込もうとする。\n一方 海の中では多くの\n種類の魚が 元気よく\n泳ぎまわっている。	Morning. The sun peeks\nover the horizon and\nspreads a carpet of\ngold across the sea.\nOvernight, the tide\nhas washed away the\nfootprints on the\nsand. The waves crash\nin, as if to swallow\nit all. Meanwhile, in\nthe sea, fish of every\nkind swim happily.	22 cols, pages	
+470	86:C6E0 (ROM 0346E0)	ある日のこと\n{CD}の家に 友達の\n弘樹くんがやって来て・・	One day, {CD}'s\nfriend Hiroki came\nover to visit...	22 cols, pages	
+471	86:C704 (ROM 034704)	おーい {CD}!	Hey, {CD}!	22 cols, pages	
+472	86:C70B (ROM 03470B)	よう 弘樹!\n釣りのさそいに来たのか?	Hey, Hiroki!\nCome to go fishing?	22 cols, pages	
+473	86:C723 (ROM 034723)	俺らぁこれから 海のぬし\nを釣りに 出かけるんだ。	I'm going out to catch\nthe Sea King!	22 cols, pages	
+474	86:C741 (ROM 034741)	海のぬし?	The Sea King?	22 cols, pages	
+475	86:C748 (ROM 034748)	海のぬしは\n体長4メートル もある\nクロカジキ という魚で\n誰も 釣り上げる事が\nできないんだ。\n俺らぁ 絶対釣り上げる\nつもりなんだ。\nじゃあな。	The Sea King is a\nblue marlin four\nmeters long, and\nnobody has ever\nlanded it.\nI'm going to land it\nfor sure.\nSee ya.	22 cols, pages	
+476	86:C7A0 (ROM 0347A0)	・・・・・・・・	........	22 cols, pages	
+477	86:C7A9 (ROM 0347A9)	・・・・・ム、ム、ム。	......Mm, mm, mm.	22 cols, pages	
+478	86:C7B5 (ROM 0347B5)	ようし 海のぬしは俺らが\n釣り上げるぞ!	Alright! I'll catch\nthe Sea King myself!	22 cols, pages	
+479	86:C7CE (ROM 0347CE)	話を聞いた {CD}も\n海のぬしを 釣りに\n出かけることにしました。	Hearing this, {CD}\ndecided to go fishing\nfor the Sea King too.	22 cols, pages	
+480	86:C7F3 (ROM 0347F3)	あんたは 負けず嫌い\nだから 弘樹ちゃんに\n負けるのが くやしいんで\nしょう。	You hate to lose, so\nyou're just upset\nabout losing to\nHiroki, aren't you?	22 cols, pages	
+481	86:C820 (ROM 034820)	まったく 男の子は\nすぐこれだから・・・\n4メートルの クロカジキ\nをどうやって\n釣り上げる つもり?	Honestly, boys are all\nlike this... How do\nyou plan to land a\nfour-meter blue\nmarlin?	22 cols, pages	
+482	86:C858 (ROM 034858)	クロカジキを 釣るなら\n外洋で トローリングだ。\n弘樹なんかに 負けんじゃ\nないぞ。	If it's blue marlin,\nyou troll the open\nsea. Don't you dare\nlose to that Hiroki!	22 cols, pages	
+483	86:C889 (ROM 034889)	ある日のこと {CD}は\n「優しい海のぬし」という\n本を 読んでいました。	"One day, {CD} was\nreading a book called\n""The Gentle Sea King."""	22 cols, pages	
+484	86:C8B1 (ROM 0348B1)	・・・サメに 襲われて\n尾ビレを 噛み切られた\n友達のために\nマンボウは 尾ビレを\n分けて あげました。	...When a shark bit\noff the tail fin of\nhis friend, the\nsunfish shared his own\ntail fin with him.	22 cols, pages	
+485	86:C8EE (ROM 0348EE)	それ以来 マンボウは\n優しい海のぬし と呼ばれ\nマンボウに 出会うと\n願い事が かなうという\n伝説に なりました。	Since then the sunfish\nhas been called the\nGentle Sea King, and\nlegend says whoever\nmeets one gets their\nwish granted.	22 cols, pages	
+486	86:C933 (ROM 034933)	話を読んだ {CD}は\n海のぬしの マンボウに\n逢うために 出かける\nことにしました。	After reading it,\n{CD} decided to\nset out to meet the\nsunfish Sea King.	22 cols, pages	
+487	86:C961 (ROM 034961)	マンボウは 珍しい魚\nなんだぞ。\n逢えるわけ ないじゃん。	Sunfish are really\nrare, you know.\nNo way you'll meet\none!	22 cols, pages	
+488	86:C982 (ROM 034982)	私の願い事は {CD}が\n無事に帰って来ることよ\n気を付けて 行って\nくるのよ。	My wish is for\n{CD} to come home\nsafely. Be careful out\nthere.	22 cols, pages	
+489	86:C9B2 (ROM 0349B2)	父さんの願い事は\nこづかいが 1000円に\n上がる ことだ。\nおまえからも 母ちゃんに\n言ってくれよ。	Dad's wish is for his\nallowance to go up to\n1000 yen.\nPut in a word for me\nwith your mom, okay?	22 cols, pages	
+490	86:C9ED (ROM 0349ED)	ある日のこと\nものしり婆さんが\n突然たずねて きて・・・	One day, the wise old\ngranny suddenly came\nto visit...	22 cols, pages	
+491	86:CA0E (ROM 034A0E)	わたしが 100才でも\n元気で ものしりなのは\n頭の良くなる料理を\n食べているからなんじゃ。\n{CD}さん その料理を\n作ってもらえんじゃろか?	I'm 100, yet I'm still\nhealthy and wise. It's\nall thanks to a dish\nthat makes you smart.\nMa'am, won't you make\nthat dish for me?	22 cols, pages	
+492	86:CA5F (ROM 034A5F)	料理なら私に まかせて\nちょうだい。\n頭の良くなる料理って\nどんな料理なの?	Leave the cooking to\nme. What sort of dish\nmakes you smart?	22 cols, pages	
+493	86:CA8F (ROM 034A8F)	海のぬし と呼ばれる\nでっかいクロマグロの\n頭を焼いた 兜焼き\nという料理なんじゃ。	It's the grilled head\nof the giant bluefin\ntuna they call the Sea\nKing: kabuto-yaki.	22 cols, pages	
+494	86:CAC2 (ROM 034AC2)	・・・・・・・・	........	22 cols, pages	
+495	86:CACB (ROM 034ACB)	・・・・・作るわ。	.....I'll make it.	22 cols, pages	
+496	86:CAD6 (ROM 034AD6)	話を聞いた {CD}は\n海のぬし と呼ばれる\nでっかい クロマグロの\nカブト焼きを\n作ることにしました。	Hearing this, {CD}\ndecided to grill the\nhead of the giant\nbluefin tuna called\nthe Sea King.	22 cols, pages	
+497	86:CB0E (ROM 034B0E)	マグロの 目玉を\n食ってみてえだ。\n頭が良くなるって\n婆ちゃんが 言ってただ。	I wanna try eating a\ntuna eyeball. Granny\nsays it makes you\nsmart.	22 cols, pages	
+498	86:CB3D (ROM 034B3D)	かあさんが 出かけたら\n炊事掃除洗濯を 誰が\nやるのよ。\n私 やんないわよ。	If Mom goes out, who's\ngoing to cook, clean\nand do the laundry?\nI'm not doing it.	22 cols, pages	
+499	86:CB6D (ROM 034B6D)	でっかい クロマグロを\n釣ってこいよ。\n上トロの 刺し身で\n一杯 飲みたいな。	Go catch a giant\nbluefin tuna!\nI'd love a drink with\nfatty toro sashimi.	22 cols, pages	
+500	86:CB9C (ROM 034B9C)	ある日のこと\nダイレクトメールが届いた。	One day, a piece of\njunk mail arrived.	22 cols, pages	
+501	86:CBB3 (ROM 034BB3)	こんちは、手紙です。	Hello, mail for you.	22 cols, pages	
+502	86:CBC0 (ROM 034BC0)	ごくろうさまです。	Thank you kindly.	22 cols, pages	
+503	86:CBCA (ROM 034BCA)	外洋  南の離島	Far South Isle	22 cols, pages	
+504	86:CBD8 (ROM 034BD8)	モロコ	Grouper	22 cols, pages	
+505	86:CBDC (ROM 034BDC)	「海のぬしを求めて」\n拝啓 釣り人は、だれしも大物\nを夢見ます。私「海のぬし」が\n夢をかなえます。貴方の挑戦を\nお待ちしています。    敬具	"""In Search of the Sea King""\nDear Sir, all anglers dream\nof the big one. I, the Sea\nKing, make that dream real.\nI await your challenge."	28 cols, 5 lines	
+506	86:CC38 (ROM 034C38)	・・・・・・・・\n・・・・・・・・釣るぞ	........\n........I'll catch it!	22 cols, pages	
+507	86:CC4E (ROM 034C4E)	手紙を読んだ {CD}は\n海のぬしを 釣りに\n出かけることにしました。	After reading the\nletter, {CD}\ndecided to go fishing\nfor the Sea King.	22 cols, pages	
+508	86:CC75 (ROM 034C75)	背丈ほどの モロコが\nいるって うわさだよ。\n父ちゃんなら\n簡単に釣り上げられるよ。	They say there's a\nkelp grouper as tall\nas a man. Dad, you\ncould land it easy!	22 cols, pages	
+509	86:CCA7 (ROM 034CA7)	私 しっている。\nモロコのことを クエとも\nいうんでしょ。	I know that one.\nIt's a kind of giant\ngrouper, right?	22 cols, pages	
+510	86:CCC6 (ROM 034CC6)	そんな手紙に すぐ\nだまされるんだから。\nだいたい 最近釣りなんて\nやってないじゃない。	You fall for any old\nletter. You haven't\neven gone fishing\nlately, have you?	22 cols, pages	
+511	86:CCF8 (ROM 034CF8)	ただいま。	I'm home.	22 cols, pages	
+512	86:CCFE (ROM 034CFE)	おかえりなさい	Welcome back!	22 cols, pages	
+513	86:CD06 (ROM 034D06)	{CD}は、\n海のぬしの クロカジキを\n釣り上げた話をしました。	{CD} told everyone\nabout landing the\nblue marlin, the\nSea King.	22 cols, pages	
+514	86:CD28 (ROM 034D28)	クロカジキは すごい\nファイターで 力が強く\nでかい魚で\n・・・・・	The blue marlin is a\nreal fighter, super\nstrong, and huge, and\n.....	22 cols, pages	
+515	86:CD4E (ROM 034D4E)	話を聞いて、よろこびの\n声がわき上がりました。	Everyone cheered\nat the story.	22 cols, pages	
+516	86:CD6A (ROM 034D6A)	   バンザーイ。	   Hooray!	22 cols, pages	
+517	86:CD74 (ROM 034D74)	よくやった。\nさすが 俺の息子だ。	Well done.\nThat's my boy.	22 cols, pages	
+518	86:CD89 (ROM 034D89)	遊んでばかりいないで\n勉強しなさい。\n釣りノートも まだ\n完成していないんでしょ。	Stop playing around\nand study. You haven't\neven finished your\nFishing Note yet, have\nyou?	22 cols, pages	
+519	86:CDB9 (ROM 034DB9)	本当に釣り上げたの。\n釣りノートが 完成したら\n信じてあげる。	Did you really land\nit? I'll believe you\nonce your Fishing Note\nis done.	22 cols, pages	
+520	86:CDE1 (ROM 034DE1)	ただいま。	I'm home.	22 cols, pages	
+521	86:CDE7 (ROM 034DE7)	おかえりなさい	Welcome back!	22 cols, pages	
+522	86:CDEF (ROM 034DEF)	{CD}は、\n伝説の 海のぬしに\n出会った 話をしました。	{CD} told everyone\nabout meeting the\nlegendary Sea King.	22 cols, pages	
+523	86:CE10 (ROM 034E10)	海のぬしの マンボウは\nひらべったくて 大きくて\n尾ビレのない 優しい魚ね。\nわたし たくさん願い事\nしたのよ。	The sunfish Sea King\nis flat and big, with\nno tail fin, and so\ngentle. I made lots\nof wishes.	22 cols, pages	
+524	86:CE50 (ROM 034E50)	話を聞いて、よろこびの\n声がわき上がりました。	Everyone cheered\nat the story.	22 cols, pages	
+525	86:CE6C (ROM 034E6C)	   バンザーイ。	   Hooray!	22 cols, pages	
+526	86:CE76 (ROM 034E76)	こづかいが 1000円に\nならないぞ。\n遊んでばかりいないで\n釣りノートを 完成\nさせなさい。	My allowance still\nisn't 1000 yen.\nStop playing around\nand finish your\nFishing Note.	22 cols, pages	
+527	86:CEAB (ROM 034EAB)	父さんがまじめに働くよう\nお願いすればよかったわ。\n{CD}は、何を\nお願いしたの?	I should have wished\nfor Dad to work hard.\nWhat did you wish for,\n{CD}?	22 cols, pages	
+528	86:CED8 (ROM 034ED8)	姉ちゃんの お願いって\n弘樹の事だろ。\nおいら 知ってんだぜ。	I bet your wish was\nabout Hiroki. I know\nall about it.	22 cols, pages	
+529	86:CEFE (ROM 034EFE)	ただいま。	I'm home.	22 cols, pages	
+530	86:CF04 (ROM 034F04)	おかえりなさい	Welcome back!	22 cols, pages	
+531	86:CF0C (ROM 034F0C)	さっそく{CD}は、\n海のぬしの クロマグロを\n料理して みんなで\n食べました。	{CD} cooked the\nbluefin tuna, the\nSea King, right away,\nand everyone ate it.	22 cols, pages	
+532	86:CF36 (ROM 034F36)	パクパク\nむしゃむしゃ\nバリバリ\n・・・・・	Munch munch\nchomp chomp\ncrunch crunch\n.....	22 cols, pages	
+533	86:CF4D (ROM 034F4D)	美味しくて、よろこびの\n歓声がわき上がりました。	It was so delicious\nthat everyone cheered.	22 cols, pages	
+534	86:CF6B (ROM 034F6B)	   バンザーイ。	   Hooray!	22 cols, pages	
+535	86:CF75 (ROM 034F75)	よくやった。\nやっぱり、おまえの料理は\nうまい。	Well done.\nYour cooking really\nis the best.	22 cols, pages	
+536	86:CF90 (ROM 034F90)	かあさんの料理には\nかなわないわ。\nお手伝いするから\n作り方おしえて。	I can't beat Mom's\ncooking. I'll help\nout, so teach me how\nto make it.	22 cols, pages	
+537	86:CFBA (ROM 034FBA)	お母さん、おいしかったよ\nぼくの誕生日に\nまた作ってね。\n早く、釣りノートが\n完成するといいね。	That was yummy, Mom!\nMake it again on my\nbirthday. I hope your\nFishing Note gets done\nsoon.	22 cols, pages	
+538	86:CFF4 (ROM 034FF4)	ただいま。	I'm home.	22 cols, pages	
+539	86:CFFA (ROM 034FFA)	おかえりなさい	Welcome back!	22 cols, pages	
+540	86:D002 (ROM 035002)	{CD}は、\n海のぬしを釣り上げた\n話をしました。	{CD} told everyone\nabout landing the\nSea King.	22 cols, pages	
+541	86:D01D (ROM 03501D)	海のぬしの モロコ\nという魚は でかくて\n重たくて、獰猛で\n・・・・・	The Sea King, a fish\ncalled kelp grouper,\nis huge and heavy and\nfierce and.....	22 cols, pages	
+542	86:D046 (ROM 035046)	話を聞いて、よろこびの\n歓声がわき上がりました。	Everyone cheered\nat the story.	22 cols, pages	
+543	86:D064 (ROM 035064)	   バンザーイ。	   Hooray!	22 cols, pages	
+544	86:D06E (ROM 03506E)	見直したわ。素敵。\nあなたなら\nきっと 釣りノートを\n完成できるわ。\nがんばってね。	I'm impressed. You're\nwonderful. I'm sure\nyou can finish the\nFishing Note.\nKeep it up.	22 cols, pages	
+545	86:D0A0 (ROM 0350A0)	お父ちゃん!\n仕事も しなさいよね。\nお母ちゃんは\n父ちゃんに 甘すぎるわ。	Daddy! You should\nwork too, you know.\nMom is way too soft\non you.	22 cols, pages	
+546	86:D0CD (ROM 0350CD)	父ちゃんは、\nすごいや。	Dad, you're amazing.	22 cols, pages	
+547	86:D0DB (ROM 0350DB)	   めでたし めでたし	   And they lived\n   happily ever after.	22 cols, pages	
+548	86:D0E8 (ROM 0350E8)	アンコウは すごく\n深いところに 住んで\n居るんだよ。	Anglerfish live way\ndown in the deep sea.	22 cols, pages	
+549	86:D107 (ROM 035107)	アンコウは とっても\nみにくいのよ。でも\nとってもおいしいのよ。	Anglerfish are really\nugly. But they're\nreally tasty.	22 cols, pages	
+550	86:D128 (ROM 035128)	アンコウは 肉食だから\n生きエサで 釣るんだぞ。	Anglerfish eat meat,\nso you catch them with\nlive bait.	22 cols, pages	
+551	86:D145 (ROM 035145)	アンコウを 食べれば\n病気もせずに スクスク\n育つのよ。	Eat anglerfish and\nyou'll grow up healthy\nand never get sick.	22 cols, pages	
+552	86:D166 (ROM 035166)	弘樹の家で 赤ちゃんが\n産まれるんだって。\nおいらが お祝いに\nアンコウを 釣って来るぞ。	Hiroki's family is\nhaving a baby. I'm\ngonna catch them an\nanglerfish for it!	22 cols, pages	
+553	86:D19C (ROM 03519C)	弘樹君の家の 出産祝いに\nわたしが アンコウを\n釣って来るわ。	I'll catch an\nanglerfish to\ncelebrate the baby at\nHiroki's.	22 cols, pages	
+554	86:D1C5 (ROM 0351C5)	弘樹家の 出産祝いに\nわしが アンコウを\n釣って来るぞ。	I'll catch an\nanglerfish to\ncelebrate the baby at\nHiroki's.	22 cols, pages	
+555	86:D1EA (ROM 0351EA)	弘樹さん家の 出産祝いに\nわたしが アンコウを\n釣って来るわ。	I'll catch an\nanglerfish to\ncelebrate the baby at\nHiroki's.	22 cols, pages	
+556	86:D212 (ROM 035212)	どうしょう どうしょう\nおいらは 妹がほしいな。	What do I do, what do\nI do? I want a little\nsister.	22 cols, pages	
+557	86:D22C (ROM 03522C)	大丈夫 大丈夫\n無事 産まれるよね。	It's all right, it's\nall right. The baby\nwill be born safely.	22 cols, pages	
+558	86:D248 (ROM 035248)	フウ フウ・・・\n・・・・・・\nフウ\n産まれそうよ。	Hoo, hoo...\n......\nHoo...\nIt's coming.	22 cols, pages	
+559	86:D264 (ROM 035264)	ハイハイ 大丈夫ですよ。\n無事に 産まれますから。\n心配いらないですよ。	There, there, it's all\nright. The baby will\nbe born safely.\nNo need to worry.	22 cols, pages	
+560	86:D291 (ROM 035291)	ハイ 頭が出てきたわ。\nもう少しよ がんばって。	There's the head.\nAlmost there, keep\npushing.	22 cols, pages	
+561	86:D2AD (ROM 0352AD)	ウウーン・・・・・\n・・・・・・・・\nポコ	Nnnngh.....\n........\nPop!	22 cols, pages	
+562	86:D2C3 (ROM 0352C3)	・・・・・\nオギャ・・・・・・・\nオギャー オギャー	.....\nWaah.......\nWaah! Waah!	22 cols, pages	
+563	86:D2DE (ROM 0352DE)	よくがんばったわね。\nかわいい 女の子ですよ。\nおめでとう ございます。	You did so well.\nIt's a lovely girl.\nCongratulations.	22 cols, pages	
+564	86:D305 (ROM 035305)	  バンザーイ\n  バンザーイ\n  バンザーイ\nよろこびの歓声が\nわき上がりました。	  Hooray!\n  Hooray!\n  Hooray!\nEveryone cheered\nwith joy.	22 cols, pages	
+565	86:D333 (ROM 035333)	おいらが お祝いに\n料理を 作るぞ。	I'll cook something\nto celebrate!	22 cols, pages	
+566	86:D34A (ROM 03534A)	わたしが お祝いに\n母さんに負けないくらい\nおいしい料理を作るわ!	I'll cook a dish to\ncelebrate that's as\ntasty as Mom's!	22 cols, pages	
+567	86:D372 (ROM 035372)	お祝いに アンコウ鍋だ。\n実は料理も得意なんだ\nうまいの作るぞ	Anglerfish stew to\ncelebrate! I'm a good\ncook, actually. I'll\nmake something great.	22 cols, pages	
+568	86:D39A (ROM 03539A)	お祝いに アンコウ鍋よ。\n私の十八番\nおいしいの作るわ。	Anglerfish stew to\ncelebrate! It's my\nspecialty. I'll make\nit delicious.	22 cols, pages	
+569	86:D3BE (ROM 0353BE)	釣って来た アンコウを\n鍋にして みんなで\n食べました。\n \n    おしまい	They made the angler-\nfish into a stew, and\neveryone ate together.\n \n     The End	22 cols, pages	
+570	86:D3EA (ROM 0353EA)	おいらも 負けずに\nがんばるぞ。	I won't lose either.\nI'll do my best.	22 cols, pages	
+571	86:D3FC (ROM 0353FC)	アンコウさんって\n本当においしいわね。	Anglerfish really are\nso delicious.	22 cols, pages	
+572	86:D412 (ROM 035412)	父さんも 海のぬしを\n釣りにいくぞ。	Dad's going fishing\nfor the Sea King too.	22 cols, pages	
+573	86:D428 (ROM 035428)	釣りばっかり していて\nこまった ものね。	Always off fishing.\nWhat a handful.	22 cols, pages	
+574	86:D43F (ROM 03543F)	妹が 産まれたってことは\nおいらは 兄ちゃんだ。	With a baby sister\nborn, that makes me\na big brother!	22 cols, pages	
+575	86:D45B (ROM 03545B)	産まれた 産まれた。\nおっかあに 似ていて\nよかった よかった。	She's born! She's\nborn! Good thing she\ntakes after her mom.	22 cols, pages	
+576	86:D47F (ROM 03547F)	ねえ 見て見て\nかわいい 女の子でしょ。	Look, look! Isn't she\na cute little girl?	22 cols, pages	
+577	86:D498 (ROM 035498)	ハイハイ 大丈夫ですよ。\n無事に 産まれましたよ。	There, there, it's all\nright. She was born\nsafely.	22 cols, pages	
+578	86:D4B8 (ROM 0354B8)	オギャ オギャ。\nオギャーーー。	Waah, waah.\nWaaaaah.	22 cols, pages	
+579	86:D4C9 (ROM 0354C9)	拝啓 おいらの 母ちゃんが\nもうすぐ 赤ちゃんを産みま\nす。母ちゃんに かわいい妹を\n産むように いっしょに頼んで\nください。おねがいします。敬具	Dear Sir, my mom is going\nto have a baby soon.\nPlease wish with me that\nshe has a cute little sister\nfor me. Please. Sincerely	30 cols, 5 lines	
+580	86:D51E (ROM 03551E)	海野町  波野港	Namino Port	22 cols, pages	
+581	86:D52D (ROM 03552D)	弘樹	Hiroki	22 cols, pages	
+582	86:D532 (ROM 035532)	やったーっ! ついに\n海のぬしの クロカジキを\n釣り上げた。\n大きさは {DA}cm。\nさっそく 家に帰って\nクロカジキを 釣り上げた\n話を してあげましょう。	Hooray! At last you\nlanded the blue\nmarlin, the Sea King!\nSize: {DA}cm.\nHurry home and tell\neveryone how you\nlanded the blue\nmarlin.	22 cols, pages	
+583	86:D588 (ROM 035588)	やったーっ! ついに\n海のぬしの マンボウに\n出会えた。\nさあ! 願い事を\n唱えましょう。\n・・・・・・・・\n・・・・・・\n願いが かなうと\nいいですね。\nさっそく 家に帰って\nマンボウに 出会えた\n話を してあげましょう。	Hooray! At last you\nmet the sunfish,\nthe Sea King!\nNow, make your wish!\n........\n......\nI hope it comes true.\nHurry home and tell\neveryone about\nmeeting the sunfish.	22 cols, pages	
+584	86:D605 (ROM 035605)	やったーっ! ついに\n海のぬしの\nでっかい クロマグロを\n釣り上げた。\n大きさは {DA}cm。\nさあ! すぐに家へ帰って\n家族に クロマグロの\nカブト焼きを\n食べさせてあげて下さい。	Hooray! At last you\nlanded the giant\nbluefin tuna,\nthe Sea King!\nSize: {DA}cm.\nNow hurry home and\nfeed your family the\ngrilled tuna head.	22 cols, pages	
+585	86:D669 (ROM 035669)	やったーっ! ついに\n海のぬしの でっかい\nモロコを 釣り上げた。\n大きさは {DA}cm。\nさあ! これで家族に\n自慢できるぞ。	Hooray! At last you\nlanded the giant kelp\ngrouper, the Sea King!\nSize: {DA}cm.\nNow you can brag to\nyour family!	22 cols, pages	
+586	86:D6AF (ROM 0356AF)	やったーっ! ついに\n{D8}を釣り上げた。\n大きさは {DA}cm。\n出産の お祝いに\nまにあうかな?\nさあ! いそいで村に\n帰りましょう。	Hooray! At last you\nlanded\n{D8}!\nSize: {DA}cm.\nWill you make it back\nin time for the birth?\nHurry back to town!	22 cols, pages	
+587	86:D6F8 (ROM 0356F8)	ちっちゃい魚を 釣ったら\n逃がしてあげてね。	If you catch a little\nfish, let it go, okay?	22 cols, pages	
+588	86:D712 (ROM 035712)	散らかさないでーっ!\nエッサ、ホイサ	Don't make a mess!\nHeave, ho, heave, ho!	22 cols, pages	
+589	86:D726 (ROM 035726)	魚がたくさん取れるように\n網の穴を 繕ってるの。	I'm mending the holes\nin the net so we can\ncatch lots of fish.	22 cols, pages	
+590	86:D744 (ROM 035744)	カヌー作りの じいとは\nわしのことじゃ!\nじつは クロダイの魚拓を\n作りたいが 釣って来て\nもらえんじゃろうか?	I'm the old man who\nmakes canoes! Thing\nis, I'd like to make\na fish print of a\nblack porgy. Won't you\ncatch me one?	22 cols, pages	
+591	86:D783 (ROM 035783)	おうっ! やりおったな。\nわしにも釣れんかった魚を\nとうとう 釣り上げたか!\nわしが たんねんに作った\nカヌーじゃが持っていけ。	Oho! You did it.\nYou finally landed the\nfish even I couldn't\ncatch! Take this canoe\nI built with care.	22 cols, pages	
+592	86:D7CA (ROM 0357CA)	カヌーに 乗っているか!\n速い潮に 流されるなよ。	Out in the canoe, are\nyou? Don't get swept\naway by the fast tide.	22 cols, pages	
+593	86:D7E8 (ROM 0357E8)	ニャン 魚をちょうだい。	Meow. Give me a fish.	22 cols, pages	
+594	86:D7F6 (ROM 0357F6)	ニャン 僕の魚たちを\n見てちょうだい。	Meow. Come look at\nmy fish.	22 cols, pages	
+595	86:D80D (ROM 03580D)	ありがとう。ニャンニャン	Thank you. Meow meow.	22 cols, pages	
+596	86:D81A (ROM 03581A)	残念だニャー。	What a shame, meow.	22 cols, pages	
+597	86:D824 (ROM 035824)	ウキが ピクピク動いても\nエサが合ってないと 魚は\n絶対 に食べないからね。\nクロダイって スイカを\n食べるのよ。変な魚。	Even if your float\ntwitches, fish won't\neat bait they don't\nlike. Black porgy eat\nwatermelon, you know.\nWhat a weird fish.	22 cols, pages	
+598	86:D871 (ROM 035871)	虫メガネを使って、\n砂浜や岩場を見れば\nエサなんか いくらでも\nめっかるぞ。	Use a magnifying glass\non the beach and\nrocks, and you'll find\nall the bait you could\nwant.	22 cols, pages	
+599	86:D89F (ROM 03589F)	磁石があれば、秘密の方角\nが分かるのよ。\n画面の 北が上、南が下\nえっと 東が右 西が左よ。\n方角のとおりに 進むと\nきっと いい事があるわよ。	With a compass you can\nfind the secret way.\nOn screen, north is\nup, south is down...\num, east is right,\nwest is left. Follow\nthe directions and\nsomething good will\nhappen for sure.	22 cols, pages	
+600	86:D8FD (ROM 0358FD)	カレイが 釣れるんだ。\nみんなに ないしょだよ。	You can catch flounder\nhere. Don't tell\nanyone, okay?	22 cols, pages	
+601	86:D91D (ROM 03591D)	サビキ釣りが 大好き。\nたくさん 泳いでいるよ。	I love sabiki fishing.\nThere are loads of\nfish swimming here.	22 cols, pages	
+602	86:D940 (ROM 035940)	ほらほらっ カサゴが!\nこんな おばあちゃんでも\n釣れるのよ。	Look, look, a\nscorpionfish! Even an\nold granny like me can\ncatch one.	22 cols, pages	
+603	86:D967 (ROM 035967)	わたし 大会のお手伝い\nしているの。えらいでしょ。	I'm helping out with\nthe tournament.\nAren't I great?	22 cols, pages	
+604	86:D985 (ROM 035985)	お地蔵さんに\nお供えを するんじゃよ。\nきっといい事があるから。	Make an offering to\nthe Jizo statue.\nSomething good will\ncome of it.	22 cols, pages	
+605	86:D9AA (ROM 0359AA)	ほう\n海のぬしを釣りたいのか。\nザトウクジラのヒゲを\n取ってきたら わしの\n宝物をあげよう。	Oh ho,\nyou want to catch the\nSea King? Bring me the\nbaleen of a humpback\nwhale, and I'll give\nyou my treasure.	22 cols, pages	
+606	86:D9DE (ROM 0359DE)	それは!\nザトウクジラのヒゲじゃな\n宝物の地図 をあげよう。	That's it!\nHumpback whale baleen!\nI'll give you the\ntreasure map.	22 cols, pages	
+607	86:DA01 (ROM 035A01)	わしは昔 悪い海賊\nだったんだ。\n村人には ないしょだぞ。	Long ago I was a\nwicked pirate.\nDon't tell the\ntownsfolk.	22 cols, pages	
+608	86:DA25 (ROM 035A25)	ついに モロコザオを\n手に入れたのか。\n大切に 使うのだぞ。	So you finally got\nthe grouper rod.\nTake good care of it.	22 cols, pages	
+609	86:DA49 (ROM 035A49)	      海賊の秘密の地図\n地図の場所に秘密の入口がある\nこの入口で呪文を唱えるべし。\n      アブラ カタブラ\n        ヒラケ ゴマ	     The Pirate's Secret Map\nWhere this map points lies a\nsecret door. There, say the\nmagic words:\n   Open Sesame, Abracadabra!	28 cols, 5 lines	
+610	86:DAA7 (ROM 035AA7)	今日のお味噌汁に\nハマグリを入れるのよ。	I'm putting clams in\ntoday's miso soup.	22 cols, pages	
+611	86:DAC2 (ROM 035AC2)	気持ちがいーよーっ。	This feels great!	22 cols, pages	
+612	86:DACF (ROM 035ACF)	砂のお城を 作ったの。\nすごいでしょ。	I built a sandcastle.\nIsn't it great?	22 cols, pages	
+613	86:DAE6 (ROM 035AE6)	バブ バブ。\nお兄ちゃんもお姉ちゃんも\n僕の子守りをしてくれない\nつまんないなー バブバブ。	Goo goo.\nBig brother and big\nsister won't babysit\nme. So boring.\nGoo goo.	22 cols, pages	
+614	86:DB1A (ROM 035B1A)	ワンワン この先の砂浜で\n動けない ウミガメさんを\n見つけたよ。\n助けてあげて ワンワン。	Woof woof! On the\nbeach up ahead I found\na sea turtle that\ncan't move.\nPlease help her. Woof!	22 cols, pages	
+615	86:DB4E (ROM 035B4E)	ワンワン わたしも\n砂のお城を作るワン。	Woof woof! I'm making\na sandcastle too.\nWoof!	22 cols, pages	
+616	86:DB66 (ROM 035B66)	私の 投げ釣りのフォーム\nきまっているだろ。\nこれぞ\n投げ釣りの醍醐味よ。	Isn't my casting form\nperfect?\nThis is the real joy\nof surf casting.	22 cols, pages	
+617	86:DB94 (ROM 035B94)	おいらでも シロギスを\n釣れるんだぜ。\nほらほらっ シロギスが\n入れぐいだぞっ!	Even I can catch\nwhiting, y'know. Look,\nlook! The whiting are\nbiting like crazy!	22 cols, pages	
+618	86:DBC5 (ROM 035BC5)	わたしは 学校に行くより\n釣りが好きで 今日もまた\n釣りに来てしまった。\nわたしは 釣りが好きだー	I'd rather fish than\ngo to school, so here\nI am fishing again.\nI love fishing!	22 cols, pages	
+619	86:DC08 (ROM 035C08)	ウミガメは 産まれた\n砂浜に戻ってきて\n産卵するんじゃよ。	Sea turtles come back\nto the beach where\nthey were born to lay\neggs.	22 cols, pages	
+620	86:DC2C (ROM 035C2C)	どっしり かまえて\nアタリを待つ。\nこれが釣りの王道よお!	Sit tight and wait for\na bite. That's the\ntrue way of fishing!	22 cols, pages	
+621	86:DC54 (ROM 035C54)	スズキを 釣り上げるには\nルアーフィッシングが\n面白いよ。	To land a sea bass,\nlure fishing is the\nmost fun.	22 cols, pages	
+622	86:DC7C (ROM 035C7C)	今日の晩飯は ハゼの\nテンプラにするのよ。	Tonight's dinner is\ngoby tempura.	22 cols, pages	
+623	86:DC9C (ROM 035C9C)	漁業組合 大会事務員です。	I'm the tournament\nclerk for the fishing\nco-op.	22 cols, pages	
+624	86:DCB3 (ROM 035CB3)	ウ・・・・ ポト\nいつも 私はここで産卵を\nすることに しているの。\nウ・・・・ ポト\nこれで全部。あいたた・・\n疲れちゃって 動けない。\n波打ち際まで 押して\nもらえませんか?	Nngh.... plop. I\nalways lay my eggs\nright here. Nngh....\nplop. That's all of\nthem. Ow ow... I'm so\ntired, I can't move.\nCould you push me to\nthe water's edge?	22 cols, pages	
+625	86:DD18 (ROM 035D18)	あいたた・・\n産卵で疲れちゃって\n動けないの。\n波打ち際まで 押して\nもらえませんか?	Ow ow...\nLaying eggs wore me\nout, I can't move.\nCould you push me to\nthe water's edge?	22 cols, pages	
+626	86:DD4C (ROM 035D4C)	ファー 海は気持ちいいわ\n海に入れば もう大丈夫。\n押してくれて ありがとう。	Ahh, the sea feels so\ngood. Once I'm in the\nwater I'll be fine.\nThanks for pushing me.	22 cols, pages	
+627	86:DD7D (ROM 035D7D)	今年も 海が荒れず\n豊漁で 家族円満\n交通安全 安産安産\nブツブツブツ・・・	May the sea be calm,\nthe catch be big, the\nhome be happy, travels\nsafe, and births easy\n...mumble mumble...	22 cols, pages	
+628	86:DDB6 (ROM 035DB6)	ワーイ ワーイ\nきれいな お花。	Yay! Yay!\nPretty flowers.	22 cols, pages	
+629	86:DDC8 (ROM 035DC8)	ふいーっ 疲れたべー。\n草むしりは\n腰が疲れるのよ。	Phew, I'm worn out.\nPulling weeds is hard\non the back.	22 cols, pages	
+630	86:DDE7 (ROM 035DE7)	大きな岩が ゴロゴロして\n歩きにくいわ。\nすべって 転ばないでね。	All these big rocks\nmake it hard to walk.\nDon't slip and fall.	22 cols, pages	
+631	86:DE0D (ROM 035E0D)	まさか クロダイの私が\n釣られるとは。くやしー。	Me, a black porgy,\ncaught by you?\nSo annoying!	22 cols, pages	
+632	86:DE28 (ROM 035E28)	あんたの竿じゃあ 魚に\n逃げられちゃうねぇ。\nこのさきの 釣具屋さんで\nいい竿を 売ってるよ。	With that rod of\nyours, the fish will\nget away. The tackle\nshop up ahead sells\ngood rods.	22 cols, pages	
+633	86:DE66 (ROM 035E66)	足をすべらして\n潮に 流されるなよ。	Don't slip and get\nswept away by the\ntide!	22 cols, pages	
+634	86:DE82 (ROM 035E82)	フグには 毒があるんだぞ。\n食べたらいけないんだぞー	Puffer fish are\npoisonous, you know.\nYou mustn't eat them!	22 cols, pages	
+635	86:DEA5 (ROM 035EA5)	チクショー!50cmもある\nクロダイに逃げられたっ。	Dang it! A 50cm black\nporgy got away!	22 cols, pages	
+636	86:DEC0 (ROM 035EC0)	ぬし釣りの 旅をしている\nだか? かっこいいなー。\nがんばれよ!	You're on a journey\nto catch the Sea King?\nThat's so cool!\nGood luck!	22 cols, pages	
+637	86:DEE3 (ROM 035EE3)	エサだけ とられると\nくやしいわね。	It's so annoying when\nthey just steal the\nbait.	22 cols, pages	
+638	86:DEFC (ROM 035EFC)	おいらに 海釣りを教えて\nくれないか。\nおいらは 川釣りなら\n得意なんだぞ。	Won't you teach me sea\nfishing? I'm good at\nriver fishing, y'know.	22 cols, pages	
+639	86:DF30 (ROM 035F30)	磯タビを はかないと\n磯は あぶないから\n立ち入り 禁止だよ。\n帰った 帰った。ブーブー	Without reef boots the\nrocks are dangerous,\nso you can't go in. Go\non home. Hmph!	22 cols, pages	
+640	86:DF65 (ROM 035F65)	おいらも 磯タビが\nほしいなー。ブーブー	I want reef boots too.\nHmph!	22 cols, pages	
+641	86:DF7B (ROM 035F7B)	とうろうを きれいに\nお掃除 しましょ。	Let's clean the stone\nlanterns nice and\nshiny.	22 cols, pages	
+642	86:DF92 (ROM 035F92)	この灯を目印に夜でも船が\n安全に 航行できるのよ。	With this light as a\nmarker, boats can sail\nsafely even at night.	22 cols, pages	
+643	86:DFB5 (ROM 035FB5)	アワビ、サザエ、イセエビ\n海の中に おいしい物が\nいっぱいあるけど\n勝手に取ると だめなのよ。	Abalone, turban\nshells, spiny\nlobster... the sea is\nfull of tasty things,\nbut you're not allowed\nto take them.	22 cols, pages	
+644	86:DFEB (ROM 035FEB)	岩海苔取りは大変だけんど\nいい汗かくべなあ。\nおめえも やるべか?	Gathering rock seaweed\nis hard work, but it's\na good sweat. Want to\ngive it a try?	22 cols, pages	
+645	86:E014 (ROM 036014)	ヨイショ ドッコラショ\n海賊の埋蔵金が\n埋まってるらしい。\n絶対ないしょだよ。	Heave-ho, heave-ho.\nThey say a pirate's\ntreasure is buried\nhere. Keep it secret!	22 cols, pages	
+646	86:E044 (ROM 036044)	毎日アザラシに エサを\nあげてるんだ。	I feed the seals\nevery day.	22 cols, pages	
+647	86:E05A (ROM 03605A)	今日は 大物が釣れる\n予感がするんだ!\nヒラマサの引きは凄いぞ。	I've got a feeling\nI'll catch a big one\ntoday! Amberjack\nreally pull.	22 cols, pages	
+648	86:E08A (ROM 03608A)	海はよー 海はよー\n海はでっかいなー。	The sea is wide, oh,\nthe sea is wide,\nthe sea is so big!	22 cols, pages	
+649	86:E0A7 (ROM 0360A7)	イサキなら\nそこらに いるぞ。	If it's grunt you\nwant, there's plenty\naround here.	22 cols, pages	
+650	86:E0B7 (ROM 0360B7)	クチグロ釣り名人とは\n俺様のことよ。	The master of black-\nmouth fishing? That'd\nbe me.	22 cols, pages	
+651	86:E0CF (ROM 0360CF)	おぬしも ぬし釣りの\n旅をしているだか?\nウム がんばれよ!	You're on a Sea King\njourney too, eh?\nHmm, good luck!	22 cols, pages	
+652	86:E0F0 (ROM 0360F0)	アザラシといっしょに\n泳いだり。釣りをしたり。\nこの島で遊ぶの大好き。	I love playing on this\nisland, swimming with\nthe seals and fishing.	22 cols, pages	
+653	86:E11A (ROM 03611A)	ブダイって色がきれいね。\nわたし きれいな魚\n大好き。	Parrotfish have such\npretty colors. I love\npretty fish.	22 cols, pages	
+654	86:E13A (ROM 03613A)	大会やってますよーー。	The tournament is on!	22 cols, pages	
+655	86:E148 (ROM 036148)	変な 岩があるなー。\nちょっと 押してみよう。\nヨイショ ヨイショ\nびくとも しないや。	What a strange rock.\nLet me give it a push.\nHeave, heave...\nIt won't budge.	22 cols, pages	
+656	86:E178 (ROM 036178)	海賊の秘密の地図にあった\n秘密の入口だ。\n呪文を唱えてみよう。\n    アブラ カタブラ\n      ヒラケ ゴマ\n・・・・・・・\n何にもおきないや。	It's the secret\nentrance from the\npirate's map.\nLet's say the words.\n   Abracadabra,\n     Open Sesame!\n.......\nNothing happened.	22 cols, pages	
+657	86:E1D2 (ROM 0361D2)	ガラ ガラ ガラ\n秘密の入口が開いた。\n本当だったんだ。	Rumble rumble rumble.\nThe secret entrance\nopened. It was true!	22 cols, pages	
+658	86:E1F6 (ROM 0361F6)	磯タビがないと 危険です。\n島に上陸できません。	It's dangerous without\nreef boots. You can't\ngo ashore there.	22 cols, pages	
+659	86:E215 (ROM 036215)	この船では 外洋は\n危険です。戻りましょう。	The open sea is too\ndangerous for this\nboat. Let's go back.	22 cols, pages	
+660	86:E232 (ROM 036232)	船が 強い潮に流されて\n遭難しました。	The boat was swept\naway by a strong tide\nand lost at sea.	22 cols, pages	
+661	86:E24C (ROM 03624C)	船では 危険なので\n西の離島に近づけません。	It's too dangerous by\nboat to get near the\nwestern island.	22 cols, pages	
+662	86:E26A (ROM 03626A)	カジキ大会 やっています。\nおおきなの 釣ったら\n計量に来てください。	The marlin tournament\nis on. If you catch a\nbig one, come get it\nweighed.	22 cols, pages	
+663	86:E294 (ROM 036294)	だめだわ 私の力では\nこの離島では 大きな魚\nばかりで 大変よ。	It's no good, I'm not\nstrong enough. The\nfish around this\nisland are all so big.	22 cols, pages	
+664	86:E2C3 (ROM 0362C3)	見てごらん ウミガメが\n泳いでいるよ。	Look! A sea turtle\nis swimming there.	22 cols, pages	
+665	86:E2D9 (ROM 0362D9)	わたし ウニ大好き。\nおいしいから。\nでも 踏んづけると痛い\nから 注意してね。	I love sea urchins.\nThey're delicious.\nBut they hurt if you\nstep on them, so be\ncareful.	22 cols, pages	
+666	86:E308 (ROM 036308)	おねがいです。お地蔵さん\n水が無いと 暮らせません。\n西の離島の タコを\n追い出してください。\nおねがいします。	Please, Jizo, we can't\nlive without water.\nPlease drive the\noctopus out of the\nwestern island.	22 cols, pages	
+667	86:E34B (ROM 03634B)	タコを退治してくれて\nありがとう。お地蔵さんも\nありがとう。	Thank you for getting\nrid of the octopus.\nAnd thank you, Jizo.	22 cols, pages	
+668	86:E36E (ROM 03636E)	引きが凄いんだ。\nとてつもない大物が\n生きエサにかかったんだ。\nヨイショ ウンショ\nサメとかエイだとやだなー	It's pulling so hard!\nSomething huge took my\nlive bait. Heave, ugh,\nheave... I hope it's\nnot a shark or a ray.	22 cols, pages	
+669	86:E3B0 (ROM 0363B0)	くやしー\n・・・・・・・\n今度こそ 巨大クエを\n釣り上げるぞ。	Rats...\n.......\nNext time I'll land\na giant grouper!	22 cols, pages	
+670	86:E3D6 (ROM 0363D6)	ここには\n大物が潜んで いるような\n気がするのだが・・・・	I have a feeling a big\none lurks here....	22 cols, pages	
+671	86:E3F8 (ROM 0363F8)	昔はこの離島はあまり人が\n来れなくて 魚の天国\nだったんだ。\nでも最近は 船がいいから\n人が来すぎるんだよな。	This island used to be\nhard to reach, so it\nwas a fish paradise.\nBut boats are so good\nnow that too many\npeople come.	22 cols, pages	
+672	86:E43D (ROM 03643D)	わしは じっくり深場を\n探るんだ。大物を釣るぞ。	I take my time and\nsearch the deep spots.\nI'll catch a big one.	22 cols, pages	
+673	86:E45C (ROM 03645C)	イシダイが大きくなると\nクチグロになるんだぞ。\nしってた?	When a beakfish\ngrows big, it becomes\na blackmouth.\nDid you know?	22 cols, pages	
+674	86:E47B (ROM 03647B)	イシガキダイが\n大きくなると\nクチジロになるんだぞ。\nしってた?	When a spot beakfish\ngrows big, it becomes\na whitemouth.\nDid you know?	22 cols, pages	
+675	86:E49D (ROM 03649D)	モロコを釣ったことが\nあるかい? 釣って来たら\n名人と 言ってやるぜっ!	Ever caught a kelp\ngrouper? Catch one\nand I'll call you a\nmaster!	22 cols, pages	
+676	86:E4C8 (ROM 0364C8)	いよっ!\nモロコ釣り名人。	Bravo! Grouper\nfishing master!	22 cols, pages	
+677	86:E4D9 (ROM 0364D9)	この西の離島は 波が高い\nから注意するんだぞ。	The waves are high at\nthis western island,\nso be careful.	22 cols, pages	
+678	86:E4F8 (ROM 0364F8)	このあたりは 私の庭\nみたいな ものよ。\nこの先の 西の離島は\n絶好の 釣り場ね。	These waters are like\nmy own backyard.\nThe western island up\nahead is a perfect\nfishing spot.	22 cols, pages	
+679	86:E52C (ROM 03652C)	先日は 産卵のとき\nどうも ありがとう。	Thank you for helping\nme the other day when\nI laid my eggs.	22 cols, pages	
+680	86:E545 (ROM 036545)	この先の 西の離島に\nつれていって あげるわ。\n背中に 乗って	I'll take you to the\nwestern island up\nahead. Hop on my back.	22 cols, pages	
+681	86:E56C (ROM 03656C)	東の離島に 戻りましょう。\n背中に 乗って	Let's go back to the\neastern island.\nHop on my back.	22 cols, pages	
+682	86:E589 (ROM 036589)	しっかり つかまって。	Hold on tight.	22 cols, pages	
+683	86:E595 (ROM 036595)	それじゃ また今度ね。	Well then, see you\nnext time.	22 cols, pages	
+684	86:E5A3 (ROM 0365A3)	水がほしければ おいらの\n攻撃を のがれてみな。\nおいらの正面にきたら\nスミを かけるぞ。\nタコ壺を 持ってきたら\nタコ壺に 入ってあげる。\nタコ壺は 一個だけ\n押して 運べるよ。\nやってみな。	If you want water, try\nto dodge my attacks.\nGet in front of me and\nI'll squirt you with\nink. Bring me an\noctopus pot, and I'll\nget in it. You can\npush just one pot\nalong. Give it a try.	22 cols, pages	
+685	86:E613 (ROM 036613)	ペッ\n残念でした。	Pfft!\nToo bad.	22 cols, pages	
+686	86:E61F (ROM 03661F)	ありがとう。\nこれで タコ壺の中で\n安心して くらせるよ。\n水は 好きなだけ\n持っていきな。	Thank you.\nNow I can live safely\nin my octopus pot.\nTake as much water as\nyou like.	22 cols, pages	
+704	86:E084 (ROM 036084)	47き。2		22 cols, pages	not translated as text: a name insert code, the Yes/No graphic or an unused string
+708	86:E655 (ROM 036655)	ついに\n海のぬしを 見つけた。	At last, you found\nthe Sea King.	22 cols, pages	
+709	86:E667 (ROM 036667)	ついに\nアンコウを 見つけた。	At last, you found\nthe anglerfish.	22 cols, pages	

@@ -1,0 +1,250 @@
+0599	【[0F]Akira[0E]】/What's the matter?
+0600	【[0F]Akira[0E]】/It'll be all right. This time, we siblings will protect this world.
+0601	【[0F]Akira[0E]】/I'm worried about [0F]Haruki[0E]. He's still so little.
+0602	【[0F]Akira[0E]】/Hm? Where can you catch [10]Carp[0E]?|Hmm... I've never heard of a fish by that name, so I don't think there are any in this country.
+0603	【[0F]Akira[0E]】/I hope everyone is safe. ...It's because of us...|No, never mind.
+0604	【[0F]Akira[0E]】/I see, so [0F]Toma[0E] was feeling down...|But with the [10]Sun Stone[0E], I'm sure you can save them.|If I can ever travel to other countries again,|I'd like to tell lots of people about this country, and tell the people here about other countries too.
+0605	【[0F]Akira[0E]】/Please help [0F]Toma[0E]. I'm sure you can do it, [0F][03][0E].
+0606	【[0F]Akira[0E]】/It's thanks to you that there's peace here. Thank you!
+0607	=About the people
+0608	【[0F]Akira[0E]】/The only one turned into a fish is the [0F]King[0E]. Please, find a way to save the [0F]King[0E].
+0609	【[0F]Akira[0E]】/The fishing contest has started outside. But I'm not worried.|I'm sure [0F][03][0E] will be the one to reel him in.|Besides, with skinny rods like the [0F]townsfolk[0E] have, they'll never catch the [0F]King[0E]'s fish form!
+0610	【[0F]Akira[0E]】/With the [10]Royal Tackle[0E], you're sure to land the [0F]King[0E]'s fish form!
+0611	【[0F]Akira[0E]】/Leave fishing to me! What would you like?
+0612	=How lure fishing works
+0613	=Practice lure fishing
+0614	=Fishing techniques
+0615	What do you want to know about lure fishing?
+0616	=Setting up your lure tackle
+0617	=Until a fish goes for the lure
+0618	=Getting a fish on the lure
+0619	【[0F]Akira[0E]】/Okay, let me explain setting up lure tackle.|You equip it in this order: rod, reel, line, then lure.|First, choose "Tackle" from the SELECT menu and equip a rod, reel and line.|Next, choose "Bait/Lure" and equip a lure, and you're done.|Lures can break, so it's a good idea to carry spares.|That's about it. Anything else?
+0620	【[0F]Akira[0E]】/Okay, let me explain what happens until a fish goes for your lure.|With your tackle equipped, casting until the rig hits the water works just like bait fishing.|Once it lands, press the B Button to reel in line and move the lure.|When a fish reacts, you'll switch to the underwater view automatically, so get ready to hook it.|That's about it. Anything else?
+0621	【[0F]Akira[0E]】/Okay, let me explain how to get a fish on the lure.|In the underwater view, reel and pause to match the lure's depth to the fish.|If you pull at just the right moment when the fish bites, you'll hook it.|Every lure moves differently, so try them all out.|Once a fish is hooked, it's the same as bait fishing. Wait when it runs, reel when it stops.|That's about it. Anything else?
+0622	【[0F]Akira[0E]】/Okay, let me explain some fishing techniques.|Some fish thrash near the surface to try to throw the hook. That's called "head shaking."|While a fish is head shaking, reel in to keep the hook from coming loose.|Even after it stops, don't let your guard down. Watch the fish closely and react the right way.|That's about it. Anything else?
+0623	【[0F]Akira[0E]】/Okay. If you ever get stuck, come and ask me anytime.
+0624	Well then, let's practice.
+0625	【[0F]Akira[0E]】/That's it, keep it up!
+0626	I don't think I can beat you anymore.
+0627	You've gotten better.
+0628	Let's practice some more.
+0629	【[0F]Akira[0E]】/Too bad, you missed.
+0630	Well, even a master misses sometimes. Let's try again!
+0631	But you've gotten much better. Let's try again!
+0632	Hmm, not there yet. Let's practice more!
+0633	【[0F]Fake King's Aide[0E]】/It was a mistake to use a man who'd give himself away so fast.|I must think of a way out of here.
+0634	【[0F]Aide[0E]】/Go on, master angler, reel in a fine fish for us.|And then we can all eat it later!
+0635	【[0F]Aide[0E]】/...That [0F]Prince[0E]. If only he'd quietly done as I said.
+0636	【[0F]Aide[0E]】/Where the [0F]Prince[0E] is? Why, I have no idea.|No doubt some riffraff led him astray and he's off playing somewhere.
+0637	【[0F]Aide[0E]】/Oh, a new face. And such odd clothes...|Well, it's no concern of mine.
+0638	【[0F]Gate Guard[0E]】/Even with a bad memory, a guy can still be a [0F]gate guard[0E], right?
+0639	【[0F]Gate Guard[0E]】/Oh, you're...!? Here to see the [0F]King[0E] today?|Come to think of it, the [0F]King[0E] said something about looking at a notebook with fish recorded in it...|I forgot the rest, so ask the other [0F]gate guard[0E] next to me.
+0640	【[0F]Gate Guard[0E]】/I forgot, so ask the other [0F]gate guard[0E] next to me.
+0641	【[0F]Gate Guard[0E]】/I knew it...|Suddenly ordering us to arrest [0F]Lady Akira[0E]... I knew it was fishy.
+0642	【[0F]Gate Guard[0E]】/Holding a fishing contest out of the blue! That's our [0F]King[0E] for you!|But just for today, I wish I could fish instead of standing guard.
+0643	【[0F]Gate Guard[0E]】/Thanks for the help back then! It was delicious fried!
+0644	【[0F]Gate Guard[0E]】/I snuck you through. Don't go wandering around where people can see.
+0645	【[0F]Gate Guard[0E]】/Prices have gone up lately, so I haven't had a decent meal...|I love fish, and most of all [10]Freshwater Stingray[0E]! It's my favorite!|Deep-fried, it's just delicious!|Hey, I've got a proposition. Could you catch me a [10]Freshwater Stingray[0E]?|If you bring me one, maybe I'll sneak you through here.|They're always around the spots near the [10]castle[0E]. I'm counting on you!
+0646	【[0F]Gate Guard[0E]】/No entry to the [10]castle[0E]!
+0647	【[0F]Gate Guard[0E]】/Hey! Did you bring me a fish!?
+0648	【[0F]Gate Guard[0E]】/Ooh, this looks tasty!|Now I've got tonight's dinner to look forward to![09]|Oh, right. A deal's a deal! Go on, you can pass!
+0649	【[0F]Gate Guard[0E]】/Hey, hey. This isn't a [10]Freshwater Stingray[0E], is it?|I want to eat a [10]Freshwater Stingray[0E]! ...Well, since you went to the trouble, I'll take this one.|Okay, let's try again. Bring me a [10]Freshwater Stingray[0E]!
+0650	【[0F]Gate Guard[0E]】/Aw, what a letdown... Hurry up and get me a [10]Freshwater Stingray[0E]!
+0651	【[0F]Gate Guard[0E]】/You don't even have any fish... Hurry up and get me a [10]Freshwater Stingray[0E]!
+0652	【[0F]Gate Guard[0E]】/Our [0F]King[0E] is a handful.|He swore he'd never fish again, then says he wants to see fish records... He just can't let go.
+0653	【[0F]Gate Guard[0E]】/Oh, you're...!? Welcome, welcome!|Our [0F]King[0E] has been looking for you. He said he wants to see some notebook with fish recorded in it.
+0654	【[0F]Gate Guard[0E]】/He said he wants to see some notebook with fish recorded in it.
+0655	【[0F]Gate Guard[0E]】/...So that was a [0F]fake king[0E]. Sorry for being so rude to you.
+0656	【[0F]Gate Guard[0E]】/You've got some nerve showing up here... Don't you lay a finger on the [0F]King[0E].
+0657	【[0F]Gate Guard[0E]】/Hmmm!!! Who are you!?|Try anything funny and I'll arrest you on the spot!
+0658	【[0F]Gate Guard[0E]】/If you have no business here, leave!
+0659	【[0F]Prince Jimott[0E]】/Thank you for granting [0F]Father[0E]'s wish!|When I become king, will you grant my wish too?
+0660	【[0F]Prince Jimott[0E]】/[0F][03][0E], long time no see! Still carrying that rod around as always!|[0F]Father[0E] said there's something he wants to ask you, so please hear him out!
+0661	【[0F]Prince Jimott[0E]】/Hi, [0F][03][0E]! How are the other countries?|I wish I could travel to all sorts of places like you. I'm jealous.
+0662	【[0F]Prince Jimott[0E]】/The [0F]fake king[0E] nearly took over this country.|[0F][03][0E], you really saved us.
+0663	【[0F]Prince Jimott[0E]】/Grrrr!! That [0F]fake king[0E]'s face!|[0F][03][0E]! Please, save [0F]Father[0E]!!
+0664	【[0F]Prince Jimott[0E]】/[0F][03][0E]! Did you come to rescue me?|Can you open this, quick? The [10]key[0E] is in [10]Father's room[0E]! [10]Father's room[0E] is upstairs!
+0665	【[0F]Prince Jimott[0E]】/Hey! Do you know what happened to [0F]Father[0E]?|Is [0F]Father[0E] alive somewhere?
+0666	【[0F]King[0E]】/Please, I beg you... Won't you think it over?
+0667	【[0F]King[0E]】/What!? You've already completed the [10]Fishing Note[0E]?
+0668	【[0F]King[0E]】/Oh? [0F][03][0E], your bag seems to be full.|Make some room and come back. I'll be waiting, [0F][03][0E].
+0669	【[0F]King[0E]】/[0F][03][0E], I'm looking forward to seeing your [10]Fishing Note[0E] completed!
+0670	【[0F]King[0E]】/The [10]Royal Tackle[0E] is one of a kind in all the world!|Use it with care. I'm truly grateful, [0F][03][0E]!
+0671	【[0F]King[0E]】/Was the [10]Sun Stone[0E] useful? I'm glad.|Then I'll take it back now. [0F][03][0E], if you ever need advice, come visit anytime.
+0672	【[0F]King[0E]】/From my days as a fish, I remember a fish even more enormous than me!?
+0673	【[0F]King[0E]】/Oh, it's [0F][03][0E]. I'm waiting for more tasty fish.
+0674	【[0F]King[0E]】/[0F][03][0E], come visit us again anytime.
+0675	【[0F]King[0E]】/Oh, [0F][03][0E], welcome! Have you been well?|Actually, there's something I wanted to ask you.|I gave up fishing after what happened,|but I've been wondering how many fish there are in the world that I don't know.|And I've heard that you have a [10]Fishing Note[0E] that records all kinds of fish.|If you don't mind, when it's complete, would you show it to me?
+0676	【[0F]King[0E]】/Hmmm... Won't you think it over?|If you grant my wish, I'll give you all of the [10]Royal Tackle[0E], [0F][03][0E]!|It may be a long trip back here during your travels, but I'll be waiting eagerly!
+0677	【[0F]King[0E]】/Splendid! I knew you'd say so, [0F][03][0E]!|If you grant my wish, I'll give you all of the [10]Royal Tackle[0E], [0F][03][0E]!|It may be a long trip back here during your travels, but I'll be waiting eagerly!
+0678	【[0F]King[0E]】/Hmm, hmm, I see... That fish lives in a place like this...|Whew! What a surprise! There are so many lands and fish in the world I never knew!|I thought the fish I turned into was the biggest of all, but to think there are even bigger ones...|[0F][03][0E], thank you so much for granting my wish!|As your reward, I bestow upon you my collection, the [10]Royal Tackle[0E]!|Take it, don't be shy!
+0679	【[0F]King[0E]】/Ohhhhh!!!!! Y-you've finally completed it!?|Well done, [0F][03][0E]! You've granted my wish!!|Completing this must have been harder than I can even imagine!|As promised, [0F][03][0E], I give you my collection, the [10]Royal Tackle[0E]!!|Take it, don't be shy!
+0680	【[0F]King[0E]】/Oh! Welcome, [0F][03][0E].|I see you've made room in your bag.[09]|Then, as promised, I give you my collection, the [10]Royal Tackle[0E]!!|Take it, don't be shy!
+0681	【[0F]Fake King[0E]】/Grrr. Born with the same face, yet the [0F]King[0E] sits on a splendid throne|while I sit on a cold floor. The world is cruel.
+0682	【[0F]Fake King[0E]】/If I kill the [0F]King[0E]'s fish... heh heh heh.|I'll never have to fear that big fish again!
+0683	【[0F]King[0E]】/I hear you've been sneaking around and snooping.|Get too cocky and you'll be sorry. Heh heh heh.
+0684	【[0F]King[0E]】/[0F]Akira[0E] and the [0F]old butler[0E] had nothing to do, so I fired them.|And now they hold a grudge. What a nuisance.
+0685	【[0F]King[0E]】/Welcome to the [10]Oven Kingdom[0E].|Please spend lots and lots of money. Heh heh heh.
+0686	【[0F]Tattooist[0E]】/...Hmph... Still dressed that weird way, are you?
+0687	【[0F]Tattooist[0E]】/...Darn sacrilege. Copying it in paint like that...
+0688	【[0F]Tattooist[0E]】/...About the [0F]King[0E]'s tattoo... Nah, couldn't be...
+0689	【[0F]Tattooist[0E]】/...Haven't seen the [0F]Prince[0E] around... This country's going downhill...
+0690	【[0F]Tattooist[0E]】/...What a weird getup you've got on.|...Want to get a tattoo while you're here?
+0691	【[0F]Cook[0E]】/Ah, the [0F]King[0E] eats every bite every day. As a [0F]cook[0E], that feels great.
+0692	【[0F]Cook[0E]】/When I heard the [0F]King[0E] was a [10]fake[0E], it all made sense.|There's no way my cooking was that bad. No wonder it seemed strange.
+0693	【[0F]Cook[0E]】/It sounds noisy [10]outside the castle[0E]. Did something happen?
+0694	【[0F]Cook[0E]】/I feel like the [0F]King[0E]'s tastes have changed.|He makes all sorts of demands and leaves food almost every day. Maybe my cooking isn't good enough yet?
+0695	There aren't any fish in your creel!
+0696	You've caught some!
+0697	All the fish in your creel come to [04]G. Will you sell them all?
+0698	Which ones will you sell?
+0699	That's a shame!
+0700	【[0F]Shopkeeper[0E]】/The [0F]King[0E] said he's done fishing for good,|so I got lots of lure tackle from the [0F]King[0E]. Buy some if you like.
+0701	【[0F]Shopkeeper[0E]】/Welcome!
+0702	Thank you very much!
+0703	You can't talk to this one!
+0704	【[0F]Townsman[0E]】/Hey, I've been in a good mood lately. Peace really is the best!
+0705	【[0F]Townsman[0E]】/I wonder when the [0F]fake king[0E] will be executed.|Knowing the [0F]King[0E], he might just forgive him.
+0706	【[0F]Townsman[0E]】/Raising taxes and then offering prize money? Carrot and stick.|Does he think we're fools? Grumble, grumble.
+0707	【[0F]Townsman[0E]】/I've been calling on the people to rise up,|but nobody will go along. Everyone loves the [0F]King[0E].
+0708	【[0F]Townsman[0E]】/The [0F]King[0E] has been acting strange lately...|He seems different from before.|I'm sure there's some secret behind it...
+0709	【[0F]Townsman[0E]】/Want to hear a good tip?
+0710	【[0F]Townsman[0E]】/About the [0F]gate guard[0E] at the [10]castle[0E]'s back gate...|Under the right conditions, he'll let you into the [10]castle[0E]!|If you want to get [10]inside the castle[0E], try talking to that [0F]gate guard[0E].
+0711	【[0F]Townsman[0E]】/Oh, you don't want to hear it...
+0712	【[0F]Townsman[0E]】/The [0F]King[0E] has been acting strange lately...|He seems completely changed from before.|I'm sure there's some secret behind it...
+0713	【[0F]Townsman[0E]】/This is the Land of the Sun, the [10]Oven Kingdom[0E]! It's peaceful in the [10]Oven Kingdom[0E] today too!!
+0714	【[0F]Townsman[0E]】/The way you reeled in the [0F]King[0E] was quite something!|By the way, did you get your prize money?
+0715	【[0F]Townsman[0E]】/I may not look it, but I'm pretty good at fishing.|That prize money is mine!
+0716	【[0F]Townsman[0E]】/This is the Land of the Sun, the [10]Oven Kingdom[0E]! Everyone used to be so much cheerier!
+0717	【[0F]Townsman[0E]】/This is the Land of the Sun, the [10]Oven Kingdom[0E]!
+0718	【[0F]Townswoman[0E]】/The [0F]King[0E] gave back all the extra taxes he took!|The real [0F]King[0E] is a wonderful man after all!
+0719	【[0F]Townswoman[0E]】/That [0F]fake king[0E]! What did he do with our hard-earned taxes...!|He never did a single thing a [0F]King[0E] should do!
+0720	【[0F]Townswoman[0E]】/Boo hoo... My rod broke...|That fish ripped right through the line. I'll never be able to catch it!
+0721	【[0F]Townswoman[0E]】/The [10]castle[0E]'s [0F]gate guards[0E] said to report any suspicious kid with a fierce little animal.|But that can't be you two. You're so cute.
+0722	【[0F]Townswoman[0E]】/These days we have to pay the country so much money|that life is very hard...
+0723	【[0F]Townswoman[0E]】/We were such fools.|We never noticed the [0F]King[0E] was a fake, and just said the [0F]King[0E] had changed.
+0724	【[0F]Townswoman[0E]】/Oh, how awful. I almost reeled in the [0F]King[0E]!
+0725	【[0F]Townswoman[0E]】/With skinny arms like mine, I don't think I can catch a big fish...|but for the money, I'll give it a try!
+0726	【[0F]Townswoman[0E]】/The [0F]King[0E] always trusted [0F]Lady Akira[0E] most of all.|I wonder what happened.
+0727	【[0F]Townswoman[0E]】/This is the [10]Oven Kingdom's castle[0E].
+0728	【[0F]Townswoman[0E]】/Ever since the [0F]King[0E] changed, the [10]castle[0E] guard got really strict.|There were always [0F]gate guards[0E], but they used to let anyone [10]inside[0E]...
+0729	【[0F]Old Butler[0E]】/Oh, it's been a while. Is your journey going well?
+0730	【[0F]Old Butler[0E]】/Thanks to you, [0F]Akira[0E] and I were able to return to the [10]castle[0E].|Thank you very much.
+0731	【[0F]Old Butler[0E]】/Oh, you've rescued the [0F]Prince[0E]!|Now all that's left is to unmask that impostor.
+0732	【[0F]Old Butler[0E]】/The [0F]Prince[0E] must be in the [10]castle[0E]. I hope nothing has happened to him...
+0733	【[0F]Old Butler[0E]】/[0F]Akira[0E] has told me everything.|If there's anything I can do, just say the word.
+0734	【[0F]Old Butler[0E]】/If you'll save this country, I'll bow my head even to a boy.|That's all I can do.
+0735	【[0F]Old Butler[0E]】/...I can't trust anything... nothing...
+0736	【[0F]Bartender[0E]】/To fuel your trip home, try a Cartrose Platinum!
+0737	【[0F]Bartender[0E]】/For the energy to face tomorrow, try a Cartrose Black!
+0738	【[0F]Bartender[0E]】/The other day I saw [0F]Ms. Pumpt[0E] for the first time in ages.|I don't know what happened, but she looked really troubled.
+0739	【[0F]Bartender[0E]】/For dreams that never end and a reality that never stops, try a Cartrose Yellow!
+0740	【[0F]Bartender[0E]】/In a cold land, you warm up with soup or wine.|...Not that there's much on the menu now that nobody can catch fish.
+0741	【[0F]Child[0E]】/I hate class. Being a fish was better...
+0742	【[0F]Child[0E]】/Running around outside is more fun than swimming in the water!
+0743	【[0F]Child[0E]】/My [0F]little brother[0E] came back too! "Thank you, mister!"|That's what [0F]Mom[0E] said.
+0744	【[0F]Child[0E]】/I kind of wish I could've swum a little longer...
+0745	【[0F]Child[0E]】/Big brother, are you skipping class and going off somewhere again?
+0746	【[0F]Child[0E]】/Yay! Yay! Everyone's back!
+0747	【[0F]Child[0E]】/I wonder if anyone besides me got turned into a fish...
+0748	【[0F]Child[0E]】/Yay! Yay! Thanks for catching me!|It was sooo cold. I want some warm soup!
+0749	Hey, welcome!
+0750	Your creel's empty!
+0751	All the fish in your creel come to [04]G. Want to sell them all?
+0752	Pick the fish to sell!
+0753	Just looking...?
+0754	【[0F]Cook[0E]】/Fish, fish, fish... Oh, pardon me.|Hey, welcome!
+0755	【[0F]Child[0E]】/If we were all ricefish, it'd be a school of ricefish!
+0756	【[0F]Child[0E]】/What's wrong with [0F]Ms. Pumpt[0E]? She's back to normal, but she's holding her head.
+0757	【[0F]Child[0E]】/Hey, hey, I saw [0F]Ms. Pumpt[0E] in the [10]lake[0E]! Can she turn back too?
+0758	【[0F]Townsman[0E]】/Feels like normal life is finally coming back to this town.
+0759	【[0F]Townsman[0E]】/Women like [0F]Ms. Pumpt[0E] are nice, but my wife and kids are the best!
+0760	【[0F]Townsman[0E]】/Was it you who thawed the frozen [10]lake[0E]? Not bad!
+0761	【[0F]Townsman[0E]】/The [10]sauna[0E] stones couldn't melt the ice on the [10]lake[0E]...|If only we had a stone as hot as the sun...
+0762	【[0F]Townsman[0E]】/If only we had a stone as hot as the sun...
+0763	【[0F]Townsman[0E]】/This is the [10]sauna[0E]. But it's not ready yet.
+0764	【[0F]Shopkeeper[0E]】/The [10]Rope[0E] that was sold out is finally in stock!|Buy one if you like. So, what'll it be?
+0765	【[0F]Shopkeeper[0E]】/Welcome. Selling fish? The [10]lake[0E]'s frozen over, after all.|Sorry, but I go fishing myself, down at the [10]river[0E] below town. It never freezes, even in winter.|But nobody else goes all the way down there to fish. Try the [10]hotel[0E]. They'll be glad to buy.|Oh, that's right! To get to the [10]river[0E] below town, you need a [10]Rope[0E].|It's sold out now, but more will come in soon, so come buy one if you like.
+0766	【[0F]Townswoman[0E]】/This is the Land of Ice, [10]Cold Park[0E]. It's cold, but everyone's warm at heart.
+0767	【[0F]Townswoman[0E]】/My child came home!! But she says strange things.|When I ask where she was, she says she was a fish swimming in the [10]lake[0E]. Was this the spirit's doing too...?
+0768	【[0F]Townswoman[0E]】/It's been so long since my child went missing...|Everyone says it's the spirit's doing, but [0F]Ms. Pumpt[0E] is with them, so I'm a little relieved.|She may not care about her house or how she looks, but she takes children seriously.
+0769	【[0F]Townswoman[0E]】/This is the Land of Ice, [10]Cold Park[0E].
+0770	【[0F]Townswoman[0E]】/You spirit! Where did you take my child? Give her back!
+0771	【[0F]Townswoman[0E]】/Those kids had such a scary time just recently,|and already they're running around outside. Just seeing them like that|is such a relief to me.
+0772	【[0F]Townswoman[0E]】/Was it you who saved these children?|Without them, I couldn't have gone on living! Thank you so very much!
+0773	【[0F]Townswoman[0E]】/One of my kids came home! I'm so glad he's safe!!|But he has a little brother too. I hope he comes home safe as well...
+0774	【[0F]Townswoman[0E]】/My kids went to [10]school[0E] and never came back.|It must be the spirit's doing. Without them, I can't go on living.
+0775	【[0F]Dorch[0E]】/I never really liked studying anyway.|So for me, I basically come to [0F]school[0E] to see my friends.
+0776	【[0F]Dorch[0E]】/You're safe!|Everyone got in touch. They said you saved them,|and asked me to tell you to please visit their homes when you come by.
+0777	【[0F]Dorch[0E]】/Everyone's grateful to you. So go and see them.
+0778	【[0F]Dorch[0E]】/Hey, hey, my friends came back! I guess it wasn't the spirit after all...
+0779	【[0F]Dorch[0E]】/The day winter came to this town, my front door froze shut and I missed [10]school[0E].|I'm glad I was spared, but fate is scary, isn't it?
+0780	【[0F]Dorch[0E]】/My friends and [0F]Ms. Pumpt[0E] are all gone. It's like I'm the only one left...
+0781	【[0F]Dorch[0E]】/In winter, [0F]Toma[0E] lives at the [10]hotel[0E] in this town.
+0782	You have [04]G./It's 150G a night. Will you stay?
+0783	You don't seem to have enough money.|Thank you very much.
+0784	I see.|Then we look forward to your next visit.
+0785	【[0F]Hotel Clerk[0E]】/Please, sell some fish to our [0F]cook[0E].|Now then, welcome. You have [04]G. It's 150G a night. Will you stay?
+0786	【[0F]Ms. Pumpt[0E]】/Huh? I'm one student short! Don't tell me they've turned into a fish again!?
+0787	【[0F]Ms. Pumpt[0E]】/What am I supposed to make of something so unscientific?|Just thinking about it gives me a headache...
+0788	【[0F]Toma[0E]】/Anything you want to ask?
+0789	【[0F]Toma[0E]】/I'm really sorry I kept quiet. I didn't mean any harm...
+0790	【[0F]Toma[0E]】/Hey, long time no see! Have you met my brothers and sister?
+0791	【[0F]Toma[0E]】/Where are [10]Carp[0E]? Hmm, let's see...|...Never heard of them. I don't think there are any in this town...|Sorry I'm no help... But ask my siblings. I bet [0F]my big brothers and sister[0E] know.
+0792	【[0F]Toma[0E]】/The kids who were fish are back at [10]school[0E] and doing fine.|[0F][03][0E], you brought everyday life back to this town. Thanks! I'm really grateful!
+0793	【[0F]Toma[0E]】/One of my siblings should be in the next town too. [0F][03][0E], please help them!
+0794	【[0F]Toma[0E]】/I heard the ice on the [10]lake[0E] is gone. That was you, wasn't it, [0F][03][0E]?|Anyway, now we can save the people who were turned into fish!
+0795	=About the townspeople
+0796	【[0F]Toma[0E]】/Four people were turned into fish in all: [0F]Ms. Pumpt[0E] and three children.|All four of them must be in that frozen [10]lake[0E].
+0797	【[0F]Toma[0E]】/Anyway, now we can save the people who were turned into fish!|I'm counting on you, [0F][03][0E]!
+0798	【[0F]Toma[0E]】/Four people were turned into fish in all: [0F]Ms. Pumpt[0E] and [0F]three children[0E].|All four of them must be in that frozen [10]lake[0E].
+0799	【[0F]Toma[0E]】/If only there were some way to break the ice on the [10]lake[0E]...
+0800	【[0F]Toma[0E]】/Fish in [10]Cold Park[0E] bite well on the [10]Jig Spinner[0E].|The catch is that it breaks easily.|Of course, other lures and bait work too. How you fish is up to you, [0F][03][0E].
+0801	【[0F]Angus[0E]】/Ohh... I thought I'd never see [0F]Keto[0E] again...
+0802	【[0F]Angus[0E]】/I'm not ready yet. Kill some time till then.|Why not go to the [10]Fishermen's Village[0E] and find out who's gone missing?
+0803	【[0F]Angus[0E]】/You again? That business the other day has nothing to do with me.
+0804	【[0F]Angus[0E]】/What is it?
+0805	=Change spots
+0806	=Back to the village
+0807	=Never mind
+0808	【[0F]Angus[0E]】/All right, got it!
+0809	【[0F]Angus[0E]】/Okay. Whenever you want to go back to the village, just say so.
+0810	【[0F]Angus[0E]】/Going to the lake?
+0811	【[0F]Angus[0E]】/Okay. Whenever you want to go to the lake, just say so.
+0812	【[0F]Farmer[0E]】/Another nice day today! Work is fun!
+0813	【[0F]Farmer[0E]】/What? The wedding's been called off? ...I've got mixed feelings.
+0814	【[0F]Farmer[0E]】/You saved the fishermen? Not all of them yet?|...Then you shouldn't be hanging around here. I'll tell [0F]Granny[0E], so hurry back.
+0815	【[0F]Farmer[0E]】/Yeah, I heard. Well, we can't just leave them be,|so I guess it can't be helped. A wife coming here is welcome, but then the food gets cut in half...
+0816	【[0F]Farmer[0E]】/We used to trade half our harvest for fish from the next village,|but now the fishermen haven't come back...
+0817	【[0F]Farmer[0E]】/!? ...[0F]Granny[0E] told you about me?|I see... Then there's no use hiding it.|It's true, [0F]Angus[0E] and I were best friends. But when [0F]Angus[0E]'s wife passed away, I went to comfort him,|and we ended up in a fight. You know how [0F]Angus[0E] is...|We just couldn't make up, and it's been bothering me.
+0818	【[0F]Farmer[0E]】/...All right.|If you catch me a [10]Bighead Carp[0E],|I'll try talking [0F]Angus[0E] around one more time.
+0819	【[0F]Farmer[0E]】/Hey! Did you bring me a fish!?
+0820	【[0F]Farmer[0E]】/Oh!? You caught it easier than I thought...|Sorry, but could you catch me a [10]Black Carp[0E] too?|Catch me a [10]Black Carp[0E] and I'll talk [0F]Angus[0E] around!
+0821	【[0F]Farmer[0E]】/Hey, hey. This isn't a [10]Bighead Carp[0E], is it?|...Well, since you went to the trouble, I'll take this one.[09]|This time, bring me a [10]Bighead Carp[0E]!
+0822	【[0F]Farmer[0E]】/Well, I guess they're not that easy to catch.|Hurry up and catch me a [10]Bighead Carp[0E].
+0823	【[0F]Farmer[0E]】/Oh, this is it, this is it![09]|Right, a deal's a deal! I'll talk [0F]Angus[0E] around!
+0824	【[0F]Farmer[0E]】/Hey, hey. This isn't a [10]Black Carp[0E], is it?|...Well, since you went to the trouble, I'll take this one.[09]|Next time, bring me a [10]Black Carp[0E]!
+0825	【[0F]Farmer[0E]】/Well, I guess they're not that easy to catch.|Hurry up and catch me a [10]Black Carp[0E].
+0826	【[0F]Farmer[0E]】/Hey! Like I promised, I had a talk with [0F]Angus[0E].
+0827	【[0F]Farmer[0E]】/Hey, hey... You don't even have a fish...|Hurry up and catch one.
+0828	【[0F]Farmer[0E]】/When I go to the [10]Fishermen's Village[0E], everyone's talking about you.|What a big deal...
+0829	【[0F]Farmer[0E]】/Oh, so all the men were saved?|Well, well, good for them.
+0830	【[0F]Farmer[0E]】/Huh, you're saving the men right now? I can't help. I'm scared of water.
+0831	【[0F]Farmer[0E]】/I hear the women from the next village are coming here. We'll have to work twice as hard.
+0832	【[0F]Farmer[0E]】/Over in the other village, they say the fishermen who went out never came back.|One of them is a young man named [0F]Keto[0E]. Actually, he's [0F]Angus[0E]'s son.|[0F]Angus[0E] lost his wife, and now even his son...
+0833	【[0F]Farmer[0E]】/Hey, there's a [10]Shaman[0E] in this village. Did you know?
+0834	【[0F]Farmer's Wife[0E]】/But it's scary, isn't it? If my husband suddenly disappeared...|I don't know what I'd do.
+0835	【[0F]Farmer's Wife[0E]】/Thank goodness. Then we can eat tasty fish just like before.
+0836	【[0F]Farmer's Wife[0E]】/I hear women from the next village are coming to ours.|Don't worry, I'll get along with them.
+0837	【[0F]Farmer's Wife[0E]】/Hey, did you know?
+0838	【[0F]Farmer's Wife[0E]】/Right, of course you know!
+0839	【[0F]Farmer's Wife[0E]】/[0F]Granny[0E] is the mother of [0F]Angus[0E]'s late wife.
+0840	【[0F]Farmer's Wife[0E]】/I've never worked a day in my life. Farm work hurts my back.
+0841	【[0F]Farmer's Wife[0E]】/Oh! [0F]Granny[0E] often talks about you. She says your tale should be passed down.
+0842	【[0F]Farmer's Wife[0E]】/You're leaving this village? You should just stay and become a fisherman.
+0843	【[0F]Farmer's Wife[0E]】/Say, I hear things were rough in the [10]Fishermen's Village[0E].|I wish there were something we could do.
+0844	【[0F]Farmer's Wife[0E]】/Like I always say, when you're tired, you can sleep here.
+0845	【[0F]Farmer's Wife[0E]】/[0F]Angus[0E] won't listen to you?|Then go talk to [0F]Granny[0E] in the [10]Farmers' Village[0E].
+0846	【[0F]Farmer's Wife[0E]】/Oh, you're from another village? When you're tired, you can sleep here.
+0847	【[0F]Fisherman[0E]】/Well, if it ain't the kiddo! How're ya doin'?
+0848	【[0F]Fisherman[0E]】/Being apart from [0F]the missus[0E] sure was lonely!

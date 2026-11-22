@@ -1,0 +1,92 @@
+# Spot sign text, English. One block per spot: "## N Name", then 5 lines (one per bullet line of the Japanese).
+# Each line wraps at 21 columns onto at most 2 rows. Line 5 has no bullet, so it reads as part of line 4.
+## 1 Char (Iwana)
+Lives in cold, high mountain streams.
+Grows to 30-80cm.
+Use an insect-like fly, sunk underwater.
+Bob the fly up and down to draw it in.
+It comes closest as the fly is lowered.
+## 2 Masu Trout
+Lives in streams just downstream of char.
+Grows to 30-50cm.
+Float an insect-like fly on the surface.
+While the fly drifts in the current,
+a masu trout will rise and snap at it.
+## 3 Rainbow Trout
+Lives in cold, clear streams.
+Grows to 40-60cm.
+Sink the fly and let it drift.
+Lift the fly up near the surface, and
+the trout will eagerly give chase.
+## 4 White Crucian
+Lives in mountain lakes and the like.
+Grows to 40-60cm.
+Use paste bait; wait at the right depth.
+Wait until the bait has worn small,
+and it will bite. Strike quickly!
+## 5 Black Bass
+Lives in lakes and the like.
+Grows to about 50cm.
+Tempt it with a fish-shaped lure.
+The lure sinks, so reel it up, then
+let it sink again to lure the bass.
+## 6 Dace
+Lives all along the river, top to bottom.
+Grows to 30-40cm.
+Drift a maggot under a ball float.
+Bob the bait gently just off the bottom
+and the dace will come close.
+## 7 Pale Chub
+Lives where the river flows gently.
+Grows to about 13cm.
+Drift a maggot under a ball float.
+Bob the bait a little up off the bottom
+and a pale chub will swim up.
+## 8 Crucian Carp
+Lives where the river flows gently.
+Grows to about 30cm.
+Float-fish with a red worm.
+Lift the bait and the carp will follow,
+but lift it too far and it swims off.
+## 9 Catfish
+Lives on muddy beds of slow rivers.
+Grows to 30-60cm.
+Tempt it with a noisy lure.
+When a catfish shows up, pull the lure
+from the bottom to the top in one go!
+## 10 Carp
+Lives on muddy beds of slow rivers.
+Grows to 50-60cm.
+Cast out a worm and let it settle.
+Lift the bait; once it sinks to the
+right depth, the carp swims up to eat.
+## 11 River Prawn
+Lives where the water flows gently.
+Grows to 12-13cm.
+Bait a red worm; sinker on the bottom.
+Lift the bait and let it sink. Repeat,
+and the prawn will pounce on the bait.
+## 12 Eel
+Lives on sandy or muddy bottoms.
+Grows to 40-90cm.
+Cast out a worm and let it settle.
+Lift the bait; once it sinks to the
+right spot, the eel comes to eat it.
+## 13 Bitterling
+Lives in ponds and the like.
+Grows to 7-10cm.
+Float-fish with a bloodworm.
+It pecks at the bait again and again;
+strike only when it takes it in!
+## 14 Stone Moroko
+Lives on the muddy bottoms of ponds.
+Grows to about 10cm.
+Float-fish with a bloodworm.
+It darts about in front of the bait,
+but sooner or later it will eat it.
+## 15 River King
+Lives in lowland marshes and the like.
+Grows to about 90cm.
+Tempt it with a floating lure.
+Once it has come right up to the lure,
+wait for it to rise near the surface.

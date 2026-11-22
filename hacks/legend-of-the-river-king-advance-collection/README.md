@@ -25,15 +25,25 @@ Version 1.0.
 Known issues:
 - None known. Game 4 has rumble-setting graphics (しんどう ON/OFF) that never appear on screen and are left alone.
 
+## Build on this
+- [src/BUILD.md](src/BUILD.md): how to rebuild the patch from your own copy of the game. The build was verified byte for byte against the published patches.
+- [docs/ENGINE_NOTES.md](docs/ENGINE_NOTES.md): how the game stores its text, fonts and graphics, with addresses and hooks.
+- `src/script/` (`kawa3.tsv`, `kawa4.tsv`): the whole script, Japanese next to English, one row per string.
+- [DEVLOG.md](DEVLOG.md): how the patch was made, what was tested, and what went wrong along the way.
+
 ## About AI use
 This project was made with substantial help from Claude (Anthropic). Claude did the reverse engineering, all of the ROM-hacking code (a variable-width font hook, rebuilt menu tile streams, the title sprite engine change, graphics replacement), and the whole translation.
 
 The human tester directed the project, chose the names and English titles, playtested the builds in emulators and reported bugs with screenshots, and drew the three title logos.
 
+## License
+Code, tools and docs made for this project: MIT. Translation text and new art: CC BY 4.0. Extracted game material (the Japanese script dumps, tables and graphics in `src/`) remains the property of its rights holders and is included for research and modding.
+
 ## Credits
 - Testing, direction and logo art: the project's tester
 - Translation and hacking: Claude (Anthropic)
 - Original game: *Kawa no Nushi Tsuri 3 & 4* © 2003 Marvelous Interactive. This is an unofficial fan translation. Please distribute the patch, not patched ROMs.
+- Tools: Unicorn, Keystone and Capstone (CPU emulation, assembly, disassembly); xdelta3
 
 ## Changelog
 - **1.0:** Script pass over both games, matched item names, Max HP, page breaks at sentence ends.

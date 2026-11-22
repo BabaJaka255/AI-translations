@@ -1,0 +1,249 @@
+id	location	japanese	english	limit	notes
+86:838A	ROM 03038A	ゴカイ・カット	Ragworm, cut	18 letters	
+86:8392	ROM 030392	ゴカイ	Ragworm	18 letters	
+86:8396	ROM 030396	ゴカイ房掛け	Ragworm Bunch	18 letters	
+86:839F	ROM 03039F	アオイソメ・カット	Sandworm, cut	18 letters	
+86:83A9	ROM 0303A9	アオイソメ	Sandworm	18 letters	
+86:83AF	ROM 0303AF	アオイソメ房掛け	Sandworm Bunch	18 letters	
+86:83BA	ROM 0303BA	イワイソメ・カット	Rockworm, cut	18 letters	
+86:83C4	ROM 0303C4	イワイソメ	Rockworm	18 letters	
+86:83CA	ROM 0303CA	イワイソメ房掛け	Rockworm Bunch	18 letters	
+86:83D5	ROM 0303D5	ジャリメ・カット	Pileworm, cut	18 letters	
+86:83DE	ROM 0303DE	ジャリメ	Pileworm	18 letters	
+86:83E3	ROM 0303E3	ジャリメ房掛け	Pileworm Bunch	18 letters	
+86:83ED	ROM 0303ED	フクロイソメ・カット	Lugworm, cut	18 letters	
+86:83F8	ROM 0303F8	フクロイソメ	Lugworm	18 letters	
+86:83FF	ROM 0303FF	フクロイソメ房掛け	Lugworm Bunch	18 letters	
+86:840B	ROM 03040B	エラコ・カット	Tubeworm, cut	18 letters	
+86:8413	ROM 030413	エラコ	Tubeworm	18 letters	
+86:8417	ROM 030417	エラコ房掛け	Tubeworm Bunch	18 letters	
+86:8420	ROM 030420	イガイ	Mussel	18 letters	
+86:8424	ROM 030424	イガイ・ムキ身	Mussel Meat	18 letters	
+86:842D	ROM 03042D	サザエ	Turban Shell	18 letters	
+86:8431	ROM 030431	アサリ	Clam	18 letters	
+86:8435	ROM 030435	クロアワビ	Abalone	18 letters	
+86:843B	ROM 03043B	トコブシ	Small Abalone	18 letters	
+86:8440	ROM 030440	ネリエサ	Paste Bait	18 letters	
+86:8445	ROM 030445	人工ワーム・カット	Fake Worm, cut	18 letters	
+86:8451	ROM 030451	人工ワーム	Fake Worm	18 letters	
+86:8459	ROM 030459	人工ワーム房掛け	Fake Worm Bunch	18 letters	
+86:8466	ROM 030466	モエビ	Grass Shrimp	18 letters	
+86:846A	ROM 03046A	ザリガニ	Crayfish	18 letters	
+86:846F	ROM 03046F	オキアミ	Krill	18 letters	
+86:8474	ROM 030474	オキアミ2尾掛け	Krill, double	18 letters	
+86:847F	ROM 03047F	大粒アカアミ	Big Red Krill	18 letters	
+86:8488	ROM 030488	大粒アカアミ房掛け	Red Krill Bunch	18 letters	
+86:8496	ROM 030496	サイマキ	Prawn	18 letters	
+86:849B	ROM 03049B	サイマキ尾掛け	Prawn, tail	18 letters	
+86:84A5	ROM 0304A5	イセエビ	Spiny Lobster	18 letters	
+86:84AA	ROM 0304AA	豆ガニ	Pea Crab	18 letters	
+86:84AF	ROM 0304AF	タンクガニ	Tiny Crab	18 letters	
+86:84B5	ROM 0304B5	カニのツメ	Crab Claw	18 letters	
+86:84BB	ROM 0304BB	イソガニ	Shore Crab	18 letters	
+86:84C0	ROM 0304C0	シャコ	Mantis Shrimp	18 letters	
+86:84C4	ROM 0304C4	フナムシ	Sea Slater	18 letters	
+86:84C9	ROM 0304C9	青ノリ	Green Laver	18 letters	
+86:84CE	ROM 0304CE	ハバノリ	Habanori	18 letters	
+86:84D3	ROM 0304D3	ホンダワラ	Sargassum	18 letters	
+86:84D9	ROM 0304D9	イワシ	Sardine	18 letters	
+86:84DD	ROM 0304DD	イワシの切り身	Sardine Strip	18 letters	
+86:84E7	ROM 0304E7	アジ	Scad	18 letters	
+86:84EA	ROM 0304EA	アジの切り身	Scad Strip	18 letters	
+86:84F3	ROM 0304F3	ムロアジ	Round Scad	18 letters	
+86:84F8	ROM 0304F8	ムロアジの切り身	Round Scad Strip	18 letters	
+86:8503	ROM 030503	タカベ	Butterfish	18 letters	
+86:8507	ROM 030507	タカベの切り身	Butterfish Strip	18 letters	
+86:8511	ROM 030511	イカ	Squid	18 letters	
+86:8514	ROM 030514	イカの切り身	Squid Strip	18 letters	
+86:851D	ROM 03051D	サバ	Mackerel	18 letters	
+86:8520	ROM 030520	サバの切り身	Mackerel Strip	18 letters	
+86:8529	ROM 030529	サナギ	Silkworm Pupa	18 letters	
+86:852D	ROM 03052D	ウニ	Sea Urchin	18 letters	
+86:8530	ROM 030530	ヤドカリ	Hermit Crab	18 letters	
+86:8535	ROM 030535	スイカ	Watermelon	18 letters	
+86:86CE	ROM 0306CE	チヌ	Porgy Hook	18 letters	
+86:86D1	ROM 0306D1	メバル	Rockfish Hook	18 letters	
+86:86D5	ROM 0306D5	グレ	Opaleye Hook	18 letters	
+86:86D8	ROM 0306D8	イシダイ	Beakfish Hook	18 letters	
+86:86DD	ROM 0306DD	伊勢尼	Iseama Hook	18 letters	
+86:86E4	ROM 0306E4	袖	Sode Hook	18 letters	
+86:86E7	ROM 0306E7	カレイ	Flounder Hook	18 letters	
+86:86EB	ROM 0306EB	ハゼ	Goby Hook	18 letters	
+86:86EE	ROM 0306EE	キス	Whiting Hook	18 letters	
+86:86F1	ROM 0306F1	流線	Ryusen Hook	18 letters	
+86:86F6	ROM 0306F6	スズキ	Sea Bass Hook	18 letters	
+86:86FA	ROM 0306FA	カイズ	Kaizu Hook	18 letters	
+86:86FE	ROM 0306FE	ムツ	Mutsu Hook	18 letters	
+86:8701	ROM 030701	丸セイゴ	Seigo Hook	18 letters	
+86:8707	ROM 030707	胴突き深海	Deep Dropper	18 letters	
+86:8711	ROM 030711	マダイ	Sea Bream Hook	18 letters	
+86:8715	ROM 030715	サヨリ	Halfbeak Hook	18 letters	
+86:8719	ROM 030719	海タナゴ	Surfperch Hook	18 letters	
+86:871F	ROM 03071F	ムロアジ	Scad Hook	18 letters	
+86:8724	ROM 030724	大型ムツ	Big Mutsu Hook	18 letters	
+86:872B	ROM 03072B	クエ	Grouper Hook	18 letters	
+86:872E	ROM 03072E	ブラクリ型	Burakuri Rig	18 letters	
+86:8735	ROM 030735	タコ掛カニ付き	Crab Octo Rig	18 letters	
+86:873F	ROM 03073F	2本バリ	Twin Hook	18 letters	
+86:8745	ROM 030745	松葉テンビン	Spreader Rig	18 letters	
+86:874E	ROM 03074E	胴つき仕掛け	Dropper Rig	18 letters	
+86:8758	ROM 030758	イカ仕掛け・串角	Squid Jig Rig	18 letters	
+86:8765	ROM 030765	イカ仕掛け・スッテ	Squid Sutte Rig	18 letters	
+86:8771	ROM 030771	胴つき仕掛け	Dropper Rig	18 letters	
+86:877B	ROM 03077B	サビキ仕掛け	Sabiki Rig	18 letters	
+86:8784	ROM 030784	4本バリ	4-hook Rig	18 letters	
+86:88C2	ROM 0308C2	ミノー・フローティング	Floating Minnow	18 letters	
+86:88CE	ROM 0308CE	ミノー・シンキング	Sinking Minnow	18 letters	
+86:88D8	ROM 0308D8	ミノー・フローティング	Floating Minnow	18 letters	
+86:88E4	ROM 0308E4	ミノー・フローティング	Floating Minnow	18 letters	
+86:88F0	ROM 0308F0	ミノー・シンキング	Sinking Minnow	18 letters	
+86:88FA	ROM 0308FA	ミノー・シンキング	Sinking Minnow	18 letters	
+86:8904	ROM 030904	ミノー・フローティング	Floating Minnow	18 letters	
+86:8910	ROM 030910	ミノー・シンキング	Sinking Minnow	18 letters	
+86:891A	ROM 03091A	ミノー・フローティング	Floating Minnow	18 letters	
+86:8926	ROM 030926	ミノー・フローティング	Floating Minnow	18 letters	
+86:8932	ROM 030932	ミノー・フローティング	Floating Minnow	18 letters	
+86:893E	ROM 03093E	ジグ	Jig	18 letters	
+86:8941	ROM 030941	ジグ	Jig	18 letters	
+86:8944	ROM 030944	ワーム	Worm	18 letters	
+86:8948	ROM 030948	餌木	Egi Squid Jig	18 letters	
+86:894D	ROM 03094D	カグラ・イナダ	Kagura Yellowtail	18 letters	
+86:8955	ROM 030955	カグラ・カツオ	Kagura Bonito	18 letters	
+86:895D	ROM 03095D	カグラ・メジ	Kagura Tuna	18 letters	
+86:8964	ROM 030964	カグラ・シイラ	Kagura Mahi	18 letters	
+86:896C	ROM 03096C	カグラ・サワラ	Kagura Mackerel	18 letters	
+86:8974	ROM 030974	カグラ・マカジキ	Kagura Striped	18 letters	
+86:897D	ROM 03097D	カグラ・クロカジキ	Kagura Marlin	18 letters	
+86:8987	ROM 030987	ツノバリ	Tsuno Jig	18 letters	
+86:898C	ROM 03098C	イカ	Squid	18 letters	
+86:898F	ROM 03098F	トビウオ	Flying Fish	18 letters	
+86:8ACE	ROM 030ACE	小物ザオ5m	Light Rod 5m	18 letters	
+86:8AD7	ROM 030AD7	磯ザオ1号5.3m	Reef Rod #1 5.3m	18 letters	
+86:8AE3	ROM 030AE3	磯ザオ3号5.3m	Reef Rod #3 5.3m	18 letters	
+86:8AEF	ROM 030AEF	磯ザオ5号5.3m	Reef Rod #5 5.3m	18 letters	
+86:8AFB	ROM 030AFB	イシダイザオ5.2m	Beakfish Rod 5.2m	18 letters	
+86:8B06	ROM 030B06	モロコザオ5m	Grouper Rod 5m	18 letters	
+86:8B0E	ROM 030B0E	落とし込みザオ3m	Drop Rod 3m	18 letters	
+86:8B1A	ROM 030B1A	前打ちザオ5m	Wall Rod 5m	18 letters	
+86:8B24	ROM 030B24	船先調子2.5m	Boat Fast 2.5m	18 letters	
+86:8B31	ROM 030B31	船中小物用2.5m	Boat Light 2.5m	18 letters	
+86:8B40	ROM 030B40	船中型リール2.5m	Boat Reel 2.5m	18 letters	
+86:8B4E	ROM 030B4E	船電動リール2.5m	Boat E-reel 2.5m	18 letters	
+86:8B5C	ROM 030B5C	船大物用2.7m	Boat Big 2.7m	18 letters	
+86:8B69	ROM 030B69	船深海用2.3m	Boat Deep 2.3m	18 letters	
+86:8B76	ROM 030B76	船泳がせ2.4m	Boat Live 2.4m	18 letters	
+86:8B81	ROM 030B81	船コマセ釣り用3.6m	Boat Chum 3.6m	18 letters	
+86:8B90	ROM 030B90	船イカ釣り用2.4m	Boat Squid 2.4m	18 letters	
+86:8B9E	ROM 030B9E	投げザオ4m	Surf Rod 4m	18 letters	
+86:8BA6	ROM 030BA6	ルアーロッド8フィート	Lure Rod 8ft	18 letters	
+86:8BB2	ROM 030BB2	ルアーロッド10フィート	Lure Rod 10ft	18 letters	
+86:8BBF	ROM 030BBF	ルアーロッド14フィート	Lure Rod 14ft	18 letters	
+86:8BCC	ROM 030BCC	軽量級30ポンド	Light 30lb	18 letters	
+86:8BD8	ROM 030BD8	中量級50ポンド	Medium 50lb	18 letters	
+86:8BE4	ROM 030BE4	重量級80ポンド	Heavy 80lb	18 letters	
+86:8BF0	ROM 030BF0	超重量級130ポンド	X-heavy 130lb	18 letters	
+86:8C61	ROM 030C61	ジュース	Juice	18 letters	
+86:8C66	ROM 030C66	ミカン	Mandarin	18 letters	
+86:8C6A	ROM 030C6A	牛乳	Milk	18 letters	
+86:8C6F	ROM 030C6F	パン	Bread	18 letters	
+86:8C72	ROM 030C72	おむすび	Rice Ball	18 letters	
+86:8C77	ROM 030C77	日の丸弁当	Plum Bento	18 letters	
+86:8C81	ROM 030C81	シャケ弁当	Salmon Bento	18 letters	
+86:8C89	ROM 030C89	きのこ	Mushroom	18 letters	
+86:8C8D	ROM 030C8D	トコブシ	Small Abalone	18 letters	
+86:8C92	ROM 030C92	サザエ	Turban Shell	18 letters	
+86:8C96	ROM 030C96	水筒	Canteen	18 letters	
+86:8C9B	ROM 030C9B	空の水筒	Empty Canteen	18 letters	
+86:8D4B	ROM 030D4B	カヌー	Canoe	18 letters	
+86:8D4F	ROM 030D4F	虫メガネ	Magnifier	18 letters	
+86:8D55	ROM 030D55	釣りノート	Fishing Note	18 letters	
+86:8D5C	ROM 030D5C	届いた絵はがき	Postcard	18 letters	
+86:8D66	ROM 030D66	コマセ、一杯	Chum, full	18 letters	
+86:8D6F	ROM 030D6F	コマセ、半分	Chum, half	18 letters	
+86:8D78	ROM 030D78	コマセ、少し	Chum, low	18 letters	
+86:8D80	ROM 030D80	磯アミ容量10	Keep Net (10)	18 letters	
+86:8D8B	ROM 030D8B	クーラー容量20	Cooler (20)	18 letters	
+86:8D96	ROM 030D96	大型クーラー容量40	Big Cooler (40)	18 letters	
+86:8DA5	ROM 030DA5	磁石	Compass	18 letters	
+86:8DAA	ROM 030DAA	ステレオ	Stereo	18 letters	
+86:8DAF	ROM 030DAF	モノラル	Mono	18 letters	
+86:8DB4	ROM 030DB4	カギ	Key	18 letters	
+86:8DB7	ROM 030DB7	救命胴衣	Life Jacket	18 letters	
+86:8DC0	ROM 030DC0	磯タビ	Reef Boots	18 letters	
+86:8DC5	ROM 030DC5	デッキブーツ	Deck Boots	18 letters	
+86:8DCC	ROM 030DCC	皮手袋	Leather Gloves	18 letters	
+86:8DD3	ROM 030DD3	サングラス	Sunglasses	18 letters	
+86:8DD9	ROM 030DD9	ヘッドライト	Headlamp	18 letters	
+86:8DE0	ROM 030DE0	タモ	Landing Net	18 letters	
+86:8DE3	ROM 030DE3	ギャフ	Gaff	18 letters	
+86:8DE7	ROM 030DE7	釣り新聞	Fishing Paper	18 letters	
+86:8DEF	ROM 030DEF	海賊の地図	Pirate Map	18 letters	
+86:8DF9	ROM 030DF9	クジラのヒゲ	Whale Baleen	18 letters	
+86:8E00	ROM 030E00	イベント3	Event 3	18 letters	
+86:8E06	ROM 030E06	イベント4	Event 4	18 letters	
+86:8E0C	ROM 030E0C	イベント5	Event 5	18 letters	
+86:8F3E	ROM 030F3E	玉ウキ	Ball Float	18 letters	
+86:8F43	ROM 030F43	棒ウキ	Stick Float	18 letters	
+86:8F48	ROM 030F48	トウガラシウキ	Chili Float	18 letters	
+86:8F50	ROM 030F50	立ちウキ	Standing Float	18 letters	
+86:8F56	ROM 030F56	環付き立ウキ	Eyed Float	18 letters	
+86:8F60	ROM 030F60	ブダイウキ	Parrot Float	18 letters	
+86:8F66	ROM 030F66	円錐ウキ	Cone Float	18 letters	
+86:8F6D	ROM 030F6D	発泡円錐ウキ	Foam Cone Float	18 letters	
+86:8F78	ROM 030F78	水中円錐ウキ	Sunk Cone Float	18 letters	
+86:8F83	ROM 030F83	電気ウキ	Lighted Float	18 letters	
+86:8F8A	ROM 030F8A	ケミホタル用発泡ウキ	Glow Float	18 letters	
+86:8F98	ROM 030F98	飛ばしウキ	Casting Float	18 letters	
+86:8F9F	ROM 030F9F	シモリウキ	Shimori Float	18 letters	
+86:8FA5	ROM 030FA5	カミツブシ	Split Shot	18 letters	
+86:8FAB	ROM 030FAB	ナス型小	Egg Sinker S	18 letters	
+86:8FB2	ROM 030FB2	スパイクテンビン	Spike Arm	18 letters	
+86:8FBB	ROM 030FBB	ジェットテンビン	Jet Arm	18 letters	
+86:8FC4	ROM 030FC4	小田原型	Odawara Sinker	18 letters	
+86:8FCD	ROM 030FCD	ナツメ型	Date Sinker	18 letters	
+86:8FD3	ROM 030FD3	ナス型大	Egg Sinker L	18 letters	
+86:8FDA	ROM 030FDA	テンビンオモリ	Arm Sinker	18 letters	
+86:8FE2	ROM 030FE2	胴突き型+片テンビン	Dropper + Arm	18 letters	
+86:8FF1	ROM 030FF1	アミカゴ	Mesh Cage	18 letters	
+86:8FF6	ROM 030FF6	反転カゴ	Flip Cage	18 letters	
+86:8FFD	ROM 030FFD	金網カゴ	Wire Cage	18 letters	
+86:9004	ROM 031004	プラスチックカゴ	Plastic Cage	18 letters	
+86:900D	ROM 03100D	金網ビシ	Wire Feeder	18 letters	
+86:9014	ROM 031014	プラスチックビシ	Plastic Feeder	18 letters	
+86:901D	ROM 03101D	ステンレス缶	Steel Can	18 letters	
+86:9025	ROM 031025	ケミホタル	Glowstick	18 letters	
+86:9A6C	ROM 031A6C	フナムシ	Sea Slater	18 letters	
+86:9A71	ROM 031A71	ヒライソガニ	Flat Crab	18 letters	
+86:9A78	ROM 031A78	カラス	Crow	18 letters	
+86:9A7C	ROM 031A7C	カモメ	Gull	18 letters	
+86:9A80	ROM 031A80	ミケネコ	Calico Cat	18 letters	
+86:9A85	ROM 031A85	ヒトデ	Starfish	18 letters	
+86:9A89	ROM 031A89	ナマコ	Sea Cucumber	18 letters	
+86:9A8D	ROM 031A8D	アジサシ	Tern	18 letters	
+86:9A92	ROM 031A92	シギ	Sandpiper	18 letters	
+86:9A95	ROM 031A95	ウミガメ	Sea Turtle	18 letters	
+86:9A9A	ROM 031A9A	ヤドカリ	Hermit Crab	18 letters	
+86:9A9F	ROM 031A9F	ウミウシ	Sea Slug	18 letters	
+86:9AA4	ROM 031AA4	トビ	Kite	18 letters	
+86:9AA7	ROM 031AA7	ウミウ	Cormorant	18 letters	
+86:9AAB	ROM 031AAB	カワウソ	Otter	18 letters	
+86:9AB0	ROM 031AB0	ウミネコ	Black-tail Gull	18 letters	
+86:9AB5	ROM 031AB5	オジロワシ	Sea Eagle	18 letters	
+86:9ABB	ROM 031ABB	イルカ	Dolphin	18 letters	
+86:9ABF	ROM 031ABF	シュモクザメ	Hammerhead	18 letters	
+86:9AC6	ROM 031AC6	ザトウクジラ	Humpback Whale	18 letters	
+86:9ACD	ROM 031ACD	イソギンチャク	Sea Anemone	18 letters	
+86:9AD5	ROM 031AD5	ヤツデヒトデ	Sunstar	18 letters	
+86:9ADC	ROM 031ADC	イワガニ	Rock Crab	18 letters	
+86:9AE1	ROM 031AE1	ウミスズメ	Murrelet	18 letters	
+86:9AE7	ROM 031AE7	アザラシ	Seal	18 letters	
+86:9AEC	ROM 031AEC	クラゲ	Jellyfish	18 letters	
+86:9AF0	ROM 031AF0	アホウドリ	Albatross	18 letters	
+86:9AF6	ROM 031AF6	オットセイ	Fur Seal	18 letters	
+86:9AFC	ROM 031AFC	ホオジロザメ	Great White	18 letters	
+86:9B03	ROM 031B03	マッコウクジラ	Sperm Whale	18 letters	
+86:9B0B	ROM 031B0B	ウニ	Sea Urchin	18 letters	
+86:9B0E	ROM 031B0E	カツオドリ	Booby	18 letters	
+86:9B14	ROM 031B14	ミズナギドリ	Shearwater	18 letters	
+86:9B1B	ROM 031B1B	ウミヘビ	Sea Snake	18 letters	
+86:9B20	ROM 031B20	オオナミ	Big Wave	18 letters	

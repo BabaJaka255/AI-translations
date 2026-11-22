@@ -1,0 +1,32 @@
+# Story pages, English. "## TILEMAP_HEX title", then paragraphs separated by blank lines.
+# Wrapped at 30 columns into rows 2-12 (11 rows). Blank lines between paragraphs are kept only if the page still fits.
+## 040000 Opening
+Deep in the mountains lived a happy family of three.
+
+But one morning, little Kyoko fell ill with a high fever. Her worried mother remembered the legend of the River King, and told her son:
+
+"Find the River King, and be sure to catch it!"
+
+So Taro took his fishing rod and set off for the river.
+## 0A0800 Next morning
+When Taro woke up, he shouted at the top of his voice: "Today I'm going to catch the River King for sure!"
+
+His sister begged him with tears in her eyes: "Really? This time you have to catch it, okay?" His mother begged him too.
+
+So Taro set off to fish the river once again.
+## 037800 Came home without the River King
+Taro was so worried about his sister that he could not bear it, and he came back home. But his mother said to him:
+
+"I'm looking after her, so don't worry. Hurry and catch the River King!"
+
+So Taro set off to fish the river once again.
+## 087800 Day ended without the River King
+Taro tried his very hardest to cure his sister. But he could not catch the River King and bring it home.
+
+His mother was disappointed, and said to him: "Tomorrow, be sure to catch the River King!"
+
+Taro was so frustrated that he cried.
+## 040800 Ending
+When she saw the River King, their mother was overjoyed. Since long ago, it had been said that catching the River King would cure any illness.
+
+Just as the legend said, little Kyoko got better before their eyes. Grateful, their mother carefully returned the River King to the river the next day.

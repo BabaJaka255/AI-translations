@@ -1,0 +1,453 @@
+id	location	japanese	english	limit	notes
+fish000_name	record ROM 03C219	アイゴ	Rabbitfish	18 letters	
+fish000_alias	record ROM 03C219	 		18 letters	
+fish000_desc	record ROM 03C219	海藻やエビ、ゴカイなどの小動物を食べる。ヒレにある棘には毒腺があるので刺されると痛い大きさのわりに引きが強い。	Eats seaweed, shrimp and worms. Its fin spines carry venom and sting badly. Pulls hard for its size.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish000_cook	record ROM 03C219	味噌漬け・から揚げ	Miso-cured, fried	20 letters	
+fish001_name	record ROM 03C23A	アイナメ	Greenling	18 letters	
+fish001_alias	record ROM 03C23A	 		18 letters	
+fish001_desc	record ROM 03C23A	穴の中から顔を出すようにして上から落ちてくるエサを待ち構える。自分以外の卵を食べてしまうので、雄は卵を保護する。	Peeks out of holes, waiting for food to fall. It eats other fish's eggs, so the male guards his own.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish001_cook	record ROM 03C23A	釣りたてを刺し身	Sashimi, fresh	20 letters	
+fish002_name	record ROM 03C25B	アカイサキ	Sunrise Perch	18 letters	
+fish002_alias	record ROM 03C25B	 		18 letters	
+fish002_desc	record ROM 03C25B	沿岸のやや深い岩礁底に、群れをなしてすむ。沖釣りで、キンメダイに混じって釣れる。甲殻類や小魚を食べる肉食性。	Schools over deep reefs near the coast. Caught offshore among alfonsino. Eats crabs and small fish.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish002_cook	record ROM 03C25B	塩焼き・煮付け	Grilled, simmered	20 letters	
+fish003_name	record ROM 03C27C	アカカマス	Barracuda	18 letters	
+fish003_alias	record ROM 03C27C	 		18 letters	
+fish003_desc	record ROM 03C27C	沖合いの表層、中層に群れをつくって遊泳する。イワシ、アジサバのような小魚を食べる。よく鋭い歯でハリスを切られる。	Schools offshore near the surface. Eats sardine, scad and mackerel. Its sharp teeth often cut the line.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish003_cook	record ROM 03C27C	塩焼き・一夜干し	Grilled, dried	20 letters	
+fish004_name	record ROM 03C29D	アコウダイ	Rosefish	18 letters	
+fish004_alias	record ROM 03C29D	 		18 letters	
+fish004_desc	record ROM 03C29D	深海のタチに群れている。エビ・イカ・魚類を食べる。釣り上げる途中で水圧の変化で大きな目が飛び出すのでメヌケと呼ぶ。	Schools in the deep. The pressure change pops its big eyes out as it's reeled up.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish004_cook	record ROM 03C29D	煮付け・水炊き	Simmered, hot pot	20 letters	
+fish005_name	record ROM 03C2BE	アジ	Jack Mackerel	18 letters	
+fish005_alias	record ROM 03C2BE	マアジ	Horse Mackerel	18 letters	
+fish005_desc	record ROM 03C2BE	日本全土の沿岸域の中・底層域を群れをなして回游する魚。ゼンゴという棘のある鱗が側線に並んでいる。夏が旬。	Schools along every coast of Japan, mid-water to bottom. Spiny scutes line its sides. Best in summer.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish005_cook	record ROM 03C2BE	たたき・刺し身	Minced, sashimi	20 letters	
+fish006_name	record ROM 03C2DF	アナゴ	Conger Eel	18 letters	
+fish006_alias	record ROM 03C2DF	 		18 letters	
+fish006_desc	record ROM 03C2DF	ウナギと同様に卵からレプトケファルス幼生が育つ。鱗が無くヌルヌルしている。日中は砂中から頭を出し夜間エサを取る。	Grows from a leaf-like larva, like eels. Slimy, no scales. Hides in sand by day.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish006_cook	record ROM 03C2DF	テンプラ・寿司種	Tempura, sushi	20 letters	
+fish007_name	record ROM 03C300	アカアマダイ	Red Tilefish	18 letters	
+fish007_alias	record ROM 03C300	アマダイ	Tilefish	18 letters	
+fish007_desc	record ROM 03C300	砂泥地にすむ底魚で、穴を掘って隠れ家を作る。口が小さいので、エサを小さく切って付け、エサを踊らせて誘いをかける。	A bottom fish that digs a burrow in sand or mud. Its mouth is small: cut the bait fine and dance it.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish007_cook	record ROM 03C300	味噌漬け・粕漬け	Miso or sake-cured	20 letters	
+fish008_name	record ROM 03C321	キアマダイ	Gold Tilefish	18 letters	
+fish008_alias	record ROM 03C321	アマダイ	Tilefish	18 letters	
+fish008_desc	record ROM 03C321	アカアマダイよりヒレなどに黄色が強い。目の下縁から口にかけて銀白色の帯が走る。あまり大きくならず、味も落ちる。	More yellow on the fins than the red tilefish, with a silver band below the eye. Smaller, less tasty.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish008_cook	record ROM 03C321	味噌漬け・粕漬け	Miso or sake-cured	20 letters	
+fish009_name	record ROM 03C342	シロアマダイ	White Tilefish	18 letters	
+fish009_alias	record ROM 03C342	アマダイ	Tilefish	18 letters	
+fish009_desc	record ROM 03C342	浅いところにいるのがシロアマダイ、次いでアカアマダイ、キアマダイと深くなる。アマダイの中で最も大きくなりうまい。	White lives shallowest, then red, then yellow. The biggest, tastiest tilefish.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish009_cook	record ROM 03C342	味噌漬け・粕漬け	Miso or sake-cured	20 letters	
+fish010_name	record ROM 03C363	イイダコ	Rice Octopus	18 letters	
+fish010_alias	record ROM 03C363	 	Webfoot Octopus	18 letters	
+fish010_desc	record ROM 03C363	茹でると雌の体の中の卵が米粒に似ているので飯(イイ)ダコの名がある。おもに内湾の浅い砂地で貝殻などの巣穴にすむ。	Its cooked eggs look like rice, hence 'rice octopus'. Lives in shells in sandy bays.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish010_cook	record ROM 03C363	おでん種	Simmered in stew	20 letters	
+fish011_name	record ROM 03C384	イサキ	Grunt	18 letters	
+fish011_alias	record ROM 03C384	 		18 letters	
+fish011_desc	record ROM 03C384	幼魚は3本の褐色の縦縞があるのでウリンボウ(イノシシの子供)と呼ばれる。昼間は海底近くに群れ、夜に浮上する。	Young have three brown stripes, so they're called 'piglets'. Near the bottom by day, rises at night.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish011_cook	record ROM 03C384	塩焼き・から揚げ	Grilled, fried	20 letters	
+fish012_name	record ROM 03C3A5	イシガキダイ	Spot Beakfish	18 letters	
+fish012_alias	record ROM 03C3A5	 		18 letters	
+fish012_desc	record ROM 03C3A5	沿岸の岩礁にすみ、くちばし状の口で、サザエ、フジツボ、ウニ、カニなどを、殻ごと噛み砕いて食べる。	Lives on coastal reefs and crushes turban shells, barnacles, urchins and crabs with its beak.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish012_cook	record ROM 03C3A5	刺し身・塩焼き	Sashimi, grilled	20 letters	
+fish013_name	record ROM 03C3C6	クチジロ	Whitemouth	18 letters	
+fish013_alias	record ROM 03C3C6	イシガキダイ	Spot Beakfish	18 letters	
+fish013_desc	record ROM 03C3C6	イシガキダイの老成魚は石垣模様が消え、口のあたりが白くなるので、クチジロと呼ばれる。イシダイより引きが強い。	Old spot beakfish lose their spots and get a white mouth. It pulls even harder than a beakfish.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish013_cook	record ROM 03C3C6	刺し身・塩焼き	Sashimi, grilled	20 letters	
+fish014_name	record ROM 03C3E7	イシガレイ	Stone Flounder	18 letters	
+fish014_alias	record ROM 03C3E7	 		18 letters	
+fish014_desc	record ROM 03C3E7	泥よりも砂底を好む。石のような骨板が並び、表面はツルツル。雄は小さい。旬は夏、やや匂いがあるので嫌う人もいる。	Likes sand over mud. Has stony plates and smooth skin. Best in summer, but some dislike its smell.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish014_cook	record ROM 03C3E7	刺し身・煮付け	Sashimi, simmered	20 letters	
+fish015_name	record ROM 03C408	イシダイ	Beakfish	18 letters	
+fish015_alias	record ROM 03C408	 		18 letters	
+fish015_desc	record ROM 03C408	くちばし状の強固な歯で、ウニや貝類などを噛み砕いて食べる。潮のぶつかる潮表、岩礁帯の底近くがポイントになる。	Crushes urchins and shellfish with a strong beak. Fish near the bottom where currents hit the reef.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish015_cook	record ROM 03C408	洗・刺し身	Arai, sashimi	20 letters	
+fish016_name	record ROM 03C429	クチグロ	Blackmouth	18 letters	
+fish016_alias	record ROM 03C429	イシダイ	Beakfish	18 letters	
+fish016_desc	record ROM 03C429	引きが強く、磯の王者。イシダイの老成魚は縞模様が消え、口のあたりが黒くなるので、クチグロと呼ばれる。	The king of the rocks. Old beakfish lose their stripes and get a black mouth. A very hard puller.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish016_cook	record ROM 03C429	刺し身・塩焼き	Sashimi, grilled	20 letters	
+fish017_name	record ROM 03C44A	イシナギ	Giant Sea Bass	18 letters	
+fish017_alias	record ROM 03C44A	オオクチイシナギ	Jewfish	18 letters	
+fish017_desc	record ROM 03C44A	深海の岩礁帯にすむ。エサを食べた途端、根に潜ろうとする肝臓にビタミンAを多量に含み、中毒をおこすことがある。	Lives on deep reefs and dives for cover once hooked. Its liver is so rich in vitamin A it can poison.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish017_cook	record ROM 03C44A	刺し身・塩焼き	Sashimi, grilled	20 letters	
+fish018_name	record ROM 03C46B	イシモチ	Croaker	18 letters	
+fish018_alias	record ROM 03C46B	ニベ	Nibe Croaker	18 letters	
+fish018_desc	record ROM 03C46B	ウキブクロをグウグウと鳴らす。耳石が大きいのでイシモチの名がある。夜や、日中でも潮が濁っているとよく釣れる。	Croaks with its swim bladder. Named for its big ear stones. Bites at night, or by day in murky water.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish018_cook	record ROM 03C46B	カマボコ・さつま揚げ	Fish cakes	20 letters	
+fish019_name	record ROM 03C48C	イズスミ	Rudderfish	18 letters	
+fish019_alias	record ROM 03C48C	 		18 letters	
+fish019_desc	record ROM 03C48C	沿岸に面した荒磯や、離島などに群れている、冬の磯釣りの人気魚。エビ、カニ、ハバノリ、海藻を食べる雑食性。	Schools off rough shores and far isles. A winter reef favorite. Eats shrimp, crabs and seaweed.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish019_cook	record ROM 03C48C	塩焼き・味噌漬け	Grilled, miso-cured	20 letters	
+fish020_name	record ROM 03C4AD	イソマグロ	Dogtooth Tuna	18 letters	
+fish020_alias	record ROM 03C4AD	 		18 letters	
+fish020_desc	record ROM 03C4AD	沿岸の表層を小さな群れをつくり回游する。イワシ、サバ、イカ、トビウオなどを食べる。あまりおいしくない。	Roams the coastal surface in small schools, eating sardine, mackerel and squid. Not very tasty.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish020_cook	record ROM 03C4AD	照り焼き	Teriyaki	20 letters	
+fish021_name	record ROM 03C4CE	イトヨリダイ	Threadfin	18 letters	
+fish021_alias	record ROM 03C4CE	 		18 letters	
+fish021_desc	record ROM 03C4CE	尾ビレの上が長く伸びて泳ぐとき黄色い糸を撚っているように見える。泥質の海底に生息。底生小動物を食べる肉食性。	Its long upper tail fin trails like yellow thread. Lives on mud, eats small animals.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish021_cook	record ROM 03C4CE	照り焼き	Teriyaki	20 letters	
+fish022_name	record ROM 03C4EF	イワシ	Sardine	18 letters	
+fish022_alias	record ROM 03C4EF	カタクチイワシ	Anchovy	18 letters	
+fish022_desc	record ROM 03C4EF	沿岸の表層を回游している漁獲高が日本の漁業で最大であったこともある。潮通しがよい防波堤の先端がポイント。	Roams the coastal surface. Once Japan's top catch. Try breakwater tips with good flow.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish022_cook	record ROM 03C4EF	塩焼き・つみれ	Grilled, fishballs	20 letters	
+fish023_name	record ROM 03C510	ウマヅラハギ	Horse Filefish	18 letters	
+fish023_alias	record ROM 03C510	 		18 letters	
+fish023_desc	record ROM 03C510	口が小さくエサをかじるエサ取りの名人。顔が長く、馬の面に似ていることから名付けられた。マダイの外道によく掛かる。	A tiny-mouthed bait thief named for its long horse face. Often bites when fishing for sea bream.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish023_cook	record ROM 03C510	干物・薄造り・鍋物	Dried, sashimi, stew	20 letters	
+fish024_name	record ROM 03C531	ウミタナゴ	Surfperch	18 letters	
+fish024_alias	record ROM 03C531	 		18 letters	
+fish024_desc	record ROM 03C531	胎生なので、卵では産まず秋ごろ交尾して、翌春に仔魚を産む。海底が岩礁で海藻が生えているところがポイント。	Bears live young: it mates in fall and gives birth in spring. Look for rocky bottoms with seaweed.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish024_cook	record ROM 03C531	煮付け・塩焼き	Simmered, grilled	20 letters	
+fish025_name	record ROM 03C552	ウメイロ	Blue Snapper	18 letters	
+fish025_alias	record ROM 03C552	 		18 letters	
+fish025_desc	record ROM 03C552	深場の岩礁帯に生息する。引きが強く、味もよい。小魚、イカエビなどを食べる肉食性。背面が梅の実のような色。	Lives on deep reefs. Pulls hard and tastes good. Eats small fish and squid. Back is plum-colored.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish025_cook	record ROM 03C552	煮付け・塩焼き	Simmered, grilled	20 letters	
+fish026_name	record ROM 03C573	オキザワラ	Wahoo	18 letters	
+fish026_alias	record ROM 03C573	クロシビカマス	Black Gemfish	18 letters	
+fish026_desc	record ROM 03C573	大陸棚の海底にすみ、夜間浮上してくる。アコウダイの外道でハリに掛かる。エビ、カニ、イカを食べる肉食性。	Lives on the shelf floor, rises at night. Bites on rosefish rigs. Eats shrimp, squid.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish026_cook	record ROM 03C573	カマボコ	Fish cakes	20 letters	
+fish027_name	record ROM 03C594	オニオコゼ	Devil Stinger	18 letters	
+fish027_alias	record ROM 03C594	 		18 letters	
+fish027_desc	record ROM 03C594	背ビレの棘は鋭く、毒腺があり、刺されるとひどく痛む。鱗が無く、皮盾は柔らかい。砂泥地にすみ、底生動物を食べる。	Its dorsal spines are sharp and venomous. Scaleless and soft. Lives on sandy mud.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish027_cook	record ROM 03C594	刺し身・椀種	Sashimi, soup	20 letters	
+fish028_name	record ROM 03C5B5	カイワリ	Trevally	18 letters	
+fish028_alias	record ROM 03C5B5	 		18 letters	
+fish028_desc	record ROM 03C5B5	背ビレと尻ビレに黒縦帯がある。砂泥底のゴカイ類やエビ貝類を掘り出して食べる。沿岸の浅場からやや深い砂泥底に生息。	Black bands on its back and anal fins. Digs worms and shrimp from sandy, muddy coastal bottoms.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish028_cook	record ROM 03C5B5	造り・塩焼き	Sashimi, grilled	20 letters	
+fish029_name	record ROM 03C5D6	カサゴ	Scorpionfish	18 letters	
+fish029_alias	record ROM 03C5D6	 		18 letters	
+fish029_desc	record ROM 03C5D6	目の前にエサがあると見境なしに飛びつく。鋭い背ビレに注意。冬から早春にかけて交尾をして仔魚を産む卵胎生。	Grabs anything in front of it. Beware its sharp dorsal fin. Bears live young in spring.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish029_cook	record ROM 03C5D6	煮付け・塩焼き	Simmered, grilled	20 letters	
+fish030_name	record ROM 03C5F7	カツオ	Bonito	18 letters	
+fish030_alias	record ROM 03C5F7	 		18 letters	
+fish030_desc	record ROM 03C5F7	大群で沿岸から外洋の表層を時速40キロ以上で泳ぐ。春夏に北上し、秋冬に南下して適水温を回游する。イワシ類を食べる。	Huge schools race across the open sea at over 40 km/h, north in spring, south in fall. Eats sardine.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish030_cook	record ROM 03C5F7	たたき・かつお節	Seared, dried flakes	20 letters	
+fish031_name	record ROM 03C618	カッポレ	Black Trevally	18 letters	
+fish031_alias	record ROM 03C618	 		18 letters	
+fish031_desc	record ROM 03C618	側線の尾ビレ近くに黒色のゼンゴがある。磯やサンゴ礁の潮通しのよい斜面に生息する。魚を好んで食べる肉食性。	Black scutes near the tail. Lives on reef slopes with good flow. A hunter that loves to eat fish.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish031_cook	record ROM 03C618	刺し身・塩焼き	Sashimi, grilled	20 letters	
+fish032_name	record ROM 03C639	 	 	18 letters	
+fish032_alias	record ROM 03C639	欠番	Unused	18 letters	
+fish032_desc	record ROM 03C639	 		22 letters, then 28; 4 lines (wrapped by the build)	
+fish032_cook	record ROM 03C639	 	 	20 letters	
+fish033_name	record ROM 03C65A	カレイ	Flatfish	18 letters	
+fish033_alias	record ROM 03C65A	マガレイ	Brown Sole	18 letters	
+fish033_desc	record ROM 03C65A	体の色を周りにあわせて変えたり、模様をまねしたりする。日本海でよく釣れ、「クチボソ」といわれ、ほっそりしている。	Changes color and pattern to match its surroundings. Common in the Sea of Japan.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish033_cook	record ROM 03C65A	煮付け・から揚げ	Simmered, fried	20 letters	
+fish034_name	record ROM 03C67B	カワハギ	Filefish	18 letters	
+fish034_alias	record ROM 03C67B	 		18 letters	
+fish034_desc	record ROM 03C67B	ザラザラしてヤスリのような固い皮に覆われている。エサ取りの名手。雑食性で、小魚、甲殻類貝類、海藻なども食べる。	Covered in tough skin like sandpaper. An expert bait thief that eats fish, crabs, shells and weeds.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish034_cook	record ROM 03C67B	肝がうまい	The liver is tasty	20 letters	
+fish035_name	record ROM 03C69C	ガンギエイ	Skate	18 letters	
+fish035_alias	record ROM 03C69C	 		18 letters	
+fish035_desc	record ROM 03C69C	浅場からやや深い海底に生息する。尾部に雄は1列、雌は3列の棘が並ぶ。底引網で漁獲され、練製品の原料となる。	Lives on shallow to deep bottoms. Spines run down its tail. Caught by trawlers for fish cakes.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish035_cook	record ROM 03C69C	カマボコ	Fish cakes	20 letters	
+fish036_name	record ROM 03C6BD	カンダイ	Bulgy Wrasse	18 letters	
+fish036_alias	record ROM 03C6BD	コブダイ	Sheepshead	18 letters	
+fish036_desc	record ROM 03C6BD	雄は額がこぶ状にふくれる貝類、甲殻類などを大きなアゴでもぎ取り、頑丈な歯で砕く。夫婦で海藻の多い岩礁にすむ。	The male's forehead swells into a hump. Crushes shells and crabs. Pairs live on weedy reefs.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish036_cook	record ROM 03C6BD	から揚げ	Fried	20 letters	
+fish037_name	record ROM 03C6DE	カンパチ	Amberjack	18 letters	
+fish037_alias	record ROM 03C6DE	 		18 letters	
+fish037_desc	record ROM 03C6DE	目に黒褐色の斜走帯があり背から見ると「八」の字に見えるので、カンパチの名が付いた。大きいものは味がよくない。	Its dark eye bands form the kanji for 'eight' (hachi) from above. Big ones don't taste as good.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish037_cook	record ROM 03C6DE	高級魚・刺し身	Prized for sashimi	20 letters	
+fish038_name	record ROM 03C6FF	キダイ	Yellow Bream	18 letters	
+fish038_alias	record ROM 03C6FF	 		18 letters	
+fish038_desc	record ROM 03C6FF	マダイ、チダイに比べやや黄みを帯びる。やや深場の大陸棚の泥底にいる。エビ、カニ、イカ、小型魚を食べる。	More yellow than red sea bream or crimson bream. Lives on deep mud. Eats shrimp, crabs and squid.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish038_cook	record ROM 03C6FF	マダイの代用品	Like red sea bream	20 letters	
+fish039_name	record ROM 03C720	キタマクラ	Toby Puffer	18 letters	
+fish039_alias	record ROM 03C720	 		18 letters	
+fish039_desc	record ROM 03C720	磯釣りで外道で掛かる、有毒の小型のフグ。沿岸の岩礁域で釣れる。貪欲な肉食性で小動物を食べる。エサ取りの名手。	A small poisonous puffer that bites on reef rigs. A greedy hunter and an expert bait thief.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish039_cook	record ROM 03C720	食べない	Not eaten	20 letters	
+fish040_name	record ROM 03C741	キツネダイ	Hogfish	18 letters	
+fish040_alias	record ROM 03C741	 		18 letters	
+fish040_desc	record ROM 03C741	やや深い岩礁域に生息。底生動物を主食にする。吻の先端がとがり、長い。背ビレ中央に大きな黒斑がある。	Lives on deeper reefs and eats bottom animals. Long, pointed snout and a big black spot on the back.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish040_cook	record ROM 03C741	から揚げ	Fried	20 letters	
+fish041_name	record ROM 03C762	キワダマグロ	Yellowfin Tuna	18 letters	
+fish041_alias	record ROM 03C762	キハダ	Ahi	18 letters	
+fish041_desc	record ROM 03C762	第2背ビレと尻ビレは黄色で高く鎌状に伸びている。薄いピンク色の身は、脂肪が少なくよく締まっている。	Its tall second dorsal and anal fins are yellow and sickle-shaped. Lean, firm, pale pink flesh.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish041_cook	record ROM 03C762	刺し身・寿司	Sashimi, sushi	20 letters	
+fish042_name	record ROM 03C783	キンメダイ	Alfonsino	18 letters	
+fish042_alias	record ROM 03C783	 		18 letters	
+fish042_desc	record ROM 03C783	体は紅色で目は大きく黄金色。昼間は深海にすむが、夜になると表層に浮いてくる。小魚、イカ、エビなどを食べる。	Bright red with big golden eyes. Lives deep by day and rises near the surface at night.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish042_cook	record ROM 03C783	刺し身・煮付け	Sashimi, simmered	20 letters	
+fish043_name	record ROM 03C7A4	クサフグ	Grass Puffer	18 letters	
+fish043_alias	record ROM 03C7A4	 		18 letters	
+fish043_desc	record ROM 03C7A4	汽水域を含む沿岸から内湾の浅いところ、岩礁、藻場に生息。怒ると体を大きくふくらませる。猛毒。	Lives in shallow bays, river mouths, reefs and weed beds. It puffs up when angry. Deadly poison.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish043_cook	record ROM 03C7A4	あまり食べない	Rarely eaten	20 letters	
+fish044_name	record ROM 03C7C5	クロカジキ	Blue Marlin	18 letters	
+fish044_alias	record ROM 03C7C5	ブルーマーリン	Marlin	18 letters	
+fish044_desc	record ROM 03C7C5	生きているときにコバルト色が見られるのでブルーマーリンと呼ばれる。ハリに掛かってからのファイトが最高。	Called the blue marlin for its cobalt color in life. Once hooked, it puts up the greatest fight.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish044_cook	record ROM 03C7C5	刺し身・味噌漬け	Sashimi, miso-cured	20 letters	
+fish045_name	record ROM 03C7E6	クロダイ	Black Porgy	18 letters	
+fish045_alias	record ROM 03C7E6	 		18 letters	
+fish045_desc	record ROM 03C7E6	幼魚は釣り上げたとたん糞をするので「ババタレ」と呼んだりする。雄から雌へ性転換をする悪食でなんでも食べる。	Young ones poop the moment they're landed. It changes from male to female and will eat anything.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish045_cook	record ROM 03C7E6	造り・塩焼き	Sashimi, grilled	20 letters	
+fish046_name	record ROM 03C807	クロマグロ	Bluefin Tuna	18 letters	
+fish046_alias	record ROM 03C807	 		18 letters	
+fish046_desc	record ROM 03C807	一般にマグロといえば、クロマグロ。日本からアメリカ西海岸まで回游して帰ってくる。成魚は時速150キロで泳ぐ。	The tuna everyone means. Swims from Japan to America's west coast and back, at up to 150 km/h.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish046_cook	record ROM 03C807	刺し身・寿司	Sashimi, sushi	20 letters	
+fish047_name	record ROM 03C828	メジマグロ	Young Bluefin	18 letters	
+fish047_alias	record ROM 03C828	クロマグロ	Bluefin Tuna	18 letters	
+fish047_desc	record ROM 03C828	クロマグロの若魚、2ー3歳魚のこと。クロマグロの旬は冬だが、メジマグロは春夏がおいしいといわれる。	A young bluefin, two or three years old. Bluefin are best in winter, but young ones in spring.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish047_cook	record ROM 03C828	刺し身・寿司	Sashimi, sushi	20 letters	
+fish048_name	record ROM 03C849	コウイカ	Cuttlefish	18 letters	
+fish048_alias	record ROM 03C849	スミイカ	Golden Cuttle	18 letters	
+fish048_desc	record ROM 03C849	腹に椿円形の貝殻(イカの甲)が入っているのでコウイカ。取り込むとき、強烈なスミを出すので注意。	Named for the oval shell inside its body. Watch out: it squirts strong ink as you land it.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish048_cook	record ROM 03C849	刺し身・スルメ	Sashimi, dried	20 letters	
+fish049_name	record ROM 03C86A	コチ	Flathead	18 letters	
+fish049_alias	record ROM 03C86A	マゴチ	Bartail Flathead	18 letters	
+fish049_desc	record ROM 03C86A	砂泥底にすみ、エサは生きたエビやハゼなどを使う。早アワセは禁物である。夏が旬で肉量が多くやわらかくクセのない白身。	Lives on sandy mud. Use live shrimp or goby. Don't strike early. Soft, mild white flesh in summer.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish049_cook	record ROM 03C86A	味噌汁美味	Great in miso soup	20 letters	
+fish050_name	record ROM 03C88B	コノシロ	Gizzard Shad	18 letters	
+fish050_alias	record ROM 03C88B	 		18 letters	
+fish050_desc	record ROM 03C88B	若魚はコハダという。肩部に黒い斑があり、夏は沿岸域に多く冬には内湾にいて、小型のプランクトン、小動物などを食べる。	Young are called kohada. Has a black spot on the shoulder. Eats plankton and tiny animals.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish050_cook	record ROM 03C88B	塩焼き・あわ漬け	Grilled, pickled	20 letters	
+fish051_name	record ROM 03C8AC	サッパ	Sardinella	18 letters	
+fish051_alias	record ROM 03C8AC	 		18 letters	
+fish051_desc	record ROM 03C8AC	内湾や、河口汽水域の砂泥底域に多い。瀬戸内ではママカリ(とても美味しいので飯を借りにいく)と呼ばれ酢漬けが名産。	Common in bays and river mouths. In Seto it's 'mamakari': so tasty you'd borrow rice to eat it.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish051_cook	record ROM 03C8AC	酢漬け	Pickled in vinegar	20 letters	
+fish052_name	record ROM 03C8CD	サバ	Mackerel	18 letters	
+fish052_alias	record ROM 03C8CD	 		18 letters	
+fish052_desc	record ROM 03C8CD	沿岸を大群で回游する。主として小魚、大形プランクトンを食べる。「サバの生き腐れ」といわれ、鮮度が落ちやすい。	Roams the coast in huge schools, eating small fish and plankton. Spoils fast, so eat it fresh.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish052_cook	record ROM 03C8CD	しめサバ・カン詰	Cured, canned	20 letters	
+fish053_name	record ROM 03C8EE	サヨリ	Halfbeak	18 letters	
+fish053_alias	record ROM 03C8EE	 		18 letters	
+fish053_desc	record ROM 03C8EE	沿岸を小さな群れで表層を泳ぐ。下アゴの先端が赤い口紅のように見える。動物性プランクトンやエビ類をすくって食べる。	Swims near the surface in small schools. The tip of its lower jaw is red like lipstick.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish053_cook	record ROM 03C8EE	糸造り・干物	Sashimi, dried	20 letters	
+fish054_name	record ROM 03C90F	サワラ	Seerfish	18 letters	
+fish054_alias	record ROM 03C90F	 	Spanish Mackerel	18 letters	
+fish054_desc	record ROM 03C90F	サゴシ・ナギ・サワラと名前を変える出世魚。沿岸の表層を泳ぐ回游魚。冬は沖合の深いところに移動する。	Its name changes as it grows: sagoshi, nagi, sawara. A coastal roamer that winters offshore.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish054_cook	record ROM 03C90F	刺し身・照り焼き	Sashimi, teriyaki	20 letters	
+fish055_name	record ROM 03C930	シイラ	Mahi-mahi	18 letters	
+fish055_alias	record ROM 03C930	 		18 letters	
+fish055_desc	record ROM 03C930	黒潮流域の外洋の表層近くを群泳して、おもに魚を食べる。流木など海上の浮遊物に集まる性質がある。	Schools near the surface of the open sea in the Kuroshio. Gathers under driftwood and flotsam.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish055_cook	record ROM 03C930	刺し身・照り焼き	Sashimi, teriyaki	20 letters	
+fish056_name	record ROM 03C951	シマアジ	Striped Jack	18 letters	
+fish056_alias	record ROM 03C951	 		18 letters	
+fish056_desc	record ROM 03C951	近海魚で回游してくるが、湾内までは入ってこない。大型を東京では「オオカミ」という。馬力のあるファイターです。	Roams near shore but never into bays. In Tokyo big ones are 'wolves'. A powerhouse.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish056_cook	record ROM 03C951	高級魚・刺し身	Prized for sashimi	20 letters	
+fish057_name	record ROM 03C972	シマガツオ	Pomfret	18 letters	
+fish057_alias	record ROM 03C972	 		18 letters	
+fish057_desc	record ROM 03C972	頭を押しつぶしたような形をしている。生きているときは銀白色で死ぬと黒褐色になる。沖合の深場で群れをなして遊泳する。	Its head looks squashed. Silver in life, dark brown after death. Schools deep offshore.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish057_cook	record ROM 03C972	フライ・ムニエル	Fried, meuniere	20 letters	
+fish058_name	record ROM 03C993	シャコ	Mantis Shrimp	18 letters	
+fish058_alias	record ROM 03C993	 		18 letters	
+fish058_desc	record ROM 03C993	内湾の砂泥底にすむ。夜間に穴から出て鎌状の脚で小甲殻類や小魚をとらえて食べる。雌は卵を口もとにかかえて孵化させる。	Lives in bay mud. Hunts at night with mantis claws. The female holds her eggs by her mouth.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish058_cook	record ROM 03C993	酢の物・寿司種	Vinegared, sushi	20 letters	
+fish059_name	record ROM 03C9B4	シロギス	Whiting	18 letters	
+fish059_alias	record ROM 03C9B4	 		18 letters	
+fish059_desc	record ROM 03C9B4	警戒心が強く、驚くと砂中に潜りこむ習性がある。沿岸の砂底や岩礁の様な変化に富んだ場所がポイント。	Wary: when startled it dives into the sand. Look where sandy bottoms meet rocks and reefs.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish059_cook	record ROM 03C9B4	テンプラ・焼き魚	Tempura, grilled	20 letters	
+fish060_name	record ROM 03C9D5	スケトウダラ	Pollock	18 letters	
+fish060_alias	record ROM 03C9D5	 		18 letters	
+fish060_desc	record ROM 03C9D5	冷たい北の海の大陸棚の深場の釣り。中層に大きな群れをつくり回游する。卵巣を塩漬けにしたのがタラコである。	Fished deep on the shelf of cold northern seas. Its salted roe is tarako.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish060_cook	record ROM 03C9D5	カマボコ・タラコ	Fish cakes, roe	20 letters	
+fish061_name	record ROM 03C9F6	スズキ	Sea Bass	18 letters	
+fish061_alias	record ROM 03C9F6	 		18 letters	
+fish061_desc	record ROM 03C9F6	幼魚をセイゴ、やや大きいものをフッコ、成魚をスズキと呼ぶ出世魚。海のルアー釣りで人気が高い。夜間が活発。	Its name changes with size: seigo, fukko, suzuki. A favorite for sea lure fishing. Active at night.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish061_cook	record ROM 03C9F6	洗・刺し身	Arai, sashimi	20 letters	
+fish062_name	record ROM 03CA17	スルメイカ	Flying Squid	18 letters	
+fish062_alias	record ROM 03CA17	 		18 letters	
+fish062_desc	record ROM 03CA17	黒潮と対馬海流に流されながら成長し、成熟すると南下する雌は若いうちに雄から精子を受け取り、単独で産卵する。	Grows while drifting on warm currents, then heads south to spawn. The female spawns alone.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish062_cook	record ROM 03CA17	スルメ・塩辛	Dried, fermented	20 letters	
+fish063_name	record ROM 03CA38	ソイ	Black Rockfish	18 letters	
+fish063_alias	record ROM 03CA38	キツネメバル	Fox Rockfish	18 letters	
+fish063_desc	record ROM 03CA38	卵胎生で冬から春に仔魚を産む。日中岩陰にじっとしていて夜間活発に小甲殻類やゴカイ類を食べる。	Bears live young in winter and spring. Hides in rocks by day, eats crabs and worms at night.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish063_cook	record ROM 03CA38	塩焼き・から揚げ	Grilled, fried	20 letters	
+fish064_name	record ROM 03CA59	タカベ	Butterfish	18 letters	
+fish064_alias	record ROM 03CA59	 		18 letters	
+fish064_desc	record ROM 03CA59	沿岸の岩礁の多い場所にすみ深場で大群をつくる。背が青緑で幅広い黄色の縦帯が1本、尾ビレまで延びている。	Schools deep around rocky coasts. Blue-green back, one wide yellow stripe to the tail.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish064_cook	record ROM 03CA59	焼き魚	Grilled	20 letters	
+fish065_name	record ROM 03CA7A	タチウオ	Cutlassfish	18 letters	
+fish065_alias	record ROM 03CA7A	 		18 letters	
+fish065_desc	record ROM 03CA7A	「太刀魚」まさしく太刀のような長い魚。体表の銀粉状のグアニンは模造真珠の原料になる。夜に小魚を追って浮上してくる。	Long like a blade. Its silver skin was used in fake pearls. Rises at night to hunt.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish065_cook	record ROM 03CA7A	造り・塩焼き	Sashimi, grilled	20 letters	
+fish066_name	record ROM 03CA9B	チカメキントキ	Longfin Bigeye	18 letters	
+fish066_alias	record ROM 03CA9B	 		18 letters	
+fish066_desc	record ROM 03CA9B	卵型で目も口も大きい。深場の岩礁のある海底にすみ、群れをつくる。肉食性で小魚、甲殻類、ゴカイ類を食べる。	Egg-shaped with big eyes and mouth. Schools over deep reefs. Eats small fish, crabs and worms.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish066_cook	record ROM 03CA9B	薄造り・煮付け	Sashimi, simmered	20 letters	
+fish067_name	record ROM 03CABC	チダイ	Crimson Bream	18 letters	
+fish067_alias	record ROM 03CABC	ハナダイ	Sea Bream	18 letters	
+fish067_desc	record ROM 03CABC	岩礁帯のある海底のやや深いところに単独ですみ、小魚、甲殻類、ウニ、ゴカイ類などを食べる。マダイの代用品。	Lives alone on deeper reef bottoms, eating fish, crabs, urchins and worms. A red sea bream stand-in.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish067_cook	record ROM 03CABC	刺し身・潮汁	Sashimi, clear soup	20 letters	
+fish068_name	record ROM 03CADD	ツムブリ	Rainbow Runner	18 letters	
+fish068_alias	record ROM 03CADD	 		18 letters	
+fish068_desc	record ROM 03CADD	外洋性の表層回游魚で磯に近づいてくることが多い。ハリ掛かりすると一気に走り出すので、磯のスプリンターと呼ばれる。	Roams the open sea surface and often comes near reefs. Bolts when hooked: the sprinter of the reef.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish068_cook	record ROM 03CADD	刺し身・塩焼き	Sashimi, grilled	20 letters	
+fish069_name	record ROM 03CAFE	ハオコゼ	Waspfish	18 letters	
+fish069_alias	record ROM 03CAFE	 		18 letters	
+fish069_desc	record ROM 03CAFE	背ビレに毒があり、刺されると非常に痛い。ハリをはずす時は注意する。藻の多い磯場や、防波堤周りに群れている。	Its dorsal fin is venomous and stings badly. Unhook with care. Gathers in weeds and by breakwaters.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish069_cook	record ROM 03CAFE	食べない	Not eaten	20 letters	
+fish070_name	record ROM 03CB1F	ハコフグ	Boxfish	18 letters	
+fish070_alias	record ROM 03CB1F	 		18 letters	
+fish070_desc	record ROM 03CB1F	堅い甲で覆われた、箱型のフグ。無毒で堅い甲を取りのぞくと食べられる。沿岸の磯や珊瑚礁に生息する。	A box-shaped puffer in a hard shell. It isn't poisonous, and you can eat it once the shell is off.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish070_cook	record ROM 03CB1F	あまり食べない	Rarely eaten	20 letters	
+fish071_name	record ROM 03CB40	バショウカジキ	Sailfish	18 letters	
+fish071_alias	record ROM 03CB40	セイルフィッシュ	Billfish	18 letters	
+fish071_desc	record ROM 03CB40	背ビレが芭蕉の葉に似ているのでこの名が付いた。ヨットのセイルのように大きく広がるのでセイルフィッシュともいう。	Named for its sail-like dorsal fin, which spreads wide like a yacht's sail. Also called sailfish.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish071_cook	record ROM 03CB40	塩焼き・照り焼き	Grilled, teriyaki	20 letters	
+fish072_name	record ROM 03CB61	ハゼ	Goby	18 letters	
+fish072_alias	record ROM 03CB61	 		18 letters	
+fish072_desc	record ROM 03CB61	ゴカイ類や藻類を食べる。産卵期は冬で、泥底に出口が数個ある穴を掘って産卵。寿命が短く1年で死んでしまう。	Eats worms and algae. Spawns in winter in burrows with several exits. Lives only one year.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish072_cook	record ROM 03CB61	テンプラ	Tempura	20 letters	
+fish073_name	record ROM 03CB82	 	 	18 letters	
+fish073_alias	record ROM 03CB82	欠番	Unused	18 letters	
+fish073_desc	record ROM 03CB82	 		22 letters, then 28; 4 lines (wrapped by the build)	
+fish073_cook	record ROM 03CB82	 	 	20 letters	
+fish074_name	record ROM 03CBA3	ハマダイ	Ruby Snapper	18 letters	
+fish074_alias	record ROM 03CBA3	 		18 letters	
+fish074_desc	record ROM 03CBA3	深海の岩礁底で落ち込む斜面に群れている。肉食性で小魚、エビ、カニ、イカ類を食べる。大きな目が特微。	Schools on deep reef slopes. Eats small fish, shrimp, crabs and squid. Known for its big eyes.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish074_cook	record ROM 03CBA3	刺し身・焼き物	Sashimi, grilled	20 letters	
+fish075_name	record ROM 03CBC4	ハリセンボン	Porcupinefish	18 letters	
+fish075_alias	record ROM 03CBC4	 		18 letters	
+fish075_desc	record ROM 03CBC4	体が強い長い棘で覆われ、水を飲み込み体を球形にふくらませることができる。浅い岩礁、珊瑚礁にすむ。	Covered in long spines. It gulps water to puff into a ball. Lives on shallow reefs and corals.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish075_cook	record ROM 03CBC4	食べない	Not eaten	20 letters	
+fish076_name	record ROM 03CBE5	ヒメダイ	Jobfish	18 letters	
+fish076_alias	record ROM 03CBE5	 		18 letters	
+fish076_desc	record ROM 03CBE5	沿岸のやや深い岩礁底にすむ。肉食性で小魚、エビ、カニを食べる。舌の上に細かい歯がある。尾ビレが深く切れ込んでいる。	Lives on deeper coastal reefs, eating fish, shrimp and crabs. Fine teeth on its tongue. Forked tail.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish076_cook	record ROM 03CBE5	刺し身	Sashimi	20 letters	
+fish077_name	record ROM 03CC06	ワタリガニ	Swimming Crab	18 letters	
+fish077_alias	record ROM 03CC06	 		18 letters	
+fish077_desc	record ROM 03CC06	4本めの後ろ脚の先がうちわ状になっていて泳ぐのに使う。シロギスの投げ釣りで釣れる時もある。外洋の砂浜や湾内にすむ。	Its fourth pair of legs are paddles for swimming. Sometimes caught surf casting for whiting.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish077_cook	record ROM 03CC06	味噌汁・塩ゆで	Miso soup, boiled	20 letters	
+fish078_name	record ROM 03CC27	ヒラマサ	Kingfish	18 letters	
+fish078_alias	record ROM 03CC27	 		18 letters	
+fish078_desc	record ROM 03CC27	ハリに掛かると最後までこちらを向かずに泳ぎまわる。スピード、パワーとも最高のファイター。夏から秋に回游してくる。	Never turns your way once hooked. Top speed and power: the best fighter. Roams in summer and fall.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish078_cook	record ROM 03CC27	刺し身美味	Superb sashimi	20 letters	
+fish079_name	record ROM 03CC48	ヒラメ	Flounder	18 letters	
+fish079_alias	record ROM 03CC48	 		18 letters	
+fish079_desc	record ROM 03CC48	「左ヒラメの右カレイ」といわれるように眼は左側。ポイントは岩礁帯、根の周辺で生きた魚を追いかけ捕食する。旬は冬。	Its eyes are on the left side. Hunts live fish around reefs and rocks. Best in winter.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish079_cook	record ROM 03CC48	刺し身	Sashimi	20 letters	
+fish080_name	record ROM 03CC69	ビンナガ	Albacore	18 letters	
+fish080_alias	record ROM 03CC69	 		18 letters	
+fish080_desc	record ROM 03CC69	温暖な海を回游している。胸ビレが長いのが特微。マグロには珍しく赤身が少ないので、刺し身や寿司種には向かない。	Roams warm seas. Known for its long pectoral fins. Pale meat, so not used for sashimi or sushi.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish080_cook	record ROM 03CC69	シーチキン	Canned tuna	20 letters	
+fish081_name	record ROM 03CC8A	ブダイ	Parrotfish	18 letters	
+fish081_alias	record ROM 03CC8A	 		18 letters	
+fish081_desc	record ROM 03CC8A	雄は青みが強く、雌は赤みが強い。熱帯魚のようだが北の方までいる。大きな顔に小さな口で歯が沢山生えている。冬が旬。	Males are blue, females red. Looks tropical but lives far north. Small mouth full of teeth.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish081_cook	record ROM 03CC8A	刺し身	Sashimi	20 letters	
+fish082_name	record ROM 03CCAB	ワカシ	Yellowtail Fry	18 letters	
+fish082_alias	record ROM 03CCAB	ブリ	Yellowtail	18 letters	
+fish082_desc	record ROM 03CCAB	出世魚で名前が変わる。ワカシ・イナダ・ワラサ・ブリとなる。ワカシ級で30cm以上。幼魚はモジャコと呼ばれる。	Its name changes as it grows: wakashi, inada, warasa, buri. Wakashi are over 30cm.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish082_cook	record ROM 03CCAB	刺し身・照り焼き	Sashimi, teriyaki	20 letters	
+fish083_name	record ROM 03CCCC	イナダ	Jr. Yellowtail	18 letters	
+fish083_alias	record ROM 03CCCC	ブリ	Yellowtail	18 letters	
+fish083_desc	record ROM 03CCCC	出世魚で名前が変わる。ワカシ・イナダ・ワラサ・ブリとなる。イナダ級で40cm。タナは中層から底層20ー50m。	Its name changes as it grows: wakashi, inada, warasa, buri. Inada are about 40cm. Fish 20-50m.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish083_cook	record ROM 03CCCC	刺し身・照り焼き	Sashimi, teriyaki	20 letters	
+fish084_name	record ROM 03CCED	ワラサ	Big Yellowtail	18 letters	
+fish084_alias	record ROM 03CCED	ブリ	Yellowtail	18 letters	
+fish084_desc	record ROM 03CCED	出世魚で名前が変わる。ワカシ・イナダ・ワラサ・ブリとなる。ワラサ級で70cm。秋になると沿岸の岩礁周りを回游する。	Its name changes as it grows: wakashi, inada, warasa, buri. Warasa are 70cm. Roams reefs in fall.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish084_cook	record ROM 03CCED	刺し身・照り焼き	Sashimi, teriyaki	20 letters	
+fish085_name	record ROM 03CD0E	ブリ	Yellowtail	18 letters	
+fish085_alias	record ROM 03CD0E	 		18 letters	
+fish085_desc	record ROM 03CD0E	出世魚で名前が変わる。10キロ以上をブリと呼ぶ。トローリングやルアーでも狙える。寒ブリが脂ものってうまい。	Its name changes as it grows. Over 10 kg it's buri. Troll or cast lures. Winter buri are richest.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish085_cook	record ROM 03CD0E	照り焼き・塩焼き	Teriyaki, grilled	20 letters	
+fish086_name	record ROM 03CD2F	ベラ	Wrasse	18 letters	
+fish086_alias	record ROM 03CD2F	キュウセン	Rainbow Wrasse	18 letters	
+fish086_desc	record ROM 03CD2F	岩礁がある砂地を好み、雑食性。雄は青みが強くアオベラ雌は赤みが強くアカベラと呼ぶ。夜間は砂に潜り睡眠をとる。	Likes sand near rocks and eats anything. Males are blue, females red. Sleeps buried in sand at night.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish086_cook	record ROM 03CD2F	煮付け・南蛮漬け	Simmered, marinated	20 letters	
+fish087_name	record ROM 03CD50	ホウボウ	Gurnard	18 letters	
+fish087_alias	record ROM 03CD50	 		18 letters	
+fish087_desc	record ROM 03CD50	胸ビレ下部の3本の軟条が分離していて、海底を歩ける。夕方にウキブクロでポーッ、ポーッと音を出して鳴く。	Three free rays under its pectoral fins let it walk the bottom. Croaks with its bladder at dusk.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish087_cook	record ROM 03CD50	塩焼き・から揚げ	Grilled, fried	20 letters	
+fish088_name	record ROM 03CD71	イナ	Young Mullet	18 letters	
+fish088_alias	record ROM 03CD71	ボラ	Mullet	18 letters	
+fish088_desc	record ROM 03CD71	イナ、ボラ、トドと成長につれて名前が変わる。雑魚は河口域や淡水域にすみ、秋に沖の深みに移動する。	Its name changes as it grows: ina, bora, todo. Lives in river mouths, goes offshore in fall.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish088_cook	record ROM 03CD71	カラスミ	Bottarga	20 letters	
+fish089_name	record ROM 03CD92	ボラ	Mullet	18 letters	
+fish089_alias	record ROM 03CD92	ボラ	Gray Mullet	18 letters	
+fish089_desc	record ROM 03CD92	ボラが成長につれて名前が変わり、最後にトドになることから「とどのつまり」という。結局のところと言う意味。	It ends up as 'todo', so 'todo no tsumari' means 'in the end'. Lives in bays and river mouths.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish089_cook	record ROM 03CD92	カラスミ	Bottarga	20 letters	
+fish090_name	record ROM 03CDB3	マコガレイ	Marbled Sole	18 letters	
+fish090_alias	record ROM 03CDB3	 		18 letters	
+fish090_desc	record ROM 03CDB3	泥砂底を好み、眼は体の右側にある。雌は雄の倍ぐらい大きくなる。旬は冬、カレイの中で、もっとも美味。	Likes muddy sand. Eyes on the right. Females grow twice the male's size. The tastiest flatfish.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish090_cook	record ROM 03CDB3	刺し身・洗	Sashimi, arai	20 letters	
+fish091_name	record ROM 03CDD4	マダイ	Red Sea Bream	18 letters	
+fish091_alias	record ROM 03CDD4	 		18 letters	
+fish091_desc	record ROM 03CDD4	「海魚の王者」赤色に青緑色の斑点のある魚。岩礁帯に群れている。貝類・甲殻類を丈夫な歯で噛み砕いて食べる。	The king of sea fish: red with blue-green spots. Schools on reefs and crushes shells with its teeth.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish091_cook	record ROM 03CDD4	刺し身・兜焼き	Sashimi, head grill	20 letters	
+fish092_name	record ROM 03CDF5	マダコ	Octopus	18 letters	
+fish092_alias	record ROM 03CDF5	 		18 letters	
+fish092_desc	record ROM 03CDF5	沿岸の岩礁帯の岩穴やくぼみにすむ。日中はじっとしていて夜間、エビ、カニ、貝類、ウニ類などを食べる。	Lives in holes on rocky coasts. Rests by day and hunts shrimp, crabs, shells and urchins at night.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish092_cook	record ROM 03CDF5	刺し身・酢だこ	Sashimi, vinegared	20 letters	
+fish093_name	record ROM 03CE16	マハタ	Grouper	18 letters	
+fish093_alias	record ROM 03CE16	 		18 letters	
+fish093_desc	record ROM 03CE16	岩礁の多い沿岸のやや深いところにすむ。夜行性が強く、エビイカ、カニ、小魚などを食べる雑食性。	Lives a bit deep on rocky coasts. Mostly nocturnal. Eats shrimp, squid, crabs and small fish.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish093_cook	record ROM 03CE16	鍋物・粕漬け	Hot pot, sake-cured	20 letters	
+fish094_name	record ROM 03CE37	マフグ	Purple Puffer	18 letters	
+fish094_alias	record ROM 03CE37	ショウサイフグ	Puffer	18 letters	
+fish094_desc	record ROM 03CE37	危険を感じると水や空気を吸い込んで、腹をふくらませる。卵巣肝臓に猛毒があるので、素人は調理できない。	Puffs up with water or air in danger. Its ovaries and liver are deadly. Chefs only!	22 letters, then 28; 4 lines (wrapped by the build)	
+fish094_cook	record ROM 03CE37	食べない	Not eaten	20 letters	
+fish095_name	record ROM 03CE58	マンボウ	Sunfish	18 letters	
+fish095_alias	record ROM 03CE58	 		18 letters	
+fish095_desc	record ROM 03CE58	尾ビレが無いので、活発に泳げない。クラゲ類を食べている3億粒の卵を産み、孵化後はフグの形をしているが変態をする。	No tail fin, so it swims slowly. Eats jellyfish. Lays 300 million eggs.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish095_cook	record ROM 03CE58	酢の物	Vinegared	20 letters	
+fish096_name	record ROM 03CE79	ミノカサゴ	Lionfish	18 letters	
+fish096_alias	record ROM 03CE79	 		18 letters	
+fish096_desc	record ROM 03CE79	沿岸の岩礁底近くにすむ。毒腺のある背ビレにうっかり刺されると激しい痛みに襲われる。翼のような胸ビレが優雅。	Lives near coastal reef bottoms. Its venomous fins cause terrible pain. Graceful, wing-like fins.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish096_cook	record ROM 03CE79	食べない	Not eaten	20 letters	
+fish097_name	record ROM 03CE9A	ムツ	Gnomefish	18 letters	
+fish097_alias	record ROM 03CE9A	 		18 letters	
+fish097_desc	record ROM 03CE9A	水深300ー500mの海山などの斜面に群れている。両あごに鋭い犬歯を持っていて、小魚、イカ、甲殻類を食べる。	Schools on seamount slopes 300-500m deep. Sharp canine teeth. Eats fish, squid and crabs.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish097_cook	record ROM 03CE9A	鍋物・塩焼き	Hot pot, grilled	20 letters	
+fish098_name	record ROM 03CEBB	ムロアジ	Round Scad	18 letters	
+fish098_alias	record ROM 03CEBB	 		18 letters	
+fish098_desc	record ROM 03CEBB	やや沖合いの中層に大きな群れをつくる。生きエサにしてヒラマサ、シマアジ、カンパチ、マグロ、モロコを釣る。	Big schools mid-water offshore. Used as live bait for kingfish, jack, amberjack, tuna and grouper.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish098_cook	record ROM 03CEBB	刺し身・たたき	Sashimi, minced	20 letters	
+fish099_name	record ROM 03CEDC	メイチダイ	Bigeye Bream	18 letters	
+fish099_alias	record ROM 03CEDC	 		18 letters	
+fish099_desc	record ROM 03CEDC	眼を通る1本の暗色の横帯が名前の由来。沖合のやや深い岩礁帯にすみ、甲殻類、底生の小動物を食べる。	Named for the dark band through its eye. Lives on deeper offshore reefs, eating small animals.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish099_cook	record ROM 03CEDC	刺し身・塩焼き	Sashimi, grilled	20 letters	
+fish100_name	record ROM 03CEFD	メゴチ	Dragonet	18 letters	
+fish100_alias	record ROM 03CEFD	 		18 letters	
+fish100_desc	record ROM 03CEFD	東京と新潟以南の浅場から水深100mまでの砂泥底にすむ。ヌルヌルしていて嫌われるが、味は美味。	Lives on sandy mud down to 100m. Slimy and disliked, but it tastes great.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish100_cook	record ROM 03CEFD	テンプラ美味	Great as tempura	20 letters	
+fish101_name	record ROM 03CF1E	メジナ	Opaleye	18 letters	
+fish101_alias	record ROM 03CF1E	 		18 letters	
+fish101_desc	record ROM 03CF1E	沿岸の岩礁帯にすむ魚で、海藻や小動物を食べる。本来は、根につく魚だが、コマセで浮かせて釣る。	Lives on coastal reefs and eats seaweed and small animals. Stays deep, so chum draws it up.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish101_cook	record ROM 03CF1E	やや磯臭い	A bit reefy	20 letters	
+fish102_name	record ROM 03CF3F	メダイ	Barrelfish	18 letters	
+fish102_alias	record ROM 03CF3F	 		18 letters	
+fish102_desc	record ROM 03CF3F	深海中層の岩礁底周辺にすみ、甲殻類やイカなどを食べる。眼が大きいことが名前の由来。頭部がまるい。	Lives around deep reefs, eating crabs and squid. Named for its big eyes. Its head is round.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish102_cook	record ROM 03CF3F	刺し身・照り焼き	Sashimi, teriyaki	20 letters	
+fish103_name	record ROM 03CF60	メバチ	Bigeye Tuna	18 letters	
+fish103_alias	record ROM 03CF60	 		18 letters	
+fish103_desc	record ROM 03CF60	眼が大きいのが名前の由来外洋性の回游魚でやや深いところまで潜る。身はピンク色でやわらかい。	Named for its big eyes. Roams the open sea and dives fairly deep. Soft, pink flesh.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish103_cook	record ROM 03CF60	刺し身・寿司種	Sashimi, sushi	20 letters	
+fish104_name	record ROM 03CF81	メバル	Rockfish	18 letters	
+fish104_alias	record ROM 03CF81	 		18 letters	
+fish104_desc	record ROM 03CF81	「目張」目の大きな魚。卵胎生で2月ごろ仔魚が産まれる。海が荒れていると岩陰でおとなしくしている。	'Big eyes'. Bears live young around February. When the sea is rough it hides in the rocks.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish104_cook	record ROM 03CF81	甘酢あんかけ	Sweet-sour sauce	20 letters	
+fish105_name	record ROM 03CFA2	モロコ	Kelp Grouper	18 letters	
+fish105_alias	record ROM 03CFA2	クエ	Longtooth	18 letters	
+fish105_desc	record ROM 03CFA2	磯で釣れる大型の魚。水深50mまでの岩礁帯にすみ、夜になると泳ぎまわりエサを取る。肉食性で小魚、イカ類を食べる。	A giant caught from the rocks. Lives on reefs to 50m and hunts small fish and squid at night.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish105_cook	record ROM 03CFA2	刺し身・ちり鍋	Sashimi, hot pot	20 letters	
+fish106_name	record ROM 03CFC3	ヤリイカ	Spear Squid	18 letters	
+fish106_alias	record ROM 03CFC3	 		18 letters	
+fish106_desc	record ROM 03CFC3	ヒレの先端が尖り、槍先のように見える。沿岸のやや深いところを群れる。動きが敏捷で時速50キロで泳ぐ。	Its pointed fin tip looks like a spearhead. Schools a bit deep near the coast. Swims at 50 km/h.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish106_cook	record ROM 03CFC3	塩辛・刺し身	Fermented, sashimi	20 letters	
+fish107_name	record ROM 03CFE4	ネコザメ	Bullhead Shark	18 letters	
+fish107_alias	record ROM 03CFE4	 		18 letters	
+fish107_desc	record ROM 03CFE4	お腹のまわりが赤い。尾に1ー3本の大きい棘があり、有毒で刺されると危険。肉食性でゴカイ類、エビ、カニを食べる。	Red around the belly. One to three big venomous tail spines. Eats worms, shrimp and crabs.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish107_cook	record ROM 03CFE4	カマボコ・煮物	Fish cakes, stew	20 letters	
+fish108_name	record ROM 03D005	ウツボ	Moray Eel	18 letters	
+fish108_alias	record ROM 03D005	 		18 letters	
+fish108_desc	record ROM 03D005	気が荒く歯が鋭いので、噛まれると非常に痛い。胸ビレや腹ビレが無い。夜行性で昼間は岩の穴や裂け目にひそむ。	Fierce with sharp teeth, and its bite really hurts. Hides in rock holes by day, hunts at night.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish108_cook	record ROM 03D005	蒲焼き・テンプラ	Kabayaki, tempura	20 letters	
+fish109_name	record ROM 03D026	ウミノシタ	Tongue Sole	18 letters	
+fish109_alias	record ROM 03D026	 		18 letters	
+fish109_desc	record ROM 03D026	沿岸の砂泥地にすむ。昼は砂に潜りじっとしていて、夜になると体を波立たせ海底を泳ぐ。ゴカイ類エビ貝などを食べる。	Lives on sandy mud. Buried by day, it ripples along the bottom at night eating worms and shrimp.	22 letters, then 28; 4 lines (wrapped by the build)	
+fish109_cook	record ROM 03D026	バター焼き・ムニエル	Butter, meuniere	20 letters	
+fish110_name	record ROM 03D047	アンコウ	Anglerfish	18 letters	
+fish110_alias	record ROM 03D047	 		18 letters	
+fish110_desc	record ROM 03D047	頭が巨大で、胴体と尾ビレは小さい。砂の中に潜り、背ビレについた擬餌で魚をおびき寄せ、ガブリと食いつく。深海のドン。	A huge head with a small body. It hides in sand and lures fish with the bait on its fin. Gulp!	22 letters, then 28; 4 lines (wrapped by the build)	
+fish110_cook	record ROM 03D047	鍋物・あん肝	Hot pot, liver	20 letters	
+fish111_name	record ROM 03D068	予備	Spare	18 letters	
+fish111_alias	record ROM 03D068	 		18 letters	
+fish111_desc	record ROM 03D068	 		22 letters, then 28; 4 lines (wrapped by the build)	
+fish111_cook	record ROM 03D068	 	 	20 letters	
+fish112_name	record ROM 03D089	予備	Spare	18 letters	
+fish112_alias	record ROM 03D089	 		18 letters	
+fish112_desc	record ROM 03D089	 		22 letters, then 28; 4 lines (wrapped by the build)	
+fish112_cook	record ROM 03D089	 	 	20 letters	

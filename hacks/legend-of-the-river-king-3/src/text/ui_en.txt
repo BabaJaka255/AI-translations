@@ -1,0 +1,731 @@
+# UI strings: index into out/ui_jp.json <TAB> English. Lines starting with # are comments.
+# Unlisted entries (false positives, the つり太郎 debug name) stay untouched.
+12	Your name?
+13	 
+14	swam off happily!
+15	 went
+16	into the creel!
+17	Your creel is full!
+18	It wouldn't fit in the creel.
+19	HP used: 
+20	.
+21	Gained EXP: 
+22	!
+23	All right! You leveled up!
+24	HP +
+25	 
+26	Power +
+27	Skill +
+28	No EXP gained this time.
+29	 
+30	broke!
+31	House
+32	House - Bedroom
+33	Castle - Servants' Room
+34	Mysterious Forest - Center
+35	Big Man's House
+36	Woods
+37	Countryside
+38	City
+39	Nushikiri Village
+40	Nushikiri Village - Mountain
+41	Nushikiri - Summit Pond
+42	Cave - Entrance
+43	Shizuki's Cave
+44	Kiyo's House
+45	General Store
+46	Elder's House
+47	Elder's House - Bedroom
+48	Gonsaku's House
+49	Hatsune's House
+50	Fish Shop
+51	Oven Kingdom
+52	Keep Out - Danger
+53	Castle - Basement
+54	Castle - Tackle Room
+55	Castle - Gallery
+56	Castle - Hallway
+57	Castle - Servants' Room
+58	Castle - Dining Hall
+59	Castle - Throne Room
+60	Castle - King's Room
+61	Castle - Prince's Room
+62	Castle - Secret Room
+63	Castle - Dungeon
+64	Castle - Old Butler's Room
+65	Castle - Akira's Room
+66	Castle - Kitchen
+67	Castle - Roof
+68	House
+69	Tattoo Parlor
+70	BAR
+71	Old Butler's House
+72	Cold Park
+73	Cold Park - River
+74	Cold Park - Lake
+75	Dorch's House
+76	School - Hallway
+77	School - Classroom
+78	Ms. Pumpt's House
+79	Sauna
+80	Hotel
+81	Coconut Village
+82	Lao's House
+83	Keto's House
+84	Old Woman's House
+85	Angus's House
+86	Rest Area
+87	Goka's House
+88	Fairy Town
+89	Boat Rental
+90	Inn
+91	Market Tent
+92	Haruki's House
+93	Emmett Manor - 1F Hall
+94	Emmett Manor - 2F Hall
+95	Emmett Manor - Guest Room
+96	Emmett Manor - Father's Room
+97	Emmett Manor - Emmett's Room
+98	Mysterious Forest
+99	Masu Trout
+100	Char
+101	Redspot Trout
+102	Taimen
+103	Pond Smelt
+104	Masu Salmon
+105	Catfish
+106	Carp
+107	Silver Carp
+108	Snakehead
+109	Arapaima
+110	Silver Arowana
+111	Piranha
+112	Fw. Stingray
+113	Tucunare
+114	Dorado
+115	Tilapia
+116	Nile Perch
+117	Payara
+118	Trairao
+119	King Salmon
+120	Red Salmon
+121	Grayling
+122	Brown Trout
+123	Rainbow Trout
+124	Steelhead
+125	Dolly Varden
+126	Arctic Char
+127	Northern Pike
+128	Sturgeon
+129	Pangasius
+130	Knifefish
+131	Silver Shark
+132	Red Arowana
+133	Kissing Gourami
+134	Bighead Carp
+135	Grass Carp
+136	Black Carp
+137	Alligator Gar
+138	Spotted Gar
+139	Texas Cichlid
+140	Bowfin
+141	Bluegill
+142	Black Bass
+143	Barramundi
+144	Muskie
+145	Golden Arowana
+146	Blue Arowana
+147	River King
+149	Rice Ball
+150	They all look alike, but there are
+151	several kinds of filling inside.
+152	Hamburger
+153	Meat and veggies all at once in
+154	one handy package. Brilliant!
+155	one handy package. Brilliant!
+156	Meat Bun
+157	It says "meat bun", but sometimes
+158	it's bean paste, or curry...
+159	Bread
+160	Fresh from the oven, piping hot.
+161	(It cools off if you wait, though)
+162	Cheese
+163	Rich in protein, fat and vitamins,
+164	so they say it's very nutritious.
+165	Dried Fish
+166	What fish it was is a secret.
+167	Meat
+168	A hearty helping.
+169	Cabbage
+170	Veggies grown with no pesticides.
+171	Milk
+172	Freshly squeezed and still warm.
+173	(Not if it's been a while...)
+174	Oolong Tea
+175	It's tea.
+176	Coffee
+177	Bitter juice.
+178	Water
+179	Just plain, ordinary water.
+180	Drink 1
+181	Just ordinary juice.
+182	Drink 2
+183	Drink 3
+184	Drink 4
+185	Drink 5
+186	Mushroom
+187	A mushroom from the forest.
+188	Looks tasty.
+189	Mushroom?
+190	Is it even edible?
+191	Grapes
+192	A fruit that fell in the forest.
+193	Apple
+194	Peach
+195	Herb
+196	A plant that grew in the forest.
+197	Looks like it might restore HP.
+198	Herb?
+199	Is it safe to eat?
+200	Nuts
+201	Nuts found on the forest floor.
+202	Might raise your max HP...
+203	Might raise your Power...
+204	Might raise your Skill...
+205	Dungeon Key
+206	Opens the castle dungeon door.
+207	Tackle Room Key
+208	Opens the door to the basement.
+209	Roof Key
+210	Opens the door to the roof stairs.
+211	Sun Stone
+212	Heirloom of the Oven royal family.
+213	Chum
+214	Scatter in water to draw fish.
+215	Fish Grill
+216	Grill fish and eat to restore HP.
+217	Rope
+218	For climbing up and down cliffs.
+219	Rucksack
+220	Lets you carry lots more stuff.
+221	Big Creel
+222	Lets you carry 10 fish.
+223	Bigger Creel
+224	Lets you carry 15 fish.
+225	Money Bag
+226	Rolling in money!♪
+227	Bait Rod S
+228	A short-casting rod for bait.
+229	Bait Rod M
+230	A mid-casting rod for bait.
+231	Bait Rod L
+232	A long-casting rod for bait.
+233	Lure Rod S
+234	A short-casting rod for lures.
+235	Lure Rod M
+236	A mid-casting rod for lures.
+237	Lure Rod L
+238	A long-casting rod for lures.
+239	Royal Rod
+240	The rod the King used.
+241	Legendary Rod
+242	A rod from the Shaman.
+243	Finesse Reel
+244	Fast retrieve,
+245	but weak winding power.
+246	Normal Reel
+247	Retrieve speed and power
+248	are both average.
+249	Power Reel
+250	Slow retrieve,
+251	but strong winding power.
+252	Royal Reel
+253	The reel the King used.
+254	Legendary Reel
+255	A reel from the Shaman.
+256	Bait Line
+257	A weak line for bait fishing.
+258	Lure Line S
+259	A weak line for lure fishing.
+260	Lure Line M
+261	A medium line for lure fishing.
+262	Lure Line L
+263	Strong; small fish rarely bite.
+264	A line for lure fishing.
+265	Lure Line XL
+266	Strongest; small fish won't bite.
+267	Strongest; small fish won't bite.
+268	Royal Line
+269	The line the King used.
+270	Legendary Line
+271	A line from the Shaman.
+272	Hook S
+273	Good for catching small fish.
+274	Hook M
+275	Works fairly well for any fish.
+276	Hook L
+277	Good for catching big fish.
+278	Worms
+279	Worms dug up from the ground.
+280	Insects
+281	Insects hopping on the ground.
+282	Shrimp
+283	Shrimp from the water nearby.
+284	Frog
+285	A frog from the waterside.
+286	Paste Bait
+287	Bait sold in shops.
+288	Spinnerbait
+289	Retrieve speed sets the depth.
+290	Minnow
+291	A lure for near the surface.
+292	Deep Diver
+293	A minnow that swims deep.
+294	Crankbait
+295	Swims mid-depth to deep.
+296	Jig Spinner
+297	Soft Lure
+298	A lure that mimics live bait.
+299	Every fish takes an interest.
+300	Rubber Jig
+301	A fuzzy lure with rubber skirts.
+302	Frog Lure
+303	A floating lure. Appeals to fish
+304	that prey on small animals.
+305	Royal Lure
+306	The lure the King used.
+307	Legendary Lure
+308	A lure from the Shaman.
+309	Invalid item name
+310	Choose a fish from your creel.
+311	Choose a fish. (B: Back)
+312	Money
+313	G→
+314	G
+315	Your creel is full.
+316	Choose a fish to release.
+319	Fish
+320	Price
+321	Size
+322	Food
+323	Items
+324	Bait/Lure
+325	Tackle
+326	Creel
+327	Fish Note
+328	Options
+329	HP    
+330	Pow   
+331	Skl   
+332	Money 
+333	EXP
+334	You won't be able to lure fish,
+335	You won't be able to bait fish,
+336	sell it anyway?
+337	Yes
+338	No
+339	Thank you!
+340	Not selling, huh?
+341	Not buying, huh?
+342	How many will you sell?
+343	Thanks a lot!
+344	That item can't be sold.
+345	How many will you buy?
+346	You can't carry any more of that.
+347	You don't have enough money.
+348	Money
+349	G
+350	Can't sell that!
+351	Left  
+352	Not enough!
+353	You have nothing to sell.
+354	Nothing for sale.
+355	Sell
+356	Buy
+357	Choose a fish.
+358	(B: Back)
+361	Fish
+362	Size
+363	HP +
+364	!
+365	Nushikiri Village Fishing Note
+366	Oven Kingdom Fishing Note
+367	Cold Park Fishing Note
+368	Coconut Village Fishing Note
+369	Fairy Town Fishing Note
+370	Mysterious Forest Fishing Note
+371	Fish caught in Nushikiri Village
+372	Fish caught in the Oven Kingdom
+373	Fish caught in Cold Park
+374	Fish caught in Coconut Village
+375	Fish caught in Fairy Town
+376	Fish caught in Mysterious Forest
+377	are recorded here.
+378	Done
+379	%
+380	You can't open it here.
+381	Bait unequipped.
+382	 can't be equipped.
+383	Equip a hook first.
+384	 equipped.
+385	Lure
+386	 unequipped.
+387	Equip a lure line first.
+388	 is equipped, so
+389	 can't be equipped.
+390	No bait or lure equipped.
+391	No hook equipped.
+392	No line equipped.
+393	No reel equipped.
+394	No rod equipped.
+395	Rod
+396	 unequipped.
+397	Reel, line and lure unequipped.
+398	Line, hook and bait unequipped.
+399	 equipped.
+400	Next, equip a bait line.
+401	Next, equip a reel.
+402	Reel
+403	Line and lure unequipped.
+404	You can't equip a reel.
+405	Equip a lure rod first.
+406	A bait rod is equipped, so
+407	a reel can't be equipped.
+408	 is equipped, so
+409	 can't be equipped.
+410	Next, equip a lure line.
+411	Line
+412	Lure unequipped too.
+413	Hook and bait will be unequipped.
+414	 can't be equipped.
+415	Equip a reel first.
+416	Next, equip a lure.
+417	Equip a bait rod first.
+418	A lure rod is equipped, so
+419	Next, equip a hook.
+420	Hook
+421	Bait will be unequipped.
+422	Equip a bait line first.
+423	Next, equip some bait.
+424	 eaten.
+425	HP +
+426	!
+427	 drunk.
+428	!
+429	Max HP +
+430	!
+431	Power +
+432	Skill +
+433	You don't have anything.
+434	You can't use that here.
+435	You scattered the chum.
+436	Your creel is empty.
+437	Choose a fish.
+438	Movement
+439	Save
+440	Load
+441	Type 1    Type 2
+442	There's no save file.
+443	Change how you move.
+444	There's no save file.
+445	D-Pad Up moves up-left,
+446	Down moves down-right,
+447	Left moves down-left,
+448	and Right moves up-right.
+449	D-Pad Up moves up-right,
+450	Down moves down-left,
+451	Left moves up-left,
+452	and Right moves down-right.
+453	Overwrite this file?
+454	Yes
+455	No
+456	Saving...
+457	Don't turn off the power.
+458	Don't remove the Game Pak.
+459	Save complete.
+460	Press any button.
+461	Save failed.
+462	Load this file?
+463	Loading...
+464	Load complete.
+465	Load failed.
+466	HP
+467	Skl
+468	Money
+469	Pow
+470	EXP
+471	You can't fish here.
+472	Your tackle isn't complete,
+473	so you can't fish.
+474	There's no bait on.
+475	There's no lure on.
+476	You can't fish while swimming.
+478	Kick
+480	, are you OK!?
+481	You look ready to collapse!
+482	Rest soon or you'll pass out!
+483	If your HP runs out, you'll drown.
+484	, you look tired.
+485	Why not take a little rest?
+486	Swimming drains your HP.
+487	 damage
+488	You searched at your feet.
+489	 obtained.
+490	 found.
+491	...but you can't carry any more.
+492	Bug
+493	 found.
+494	But you didn't find anything.
+556	Nothing caught yet
+557	Got:
+558	Best:
+559	
+560	Sea-run ones become big masu
+561	salmon. They line up in the flow,
+562	strongest first, waiting for food
+563	to drift down to them.
+564	Loves cold water. Lives in upper
+565	rivers and lakes that stay below
+566	15C even in summer. Greedy; eats
+567	insects, small fish, even snakes.
+568	Has small red spots on its sides.
+569	Said to bite well on drizzly days.
+570	Also called amego; the name amago
+571	may come from "rain fish".
+572	A very large freshwater species.
+573	Lives in rivers and lakes with
+574	marshland. Young eat water insects
+575	but adults also take frogs, mice.
+576	A salmon relative that originally
+577	ran between sea and fresh water.
+578	Active morning and evening; feeds
+579	mostly on zooplankton.
+580	The sea-run form of masu trout.
+581	After a year at sea or in a lake,
+582	it returns as cherries bloom, up
+583	rivers swollen with snowmelt.
+584	Lives on muddy bottoms of slow,
+585	warm rivers and ponds. Sluggish by
+586	day, but after dark it moves fast
+587	to chase down its food.
+588	Likes slightly murky, warm spots
+589	in rivers and lakes. Omnivorous:
+590	water insects, worms, even potato
+591	paste and other plant baits.
+592	Lives in big ponds and the lower
+593	reaches of large rivers. Swims in
+594	schools near the surface, eating
+595	 
+596	Extremely fierce and carnivorous.
+597	Both parents build a floating nest
+598	and guard the fry together until
+599	they have grown.
+600	A giant unchanged since ancient
+601	times. As it grows, its rear
+602	scales turn red. Pirarucu means
+603	"red fish".
+604	Likes shallow river spots full of
+605	driftwood and flooded trees.
+606	A beautiful ancient fish, with a
+607	metal sheen and a sword-like body.
+608	Famed as a man-eater, but rather
+609	timid. Strong jaws, sharp teeth;
+610	teeth; schools may even attack
+611	large animals.
+612	A ray that lives in fresh water,
+613	unlike most of its sea relatives.
+614	Its flat body is called a disc.
+615	Sensitive to water quality.
+616	Fights hard and gulps down small
+617	fish in a single bite.
+618	Mature males grow a hump on the
+619	forehead. AKA peacock bass.
+620	A big, beautiful golden fish that
+621	looks a bit like a salmon. Wild-
+622	tempered; its strong jaws are said
+623	to crush lures.
+624	Lives in rivers, lakes and many
+625	other waters, tolerating a wide
+626	range of temperature and salt.
+627	Large and a fierce fish-eater.
+628	Hangs head-down; its dark and pale
+629	brown mottling is lovely. Long ago
+630	it was mummified and worshipped.
+631	Long fangs jut from its big mouth.
+632	Wild-looking but actually gentle;
+633	ignores fish too big to swallow.
+634	Feeds mostly on small fish.
+635	Called "freshwater coelacanth".
+636	An ancient fish whose strong jaws
+637	crush anything. Grows very large.
+638	Runs upriver to spawn any season,
+639	in the main channel or riffles of
+640	big tributaries. A large fish rich
+641	in fat.
+642	As it matures, its head turns
+643	olive green; its back and sides
+644	turn a vivid red.
+645	Runs up from the sea to spawn.
+646	Its big, lovely dorsal fin is like
+647	a sail. Likes varied currents and
+648	and moves in schools. Also called
+649	the river lady.
+650	Greenish brown back, silvery white
+651	belly. Lives under rocks in cold,
+652	oxygen-rich lakes. Large adults
+653	become keen fish-eaters.
+654	A red-pink stripe on its sides and
+655	black spots. River fish eat
+656	insects and small animals; in lake
+657	or sea, big ones eat fish.
+658	The sea-run rainbow trout. At sea
+659	it turns silver; its metal color
+660	and shape gave it its name.
+661	Some go to sea and some stay in
+662	rivers; this is the river form.
+663	The sea-run form is also called
+664	Dolly Varden.
+665	A char relative, brown or olive
+666	green with orange spots. Tends to
+667	migrate down to the sea.
+668	Big mouth, sharp teeth, white
+669	spots on its back. So greedy it
+670	eats ducklings and rats: the
+671	"wolf beneath the water".
+672	Pointed snout, two barbel pairs.
+673	Its big plate scales look like
+674	butterflies (Japanese: chouzame).
+675	Its eggs are prized as caviar.
+676	A giant catfish, said to be the
+677	largest scaleless freshwater fish.
+678	Much of its life is still unknown.
+679	Also called the "halberd catfish";
+680	its flat body looks just like the
+681	tip of a halberd. Adults eat small
+682	fish and are aggressive.
+683	Named for its sleek, shark-like
+684	body and silver color. Each fin is
+685	edged in black. A gentle fish.
+686	 
+687	An arowana dyed red all over.
+688	This kind comes in many colors.
+689	Also called "red dragon" or
+690	"red chili".
+691	Two of them "kissing" face to face
+692	looks cute, but it isn't love;
+693	actually a kind of fight.
+694	Very like the silver carp, but
+695	darker, with many irregular dark
+696	cloudy blotches on its sides.
+697	Feeds mainly on plankton.
+698	Lives in deep spots of lower
+699	rivers and lakes, eating plants on
+700	the banks. A big eater, so it is
+701	stocked in ponds to clear weeds.
+702	Lives deep in lower rivers and
+703	lakes, eating mostly shellfish,
+704	shrimp and insects on the bottom.
+705	Fished as a food resource.
+706	A giant ancient fish; its pointed
+707	snout and teeth recall a gator.
+708	Its mouth is built to seize prey;
+709	hard scales guard it like armor.
+710	Lives in clear, slow, weedy rivers
+711	and in lowland marshes.
+712	Its pattern of spots or stripes
+713	varies a great deal.
+714	Mature males grow a forehead hump,
+715	with light green spots all over.
+716	Ill-tempered, but pairs get along
+717	extremely well.
+718	An ancient fish known for swimming
+719	by rippling its dorsal fin. Adults
+720	eat fish and insects. Its air
+721	bladder works as a lung.
+722	Lives in weedy lakes and slow
+723	rivers. Named for the dark blue
+724	patch at the back of its gill
+725	cover.
+726	Prefers still water, so it lives
+727	mostly in lakes, but also in slow
+728	stretches of lower rivers.
+729	Eats fish even when young.
+730	Shining silver scales and ruby-red
+731	glowing eyes. Big fins drive it
+732	powerfully through the water. Its
+733	name means "big-scaled fish".
+734	A fierce fish, sharp-toothed and
+735	wide-mouthed; swallows prey whole.
+736	It hides in cover, but once it
+737	picks a target, it strikes fast.
+738	Golden arowanas are called "golden
+739	dragons", and those whose gold
+740	scales reach over the back are
+741	"cross-back golden dragons".
+742	A blue arowana whose scales are
+743	blue-violet in the middle. Very
+744	rare: a super-rare fish.
+745	It looks a lot like a bichir, but
+746	what it really is, no one knows.
+747	Rumor says it crosses between
+748	worlds and has lived for ages.
+750	Save the game?
+751	Yes
+752	No
+753	Saving...
+754	Don't turn off the power.
+755	Don't remove the Game Pak.
+756	Save complete.
+757	Press any button.
+758	Save failed.
+759	@STAFF
+760	@Coordinators
+761	Toshihito Fukura
+762	Karin Sakoryu
+763	Katsunari Kojima
+764	Yutaka Akita
+765	Karin Uryu
+766	Magoichi Oritake
+767	@Designers
+768	Tsuyoshi Yamagami
+769	Toshiki Hirose
+770	Saiko Ajin
+771	Ayane Mizuhara
+772	Kumiko Suga
+773	Koharu Matsumoto
+774	KAKU
+775	Ueou
+776	@Sound
+777	YUMIZ
+778	@Programmers
+779	Namaebi Satoda
+780	Kazuya Hitotsubashi
+781	Toki Toi
+782	Tetsuya Tsugami
+783	@Script Support
+784	Ryo Hikawa
+785	Shoichi Ashihara
+786	@Debugging
+787	Keita Kawai
+788	Naomi Uemura
+789	@Character Design
+790	Hideki Ito (Kiryu Co., Ltd.)
+791	@Visual Director
+792	Hiroki Matsunaga
+793	@Original Concept
+794	Yasuhiro Wada
+795	Mariko Ishikawa
+796	Akinori Sekine
+797	@Promotion Producer
+798	Yasuo Ono
+799	@Publicity
+800	Shunsuke Murai
+801	@Manual
+802	Miki Miyagi
+803	@Production Producer
+804	@Special Thanks
+805	Yoshiaki Iwasawa
+806	@Executive Producer
+807	Seiichi Kizu
+@1019F8	Lv
+@1029F0	Lv

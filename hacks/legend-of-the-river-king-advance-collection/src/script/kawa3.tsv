@@ -1,0 +1,412 @@
+id	location	japanese	english	limit	notes
+g3_1b2dd	ROM 01B2DD-01B32B, pointers at 01AB28	　　−　EDIT　−{f1}{f1}　　　　マップ{f1}　　　　ばしょ{f1}　　たいりょく{f1}　　　　おかね{f1}　　　けいけん{f1}　　DUMMY{f1}　　DUMMY{f1}　　DEBUG{f0}		128 px x 2 lines per page	not in the translation tables (debug text, graphics label or unused)
+g3_1b32b	ROM 01B32B-01B33D, pointers at 01AB2C	　0123456789ABCDEF{f0}		128 px x 2 lines per page	not in the translation tables (debug text, graphics label or unused)
+g3_1b33d	ROM 01B33D-01B356, pointers at 01AB30	　　−　SOUND　−{f1}{f1}　　BGM{f1}　　　SE{f0}		128 px x 2 lines per page	not in the translation tables (debug text, graphics label or unused)
+g3_1b356	ROM 01B356-01B37C, pointers at 01AB34	−　GOTOPRG　−{f1}{f1}{f1}　PRGNO1{f1}　PRGNO2{f1}　PRGNO3{f0}		128 px x 2 lines per page	not in the translation tables (debug text, graphics label or unused)
+g3_1b37c	ROM 01B37C-01B3CA, pointers at 01AB38	タイトル　　〜6　　GAME　　ファイト　　〜2どうぶつせん〜0うおっち　　〜2つりメモ　　〜1エンディング〜2DEBUG　〜2これいじょうは…{f0}		128 px x 2 lines per page	not in the translation tables (debug text, graphics label or unused)
+g3_1b3ca	ROM 01B3CA-01B3E5, pointers at 01AB3C	{f8 03}いらっしゃいませ！{f1}なにを、おさがしですか？{f0}	{f8 03}Welcome! What are you looking for?{f0}	128 px x 2 lines per page	
+g3_1b3e5	ROM 01B3E5-01B3F6, pointers at 01AB40	{f8 03}ほかに、ございませんか？{f0}	{f8 03}Anything else for you?{f0}	128 px x 2 lines per page	
+g3_1b3f6	ROM 01B3F6-01B409, pointers at 01AB44	{f5}はいいいえ{f4}これでいいですか？{f0}	{f5}YesNo{f4}Is this all right?{f0}	128 px x 2 lines per page	
+g3_1b409	ROM 01B409-01B41A, pointers at 01AB48	ありがとうございました。{fb f0}	Thank you very much.{fb f0}	128 px x 2 lines per page	
+g3_1b41b	ROM 01B41B-01B42B, pointers at 01AB4C	{f8 03}つれているじゃないか！！{f0}	{f8 03}Hey, you caught some fish!!{f0}	128 px x 2 lines per page	
+g3_1b42b	ROM 01B42B-01B44C, pointers at 01AB50	どうだい、このねだんで{f1}うってくれるかい？{f5}はい　いいえ{f0}	How about it? Will you sell{f1}at this price?     |Yes |No{f0}	128 px x 2 lines per page	
+g3_1b44c	ROM 01B44C-01B465, pointers at 01AB54	さかなが、{f1}びくにはいっていないですよ！{fb f0}	There are no fish in your creel!{fb f0}	128 px x 2 lines per page	
+g3_1b466	ROM 01B466-01B488, pointers at 01AB58	やどやにとまりなさるか。{fb 80}{f2}{f9 08}円じゃが{f1}よろしいかの？{ff}{f0}	Staying the night at the inn?{fb 80}{f2}That'll be {f9 08} yen. Is that all right?{ff}{f0}	128 px x 2 lines per page	
+g3_1b488	ROM 01B488-01B49B, pointers at 01AB5C	おかねがたりないようです・・・{fb f0}	You don't have enough money...{fb f0}	128 px x 2 lines per page	
+g3_1b49c	ROM 01B49C-01B4AB, pointers at 01AB60	すでにもっています・・・{fb f0}	You already have one...{fb f0}	128 px x 2 lines per page	
+g3_1b4ac	ROM 01B4AC-01B4BD, pointers at 01AB64	これいじょうもてません・・・{fb f0}	You can't carry any more...{fb f0}	128 px x 2 lines per page	
+g3_1b4be	ROM 01B4BE-01B503, pointers at 01AB68	{f6}は、{f1}{f9 08}をたべた。{fb 80}{f2}たいりょくが{f1}{f9 18}ポイントかいふくした。{fb 80}{f2}さいだいたいりょくまで{f1}あと{f9 20}ポイントです。{fb f0}	{f6} ate the {f9 08}.{fb 80}{f2}Recovered {f9 18} HP.{fb 80}{f2}{f9 20} more HP to full.{fb f0}	128 px x 2 lines per page	
+g3_1b504	ROM 01B504-01B53D, pointers at 01AB6C	{f6}は、{f1}{f9 08}をたべた。{fb 80}{f2}たいりょくが{f1}{f9 18}ポイントかいふくした。{fb 80}{f2}おなかがいっぱいになった。{fb f0}	{f6} ate the {f9 08}.{fb 80}{f2}Recovered {f9 18} HP.{fb 80}{f2}Your tummy is full.{fb f0}	128 px x 2 lines per page	
+g3_1b53e	ROM 01B53E-01B558, pointers at 01AB70	おなかがいっぱいで{f1}たべられません・・・{fb f0}	You're too full to eat...{fb f0}	128 px x 2 lines per page	
+g3_1b559	ROM 01B559-01B56D, pointers at 01AB74	どちらのデータではじめますか？{f0}	Which file do you want to play?{f0}	128 px x 2 lines per page	
+g3_1b56d	ROM 01B56D-01B589, pointers at 01AB78	データをけします。{f1}ファイルをえらんでください。{f0}	Erase data. Choose a file.{f0}	128 px x 2 lines per page	
+g3_1b589	ROM 01B589-01B5A0, pointers at 01AB7C	このデータをけしてもよろしいですか？{f1}{ff}{f0}	Erase this data?{f1}{ff}{f0}	128 px x 2 lines per page	
+g3_1b5a0	ROM 01B5A0-01B5A2, pointers at 01AB80	{f6}{f0}		128 px x 2 lines per page	not in the translation tables (debug text, graphics label or unused)
+g3_1b5a2	ROM 01B5A2-01B5BA, pointers at 01AB84	セーブするファイルを{f1}えらんでください。{f0}	Choose a file to save to.{f0}	128 px x 2 lines per page	
+g3_1b5ba	ROM 01B5BA-01B5C9, pointers at 01AB88	ほんとうにいいですか？{f1}{ff}{f0}	Are you sure?{f1}{ff}{f0}	128 px x 2 lines per page	
+g3_1b5c9	ROM 01B5C9-01B5DE, pointers at 01AB8C	「うおっち」のステータスをみますか？{f1}{ff}{f0}	View the Uocchi status?{f1}{ff}{f0}	128 px x 2 lines per page	
+g3_1b5de	ROM 01B5DE-01B5F1, pointers at 01AB90	ゲームをしゅうりょうしますか？{f1}{ff}{f0}	Quit the game?{f1}{ff}{f0}	128 px x 2 lines per page	
+g3_1b5f1	ROM 01B5F1-01B607, pointers at 01AB94	そだてるファイルをえらんでください。{f0}	Choose a file to raise.{f0}	128 px x 2 lines per page	
+g3_1b607	ROM 01B607-01B621, pointers at 01AB98	みずのふかさを、2だんかいから{f1}えらびます。{f0}	Choose one of two water depths.{f0}	128 px x 2 lines per page	
+g3_1b621	ROM 01B621-01B63F, pointers at 01AB9C	みずのながれが「ある」か「ない」かを{f1}えらびます。{f0}	Choose whether the water has a current or not.{f0}	128 px x 2 lines per page	
+g3_1b63f	ROM 01B63F-01B664, pointers at 01ABA0	みずぞこに「すな」か「じゃり」の{f1}どちらをしくか、えらびます。{f0}	Choose sand or rocks for the bottom of the tank.{f0}	128 px x 2 lines per page	
+g3_1b664	ROM 01B664-01B66F, pointers at 01ABA4	しゅうりょうします。{f0}	Quit.{f0}	128 px x 2 lines per page	
+g3_1b66f	ROM 01B66F-01B67C, pointers at 01ABA8	{f9 00}がうまれました。{fb f0}	Your {f9 00} hatched!{fb f0}	128 px x 2 lines per page	
+g3_1b67d	ROM 01B67D-01B68E, pointers at 01ABAC	{f9 00}は、{f1}{f9 10}にへんかした！！{fb f0}	Your {f9 00} grew up into a {f9 10}!!{fb f0}	128 px x 2 lines per page	
+g3_1b68f	ROM 01B68F-01B6A5, pointers at 01ABB0	ややおおきめの{f1}ごつごつしたいしです{f0}	A fairly large, rugged stone.{f0}	128 px x 2 lines per page	
+g3_1b6a5	ROM 01B6A5-01B6B5, pointers at 01ABB4	ごくふつうのみずくさです{f0}	Ordinary water weeds.{f0}	128 px x 2 lines per page	
+g3_1b6b5	ROM 01B6B5-01B6DE, pointers at 01ABB8	さかながやすみます。やすむばしょが{f1}ないとストレスがたまってしまいます。{f0}	A place for fish to rest. Without one, they get stressed.{f0}	128 px x 2 lines per page	
+g3_1b6de	ROM 01B6DE-01B701, pointers at 01ABBC	ブロックとおなじはたらきをしますが{f1}ちいさなさかなむきです。{f0}	Works like a block, but for small fish.{f0}	128 px x 2 lines per page	
+g3_1b701	ROM 01B701-01B715, pointers at 01ABC0	ブロックとおなじはたらきをします。{f0}	Works the same as a block.{f0}	128 px x 2 lines per page	
+g3_1b715	ROM 01B715-01B727, pointers at 01ABC4	すいそうにさんそをおくりこみます。{f0}	Pumps air into the tank.{f0}	128 px x 2 lines per page	
+g3_1b727	ROM 01B727-01B74D, pointers at 01ABC8	はいちされたオキモノをけして、{f1}みずぞこのじょうたいにもどします。{f0}	Removes the ornaments and resets the tank floor.{f0}	128 px x 2 lines per page	
+g3_1b74d	ROM 01B74D-01B75C, pointers at 01ABCC	すいそうのそうじをします。{f0}	Cleans the tank.{f0}	128 px x 2 lines per page	
+g3_1b75c	ROM 01B75C-01B777, pointers at 01ABD0	{f9 00}は、たまごをのこして{f1}ちからつきてしまった。{fb f0}	Your {f9 00} left eggs behind and passed away.{fb f0}	128 px x 2 lines per page	
+g3_1b778	ROM 01B778-01B788, pointers at 01ABD4	ここではつかえません・・・{fb f0}	You can't use that here...{fb f0}	128 px x 2 lines per page	
+g3_1b789	ROM 01B789-01B799, pointers at 01ABD8	サシを1ぴきみつけました。{fb f0}	You found 1 maggot.{fb f0}	128 px x 2 lines per page	
+g3_1b79a	ROM 01B79A-01B7AC, pointers at 01ABDC	アカムシを1ぴきみつけました。{fb f0}	You found 1 bloodworm.{fb f0}	128 px x 2 lines per page	
+g3_1b7ad	ROM 01B7AD-01B7BF, pointers at 01ABE0	カワムシを1ぴきみつけました。{fb f0}	You found 1 stream bug.{fb f0}	128 px x 2 lines per page	
+g3_1b7c0	ROM 01B7C0-01B7D3, pointers at 01ABE4	こざかなを1ぴきみつけました。{fb f0}	You found 1 small fish.{fb f0}	128 px x 2 lines per page	
+g3_1b7d4	ROM 01B7D4-01B7E5, pointers at 01ABE8	なにもみつかりませんでした。{fb f0}	You didn't find anything.{fb f0}	128 px x 2 lines per page	
+g3_1b7e6	ROM 01B7E6-01B7F7, pointers at 01ABEC	これいじょうもてません・・・{fb f0}	You can't carry any more...{fb f0}	128 px x 2 lines per page	
+g3_1b7f8	ROM 01B7F8-01B808, pointers at 01ABF0	ハリがついていません・・・{fb f0}	There's no hook on the line...{fb f0}	128 px x 2 lines per page	
+g3_1b809	ROM 01B809-01B819, pointers at 01ABF4	エサがついていません・・・{fb f0}	There's no bait on the hook...{fb f0}	128 px x 2 lines per page	
+g3_1b81a	ROM 01B81A-01B82B, pointers at 01ABF8	ルアーがついていません・・・{fb f0}	There's no lure on the line...{fb f0}	128 px x 2 lines per page	
+g3_1b82c	ROM 01B82C-01B83E, pointers at 01ABFC	ケバリがついていません・・・{fb f0}	There's no fly on the line...{fb f0}	128 px x 2 lines per page	
+g3_1b83f	ROM 01B83F-01B853, pointers at 01AC00	ここではつりができません・・・{fb f0}	You can't fish here...{fb f0}	128 px x 2 lines per page	
+g3_1b854	ROM 01B854-01B870, pointers at 01AC04	おや、とまらないのかい？{f1}そいつはざんねんだね。{fb f0}	Oh, not staying? That's a shame.{fb f0}	128 px x 2 lines per page	
+g3_1b871	ROM 01B871-01B888, pointers at 01AC08	よくねむれたかい？{f1}またりようしておくれ。{fb f0}	Did you sleep well? Come again.{fb f0}	128 px x 2 lines per page	
+g3_1b889	ROM 01B889-01B8A1, pointers at 01AC0C	やどだいが{f1}たりないようじゃの・・・{fb f0}	Looks like you're short for the room...{fb f0}	128 px x 2 lines per page	
+g3_1b8a2	ROM 01B8A2-01B8C6, pointers at 01AC10	おめでとうございます！！{f1}あなたは「さかな　はかせ」です！！{fb f0}	"Congratulations!! You are a ""Fish Professor""!!{fb f0}"	128 px x 2 lines per page	
+g3_1b8c7	ROM 01B8C7-01B8D4, pointers at 01AC14	つかれてたおれそうだ{fb f0}	I'm so tired I could drop...{fb f0}	128 px x 2 lines per page	
+g3_1b8d5	ROM 01B8D5-01B8E3, pointers at 01AC18	とうとうたおれてしまった{fb f0}	You finally collapsed...{fb f0}	128 px x 2 lines per page	
+g3_1b8e4	ROM 01B8E4-01B8FD, pointers at 01AC1C	いなくなったさかなが、{f1}もどってきました。{fb f0}	The fish that had gone have come back.{fb f0}	128 px x 2 lines per page	
+g3_1b8fe	ROM 01B8FE-01B910, pointers at 01AC20	びくがいっぱいです・・・{fb f0}	Your creel is full...{fb f0}	128 px x 2 lines per page	
+g3_1b911	ROM 01B911-01B989, pointers at 01AC24	わしがタライづくり名人の{f1}じじいじゃ！{fa}{fb f0}{f2}タライはよいぞ！　はげしく{f1}たいりょくを　しょうもうするが、{fa}{fb f0}{f2}みずのうえを　じゆうに{f1}すすむことが　できるのじゃ！{fa}{fb f0}{f2}これぞ、おとこの　ロマンじゃな。{f7}{f0}	I'm the grand old master of washtub making!{fa}{fb f0}{f2}Washtubs are great! They wear you out fast,{fa}{fb f0}{f2}but you can float wherever you like on the water!{fa}{fb f0}{f2}That's what a man dreams of.{f7}{f0}	128 px x 2 lines per page	
+g3_1b989	ROM 01B989-01B9B7, pointers at 01AC28	タライが　ほしいのなら、{fa}{fb f0}{f2}すまないが　ニジマスを{f1}つってきて　もらえんかな？{f7}{f0}	If you want a washtub,{fa}{fb f0}{f2}sorry, but could you catch me a rainbow trout?{f7}{f0}	128 px x 2 lines per page	
+g3_1b9b7	ROM 01B9B7-01B9EB, pointers at 01AC2C	おお、{f1}これはりっぱな　ニジマスじゃ。{fa}{fb f0}{f2}ではさっそく{f1}タライをつくると　しようかのう。{f7}{f0}	Oh, what a fine rainbow trout.{fa}{fb f0}{f2}Well then, I'll get started on the washtub.{f7}{f0}	128 px x 2 lines per page	
+g3_1b9eb	ROM 01B9EB-01BA26, pointers at 01AC30	すまんが、{f1}タライが　かんせいするまでに{fa}{fb f0}{f2}まごむすめから　べんとうを{f1}もらってきてもらえんかのう。{f7}{f0}	Sorry, but while I finish the washtub,{fa}{fb f0}{f2}could you get a bento from my granddaughter for me?{f7}{f0}	128 px x 2 lines per page	
+g3_1ba26	ROM 01BA26-01BA8D, pointers at 01AC34	おお、べんとうが　できたのか。{f1}いいところに　もどってきたのう。{fa}{fb f0}{f2}ほれ、{f1}これが　わしじまんのタライじゃ。{fa}{fb f0}{f2}もっていくがいい。・・・まごの{f1}べんとうは、もらっておくぞ。{f7}{f0}	Oh, the bento's ready? You came back at just the right time.{fa}{fb f0}{f2}Here, this is my pride and joy, the washtub.{fa}{fb f0}{f2}Take it with you. ...I'll keep my granddaughter's bento.{f7}{f0}	128 px x 2 lines per page	
+g3_1ba8d	ROM 01BA8D-01BB03, pointers at 01AC38	え？{fa}{fb f0}{f2}おじいちゃんに{f1}たのまれてきたの？{fa}{fb f0}{f2}ごめんなさい。それじゃすぐに{f1}よういするからまっててね。{fa}{fb f0}{f2}そうだ、それまでに、{f1}ゆうはんのおかずにしたいから、{fa}{fb f0}{f2}アマゴをつってきて{f1}もらえないかしら？{f7}{f0}	Huh?{fa}{fb f0}{f2}Grandpa sent you?{fa}{fb f0}{f2}Sorry. I'll make it right away, so please wait.{fa}{fb f0}{f2}Oh, I know. In the meantime, I want something for dinner,{fa}{fb f0}{f2}so could you catch me a redspot trout?{f7}{f0}	128 px x 2 lines per page	
+g3_1bb03	ROM 01BB03-01BB3A, pointers at 01AC3C	あっ、ちょうどいいことろに{f1}きてくれたわね。{fa}{fb f0}{f2}はい、これをおじいさんに{f1}もっていってあげてね。{f7}{f0}	Oh, you came at just the right time.{fa}{fb f0}{f2}Here, please take this to Grandpa.{f7}{f0}	128 px x 2 lines per page	
+g3_1bb3a	ROM 01BB3A-01BB84, pointers at 01AC40	もうすこしかかりそうだから、{f1}それまでにアマゴをつってきてね。{fa}{fb f0}{f2}ミミズやカワムシなどの　エサと、{f1}ハリ小で　つれるらしいわよ。{f7}{f0}	It'll take a bit longer, so catch a redspot trout before then.{fa}{fb f0}{f2}Earthworms or stream bugs on a Hook S should work.{f7}{f0}	128 px x 2 lines per page	
+g3_1bb84	ROM 01BB84-01BBF2, pointers at 01AC44	えっ？{f1}おべんとうたべちゃったの？{fa}{fb f0}{f2}しょうがないわね。{fa}{fb f0}{f2}もういっかい　つくりなおすから、{f1}またアマゴを　つってきてくれる？{fa}{fb f0}{f2}ミミズやカワムシなどの　エサと、{f1}ハリ小で　つれるはずよ。{f7}{f0}	What? You ate the bento?{fa}{fb f0}{f2}Oh, honestly.{fa}{fb f0}{f2}I'll make another one, so will you catch me another redspot trout?{fa}{fb f0}{f2}Bait like earthworms or stream bugs on a Hook S should work.{f7}{f0}	128 px x 2 lines per page	
+g3_1bbf2	ROM 01BBF2-01BC03, pointers at 01AC48	きょうのおかずはアマゴよ。{f7}{f0}	Today's dinner is redspot trout.{f7}{f0}	128 px x 2 lines per page	
+g3_1bc03	ROM 01BC03-01BC3E, pointers at 01AC4C	わしはひとざとはなれて{f1}がくもんをつんでおるものだ。{fa}{fb f0}{f2}もちろんつりのことも{f1}すべてしっておるぞ。{f7}{f0}	I live far from town, devoting myself to study.{fa}{fb f0}{f2}Naturally, I know everything about fishing too.{f7}{f0}	128 px x 2 lines per page	
+g3_1bc3e	ROM 01BC3E-01BCA5, pointers at 01AC50	イワナをつってきてくれれば、{f1}いつでもおしえてやるぞ。{fa}{fb f0}{f2}すぐそばに　おるじゃろ？{f1}・・・ちなみに　イワナは、{fa}{fb f0}{f2}ミミズやカワムシなど、いろんな{f1}エサと、ハリ中で　つれるぞ。{f7}{f0}	Bring me a char and I'll teach you any time.{fa}{fb f0}{f2}There are some right nearby, no? ...By the way, char{fa}{fb f0}{f2}bite on all sorts of bait, like earthworms or stream bugs, on a Hook M.{f7}{f0}	128 px x 2 lines per page	
+g3_1bca5	ROM 01BCA5-01BD56, pointers at 01AC54	それでは　まず始めに、{f1}サオについて　じゃな。{fa}{fb f0}{f2}大きなさかなを　ねらうばあいは、{f1}リールのついたサオのほうがよい。{fa}{fb f0}{f2}ルアーやケバリを　つかうばあいは{f1}せんようのサオが　ひつようじゃ。{fa}{fb f0}{f2}ルアーやケバリやサオは、{f1}みな　つりぐやで　うっておるが、{fa}{fb f0}{f2}それいがいの　ほうほうで{f1}てにはいるものもあるぞ。{f7}{f0}	Well then, first of all, rods.{fa}{fb f0}{f2}If you're after big fish, a rod with a reel is better.{fa}{fb f0}{f2}If you use lures or flies, you need a special rod.{fa}{fb f0}{f2}Lures, flies and rods are all sold at the tackle shop,{fa}{fb f0}{f2}but some you can get in other ways too.{f7}{f0}	128 px x 2 lines per page	
+g3_1bd56	ROM 01BD56-01BE0D, pointers at 01AC58	では・・・次は、{f1}「エサとしかけ」についてじゃ。{fa}{fb f0}{f2}エサに　くいつかないばあいは、{f1}ほかのエサに　かえてみるんじゃ。{fa}{fb f0}{f2}すぐにハリが　はずれてしまうなら{f1}さかなの大きさに　あったハリに{fa}{fb f0}{f2}こうかんすれば、よいはずじゃ。{f1}ごういんに引くのは　いかんぞ。{fa}{fb f0}{f2}なんども　むりにひいていると、{f1}ハリやルアーが　こわれるでな。{f7}{f0}	"Now... next, ""bait and rigs.""{fa}{fb f0}{f2}If fish won't take your bait, try changing to another bait.{fa}{fb f0}{f2}If the hook keeps coming loose, change to a hook{fa}{fb f0}{f2}that suits the size of the fish. Don't pull by force.{fa}{fb f0}{f2}If you keep pulling too hard, your hook or lure will break.{f7}{f0}"	128 px x 2 lines per page	
+g3_1be0d	ROM 01BE0D-01BEDC, pointers at 01AC5C	いよいよさいご。ルアーづりや{f1}フライづりについて　じゃな。{fa}{fb f0}{f2}ウキづり　どうよう、{f1}さかなが　まわりをまわりだして{fa}{fb f0}{f2}しかけがしずんだら　ひくのが、{f1}フライづりじゃ。{fa}{fb f0}{f2}ルアーづりは　さかながまわったら{f1}すぐにひいて、あとはルアーを{fa}{fb f0}{f2}うまく　うきしずみさせて、{f1}さかなを　くいつかせるのじゃ。{fa}{fb f0}{f2}あとは　ただひたすら、{f1}しゅぎょうあるのみじゃ。{f7}{f0}	At last, the final lesson: lure fishing and fly fishing.{fa}{fb f0}{f2}Just like float fishing, when the fish starts circling{fa}{fb f0}{f2}and the rig sinks, you pull. That's fly fishing.{fa}{fb f0}{f2}In lure fishing, pull as soon as the fish circles, then{fa}{fb f0}{f2}bob the lure up and down well to make the fish bite.{fa}{fb f0}{f2}After that, all that's left is practice, practice, practice.{f7}{f0}	128 px x 2 lines per page	
+g3_1bedc	ROM 01BEDC-01BF1D, pointers at 01AC60	これでおぬしも、{f1}わしにいっぽ　ちかづいたな。{fa}{fb f0}{f2}ちなみに、ストーンフライWと{f1}ワームが　わしのおきにいりじゃ。{f7}{f0}	Now you're one step closer to me.{fa}{fb f0}{f2}By the way, my favorites are the Stonefly (Wet) and the rubber worm.{f7}{f0}	128 px x 2 lines per page	
+g3_1bf1d	ROM 01BF1D-01BF4B, pointers at 01AC64	むりをするんじゃないよ。{fa}{fb f0}{f2}おかねにこまったら、{f1}いつでも　もどっておいで。{f7}{f0}	Don't overdo it.{fa}{fb f0}{f2}If you're ever short of money, come home any time.{f7}{f0}	128 px x 2 lines per page	
+g3_1bf4b	ROM 01BF4B-01BF7A, pointers at 01AC68	おかねに　こまっているのかい？{fa}{fb f0}{f2}しょうがないわねぇ。{f1}すこし　だけれど・・・。{f7}{f0}	Short of money, are you?{fa}{fb f0}{f2}Oh, you. It's not much, but...{f7}{f0}	128 px x 2 lines per page	
+g3_1bf7a	ROM 01BF7A-01BFD1, pointers at 01AC6C 01AC70	おにいちゃん、がんばってね。{fa}{fb f0}{f2}さいしょに　つりぐやで{f1}「アミ」を　かっておくと、{fa}{fb f0}{f2}かわらで　エサがとれるから、{f1}すきなだけ　つりができるよ。{f7}{f0}	"Good luck, big brother.{fa}{fb f0}{f2}If you buy a ""Net"" at the tackle shop first,{fa}{fb f0}{f2}you can catch bait by the river and fish all you like.{f7}{f0}"	128 px x 2 lines per page	
+g3_1bfd1	ROM 01BFD1-01C010, pointers at 01AC74	おにいちゃん、ムリしないでね。{f1}たいりょくが　へってきたら{fa}{fb f0}{f2}ごはんを　たべるか、{f1}やどやで　やすむのよ。{f7}{f0}	Don't push yourself, big brother. When your HP gets low,{fa}{fb f0}{f2}eat something or rest at the inn.{f7}{f0}	128 px x 2 lines per page	
+g3_1c010	ROM 01C010-01C0AA, pointers at 01AC78	さかなにはそれぞれ、いるばしょや{f1}このみの　エサがあるぞ。{fa}{fb f0}{f2}ウキづりならさかながまわりだして{f1}ウキがしずんでから、ひくんだ。{fa}{fb f0}{f2}さかなとファイト！になったら、{f1}さかなが　やすんでるあいだだけ{fa}{fb f0}{f2}ひきよせて、ていこうされそうに{f1}なったら、ジッとようすをみよう。{f7}{f0}	Every fish has its own spot and favorite bait.{fa}{fb f0}{f2}When float fishing, wait for the fish to circle and the float to sink, then pull.{fa}{fb f0}{f2}Once you're fighting a fish, only reel it in while it's resting,{fa}{fb f0}{f2}and when it fights back, hold still and watch it.{f7}{f0}	128 px x 2 lines per page	
+g3_1c0aa	ROM 01C0AA-01C119, pointers at 01AC7C	タライがあれば、ここからさきの{f1}じょうりゅうこへいけるんだ。{fa}{fb f0}{f2}・・・わたし？ここでアマゴを{f1}つってるんだが、なにか？{fa}{fb f0}{f2}このスピナーの　ルアーでなら、{f1}このへんのさかなは　バッチリだ。{f7}{f0}	With a washtub, you can go on from here to the Upper Lake.{fa}{fb f0}{f2}...Me? I'm fishing for redspot trout here. Got a problem?{fa}{fb f0}{f2}With this spinner lure, the fish around here are a sure thing.{f7}{f0}	128 px x 2 lines per page	
+g3_1c119	ROM 01C119-01C1AB, pointers at 01AC80	もっと　じょうりゅうのほうで、{f1}ニジマスをみたよ。{fa}{fb f0}{f2}ミミズやサシ、カワムシとかの{f1}エサと、ハリ中でつれるんだ！{fa}{fb f0}{f2}・・・え、そこのおじぞうさま？{f1}なにやら、「ゲームのきろく」が{fa}{fb f0}{f2}できるそうなんだけど、ボクには{f1}なにのことやら　さっぱり・・・。{f7}{f0}	"I saw rainbow trout farther upstream.{fa}{fb f0}{f2}You can catch them with bait like earthworms, maggots or stream bugs on a Hook M!{fa}{fb f0}{f2}...Huh, that Jizo statue over there? Apparently it can{fa}{fb f0}{f2}""record your game,"" but I have no idea what that means...{f7}{f0}"	128 px x 2 lines per page	
+g3_1c1ab	ROM 01C1AB-01C26C, pointers at 01AC84	きょおは　ひ〜がな{f1}さ〜かなつり〜〜〜。{fa}{fb f0}{f2}・・・でも、どうぶつさんに{f1}おそわれるかも　しれないから、{fa}{fb f0}{f2}つりぐやさんで　おにぎりや{f1}みかんも、かっておかないとね！{fa}{fb f0}{f2}たいりょくが　へったら、{f1}すぐにたべて　かいふくよ！{fa}{fb f0}{f2}まあ、体にねらいをつけて{f1}タイミングよくパンチ！　するから{fa}{fb f0}{f2}らくしょうなんだけどね♥{f1}・・・エイッ、ヤッ！！{f7}{f0}	Fiiishing all daaay longgg~~~{fa}{fb f0}{f2}...But animals might attack me,{fa}{fb f0}{f2}so I'd better buy rice balls and mandarins at the tackle shop!{fa}{fb f0}{f2}When my HP drops, I'll eat right away and recover!{fa}{fb f0}{f2}Well, I just aim for the body and punch with good timing,{fa}{fb f0}{f2}so it's a piece of cake {b0} ...Hi-yah! Hah!!{f7}{f0}	128 px x 2 lines per page	
+g3_1c26c	ROM 01C26C-01C296, pointers at 01AC88 01AC8C 01AC90 01AC94 01AC98 01AC9C 01ACA0	おちゃをのむなら、やはり{fa}{fb f0}{f2}すみびでわかしたゆが{f1}いちばんじゃな。{f7}{f0}	If you're having tea,{fa}{fb f0}{f2}nothing beats water boiled over charcoal.{f7}{f0}	128 px x 2 lines per page	
+g3_1c296	ROM 01C296-01C37F, pointers at 01ACA4	わしが、タライづくり名人の{f1}でしじゃ！{fa}{fb f0}{f2}おっと、じいさんのクセが{f1}うつってしまったわい。{fa}{fb f0}{f2}がっはっはっ！{fa}{fb f0}{f2}みたところ、あのじいさんが{f1}つくったタライのようじゃが、{fa}{fb f0}{f2}このていどでこわれるとは、{f1}でしとしてはずかしいわい。{fa}{fb f0}{f2}よし、わしがこのタライを{f1}しゅうりしてやろうじゃないか。{fa}{fb f0}{f2}たとえタライだろうと、{f1}つくるからにはいのちをかける！{fa}{fb f0}{f2}それが、しょくにん、{f1}てぇいうもんじゃねぇか？{f7}{f0}	I'm the grand old apprentice of washtub making!{fa}{fb f0}{f2}Oops, the old man's way of talking rubbed off on me.{fa}{fb f0}{f2}Gahahaha!{fa}{fb f0}{f2}From the look of it, the old man made this washtub,{fa}{fb f0}{f2}and as his apprentice, I'm ashamed it broke so easily.{fa}{fb f0}{f2}All right, I'll repair this washtub for you.{fa}{fb f0}{f2}Even if it's just a washtub, when I make something I put my life into it!{fa}{fb f0}{f2}That's what makes a craftsman, isn't it?{f7}{f0}	128 px x 2 lines per page	
+g3_1c37f	ROM 01C37F-01C398, pointers at 01ACA8	すまねぇが、{f1}もうすこし、じかんをくれや。{f7}{f0}	Sorry, give me a little more time.{f7}{f0}	128 px x 2 lines per page	
+g3_1c398	ROM 01C398-01C3A3, pointers at 01ACAC	オーマイガッ！！{f7}{f0}	Oh my gosh!!{f7}{f0}	128 px x 2 lines per page	
+g3_1c3a3	ROM 01C3A3-01C3FE, pointers at 01ACB0	さいきん、もりのほうで{f1}クマがでるそうなんだよ。{fa}{fb f0}{f2}あぶないから、{f1}ちかづくんじゃないよ。{fa}{fb f0}{f2}まったく・・・{fa}{fb f0}{f2}だれか、{f1}たいじしてくれないかねぇ。{f7}{f0}	I hear a bear's been showing up in the forest lately.{fa}{fb f0}{f2}It's dangerous, so don't go near it.{fa}{fb f0}{f2}Honestly...{fa}{fb f0}{f2}I wish someone would get rid of it.{f7}{f0}	128 px x 2 lines per page	
+g3_1c3fe	ROM 01C3FE-01C44E, pointers at 01ACB4 01ACB8	あんた、ほんとにあのクマを{f1}たいじしたのかい？{fa}{fb f0}{f2}いや〜、たいしたもんだよ。{f1}あっ、これはほんのおれいだよ。{fa}{fb f0}{f2}もらっといておくれ。{f1}それと、{f7}{f0}	You really beat that bear?{fa}{fb f0}{f2}Well, that's something! Oh, this is just a little thanks.{fa}{fb f0}{f2}Please take it. And also,{f7}{f0}	128 px x 2 lines per page	
+g3_1c44e	ROM 01C44E-01C469, pointers at 01ACBC	タライができたから、{f1}とりにきておくれってさ。{f7}{f0}	your washtub's done, so come and pick it up, he says.{f7}{f0}	128 px x 2 lines per page	
+g3_1c469	ROM 01C469-01C4A1, pointers at 01ACC0	おう、またせちまったな。{fa}{fb f0}{f2}みてくれ！{f1}これがワシじまんのタライ{fa}{fb f0}{f2}そのなも、タライ2じゃ！！{f7}{f0}	Hey, sorry to keep you waiting.{fa}{fb f0}{f2}Look! This is my pride and joy,{fa}{fb f0}{f2}and its name is Washtub 2!!{f7}{f0}	128 px x 2 lines per page	
+g3_1c4a1	ROM 01C4A1-01C4D1, pointers at 01ACC4	なに、れいにはおよばんさ。{f1}またなにかあったらきてくれ。{fa}{fb f0}{f2}がーっはっはっはっはっ！{f7}{f0}	No need to thank me. Come again if anything comes up.{fa}{fb f0}{f2}Gahahahahaha!{f7}{f0}	128 px x 2 lines per page	
+g3_1c4d1	ROM 01C4D1-01C523, pointers at 01ACC8	わたしはせかいじゅうのちけいを{f1}けんきゅうしているものです。{fa}{fb f0}{f2}このへんは、{f1}さいきんのじしんのために{fa}{fb f0}{f2}ちけいがかわってしまった{f1}ようです。{f7}{f0}	I study the landforms of the whole world.{fa}{fb f0}{f2}Around here, because of the recent earthquakes,{fa}{fb f0}{f2}the land seems to have changed.{f7}{f0}	128 px x 2 lines per page	
+g3_1c523	ROM 01C523-01C580, pointers at 01ACCC	どうくつですか？わかりました。{f1}さがしてみましょう。{fa}{fb f0}{f2}もうしわけありませんが、{f1}わたしがさがしているあいだに、{fa}{fb f0}{f2}ワカサギでもつってきて{f1}もらえませんか？{f7}{f0}	A cave? All right. I'll look for it.{fa}{fb f0}{f2}I'm sorry, but while I search,{fa}{fb f0}{f2}could you go catch me a pond smelt?{f7}{f0}	128 px x 2 lines per page	
+g3_1c580	ROM 01C580-01C5B4, pointers at 01ACD0	これはありがとうございます。{fa}{fb f0}{f2}ついさっき、どうくつのばしょを{f1}みつけたところです。{f7}{f0}	Thank you very much.{fa}{fb f0}{f2}I just now found where the cave is.{f7}{f0}	128 px x 2 lines per page	
+g3_1c5b4	ROM 01C5B4-01C610, pointers at 01ACD4	わたしのひだりてのほうへ{f1}2ほ、すすんだところの{fa}{fb f0}{f2}がけのあたりが{f1}どうくつのいりぐちのようです。{fa}{fb f0}{f2}ただし、つるはしがないと、{f1}はいれないようですね。{f7}{f0}	Two steps to my left,{fa}{fb f0}{f2}around the cliff, seems to be the entrance to the cave.{fa}{fb f0}{f2}But it looks like you can't get in without a pickaxe.{f7}{f0}	128 px x 2 lines per page	
+g3_1c610	ROM 01C610-01C63E, pointers at 01ACD8	このまえのじしんで、{f1}ヒミツきちのどうくつが{fa}{fb f0}{f2}わかんなくなっちゃったよぉ。{f7}{f0}	Since the last earthquake, I can't find the cave of our secret base anymore!{f7}{f0}	128 px x 2 lines per page	
+g3_1c63e	ROM 01C63E-01C69C, pointers at 01ACDC	くにのむすこに{f1}でっけぇハリヨさぁつってこいと{fa}{fb f0}{f2}たのまれたんだがよぉ、{fa}{fb f0}{f2}せきたんさ{f1}ほるのはとくいだけんども{fa}{fb f0}{f2}おら、つりなんざ{f1}やったこともねぇからよぉ。{f7}{f0}	My son back home asked me to catch him a big stickleback,{fa}{fb f0}{f2}but y'see,{fa}{fb f0}{f2}I'm good at diggin' coal,{fa}{fb f0}{f2}but I ain't never been fishin'.{f7}{f0}	128 px x 2 lines per page	
+g3_1c69c	ROM 01C69C-01C6E5, pointers at 01ACE0	すまねぇが　でっけえハリヨさ、{f1}つってきてもらえんかいのぉ。{fa}{fb f0}{f2}エサのカワムシか、ケバリの{f1}メイフライで　つれるはずじゃが。{f7}{f0}	Sorry, but could ya catch me a big stickleback?{fa}{fb f0}{f2}They oughta bite on stream bugs, or a mayfly fly.{f7}{f0}	128 px x 2 lines per page	
+g3_1c6e5	ROM 01C6E5-01C71E, pointers at 01ACE4	おぉ、{f1}これはすまねぇかったなぁ。{fa}{fb f0}{f2}こんなもんくれぇしか{f1}やれるもんはねぇが、{fa}{fb f0}{f2}もらってくれや。{f7}{f0}	Oh, thank ya kindly.{fa}{fb f0}{f2}This here's all I got to give ya,{fa}{fb f0}{f2}but take it.{f7}{f0}	128 px x 2 lines per page	
+g3_1c71e	ROM 01C71E-01C7BD, pointers at 01ACE8	せけんでは、にんげんこくほう{f1}などといわれておるが、わしは{fa}{fb f0}{f2}たんに、つちとかいわをしながら{f1}やきものにしあげとるだけじゃ。{fa}{fb f0}{f2}ところで・・・{fa}{fb f0}{f2}おまえさんのそのおまもりを{f1}ちょっとみせてもらえんか。{fa}{fb f0}{f2}・・・・・なんと！{fa}{fb f0}{f2}このおまもりには{f1}ただものならん力をかんじる！{f7}{f0}	People call me a Living National Treasure, but{fa}{fb f0}{f2}I just talk with the clay and fire it into pottery.{fa}{fb f0}{f2}By the way...{fa}{fb f0}{f2}Could you show me that charm of yours for a moment?{fa}{fb f0}{f2}...Well I never!{fa}{fb f0}{f2}I sense an extraordinary power in this charm!{f7}{f0}	128 px x 2 lines per page	
+g3_1c7bd	ROM 01C7BD-01C7D3, pointers at 01ACEC	そうですか。{f1}それはざんねんです。{f7}{f0}	I see. That's a shame.{f7}{f0}	128 px x 2 lines per page	
+g3_1c7d3	ROM 01C7D3-01C7EF, pointers at 01ACF0	ぜひ、そのおまもりをわしに{f1}ゆずってくれんか！？{ff}{f0}	Would you please give me that charm!?{ff}{f0}	128 px x 2 lines per page	
+g3_1c7ef	ROM 01C7EF-01C833, pointers at 01ACF4	おお、そうか！{f1}これはありがたい！{fa}{fb f0}{f2}そうじゃ！　おかえしに、{fa}{fb f0}{f2}今、やきあがったばかりの{f1}この「ゆのみ」をやろう。{f7}{f0}	Oh, really! I'm so grateful!{fa}{fb f0}{f2}I know! In return,{fa}{fb f0}{f2}I'll give you this teacup, fresh from the kiln.{f7}{f0}	128 px x 2 lines per page	
+g3_1c833	ROM 01C833-01C860, pointers at 01ACF8	わしのつくった「ゆのみ」でのむ{f1}おちゃはさいこうじゃよ。{fa}{fb f0}{f2}ほっほっほっほっ。{f7}{f0}	Tea from a teacup I made is the very best.{fa}{fb f0}{f2}Ho ho ho ho.{f7}{f0}	128 px x 2 lines per page	
+g3_1c860	ROM 01C860-01C8B0, pointers at 01ACFC	ここでとれるワカサギは{f1}さいこうにおいしいんですよ。{fa}{fb f0}{f2}わたしはここに、{f1}わかさぎのてんぷらやを{fa}{fb f0}{f2}ひらこうかと{f1}おもっているんですよ。{f7}{f0}	The pond smelt here are the most delicious.{fa}{fb f0}{f2}I'm thinking of opening{fa}{fb f0}{f2}a pond smelt tempura shop here.{f7}{f0}	128 px x 2 lines per page	
+g3_1c8b0	ROM 01C8B0-01C8DB, pointers at 01AD00	これはりっぱなワカサギですね。{fa}{fb f0}{f2}では、{f1}35円でかいとりますが？{ff}{f0}	That's a fine pond smelt.{fa}{fb f0}{f2}Will you sell it for 35 yen?{ff}{f0}	128 px x 2 lines per page	
+g3_1c8db	ROM 01C8DB-01C927, pointers at 01AD04	アブラハヤが　いれぐいだぞ！{f1}・・・オレは　フライづりで{fa}{fb f0}{f2}メイフライとディプテラつかって{f1}たいりょうだ！　すごいだろ？{f7}{f0}	The minnows are biting nonstop! ...I'm fly fishing,{fa}{fb f0}{f2}using a mayfly and a diptera, and I'm hauling them in! Great, huh?{f7}{f0}	128 px x 2 lines per page	
+g3_1c927	ROM 01C927-01C99D, pointers at 01AD08	さっき　じょうりゅうのほうで、{fa}{fb f0}{f2}でっけぇ　サクラマスに{f1}にげられちまっただ。{fa}{fb f0}{f2}・・・なので、このあたりの{f1}ヒメマスを　つりにきただよ。{fa}{fb f0}{f2}どっちも、このスプーンで{f1}つれるはず　なんだけんど。{f7}{f0}	A while ago, farther upstream,{fa}{fb f0}{f2}a huge masu salmon got away from me.{fa}{fb f0}{f2}...So I came to fish for kokanee around here.{fa}{fb f0}{f2}Both should bite on this spoon, I reckon.{f7}{f0}	128 px x 2 lines per page	
+g3_1c99d	ROM 01C99D-01C9F9, pointers at 01AD0C	ワカサギって{f1}おいしいんだよねぇ・・・{fa}{fb f0}{f2}エサなら　サシやカワムシ。{f1}ルアーなら　スピナーで{fa}{fb f0}{f2}つれるらしいんだけど、わたしには{f1}つりなんて、ちょっとムリよね。{f7}{f0}	Pond smelt are so tasty...{fa}{fb f0}{f2}For bait, maggots or stream bugs. For lures, a spinner.{fa}{fb f0}{f2}That's what I hear, but fishing's a bit too much for me.{f7}{f0}	128 px x 2 lines per page	
+g3_1c9f9	ROM 01C9F9-01CA3F, pointers at 01AD10	ハリヨってかわいいよねぇ。{f1}・・・ホラッ、あそこにも♥{fa}{fb f0}{f2}ところで　どうぶつには、1かしょ{f1}じゃくてんがあるの　しってた？{f7}{f0}	Sticklebacks are cute, aren't they? ...Look, there's one {b0}{fa}{fb f0}{f2}By the way, did you know animals have one weak spot?{f7}{f0}	128 px x 2 lines per page	
+g3_1ca3f	ROM 01CA3F-01CA82, pointers at 01AD14	でっけえ　ブラックバスを、{f1}ぜったいに　つってみせるぜ！{fa}{fb f0}{f2}ルアーなら、どれつかっても{f1}バッチリ！　だからな。{f7}{f0}	I'm gonna catch a huge black bass, no matter what!{fa}{fb f0}{f2}Any lure works great for them!{f7}{f0}	128 px x 2 lines per page	
+g3_1ca82	ROM 01CA82-01CAB0, pointers at 01AD18	ワカサギがつれたら{f1}もってきてください。{fa}{fb f0}{f2}たかくかいとらせて{f1}もらいますよ。{f7}{f0}	If you catch a pond smelt, please bring it to me.{fa}{fb f0}{f2}I'll pay a good price for it.{f7}{f0}	128 px x 2 lines per page	
+g3_1cab0	ROM 01CAB0-01CAC0, pointers at 01AD1C	ありがとうございます。{f7}{f0}	Thank you very much.{f7}{f0}	128 px x 2 lines per page	
+g3_1cac0	ROM 01CAC0-01CAFA, pointers at 01AD20 01AD24	オイカワがほしいんだけど、{f1}なかなかつかまらないのよね。{fa}{fb f0}{f2}これだから{f1}ちいさいさかなってキライよ。{f7}{f0}	I want a pale chub, but I just can't catch one.{fa}{fb f0}{f2}That's why I hate small fish.{f7}{f0}	128 px x 2 lines per page	
+g3_1cafa	ROM 01CAFA-01CB19, pointers at 01AD28	えっ！？　あたしにくれるの？{f1}ありがとう、おにいちゃん。{f7}{f0}	What!? You're giving it to me? Thank you so much!{f7}{f0}	128 px x 2 lines per page	
+g3_1cb19	ROM 01CB19-01CB69, pointers at 01AD2C	えっ？{f1}かりゅうこにいきたいの？{fa}{fb f0}{f2}それならあたしのおとうちゃんに{f1}たのんであげる。{fa}{fb f0}{f2}あたしのおとうちゃんは{f1}すいもんのかんりをしてるんだよ{f7}{f0}	Huh? You want to go to the Plains Lake?{fa}{fb f0}{f2}Then I'll ask my dad for you.{fa}{fb f0}{f2}My dad is in charge of the floodgate.{f7}{f0}	128 px x 2 lines per page	
+g3_1cb69	ROM 01CB69-01CB8A, pointers at 01AD30	あっ、おとうちゃん、みてみて！{f1}このおにいちゃんにもらったよ。{f7}{f0}	Dad, look, look! This boy gave it to me.{f7}{f0}	128 px x 2 lines per page	
+g3_1cb8a	ROM 01CB8A-01CB9F, pointers at 01AD34	ほう、{f1}これはみごとなオイカワだ。{f7}{f0}	Oh, what a splendid pale chub.{f7}{f0}	128 px x 2 lines per page	
+g3_1cb9f	ROM 01CB9F-01CBBB, pointers at 01AD38	うちのむすめがわがままをいって{f1}もうしわけない。{f7}{f0}	Sorry my daughter is being so selfish.{f7}{f0}	128 px x 2 lines per page	
+g3_1cbbb	ROM 01CBBB-01CBD5, pointers at 01AD3C	おにいちゃんはかりゅうこに{f1}いきたいんだって。{f7}{f0}	He says he wants to go to the Plains Lake.{f7}{f0}	128 px x 2 lines per page	
+g3_1cbd5	ROM 01CBD5-01CC1C, pointers at 01AD40	うむ、そうか。かわいいむすめが{f1}おせわになったからには、{fa}{fb f0}{f2}おやとしてはとうぜんのことだな{fa}{fb f0}{f2}よし。すいもんはあけてやろう。{f7}{f0}	Hm, I see. Since you were so kind to my dear daughter,{fa}{fb f0}{f2}it's only natural for a father to help.{fa}{fb f0}{f2}All right. I'll open the floodgate.{f7}{f0}	128 px x 2 lines per page	
+g3_1cc1c	ROM 01CC1C-01CC25, pointers at 01AD44	きをつけてね。{f7}{f0}	Be careful.{f7}{f0}	128 px x 2 lines per page	
+g3_1cc25	ROM 01CC25-01CCA5, pointers at 01AD48	あ、あそこで、{f1}オイカワをとってるこが{fa}{fb f0}{f2}ぼくのあこがれのこ、なんだ。{f1}でも、あのこのとうちゃんは{fa}{fb f0}{f2}すいもんのかんりをしている、{f1}とってもおっかない人なんだ。{fa}{fb f0}{f2}こくはくしたいんだけど、{f1}どうしようかな。ドキドキ。{f7}{f0}	Th-that girl over there catching pale chub{fa}{fb f0}{f2}is the girl I have a crush on. But her dad{fa}{fb f0}{f2}runs the floodgate, and he's really scary.{fa}{fb f0}{f2}I want to tell her how I feel, but what should I do? Thump thump.{f7}{f0}	128 px x 2 lines per page	
+g3_1cca5	ROM 01CCA5-01CCD3, pointers at 01AD4C	ZZZ・・・ZZZ・・・{fa}{fb f0}{f2}アユがくいたいのぉ・・・。{fa}{fb f0}{f2}・・・むにゃむにゃ。{f7}{f0}	Zzz... Zzz...{fa}{fb f0}{f2}I want to eat sweetfish...{fa}{fb f0}{f2}...Mumble mumble.{f7}{f0}	128 px x 2 lines per page	
+g3_1ccd3	ROM 01CCD3-01CD6C, pointers at 01AD50	おお！？{fa}{fb f0}{f2}なぜわしがアユをくいたかったと{f1}わかったのじゃ！？{fa}{fb f0}{f2}ま、まぁよい。・・・オホン。{f1}わしはやまにすむこと60ねん。{fa}{fb f0}{f2}ぼんのうをすてることで{f1}しぜんとかいわをして、{fa}{fb f0}{f2}よのなかのながれをみてきた。{fa}{fb f0}{f2}おまえさんがここへくるのも{f1}すでにおみとおしじゃ。{f7}{f0}	Oh!?{fa}{fb f0}{f2}How did you know I wanted to eat sweetfish!?{fa}{fb f0}{f2}W-well, never mind. ...Ahem. I've lived in these mountains for 60 years.{fa}{fb f0}{f2}By casting away worldly desires, I talk with nature{fa}{fb f0}{f2}and have watched the flow of the world.{fa}{fb f0}{f2}I already knew you would come here.{f7}{f0}	128 px x 2 lines per page	
+g3_1cd6c	ROM 01CD6C-01CDD7, pointers at 01AD54	ぬしをつるためには、まず、{f1}せいりゅうのながれにのって{fa}{fb f0}{f2}このさきのかりゅうこへ{f1}いくがよい。{fa}{fb f0}{f2}そこで「オノ」をてにいれよ。{fa}{fb f0}{f2}そして、おまえさんのしてきた{f1}ぜんいもむくわれるだろう。{f7}{f0}	"To catch the River King, first ride the creek's current{fa}{fb f0}{f2}to the Plains Lake ahead.{fa}{fb f0}{f2}There, get the ""Axe.""{fa}{fb f0}{f2}Then all the good deeds you have done will be rewarded.{f7}{f0}"	128 px x 2 lines per page	
+g3_1cdd7	ROM 01CDD7-01CE0B, pointers at 01AD58	なんということじゃ・・・。{fa}{fb f0}{f2}ちゃを　のむことだけが、{f1}ゆいいつのたのしみだというのに。{f7}{f0}	What has happened...?{fa}{fb f0}{f2}Drinking tea is my one and only pleasure.{f7}{f0}	128 px x 2 lines per page	
+g3_1ce0b	ROM 01CE0B-01CE85, pointers at 01AD5C	ふぅ〜、たすかったぁ〜。{fa}{fb f0}{f2}おかげさまで、たすかりました。{fa}{fb f0}{f2}もぅ、ながされつづけて{f1}めがまわっちゃうところでしたよ{fa}{fb f0}{f2}あ、これはほんのおれいです。{f1}うけとってください。{fa}{fb f0}{f2}はっ・・はっ・・・{f1}ハックション！{f7}{f0}	Phew, I'm saved~!{fa}{fb f0}{f2}Thanks to you, I was rescued.{fa}{fb f0}{f2}I was swept along so long I was about to get dizzy.{fa}{fb f0}{f2}Oh, this is just a little thanks. Please take it.{fa}{fb f0}{f2}Ah... ah... AH-CHOO!{f7}{f0}	128 px x 2 lines per page	
+g3_1ce85	ROM 01CE85-01CE9B, pointers at 01AD60	そうですか。{f1}それはざんねんです。{f7}{f0}	I see. That's a shame.{f7}{f0}	128 px x 2 lines per page	
+g3_1ce9b	ROM 01CE9B-01CEC5, pointers at 01AD64	ふぅ〜、たすかったぁ〜。{fa}{fb f0}{f2}おかげさまで、たすかりました。{f1}それじゃ！{f7}{f0}	Phew, I'm saved~!{fa}{fb f0}{f2}Thanks to you, I was rescued. Well, bye!{f7}{f0}	128 px x 2 lines per page	
+g3_1cec5	ROM 01CEC5-01CF06, pointers at 01AD68	ここでとれるアユは{f1}さいこうにおいしいんですよ。{fa}{fb f0}{f2}わたしはここでアユをようしょく{f1}しようとおもっているんですよ。{f7}{f0}	The sweetfish here are the most delicious.{fa}{fb f0}{f2}I'm thinking of farming sweetfish here.{f7}{f0}	128 px x 2 lines per page	
+g3_1cf06	ROM 01CF06-01CF31, pointers at 01AD6C	アユがつれたら{f1}もってきてください。{fa}{fb f0}{f2}たかくかいとらせて{f1}もらいますよ。{f7}{f0}	If you catch a sweetfish, please bring it to me.{fa}{fb f0}{f2}I'll pay a good price for it.{f7}{f0}	128 px x 2 lines per page	
+g3_1cf31	ROM 01CF31-01CF59, pointers at 01AD70	これはりっぱなアユですね。{fa}{fb f0}{f2}では、{f1}60円でかいとりますが？{ff}{f0}	That's a fine sweetfish.{fa}{fb f0}{f2}Will you sell it for 60 yen?{ff}{f0}	128 px x 2 lines per page	
+g3_1cf59	ROM 01CF59-01CFB7, pointers at 01AD74	おちゃをのむなら、やはり{fa}{fb f0}{f2}すみびでわかしたゆが{f1}いちばんじゃな。{fa}{fb f0}{f2}おお！？　なんとしたことじゃ！{fa}{fb f0}{f2}わしとしたことが、とんでもない{f1}ミスをしてしもうた！{f7}{f0}	If you're having tea,{fa}{fb f0}{f2}nothing beats water boiled over charcoal.{fa}{fb f0}{f2}Oh!? What's this!?{fa}{fb f0}{f2}I've gone and made a terrible mistake!{f7}{f0}	128 px x 2 lines per page	
+g3_1cfb7	ROM 01CFB7-01CFD3, pointers at 01AD78	あ、あしたこそ・・・{f1}こくはくしてやるぞぉ・・・。{f7}{f0}	T-tomorrow for sure... I'll tell her how I feel...{f7}{f0}	128 px x 2 lines per page	
+g3_1cfd3	ROM 01CFD3-01D01D, pointers at 01AD7C	「ゆのみ」がなかったんじゃ！{f1}こ、これでは、ちゃがのめん！{fa}{fb f0}{f2}すまんがしょうねんよ、{fa}{fb f0}{f2}その「ゆのみ」を{f1}ゆずってくれんか？{ff}{f0}	There's no teacup! I c-can't drink my tea like this!{fa}{fb f0}{f2}Sorry, young man,{fa}{fb f0}{f2}but would you let me have that teacup?{ff}{f0}	128 px x 2 lines per page	
+g3_1d01d	ROM 01D01D-01D05D, pointers at 01AD80	おお、これはありがたい。{fa}{fb f0}{f2}おれいに、わしがたんせいこめて{f1}つくりあげたこの「スミ」を{fa}{fb f0}{f2}もっていくがいい。{f7}{f0}	Oh, I'm so grateful.{fa}{fb f0}{f2}As thanks, take this charcoal{fa}{fb f0}{f2}I made with all my heart.{f7}{f0}	128 px x 2 lines per page	
+g3_1d05d	ROM 01D05D-01D087, pointers at 01AD84	これでまいにち、{f1}うまいちゃがのめるわい。{fa}{fb f0}{f2}ほんに、ごくらくよのう。{f7}{f0}	Now I can drink good tea every day.{fa}{fb f0}{f2}Truly, this is paradise.{f7}{f0}	128 px x 2 lines per page	
+g3_1d087	ROM 01D087-01D098, pointers at 01AD88	アユにはケバリがいいぞ。{f7}{f0}	Flies work well for sweetfish.{f7}{f0}	128 px x 2 lines per page	
+g3_1d098	ROM 01D098-01D0BB, pointers at 01AD8C	サツキマスをつりにきたんですが{f1}どこにいるんでしょうねぇ。{f7}{f0}	I came to catch redspot salmon, but I wonder where they are.{f7}{f0}	128 px x 2 lines per page	
+g3_1d0bb	ROM 01D0BB-01D0DC, pointers at 01AD90	あれぇ、うちのじっちゃん、{f1}どこにいっちまったんだろぅ。{f7}{f0}	Huh, where'd my grandpa go?{f7}{f0}	128 px x 2 lines per page	
+g3_1d0dc	ROM 01D0DC-01D0FB, pointers at 01AD94	うちのおじいちゃんたら、{f1}おちゃばかりのんでるのよ。{f7}{f0}	My grandpa does nothing but drink tea.{f7}{f0}	128 px x 2 lines per page	
+g3_1d0fb	ROM 01D0FB-01D10B, pointers at 01AD98	ありがとうございます。{f7}{f0}	Thank you very much.{f7}{f0}	128 px x 2 lines per page	
+g3_1d10b	ROM 01D10B-01D128, pointers at 01AD9C	このさきは、あぶないから{fa}{fb f0}{f2}とおすわけにはイカン{f7}{f0}	It's dangerous ahead,{fa}{fb f0}{f2}so I can't let you through.{f7}{f0}	128 px x 2 lines per page	
+g3_1d128	ROM 01D128-01D142, pointers at 01ADA0	そんなちっちゃなオイカワなら{f1}あたしいらないわ。{f7}{f0}	I don't want a tiny pale chub like that.{f7}{f0}	128 px x 2 lines per page	
+g3_1d142	ROM 01D142-01D186, pointers at 01ADA4	わしはこうみえても、むかしは{f1}むらいちばんの力もちでな。{fa}{fb f0}{f2}きこりなかまのあいだでは、{f1}わしをしらんものはおらんかった。{f7}{f0}	I may not look it, but I used to be the strongest man in the village.{fa}{fb f0}{f2}Among the woodcutters, there was no one who didn't know me.{f7}{f0}	128 px x 2 lines per page	
+g3_1d186	ROM 01D186-01D1BA, pointers at 01ADA8	なに？{f1}この「オノ」がほしいとな？{fa}{fb f0}{f2}ううむ、そうじゃな。{f1}もうわしにはひつようのないもの。{f7}{f0}	"What? You want this ""Axe""?{fa}{fb f0}{f2}Hmm, let's see. I don't need it anymore.{f7}{f0}"	128 px x 2 lines per page	
+g3_1d1ba	ROM 01D1BA-01D1E3, pointers at 01ADAC	ホンモロコとイトモロコを{f1}つってきてくれれば、{fa}{fb f0}{f2}この「オノ」はやろう。{f7}{f0}	"If you catch me a Biwa gudgeon and an itomoroko,{fa}{fb f0}{f2}I'll give you this ""Axe.""{f7}{f0}"	128 px x 2 lines per page	
+g3_1d1e3	ROM 01D1E3-01D22E, pointers at 01ADB0	おお、これはまさしく、{f1}ホンモロコとイトモロコじゃ。{fa}{fb f0}{f2}では、やくそくじゃからな。{f1}この「オノ」をもっていくがいい。{fa}{fb f0}{f2}ただし、{f7}{f0}	"Oh, this is a Biwa gudgeon and an itomoroko, all right.{fa}{fb f0}{f2}Well, a promise is a promise. Take this ""Axe"" with you.{fa}{fb f0}{f2}But,{f7}{f0}"	128 px x 2 lines per page	
+g3_1d22e	ROM 01D22E-01D23D, pointers at 01ADB4	しぜんは、たいせつにな。{f7}{f0}	take good care of nature.{f7}{f0}	128 px x 2 lines per page	
+g3_1d23d	ROM 01D23D-01D28F, pointers at 01ADB8	メダカを5匹、つってこいと{f1}むすこにたのまれたんだが、{fa}{fb f0}{f2}どうもうまくつれやしねぇ。{fa}{fb f0}{f2}これじゃ、あたらしくかった{f1}サオもムダだったなぁ。{f7}{f0}	My son asked me to catch him 5 ricefish,{fa}{fb f0}{f2}but I just can't catch them.{fa}{fb f0}{f2}Guess the new rod I bought was a waste.{f7}{f0}	128 px x 2 lines per page	
+g3_1d28f	ROM 01D28F-01D2C4, pointers at 01ADBC	ほんとにもらっていいのかい？{fa}{fb f0}{f2}いや〜、わるいなぁ。それじゃ、{f1}おれいにこのサオをもらってくれ。{f7}{f0}	Can I really have them?{fa}{fb f0}{f2}Gee, thanks. Then please take this rod as thanks.{f7}{f0}	128 px x 2 lines per page	
+g3_1d2c4	ROM 01D2C4-01D2EA, pointers at 01ADC0	てっきり{f1}おれのうでがわるいのかと{fa}{fb f0}{f2}しんぱいしちまったぜ。{f7}{f0}	I was starting to worry{fa}{fb f0}{f2}that my skills were the problem.{f7}{f0}	128 px x 2 lines per page	
+g3_1d2ea	ROM 01D2EA-01D319, pointers at 01ADC4	あたしたち、{f1}ぬしのことしってるよ。{fa}{fb f0}{f2}トミヨをつってきてくれたら{f1}おしえてあげる。{f7}{f0}	We know about the River King.{fa}{fb f0}{f2}If you catch us a ninespine, we'll tell you.{f7}{f0}	128 px x 2 lines per page	
+g3_1d319	ROM 01D319-01D33E, pointers at 01ADC8	ありがとう。{fa}{fb f0}{f2}ぬしはねぇ、せいりゅうの{f1}はなれいけでみたよ。{f7}{f0}	Thanks.{fa}{fb f0}{f2}We saw the River King in the Far Pond by the creek.{f7}{f0}	128 px x 2 lines per page	
+g3_1d33e	ROM 01D33E-01D36F, pointers at 01ADCC	ぼくたち、{f1}ぬしのことしってるよ。{fa}{fb f0}{f2}キンブナをつってきてくれたら{f1}おしえてあげる。{f7}{f0}	We know about the River King.{fa}{fb f0}{f2}If you catch us a gold crucian, we'll tell you.{f7}{f0}	128 px x 2 lines per page	
+g3_1d36f	ROM 01D36F-01D39A, pointers at 01ADD0	ありがとう。{fa}{fb f0}{f2}ぬしはねぇ、ふうりんのおとで{f1}すがたをあらわすんだよ。{f7}{f0}	Thanks.{fa}{fb f0}{f2}The River King shows itself at the sound of a wind chime.{f7}{f0}	128 px x 2 lines per page	
+g3_1d39a	ROM 01D39A-01D3F1, pointers at 01ADD4 01ADD8	今さっき、{f1}うちのひとがいきのいいアユを{fa}{fb f0}{f2}つってきてくれたんで、{f1}これからやくところなんだよ。{fa}{fb f0}{f2}・・・・・ああーーー！！{f1}「スミ」をきらしちまってるよ！{f7}{f0}	My husband just brought home some lively sweetfish,{fa}{fb f0}{f2}so I'm about to grill them.{fa}{fb f0}{f2}...Oh nooo!! I've run out of charcoal!{f7}{f0}	128 px x 2 lines per page	
+g3_1d3f1	ROM 01D3F1-01D40A, pointers at 01ADDC	今からかいにいったんじゃ、{f1}まにあわないよ。{f7}{f0}	If I go buy some now, I won't make it in time.{f7}{f0}	128 px x 2 lines per page	
+g3_1d40a	ROM 01D40A-01D439, pointers at 01ADE0	ほんとうにいいのかい？{fa}{fb f0}{f2}いやぁ、わるいねぇ。そうだ！{f1}おかえしにこれをあげるよ。{f7}{f0}	Are you sure?{fa}{fb f0}{f2}Oh, thank you. I know! I'll give you this in return.{f7}{f0}	128 px x 2 lines per page	
+g3_1d439	ROM 01D439-01D49C, pointers at 01ADE4	ここでとれるドジョウは{f1}さいこうにおいしいんですよ。{fa}{fb f0}{f2}わたしはこの「やながわのみせ」{f1}のてんいんをしています。{fa}{fb f0}{f2}でもまだかいてんじゅんびちゅう{f1}なんですけどね。{f7}{f0}	"The loaches here are the most delicious.{fa}{fb f0}{f2}I work at this ""Yanagawa"" loach restaurant.{fa}{fb f0}{f2}We're still getting ready to open, though.{f7}{f0}"	128 px x 2 lines per page	
+g3_1d49c	ROM 01D49C-01D4CB, pointers at 01ADE8	ドジョウがつれたら{f1}もってきてください。{fa}{fb f0}{f2}たかくかいとらせて{f1}もらいますよ。{f7}{f0}	If you catch a loach, please bring it to me.{fa}{fb f0}{f2}I'll pay a good price for it.{f7}{f0}	128 px x 2 lines per page	
+g3_1d4cb	ROM 01D4CB-01D4F7, pointers at 01ADEC	これはりっぱなドジョウですね。{fa}{fb f0}{f2}では、{f1}50円でかいとりますが？{ff}{f0}	That's a fine loach.{fa}{fb f0}{f2}Will you sell it for 50 yen?{ff}{f0}	128 px x 2 lines per page	
+g3_1d4f7	ROM 01D4F7-01D52B, pointers at 01ADF0	なんだかこのあたりには、{f1}おおものがひそんでいる。{fa}{fb f0}{f2}・・・ようなきがするのですが。{f7}{f0}	Somehow I feel a big one is lurking around here.{fa}{fb f0}{f2}...At least, that's my hunch.{f7}{f0}	128 px x 2 lines per page	
+g3_1d52b	ROM 01D52B-01D546, pointers at 01ADF4	むすこよ！　きょうこそ大ものを{f1}つりあげるぞ！{f7}{f0}	Son! Today we're landing a big one!{f7}{f0}	128 px x 2 lines per page	
+g3_1d546	ROM 01D546-01D55D, pointers at 01ADF8	みててくれ、とうちゃん！{f1}オレはやるぜ！{f7}{f0}	Watch me, Dad! I'm gonna do it!{f7}{f0}	128 px x 2 lines per page	
+g3_1d55d	ROM 01D55D-01D576, pointers at 01ADFC	オヤニラミって、{f1}ふしぎな名まえだよねぇ。{f7}{f0}	The aucha perch has a strange name in Japanese, doesn't it?{f7}{f0}	128 px x 2 lines per page	
+g3_1d576	ROM 01D576-01D59E, pointers at 01AE00	ナマズがあばれると、じしんが{f1}おこるんじゃ。くわばらくわばら{f7}{f0}	When the catfish thrashes, earthquakes happen. Heaven help us.{f7}{f0}	128 px x 2 lines per page	
+g3_1d59e	ROM 01D59E-01D5BB, pointers at 01AE04	ドジョウなら、{f1}そのへんにいくらでもいるべな。{f7}{f0}	Loaches? There's plenty of 'em all over here.{f7}{f0}	128 px x 2 lines per page	
+g3_1d5bb	ROM 01D5BB-01D5CB, pointers at 01AE08	ありがとうございます。{f7}{f0}	Thank you very much.{f7}{f0}	128 px x 2 lines per page	
+g3_1d5cb	ROM 01D5CB-01D62B, pointers at 01AE0C	この「ふうりん」はねぇ、{f1}ぬしをよぶといわれているんだよ。{fa}{fb f0}{f2}ぬしのいるいけで、{f1}この「ふうりん」をならせば、{fa}{fb f0}{f2}ぬしがすがたをあらわす。{f1}なんて、ウワサだけどね。{f7}{f0}	"They say this ""Wind Chime"" calls the River King.{fa}{fb f0}{f2}If you ring this ""Wind Chime"" at the pond where the King lives,{fa}{fb f0}{f2}the King appears. Or so the rumor goes.{f7}{f0}"	128 px x 2 lines per page	
+g3_1d62b	ROM 01D62B-01D641, pointers at 01AE10	そうですか。{f1}それはざんねんです。{f7}{f0}	I see. That's a shame.{f7}{f0}	128 px x 2 lines per page	
+g3_1d641	ROM 01D641-01D6AD, pointers at 01AE14	うちのかみさんに、{f1}おおものをつってかえると、{fa}{fb f0}{f2}おおみえをきってしまったんで{f1}このままじゃかえれないんですよ{fa}{fb f0}{f2}せめて26cmいじょうのアユを{f1}3匹はつらないとなぁ・・・。{fa}{fb f0}{f2}とほほ・・・。{f7}{f0}	I bragged to my wife that I'd come home with a big catch,{fa}{fb f0}{f2}so I can't go home like this.{fa}{fb f0}{f2}I need at least 3 sweetfish over 26cm...{fa}{fb f0}{f2}Boo hoo...{f7}{f0}	128 px x 2 lines per page	
+g3_1d6ad	ROM 01D6AD-01D709, pointers at 01AE18	ほ、ほんとうにもらっちゃっていいんですか！？{fa}{fb f0}{f2}いや〜、ほんとうに{f1}たすかりましたよ。あ、ただし、{fa}{fb f0}{f2}このことは、うちのかみさんには{f1}ないしょにしておいてくださいね。{f7}{f0}	R-really, you're giving them to me!?{fa}{fb f0}{f2}Wow, you really saved me. Oh, but{fa}{fb f0}{f2}please keep this a secret from my wife.{f7}{f0}	128 px x 2 lines per page	
+g3_1d709	ROM 01D709-01D725, pointers at 01AE1C	ほ、ほんとうに、{f1}ないしょにしておいてくださいね。{f7}{f0}	P-please, really, keep it a secret.{f7}{f0}	128 px x 2 lines per page	
+g3_1d725	ROM 01D725-01D762, pointers at 01AE20	うちのひとったら、おおものを{f1}つってかえるなんていってたけど{fa}{fb f0}{f2}あのひとにつられるアユなんて{f1}いるのかしらねぇ？{f7}{f0}	My husband said he'd come home with a big catch,{fa}{fb f0}{f2}but is there a sweetfish out there he could actually catch?{f7}{f0}	128 px x 2 lines per page	
+g3_1d762	ROM 01D762-01D780, pointers at 01AE24	やった！{fa}{fb f0}{f2}これで{f1}じょうりゅうこへいけるぞ！{f7}{f0}	Yes!{fa}{fb f0}{f2}Now I can go to the Upper Lake!{f7}{f0}	128 px x 2 lines per page	
+g3_1d780	ROM 01D780-01D790, pointers at 01AE28	（おこられてしまった・・・）{f7}{f0}	(I got scolded...){f7}{f0}	128 px x 2 lines per page	
+g3_1d790	ROM 01D790-01D7A2, pointers at 01AE2C	（ゆうはんのおかずらしい・・）{f7}{f0}	(Seems it's for dinner...){f7}{f0}	128 px x 2 lines per page	
+g3_1d7a2	ROM 01D7A2-01D7CF, pointers at 01AE30	ありがとう、おじいさん。{fa}{fb f0}{f2}これで、すこし{f1}おじいさんにちかづいたぞ！{f7}{f0}	Thank you, sir.{fa}{fb f0}{f2}Now I'm a little closer to being like you!{f7}{f0}	128 px x 2 lines per page	
+g3_1d7cf	ROM 01D7CF-01D7FC, pointers at 01AE34	ありがとう、おじいさん。{fa}{fb f0}{f2}これで、かなり{f1}おじいさんにちかづいたぞ！{f7}{f0}	Thank you, sir.{fa}{fb f0}{f2}Now I'm a lot closer to being like you!{f7}{f0}	128 px x 2 lines per page	
+g3_1d7fc	ROM 01D7FC-01D809, pointers at 01AE38	はい！　わかりました！{f7}{f0}	Yes! I understand!{f7}{f0}	128 px x 2 lines per page	
+g3_1d809	ROM 01D809-01D81A, pointers at 01AE3C	（いっぽだけらしい・・・）{f7}{f0}	(Only one step, apparently...){f7}{f0}	128 px x 2 lines per page	
+g3_1d81a	ROM 01D81A-01D833, pointers at 01AE40	かっこいいぜ、{f1}タライづくり名人のでし！{f7}{f0}	You're so cool, washtub master's apprentice!{f7}{f0}	128 px x 2 lines per page	
+g3_1d833	ROM 01D833-01D85A, pointers at 01AE44	クマたいじ、か・・・。{fa}{fb f0}{f2}（こまっている人は、{f1}　たすけなきゃな。）{f7}{f0}	Getting rid of a bear, huh...{fa}{fb f0}{f2}(I should help people in trouble.){f7}{f0}	128 px x 2 lines per page	
+g3_1d85a	ROM 01D85A-01D88F, pointers at 01AE48	やった！　さっそく、{f1}タライをとりにいかなければ。{fa}{fb f0}{f2}（やはり{f1}　いいことはするべきだな。）{f7}{f0}	Yes! I'd better go get the washtub right away.{fa}{fb f0}{f2}(Doing good deeds really pays off.){f7}{f0}	128 px x 2 lines per page	
+g3_1d88f	ROM 01D88F-01D8B9, pointers at 01AE4C	おお！！　これは！？{fa}{fb f0}{f2}・・ぜんぜんかわってないような{f1}きがするぞ。{f7}{f0}	Wow!! What's this!?{fa}{fb f0}{f2}...I feel like it hasn't changed at all.{f7}{f0}	128 px x 2 lines per page	
+g3_1d8b9	ROM 01D8B9-01D8DF, pointers at 01AE50	・・・まぁ、いいか。{fa}{fb f0}{f2}ありがとう、{f1}タライづくり名人のでし！{f7}{f0}	...Well, whatever.{fa}{fb f0}{f2}Thanks, washtub master's apprentice!{f7}{f0}	128 px x 2 lines per page	
+g3_1d8df	ROM 01D8DF-01D8F7, pointers at 01AE54	（ヒミツの{f1}　どうくつがあるのか・・。）{f7}{f0}	(There's a secret cave...?){f7}{f0}	128 px x 2 lines per page	
+g3_1d8f7	ROM 01D8F7-01D910, pointers at 01AE58	ありがとう、{f1}ちりがくしゃのおじいさん！{f7}{f0}	Thank you, Mr. Geographer!{f7}{f0}	128 px x 2 lines per page	
+g3_1d910	ROM 01D910-01D91F, pointers at 01AE5C	ありがとう、おじさん！{f7}{f0}	Thanks, mister!{f7}{f0}	128 px x 2 lines per page	
+g3_1d91f	ROM 01D91F-01D92A, pointers at 01AE60	はい。どうぞ。{f7}{f0}	Here you go.{f7}{f0}	128 px x 2 lines per page	
+g3_1d92a	ROM 01D92A-01D942, pointers at 01AE64	ありがとう、{f1}とうげいかのおじいさん！{f7}{f0}	Thank you, Mr. Potter!{f7}{f0}	128 px x 2 lines per page	
+g3_1d942	ROM 01D942-01D961, pointers at 01AE68	かりゅうこにいきたいんだけど、{f1}なんとかならないかな？{f7}{f0}	I want to go to the Plains Lake. Isn't there some way?{f7}{f0}	128 px x 2 lines per page	
+g3_1d961	ROM 01D961-01D982, pointers at 01AE6C	よぉし「オノ」をてにいれるぞ！{f1}ありがとう、おじいさん！{f7}{f0}	"All right, I'll get the ""Axe""! Thank you, sir!{f7}{f0}"	128 px x 2 lines per page	
+g3_1d982	ROM 01D982-01D98A, pointers at 01AE70	・・・・・。{f7}{f0}	.....{f7}{f0}	128 px x 2 lines per page	
+g3_1d98a	ROM 01D98A-01D997, pointers at 01AE74	どうしたんですか？{f7}{f0}	What's wrong?{f7}{f0}	128 px x 2 lines per page	
+g3_1d997	ROM 01D997-01D9A7, pointers at 01AE78	ありがとう、おじいさん！{f7}{f0}	Thank you, sir!{f7}{f0}	128 px x 2 lines per page	
+g3_1d9a7	ROM 01D9A7-01D9B8, pointers at 01AE7C	その「オノ」をもらえませんか？{f7}{f0}	"Could I have that ""Axe""?{f7}{f0}"	128 px x 2 lines per page	
+g3_1d9b8	ROM 01D9B8-01D9D0, pointers at 01AE80	（メダカを5匹か、{f1}　らくしょうだな。）{f7}{f0}	(5 ricefish, huh? Easy.){f7}{f0}	128 px x 2 lines per page	
+g3_1d9d0	ROM 01D9D0-01D9E0, pointers at 01AE84	おじさん、これあげるよ。{f7}{f0}	Mister, you can have these.{f7}{f0}	128 px x 2 lines per page	
+g3_1d9e0	ROM 01D9E0-01D9EF, pointers at 01AE88	ありがとう、おじさん！{f7}{f0}	Thanks, mister!{f7}{f0}	128 px x 2 lines per page	
+g3_1d9ef	ROM 01D9EF-01DA0F, pointers at 01AE8C	（もしかして、このサオで{f1}つろうとしていたのだろうか？）{f7}{f0}	(Was he trying to catch them with this rod?){f7}{f0}	128 px x 2 lines per page	
+g3_1da0f	ROM 01DA0F-01DA36, pointers at 01AE90 01AE94	ありがとう、おばさん！{fa}{fb f0}{f2}よぉし！{f1}これで、ぬしがつれるぞ！{f7}{f0}	Thank you, ma'am!{fa}{fb f0}{f2}All right! Now I can catch the River King!{f7}{f0}	128 px x 2 lines per page	
+g3_1da36	ROM 01DA36-01DA5F, pointers at 01AE98	ありがとう、おじさん！{fa}{fb f0}{f2}よぉし！{f1}これで、かりゅうこにいけるぞ！{f7}{f0}	Thanks, mister!{fa}{fb f0}{f2}All right! Now I can go to the Plains Lake!{f7}{f0}	128 px x 2 lines per page	
+g3_1da5f	ROM 01DA5F-01DA6F, pointers at 01AE9C	（こ、このおやこは・・・。）{f7}{f0}	(L-like father, like son...){f7}{f0}	128 px x 2 lines per page	
+g3_1da6f	ROM 01DA6F-01DA80, pointers at 01AEA0	（こ、このかぞくは・・・。）{f7}{f0}	(Wh-what a family...){f7}{f0}	128 px x 2 lines per page	
+g3_1da80	ROM 01DA80-01DAB8, pointers at 01AEA4	ゆうはんのさかなを{f1}やこうかとおもってるんだけど、{fa}{fb f0}{f2}うちの子がなかなかかえって{f1}こないんだよ。{f7}{f0}	I'm thinking of grilling fish for dinner,{fa}{fb f0}{f2}but my kid just won't come home.{f7}{f0}	128 px x 2 lines per page	
+g3_1dab8	ROM 01DAB8-01DAD5, pointers at 01AEA8	あと1匹ヘラブナをつるまで{f1}かえらないんだから！{f7}{f0}	I'm not going home until I catch one more white crucian!{f7}{f0}	128 px x 2 lines per page	
+g3_1dad5	ROM 01DAD5-01DB0E, pointers at 01AEAC	えっ！ほんとにもらっていいの！{f1}ありがとう、おにいちゃん！{fa}{fb f0}{f2}かあちゃーん！{f1}ヘラブナがつれたよー！{f7}{f0}	What! I can really have it! Thank you!{fa}{fb f0}{f2}Mooom! I caught a white crucian!{f7}{f0}	128 px x 2 lines per page	
+g3_1db0e	ROM 01DB0E-01DB1F, pointers at 01AEB0	今つり始めたばかりなんだ。{f7}{f0}	I just started fishing.{f7}{f0}	128 px x 2 lines per page	
+g3_1db1f	ROM 01DB1F-01DB31, pointers at 01AEB4	今つり始めたばかりなんです。{f7}{f0}	I've only just started fishing.{f7}{f0}	128 px x 2 lines per page	
+g3_1db31	ROM 01DB31-01DB44, pointers at 01AEB8	ボクがつったことにしといてね。{f7}{f0}	Let's say I caught it, OK?{f7}{f0}	128 px x 2 lines per page	
+g3_1db44	ROM 01DB44-01DB5A, pointers at 01AEBC	ゆっくり、{f1}つりをたのしんでおいで。{f7}{f0}	Take your time and enjoy your fishing.{f7}{f0}	128 px x 2 lines per page	
+g3_1db5a	ROM 01DB5A-01DB6A, pointers at 01AEC0	ありがとう、おにいちゃん。{f7}{f0}	Thanks a lot!{f7}{f0}	128 px x 2 lines per page	
+g3_1db6a	ROM 01DB6A-01DB90, pointers at 01AEC4	いや〜、ほんとうに{f1}たすかりましたよ。{fa}{fb f0}{f2}これでやっとかえれます。{f7}{f0}	Wow, you really saved me.{fa}{fb f0}{f2}Now I can finally go home.{f7}{f0}	128 px x 2 lines per page	
+g3_1db90	ROM 01DB90-01DB9E, pointers at 01AEC8	そろそろ、かえろ〜っと。{f7}{f0}	Guess I'll head home now~.{f7}{f0}	128 px x 2 lines per page	
+g3_1db9e	ROM 01DB9E-01DBAD, pointers at 01AECC 01AED0 01AED4 01AED8 01AEDC 01AEE0 01AEE4	おべんとうをてにいれた！{f7}{f0}	Got the Bento!{f7}{f0}	128 px x 2 lines per page	
+g3_1dbad	ROM 01DBAD-01DBB9, pointers at 01AEE8	タライをてにいれた！{f7}{f0}	Got the Washtub!{f7}{f0}	128 px x 2 lines per page	
+g3_1dbb9	ROM 01DBB9-01DBCA, pointers at 01AEEC	タライがこわれてしまった！！{f7}{f0}	The washtub broke!!{f7}{f0}	128 px x 2 lines per page	
+g3_1dbca	ROM 01DBCA-01DBD9, pointers at 01AEF0	なげざおをてにいれた！{f7}{f0}	Got a Casting Rod!{f7}{f0}	128 px x 2 lines per page	
+g3_1dbd9	ROM 01DBD9-01DBE6, pointers at 01AEF4	つるはしをてにいれた！{f7}{f0}	Got the Pickaxe!{f7}{f0}	128 px x 2 lines per page	
+g3_1dbe6	ROM 01DBE6-01DBF6, pointers at 01AEF8	フライロッドをてにいれた！{f7}{f0}	Got a Fly Rod!{f7}{f0}	128 px x 2 lines per page	
+g3_1dbf6	ROM 01DBF6-01DC06, pointers at 01AEFC	ルアーロッドをてにいれた！{f7}{f0}	Got a Lure Rod!{f7}{f0}	128 px x 2 lines per page	
+g3_1dc06	ROM 01DC06-01DC12, pointers at 01AF00	ゆのみをてにいれた！{f7}{f0}	Got the Teacup!{f7}{f0}	128 px x 2 lines per page	
+g3_1dc12	ROM 01DC12-01DC1D, pointers at 01AF04	オノをてにいれた！{f7}{f0}	Got the Axe!{f7}{f0}	128 px x 2 lines per page	
+g3_1dc1d	ROM 01DC1D-01DC2A, pointers at 01AF08	タライ2をてにいれた！{f7}{f0}	Got Washtub 2!{f7}{f0}	128 px x 2 lines per page	
+g3_1dc2a	ROM 01DC2A-01DC37, pointers at 01AF0C	ふうりんをてにいれた！{f7}{f0}	Got the Wind Chime!{f7}{f0}	128 px x 2 lines per page	
+g3_1dc37	ROM 01DC37-01DC42, pointers at 01AF10	スミをてにいれた！{f7}{f0}	Got the Charcoal!{f7}{f0}	128 px x 2 lines per page	
+g3_1dc42	ROM 01DC42-01DC52, pointers at 01AF14 01AF18 01AF1C 01AF20 01AF24	いや〜、たいしたもんだよ。{f7}{f0}	Well, that's something!{f7}{f0}	128 px x 2 lines per page	
+g3_1dc52	ROM 01DC52-01DC8E, pointers at 01AF28	わたしのひだりてのほうへ{f1}2ほ、すすんだところの{fa}{fb f0}{f2}がけのあたりが{f1}どうくつのいりぐちのようです。{f7}{f0}	Two steps to my left,{fa}{fb f0}{f2}around the cliff, seems to be the entrance to the cave.{f7}{f0}	128 px x 2 lines per page	
+g3_1dc8e	ROM 01DC8E-01DC9F, pointers at 01AF2C	ほんとに、すまねぇかったなぁ。{f7}{f0}	Thank ya kindly, really.{f7}{f0}	128 px x 2 lines per page	
+g3_1dc9f	ROM 01DC9F-01DCAF, pointers at 01AF30	（スミをわたそうかな・・・）{ff}{f0}	(Should I hand over the charcoal...?){ff}{f0}	128 px x 2 lines per page	
+g3_1dcaf	ROM 01DCAF-01DCC2, pointers at 01AF34	おかげさまで、たすかりました。{f7}{f0}	Thanks to you, I was rescued.{f7}{f0}	128 px x 2 lines per page	
+g3_1dcc2	ROM 01DCC2-01DCCC, pointers at 01AF38 01AF3C 01AF40 01AF44 01AF48 01AF4C 01AF50 01AF54 01AF58 01AF5C 01AF60 01AF64	うーん。うーん。{f7}{f0}	Ugh... ugh...{f7}{f0}	128 px x 2 lines per page	
+g3_1dccc	ROM 01DCCC-01DD3B, pointers at 01AF68	いいかい、よくきくんだよ。{f1}てるよのびょうきをなおすには{fa}{fb f0}{f2}「ぬし」とよばれるさかなを{f1}つってこないといけないんだよ。{fa}{fb f0}{f2}だけど、ぬしがどこにいるのかは{f1}じぶんでさがすしかないんだよ。{f7}{f0}	"Listen carefully. To cure Teruyo's illness,{fa}{fb f0}{f2}we have to catch the fish they call the ""River King.""{fa}{fb f0}{f2}But you'll have to find out where the King is yourself.{f7}{f0}"	128 px x 2 lines per page	
+g3_1dd3b	ROM 01DD3B-01DD55, pointers at 01AF6C	おにい・・・ちゃん・・・。{f1}くるしいよぅ・・・。{f7}{f0}	Big... brother... It hurts...{f7}{f0}	128 px x 2 lines per page	
+g3_1dd55	ROM 01DD55-01DD5B, pointers at 01AF70	・・・！{f7}{f0}	...!{f7}{f0}	128 px x 2 lines per page	
+g3_1dd5b	ROM 01DD5B-01DD9E, pointers at 01AF74	・・・！{f1}てるよ、しっかりおし！{fa}{fb f0}{f2}・・・・・。{fa}{fb f0}{f2}すまないが、{f6}や。{fa}{fb f0}{f2}てるよのためにも{f1}ぬしをつってきておくれ。{f7}{f0}	...! Teruyo, hang in there!{fa}{fb f0}{f2}.....{fa}{fb f0}{f2}I'm sorry, {f6}.{fa}{fb f0}{f2}For Teruyo's sake, please catch the River King.{f7}{f0}	128 px x 2 lines per page	
+g3_1dd9e	ROM 01DD9E-01DDB8, pointers at 01AF78	わかったよ、かあちゃん！{f1}ぼくにまかせときな！{f7}{f0}	OK, Mom! Leave it to me!{f7}{f0}	128 px x 2 lines per page	
+g3_1ddb8	ROM 01DDB8-01DDDB, pointers at 01AF7C	これは、たびのぶじをいのる{f1}「おまもり」だよ。もっていきな{f7}{f0}	"This is a ""Charm"" to pray for a safe journey. Take it with you.{f7}{f0}"	128 px x 2 lines per page	
+g3_1dddb	ROM 01DDDB-01DE08, pointers at 01AF80	こうして、{f6}の{f1}ぬしをさがしてつりあげるたびが、{fa}{fb f0}{f2}はじまったのです。{f7}{f0}	And so began {f6}'s quest to catch the River King.{f7}{f0}	128 px x 2 lines per page	
+g3_1de08	ROM 01DE08-01DE12, pointers at 01AF84 01AF88 01AF8C 01AF90 01AF94 01AF98 01AF9C 01AFA0 01AFA4	うーん。うーん。{f7}{f0}	Ugh... ugh...{f7}{f0}	128 px x 2 lines per page	
+g3_1de12	ROM 01DE12-01DE61, pointers at 01AFA8	ああ、{f6}！{f1}よくぬしをつってきてくれたねぇ。{fa}{fb f0}{f2}じゃあさっそく、このぬしを{f1}くすりにしてっと・・・・・。{fa}{fb f0}{f2}さあ、てるよ。{f1}このくすりをおのみ。{f7}{f0}	Oh, {f6}! You caught the River King for us!{fa}{fb f0}{f2}Now, right away, I'll make this King into medicine...{fa}{fb f0}{f2}Here, Teruyo. Drink this medicine.{f7}{f0}	128 px x 2 lines per page	
+g3_1de61	ROM 01DE61-01DE69, pointers at 01AFAC	・・・・・。{f7}{f0}	.....{f7}{f0}	128 px x 2 lines per page	
+g3_1de69	ROM 01DE69-01DE7F, pointers at 01AFB0	・・・・・おにいちゃん！{f1}ありがとう！{f7}{f0}	..... Big brother! Thank you!{f7}{f0}	128 px x 2 lines per page	
+g3_1de7f	ROM 01DE7F-01DE85, pointers at 01AFB4	てるよ！{f7}{f0}	Teruyo!{f7}{f0}	128 px x 2 lines per page	
+g3_1de85	ROM 01DE85-01DEAC, pointers at 01AFB8	{f6}や、{f1}ほんとうにごくろうだったね。{fa}{fb f0}{f2}きょうはゆっくりおやすみ。{f7}{f0}	{f6}, you worked so hard.{fa}{fb f0}{f2}Get a good rest today.{f7}{f0}	128 px x 2 lines per page	
+g3_1deac	ROM 01DEAC-01DEDC, pointers at 01AFBC	こうして、{f6}の{f1}ぬしをさがしてつりあげるたびは、{fa}{fb f0}{f2}ぶじ、おわったのでした。{f7}{f0}	And so {f6}'s journey to find and catch the River King{fa}{fb f0}{f2}came safely to an end.{f7}{f0}	128 px x 2 lines per page	
+g3_1dedc	ROM 01DEDC-01DF02, pointers at 01AFC0	あれえ？{f1}ふしぎなみずうみがみえてきた。{fa}{fb f0}{f2}つりにいこうかな？{ff}{f0}	Huh? A mysterious lake has come into view.{fa}{fb f0}{f2}Shall I go fishing?{ff}{f0}	128 px x 2 lines per page	
+g3_1df02	ROM 01DF02-01DF05, pointers at 01AFC4	くも{f0}	Spider{f0}	128 px x 2 lines per page	
+g3_1df05	ROM 01DF05-01DF0A, pointers at 01AFC8	こうもり{f0}	Bat{f0}	128 px x 2 lines per page	
+g3_1df0a	ROM 01DF0A-01DF0E, pointers at 01AFCC	からす{f0}	Crow{f0}	128 px x 2 lines per page	
+g3_1df0e	ROM 01DF0E-01DF17, pointers at 01AFD0	あおだいしょう{f0}	Rat Snake{f0}	128 px x 2 lines per page	
+g3_1df17	ROM 01DF17-01DF1E, pointers at 01AFD4	どくぐも{f0}	Venom Spider{f0}	128 px x 2 lines per page	
+g3_1df1e	ROM 01DF1E-01DF23, pointers at 01AFD8	やまねこ{f0}	Wildcat{f0}	128 px x 2 lines per page	
+g3_1df23	ROM 01DF23-01DF2B, pointers at 01AFDC	ちすいこうもり{f0}	Vampire Bat{f0}	128 px x 2 lines per page	
+g3_1df2b	ROM 01DF2B-01DF31, pointers at 01AFE0	やまざる{f0}	Macaque{f0}	128 px x 2 lines per page	
+g3_1df31	ROM 01DF31-01DF38, pointers at 01AFE4	くまんばち{f0}	Bumblebee{f0}	128 px x 2 lines per page	
+g3_1df38	ROM 01DF38-01DF3B, pointers at 01AFE8	わし{f0}	Eagle{f0}	128 px x 2 lines per page	
+g3_1df3b	ROM 01DF3B-01DF40, pointers at 01AFEC	ひぐま{f0}	Brown Bear{f0}	128 px x 2 lines per page	
+g3_1df40	ROM 01DF40-01DF47, pointers at 01AFF0	ぼすざる{f0}	Boss Monkey{f0}	128 px x 2 lines per page	
+g3_1df47	ROM 01DF47-01DF4C, pointers at 01AFF4	のらねこ{f0}	Stray Cat{f0}	128 px x 2 lines per page	
+g3_1df4c	ROM 01DF4C-01DF54, pointers at 01AFF8	すずめばち{f0}	Hornet{f0}	128 px x 2 lines per page	
+g3_1df54	ROM 01DF54-01DF58, pointers at 01AFFC	まむし{f0}	Viper{f0}	128 px x 2 lines per page	
+g3_1df58	ROM 01DF58-01DF60, pointers at 01B000	つきのわぐま{f0}	Moon Bear{f0}	128 px x 2 lines per page	
+g3_1df60	ROM 01DF60-01DF76, pointers at 01B004	{f5}{f9 30}があらわれた！！{f1}どうしますか？{f0}	{f5}A {f9 30} appeared!!{f1}What will you do?{f0}	128 px x 2 lines per page	
+g3_1df76	ROM 01DF76-01DF7F, pointers at 01B008	{f6}のこうげき！{f0}	{f6} attacks!{f0}	128 px x 2 lines per page	
+g3_1df7f	ROM 01DF7F-01DFA8, pointers at 01B00C	{f6}は{f1}力いっぱいぶんなぐった！！{fb 80}{f2}こうげきがはずれてしまった。{fb f0}	{f6} punched with all his might!!{fb 80}{f2}The attack missed.{fb f0}	128 px x 2 lines per page	
+g3_1dfa9	ROM 01DFA9-01DFDB, pointers at 01B010	{f6}は{f1}力いっぱいぶんなぐった！！{fb 80}{f2}{f9 30}に、{f9 18}ポイントの{f1}ダメージをあたえた！！{fb f0}	{f6} punched with all his might!!{fb 80}{f2}Dealt {f9 18} damage{f1}to the {f9 30}!!{fb f0}	128 px x 2 lines per page	
+g3_1dfdc	ROM 01DFDC-01E025, pointers at 01B014	{f6}は、{f1}おべんとうをたべた。{fb 80}{f2}たいりょくが{f1}{f9 18}ポイントかいふくした。{fb 80}{f2}さいだいたいりょくまで{f1}あと{f9 20}ポイントです。{fb f0}	{f6} ate the bento.{fb 80}{f2}Recovered {f9 18} HP.{fb 80}{f2}{f9 20} more HP to full.{fb f0}	128 px x 2 lines per page	
+g3_1e026	ROM 01E026-01E03B, pointers at 01B018	{f6}は、{f1}ダッシュでにげだした。{fb f0}	{f6} dashed away!{fb f0}	128 px x 2 lines per page	
+g3_1e03c	ROM 01E03C-01E068, pointers at 01B01C	{f6}は、{f1}ダッシュでにげだした。{fb 80}{f2}しかし、{f9 30}に{f1}まわりこまれてしまった。{fb f0}	{f6} dashed away!{fb 80}{f2}But the {f9 30}{f1}cut him off.{fb f0}	128 px x 2 lines per page	
+g3_1e069	ROM 01E069-01E085, pointers at 01B020	{f9 30}をたおした！{f1}けいけんち{f9 18}ポイントかくとく！{fb f0}	Defeated the {f9 30}!{f1}Gained {f9 18} EXP!{fb f0}	128 px x 2 lines per page	
+g3_1e086	ROM 01E086-01E09D, pointers at 01B024	{f5}{f9 30}は、いきなり{f1}おそいかかってきた！！{fb f0}	{f5}The {f9 30} suddenly{f1}attacked!!{fb f0}	128 px x 2 lines per page	
+g3_1e09e	ROM 01E09E-01E0C4, pointers at 01B028	{f9 30}のこうげき！{fb 80}{f2}{f6}は、{f9 18}ポイントの{f1}ダメージをうけた！！{fb f0}	The {f9 30} attacks!{fb 80}{f2}{f6} took {f9 18}{f1}damage!!{fb f0}	128 px x 2 lines per page	
+g3_1e0c5	ROM 01E0C5-01E0E3, pointers at 01B02C	{f9 30}は、すばやいどうさで{f1}{f9 18}をぬすんでいった！{fb f0}	The {f9 30} swiftly{f1}stole the {f9 18}!{fb f0}	128 px x 2 lines per page	
+g3_1e0e4	ROM 01E0E4-01E0FC, pointers at 01B030	{f9 30}は、{f1}こちらのようすをじっとみている。{fb f0}	The {f9 30} is{f1}watching you closely.{fb f0}	128 px x 2 lines per page	
+g3_1e0fd	ROM 01E0FD-01E10E, pointers at 01B034	{f9 30}は、{f1}ぼ〜っとしている。{fb f0}	The {f9 30} is{f1}spacing out.{fb f0}	128 px x 2 lines per page	
+g3_1e10f	ROM 01E10F-01E120, pointers at 01B038	{f6}は、{f1}ちからつきてしまった。{fb f0}	{f6} collapsed from exhaustion.{fb f0}	128 px x 2 lines per page	
+g3_1e121	ROM 01E121-01E12A, pointers at 01B03C	どうしますか？{f0}	What will you do?{f0}	128 px x 2 lines per page	
+g3_1e12a	ROM 01E12A-01E12E, pointers at 01B040	イワナ{f0}	Char{f0}	128 px x 2 lines per page	
+g3_1e12e	ROM 01E12E-01E132, pointers at 01B044	ヤマメ{f0}	Masu Trout{f0}	128 px x 2 lines per page	
+g3_1e132	ROM 01E132-01E137, pointers at 01B048	アマゴ{f0}	Redspot Trout{f0}	128 px x 2 lines per page	
+g3_1e137	ROM 01E137-01E13D, pointers at 01B04C	ニジマス{f0}	Rainbow Trout{f0}	128 px x 2 lines per page	
+g3_1e13d	ROM 01E13D-01E142, pointers at 01B050	ヒメマス{f0}	Kokanee{f0}	128 px x 2 lines per page	
+g3_1e142	ROM 01E142-01E148, pointers at 01B054	サクラマス{f0}	Masu Salmon{f0}	128 px x 2 lines per page	
+g3_1e148	ROM 01E148-01E152, pointers at 01B058	ブラウントラウト{f0}	Brown Trout{f0}	128 px x 2 lines per page	
+g3_1e152	ROM 01E152-01E158, pointers at 01B05C	ワカサギ{f0}	Pond Smelt{f0}	128 px x 2 lines per page	
+g3_1e158	ROM 01E158-01E161, pointers at 01B060	ブラックバス{f0}	Black Bass{f0}	128 px x 2 lines per page	
+g3_1e161	ROM 01E161-01E169, pointers at 01B064	ブルーギル{f0}	Bluegill{f0}	128 px x 2 lines per page	
+g3_1e169	ROM 01E169-01E170, pointers at 01B068	アブラハヤ{f0}	Minnow{f0}	128 px x 2 lines per page	
+g3_1e170	ROM 01E170-01E174, pointers at 01B06C	ハリヨ{f0}	Stickleback{f0}	128 px x 2 lines per page	
+g3_1e174	ROM 01E174-01E17A, pointers at 01B070	サツキマス{f0}	Redspot Salmon{f0}	128 px x 2 lines per page	
+g3_1e17a	ROM 01E17A-01E17F, pointers at 01B074	ウグイ{f0}	Dace{f0}	128 px x 2 lines per page	
+g3_1e17f	ROM 01E17F-01E182, pointers at 01B078	アユ{f0}	Sweetfish{f0}	128 px x 2 lines per page	
+g3_1e182	ROM 01E182-01E187, pointers at 01B07C	オイカワ{f0}	Pale Chub{f0}	128 px x 2 lines per page	
+g3_1e187	ROM 01E187-01E18C, pointers at 01B080	ニゴイ{f0}	Barbel Steed{f0}	128 px x 2 lines per page	
+g3_1e18c	ROM 01E18C-01E18F, pointers at 01B084	コイ{f0}	Carp{f0}	128 px x 2 lines per page	
+g3_1e18f	ROM 01E18F-01E194, pointers at 01B088	タナゴ{f0}	Bitterling{f0}	128 px x 2 lines per page	
+g3_1e194	ROM 01E194-01E19A, pointers at 01B08C	かわのぬし{f0}	River King{f0}	128 px x 2 lines per page	
+g3_1e19a	ROM 01E19A-01E1A0, pointers at 01B090	ライギョ{f0}	Snakehead{f0}	128 px x 2 lines per page	
+g3_1e1a0	ROM 01E1A0-01E1A5, pointers at 01B094	モツゴ{f0}	Stone Moroko{f0}	128 px x 2 lines per page	
+g3_1e1a5	ROM 01E1A5-01E1AB, pointers at 01B098	イトモロコ{f0}	Itomoroko{f0}	128 px x 2 lines per page	
+g3_1e1ab	ROM 01E1AB-01E1B1, pointers at 01B09C	ホンモロコ{f0}	Biwa Gudgeon{f0}	128 px x 2 lines per page	
+g3_1e1b1	ROM 01E1B1-01E1B8, pointers at 01B0A0	ドジョウ{f0}	Loach{f0}	128 px x 2 lines per page	
+g3_1e1b8	ROM 01E1B8-01E1BE, pointers at 01B0A4	キンブナ{f0}	Gold Crucian{f0}	128 px x 2 lines per page	
+g3_1e1be	ROM 01E1BE-01E1C3, pointers at 01B0A8	マブナ{f0}	Crucian Carp{f0}	128 px x 2 lines per page	
+g3_1e1c3	ROM 01E1C3-01E1C9, pointers at 01B0AC	ヘラブナ{f0}	White Crucian{f0}	128 px x 2 lines per page	
+g3_1e1c9	ROM 01E1C9-01E1CE, pointers at 01B0B0	メダカ{f0}	Ricefish{f0}	128 px x 2 lines per page	
+g3_1e1ce	ROM 01E1CE-01E1D4, pointers at 01B0B4	オヤニラミ{f0}	Aucha Perch{f0}	128 px x 2 lines per page	
+g3_1e1d4	ROM 01E1D4-01E1D8, pointers at 01B0B8	トミヨ{f0}	Ninespine{f0}	128 px x 2 lines per page	
+g3_1e1d8	ROM 01E1D8-01E1DD, pointers at 01B0BC	ナマズ{f0}	Catfish{f0}	128 px x 2 lines per page	
+g3_1e1dd	ROM 01E1DD-01E1E2, pointers at 01B0C0	カワマス{f0}	Brook Trout{f0}	128 px x 2 lines per page	
+g3_1e1e2	ROM 01E1E2-01E1E7, pointers at 01B0C4	アカザ{f0}	Torrent Catfish{f0}	128 px x 2 lines per page	
+g3_1e1e7	ROM 01E1E7-01E1EC, pointers at 01B0C8	ドンコ{f0}	Dark Sleeper{f0}	128 px x 2 lines per page	
+g3_1e1ec	ROM 01E1EC-01E1F1, pointers at 01B0CC	カワムツ{f0}	Dark Chub{f0}	128 px x 2 lines per page	
+g3_1e1f1	ROM 01E1F1-01E1F6, pointers at 01B0D0	カジカ{f0}	Sculpin{f0}	128 px x 2 lines per page	
+g3_1e1f6	ROM 01E1F6-01E1FC, pointers at 01B0D4	ヤマノカミ{f0}	Rough Sculpin{f0}	128 px x 2 lines per page	
+g3_1e1fc	ROM 01E1FC-01E201, pointers at 01B0D8	ウナギ{f0}	Eel{f0}	128 px x 2 lines per page	
+g3_1e201	ROM 01E201-01E209, pointers at 01B0DC	テナガエビ{f0}	River Prawn{f0}	128 px x 2 lines per page	
+g3_1e209	ROM 01E209-01E20C, pointers at 01B0E0	ハリ{f0}	Hook{f0}	128 px x 2 lines per page	
+g3_1e20c	ROM 01E20C-01E20F, pointers at 01B0E4	ハリ{f0}	Hook{f0}	128 px x 2 lines per page	
+g3_1e20f	ROM 01E20F-01E213, pointers at 01B0E8	ルアー{f0}	Lure{f0}	128 px x 2 lines per page	
+g3_1e213	ROM 01E213-01E218, pointers at 01B0EC	ケバリ{f0}	Fly{f0}	128 px x 2 lines per page	
+g3_1e218	ROM 01E218-01E22B, pointers at 01B0F0	{f9 08}がつれた！{f1}大きさは{f9 18}cm{f7}{f0}	Caught a {f9 08}!{f1}Size: {f9 18}cm{f7}{f0}	128 px x 2 lines per page	
+g3_1e22b	ROM 01E22B-01E250, pointers at 01B0F4	{f9 08}がつれた！{f1}大きさは{f9 18}cm{fb f0}{f2}{f9 08}の{f1}さいこうきろくだ！！{f7}{f0}	Caught a {f9 08}!{f1}Size: {f9 18}cm{fb f0}{f2}A new record{f1}for {f9 08}!!{f7}{f0}	128 px x 2 lines per page	
+g3_1e250	ROM 01E250-01E25F, pointers at 01B0F8	{f9 18}がこわれてしまった。{f7}{f0}	The {f9 18} broke.{f7}{f0}	128 px x 2 lines per page	
+g3_1e25f	ROM 01E25F-01E277, pointers at 01B0FC	{f9 08}をにがした。{f1}エサをとられてしまった。{f7}{f0}	The {f9 08} got away.{f1}It took your bait.{f7}{f0}	128 px x 2 lines per page	
+g3_1e277	ROM 01E277-01E282, pointers at 01B100	{f9 08}をにがした。{f7}{f0}	The {f9 08} got away.{f7}{f0}	128 px x 2 lines per page	
+g3_1e282	ROM 01E282-01E29B, pointers at 01B104	{f9 08}をにがした。{f1}{f9 18}がとられてしまった。{f7}{f0}	The {f9 08} got away.{f1}It took the {f9 18}.{f7}{f0}	128 px x 2 lines per page	
+g3_1e29b	ROM 01E29B-01E2AF, pointers at 01B108	もうびくがいっぱいです・・・{f7}{f0}	Your creel is already full...{f7}{f0}	128 px x 2 lines per page	
+g3_1e2af	ROM 01E2AF-01E2DE, pointers at 01B10C	すべてのしゅるいの{f1}さかなをつりあげたので、{fb f0}{f2}まぼろしこがしゅつげんした。{f7}{f0}	You've caught every kind of fish,{fb f0}{f2}so the Mirage Lake has appeared.{f7}{f0}	128 px x 2 lines per page	
+g3_1e2de	ROM 01E2DE-01E2E2, pointers at 01B110	［{f6}］{f0}	[{f6}]{f0}	128 px x 2 lines per page	
+g3_1e2e2	ROM 01E2E2-01E2EB, pointers at 01B114	［はは］　　　　{f0}	[Mom]{f0}	128 px x 2 lines per page	
+g3_1e2eb	ROM 01E2EB-01E2F4, pointers at 01B118	［いもうと］　　{f0}	[Sister]{f0}	128 px x 2 lines per page	
+g3_1e2f4	ROM 01E2F4-01E2FD, pointers at 01B11C	［タライ名人］　{f0}	[Tub Master]{f0}	128 px x 2 lines per page	
+g3_1e2fd	ROM 01E2FD-01E307, pointers at 01B120	［おじいさん］　{f0}	[Old Man]{f0}	128 px x 2 lines per page	
+g3_1e307	ROM 01E307-01E311, pointers at 01B124	［つりびと］　　{f0}	[Angler]{f0}	128 px x 2 lines per page	
+g3_1e311	ROM 01E311-01E31B, pointers at 01B128	［つりびと］　　{f0}	[Angler]{f0}	128 px x 2 lines per page	
+g3_1e31b	ROM 01E31B-01E324, pointers at 01B12C	［おとこの子］　{f0}	[Boy]{f0}	128 px x 2 lines per page	
+g3_1e324	ROM 01E324-01E32D, pointers at 01B130	［おんなの子］　{f0}	[Girl]{f0}	128 px x 2 lines per page	
+g3_1e32d	ROM 01E32D-01E336, pointers at 01B134	［おんなの子］　{f0}	[Girl]{f0}	128 px x 2 lines per page	
+g3_1e336	ROM 01E336-01E340, pointers at 01B138 01B13C 01B140 01B144 01B148 01B14C 01B150	［名人のでし］　{f0}	[Apprentice]{f0}	128 px x 2 lines per page	
+g3_1e340	ROM 01E340-01E34A, pointers at 01B154	［ちりがくしゃ］{f0}	[Geographer]{f0}	128 px x 2 lines per page	
+g3_1e34a	ROM 01E34A-01E354, pointers at 01B158	［とうげいか］　{f0}	[Potter]{f0}	128 px x 2 lines per page	
+g3_1e354	ROM 01E354-01E35E, pointers at 01B15C	［おじさん］　　{f0}	[Man]{f0}	128 px x 2 lines per page	
+g3_1e35e	ROM 01E35E-01E368, pointers at 01B160	［おばさん］　　{f0}	[Lady]{f0}	128 px x 2 lines per page	
+g3_1e368	ROM 01E368-01E372, pointers at 01B164	［つりびと］　　{f0}	[Angler]{f0}	128 px x 2 lines per page	
+g3_1e372	ROM 01E372-01E37C, pointers at 01B168	［つりびと］　　{f0}	[Angler]{f0}	128 px x 2 lines per page	
+g3_1e37c	ROM 01E37C-01E385, pointers at 01B16C	［おとこの子］　{f0}	[Boy]{f0}	128 px x 2 lines per page	
+g3_1e385	ROM 01E385-01E38E, pointers at 01B170	［おとこの子］　{f0}	[Boy]{f0}	128 px x 2 lines per page	
+g3_1e38e	ROM 01E38E-01E397, pointers at 01B174	［おんなの子］　{f0}	[Girl]{f0}	128 px x 2 lines per page	
+g3_1e397	ROM 01E397-01E3A0, pointers at 01B178	［おんなの子］　{f0}	[Girl]{f0}	128 px x 2 lines per page	
+g3_1e3a0	ROM 01E3A0-01E3AA, pointers at 01B17C	［おばさん］　　{f0}	[Lady]{f0}	128 px x 2 lines per page	
+g3_1e3aa	ROM 01E3AA-01E3B4, pointers at 01B180 01B184 01B188 01B18C 01B190	［おじさん］　　{f0}	[Man]{f0}	128 px x 2 lines per page	
+g3_1e3b4	ROM 01E3B4-01E3BD, pointers at 01B194	［おんなの子］　{f0}	[Girl]{f0}	128 px x 2 lines per page	
+g3_1e3bd	ROM 01E3BD-01E3C6, pointers at 01B198	［むらの仙人］　{f0}	[Hermit]{f0}	128 px x 2 lines per page	
+g3_1e3c6	ROM 01E3C6-01E3D0, pointers at 01B19C	［おじいさん］　{f0}	[Old Man]{f0}	128 px x 2 lines per page	
+g3_1e3d0	ROM 01E3D0-01E3DA, pointers at 01B1A0	［おじさん］　　{f0}	[Man]{f0}	128 px x 2 lines per page	
+g3_1e3da	ROM 01E3DA-01E3E4, pointers at 01B1A4	［おじさん］　　{f0}	[Man]{f0}	128 px x 2 lines per page	
+g3_1e3e4	ROM 01E3E4-01E3EE, pointers at 01B1A8	［つりびと］　　{f0}	[Angler]{f0}	128 px x 2 lines per page	
+g3_1e3ee	ROM 01E3EE-01E3F8, pointers at 01B1AC	［つりびと］　　{f0}	[Angler]{f0}	128 px x 2 lines per page	
+g3_1e3f8	ROM 01E3F8-01E401, pointers at 01B1B0	［おとこの子］　{f0}	[Boy]{f0}	128 px x 2 lines per page	
+g3_1e401	ROM 01E401-01E40A, pointers at 01B1B4	［おとこの子］　{f0}	[Boy]{f0}	128 px x 2 lines per page	
+g3_1e40a	ROM 01E40A-01E413, pointers at 01B1B8	［おんなの子］　{f0}	[Girl]{f0}	128 px x 2 lines per page	
+g3_1e413	ROM 01E413-01E41D, pointers at 01B1BC	［おじさん］　　{f0}	[Man]{f0}	128 px x 2 lines per page	
+g3_1e41d	ROM 01E41D-01E427, pointers at 01B1C0	［おじさん］　　{f0}	[Man]{f0}	128 px x 2 lines per page	
+g3_1e427	ROM 01E427-01E431, pointers at 01B1C4 01B1C8 01B1CC 01B1D0	［おばさん］　　{f0}	[Lady]{f0}	128 px x 2 lines per page	
+g3_1e431	ROM 01E431-01E43B, pointers at 01B1D4	［おじいさん］　{f0}	[Old Man]{f0}	128 px x 2 lines per page	
+g3_1e43b	ROM 01E43B-01E445, pointers at 01B1D8	［おじさん］　　{f0}	[Man]{f0}	128 px x 2 lines per page	
+g3_1e445	ROM 01E445-01E44F, pointers at 01B1DC	［つりびと］　　{f0}	[Angler]{f0}	128 px x 2 lines per page	
+g3_1e44f	ROM 01E44F-01E459, pointers at 01B1E0	［つりびと］　　{f0}	[Angler]{f0}	128 px x 2 lines per page	
+g3_1e459	ROM 01E459-01E462, pointers at 01B1E4	［おとこの子］　{f0}	[Boy]{f0}	128 px x 2 lines per page	
+g3_1e462	ROM 01E462-01E46B, pointers at 01B1E8	［おとこの子］　{f0}	[Boy]{f0}	128 px x 2 lines per page	
+g3_1e46b	ROM 01E46B-01E474, pointers at 01B1EC	［おとこの子］　{f0}	[Boy]{f0}	128 px x 2 lines per page	
+g3_1e474	ROM 01E474-01E47D, pointers at 01B1F0	［おんなの子］　{f0}	[Girl]{f0}	128 px x 2 lines per page	
+g3_1e47d	ROM 01E47D-01E486, pointers at 01B1F4	［おんなの子］　{f0}	[Girl]{f0}	128 px x 2 lines per page	
+g3_1e486	ROM 01E486-01E490, pointers at 01B1F8	［おばさん］　　{f0}	[Lady]{f0}	128 px x 2 lines per page	
+g3_1e490	ROM 01E490-01E49A, pointers at 01B1FC	［おじさん］　　{f0}	[Man]{f0}	128 px x 2 lines per page	
+g3_1e49a	ROM 01E49A-01E4A4, pointers at 01B200	［おじいさん］　{f0}	[Old Man]{f0}	128 px x 2 lines per page	
+g3_1e4a4	ROM 01E4A4-01E4A8, pointers at 01B204	みかん{f0}	Mandarin{f0}	128 px x 2 lines per page	
+g3_1e4a8	ROM 01E4A8-01E4AE, pointers at 01B208	おにぎり{f0}	Rice Ball{f0}	128 px x 2 lines per page	
+g3_1e4ae	ROM 01E4AE-01E4B4, pointers at 01B20C	べんとう{f0}	Bento{f0}	128 px x 2 lines per page	
+g3_1e4b4	ROM 01E4B4-01E4BC, pointers at 01B210	けいりゅう　　{f0}	Stream{f0}	128 px x 2 lines per page	
+g3_1e4bc	ROM 01E4BC-01E4C5, pointers at 01B214	じょうりゅうこ{f0}	Upper Lake{f0}	128 px x 2 lines per page	
+g3_1e4c5	ROM 01E4C5-01E4CD, pointers at 01B218	せいりゅう　　{f0}	Creek{f0}	128 px x 2 lines per page	
+g3_1e4cd	ROM 01E4CD-01E4D5, pointers at 01B21C	かりゅうこ　　{f0}	Plains Lake{f0}	128 px x 2 lines per page	
+g3_1e4d5	ROM 01E4D5-01E4DE, pointers at 01B220	まぼろしこ　　{f0}	Mirage Lake{f0}	128 px x 2 lines per page	
+g3_1e4de	ROM 01E4DE-01E4E6, pointers at 01B224 01B228 01B22C	　　　　　　　{f0}		128 px x 2 lines per page	not in the translation tables (debug text, graphics label or unused)
+g3_1e4e6	ROM 01E4E6-01E4EF, pointers at 01B230	フィールド　　{f0}	Field{f0}	128 px x 2 lines per page	
+g3_1e4ef	ROM 01E4EF-01E4F8, pointers at 01B234	やどや　　　　{f0}	Inn{f0}	128 px x 2 lines per page	
+g3_1e4f8	ROM 01E4F8-01E500, pointers at 01B238	さかなや　　　{f0}	Fish Shop{f0}	128 px x 2 lines per page	
+g3_1e500	ROM 01E500-01E509, pointers at 01B23C	つりぐや　　　{f0}	Tackle Shop{f0}	128 px x 2 lines per page	
+g3_1e509	ROM 01E509-01E512, pointers at 01B240	じたく　　　　{f0}	Home{f0}	128 px x 2 lines per page	
+g3_1e512	ROM 01E512-01E51A, pointers at 01B244	あきや　　　　{f0}	Empty House{f0}	128 px x 2 lines per page	
+g3_1e51a	ROM 01E51A-01E525, pointers at 01B248	　　　　　　スタッフ{f0}	                    Staff{f0}	128 px x 2 lines per page	
+g3_1e525	ROM 01E525-01E547, pointers at 01B24C	・エグゼクティブプロデューサー{f1}　　　　わだ　やすひろ{f0}	- Executive Producer{f1}          Yasuhiro Wada{f0}	128 px x 2 lines per page	
+g3_1e547	ROM 01E547-01E55E, pointers at 01B250	・プロデュース{f1}　　　　いしかわ　まりこ{f0}	- Producer{f1}          Mariko Ishikawa{f0}	128 px x 2 lines per page	
+g3_1e55e	ROM 01E55E-01E573, pointers at 01B254	・ディレクター{f1}　　　　なかの　ひかる{f0}	- Director{f1}          Hikaru Nakano{f0}	128 px x 2 lines per page	
+g3_1e573	ROM 01E573-01E59A, pointers at 01B258	・ゲームコーディネーター{f1}　　　　ちけん　つりゆき{f1}　　　　　　マメさま{f0}	- Game Coordinators{f1}          Tsuriyuki Chiken{f1}                  Mame-sama{f0}	128 px x 2 lines per page	
+g3_1e59a	ROM 01E59A-01E5B0, pointers at 01B25C	・プログラマー{f1}　　　　まつもと　しん{f0}	- Programmer{f1}          Shin Matsumoto{f0}	128 px x 2 lines per page	
+g3_1e5b0	ROM 01E5B0-01E5D2, pointers at 01B260	・デザイン{f1}　　　　GAPS.{f1}　　　　スタジオ　SCREW{f0}	- Design{f1}          GAPS.{f1}          Studio SCREW{f0}	128 px x 2 lines per page	
+g3_1e5d2	ROM 01E5D2-01E5E5, pointers at 01B264	・ストーリー{f1}　　　　まどかっち★{f0}	- Story{f1}          Madokacchi*{f0}	128 px x 2 lines per page	
+g3_1e5e5	ROM 01E5E5-01E5FE, pointers at 01B268	・コンポーザー{f1}　　　　BOOING　BOO{f0}	- Composer{f1}          BOOING BOO{f0}	128 px x 2 lines per page	
+g3_1e5fe	ROM 01E5FE-01E617, pointers at 01B26C	　　{f8 0c}はなれいけのぬし{f1}つりびと・・・{f8 18}{f6}{f0}	      {f8 0c}Far Pond King{f1}Angler... {f8 18}{f6}{f0}	128 px x 2 lines per page	

@@ -1,0 +1,181 @@
+id	location	japanese	english	limit	notes
+menu	window templates	命令	Menu	template width	_ = blank cell
+menu	window templates	えさ_弁当	Bait Food	template width	_ = blank cell
+menu	window templates	釣具_びく	Gear Fish	template width	_ = blank cell
+menu	window templates	道具	Item	template width	_ = blank cell
+menu	window templates	はい	Yes	template width	_ = blank cell
+menu	window templates	いいえ	No	template width	_ = blank cell
+menu	window templates	体力	HP	template width	_ = blank cell
+menu	window templates	お金	Yen	template width	_ = blank cell
+menu	window templates	経験	EXP	template width	_ = blank cell
+menu	window templates	渓流	Glen	template width	_ = blank cell
+menu	window templates	上流	High	template width	_ = blank cell
+menu	window templates	中流	Mid	template width	_ = blank cell
+menu	window templates	下流	Low	template width	_ = blank cell
+menu	window templates	河口	Bay	template width	_ = blank cell
+menu	window templates	川__虫	Caddis	template width	_ = blank cell
+menu	window templates	ねりえ	Paste	template width	_ = blank cell
+menu	window templates	赤__虫	Midge	template width	_ = blank cell
+menu	window templates	さ__し	Maggot	template width	_ = blank cell
+menu	window templates	みみず	Worms	template width	_ = blank cell
+menu	window templates	針	Hook	template width	_ = blank cell
+menu	window templates	寄せえ	Chum	template width	_ = blank cell
+menu	window templates	ぬし針	K.Hook	template width	_ = blank cell
+menu	window templates	ぬしえ	K.Bait	template width	_ = blank cell
+menu	window templates	容量	Size	template width	_ = blank cell
+menu	window templates	びく	Bag	template width	_ = blank cell
+menu	window templates	磁__石	Magnet	template width	_ = blank cell
+menu	window templates	ぱ__ん	Bun	template width	_ = blank cell
+menu	window templates	鍵	Key	template width	_ = blank cell
+menu	window templates	も__ち	Cake	template width	_ = blank cell
+menu	window templates	花__火	Sparks	template width	_ = blank cell
+menu	window templates	い__も	Spud	template width	_ = blank cell
+menu	window templates	斧	Axe	template width	_ = blank cell
+menu	window templates	牛__乳	Milk	template width	_ = blank cell
+menu	window templates	ぬし竿	K.Rod	template width	_ = blank cell
+menu	window templates	あ__め	Mint	template width	_ = blank cell
+menu	window templates	竹__竿	Bamboo	template width	_ = blank cell
+menu	window templates	リール竿	Reel rod	template width	_ = blank cell
+menu	window templates	ぱん	Bun	template width	_ = blank cell
+menu	window templates	もち	Cake	template width	_ = blank cell
+menu	window templates	いも	Spud	template width	_ = blank cell
+menu	window templates	牛乳	Milk	template width	_ = blank cell
+menu	window templates	あめ	Mint	template width	_ = blank cell
+menu	window templates	めがね	Specs	template width	_ = blank cell
+menu	window templates	磁石	Magnet	template width	_ = blank cell
+menu	window templates	たらい	Tub	template width	_ = blank cell
+menu	window templates	花火	Sparks	template width	_ = blank cell
+menu	window templates	リんご	Apple	template width	_ = blank cell
+menu	window templates	花__が	Fight	template width	_ = blank cell
+menu	window templates	ね__斧	Eat	template width	_ = blank cell
+menu	window templates	ね斧たら	Eat	template width	_ = blank cell
+menu	window templates	竹ルら	Run	template width	_ = blank cell
+guide_fish	fish guide pool	イワナ	Char	18 letters	
+guide_fish	fish guide pool	ヤマメ	Masu Trout	18 letters	
+guide_fish	fish guide pool	カジカ	Sculpin	18 letters	
+guide_fish	fish guide pool	ニジマス	Rainbow Trout	18 letters	
+guide_fish	fish guide pool	アマゴ	Redspot Trout	18 letters	
+guide_fish	fish guide pool	ヒメマス	Kokanee	18 letters	
+guide_fish	fish guide pool	ブラウントラウト	Brown Trout	18 letters	
+guide_fish	fish guide pool	カワマス	Brook Trout	18 letters	
+guide_fish	fish guide pool	ワカサギ	Pond Smelt	18 letters	
+guide_fish	fish guide pool	ブラックバス	Black Bass	18 letters	
+guide_fish	fish guide pool	ウグイ	Dace	18 letters	
+guide_fish	fish guide pool	コイ	Carp	18 letters	
+guide_fish	fish guide pool	ドンコ	Dark Sleeper	18 letters	
+guide_fish	fish guide pool	オイカワ	Pale Chub	18 letters	
+guide_fish	fish guide pool	モツゴ	Stone Moroko	18 letters	
+guide_fish	fish guide pool	イトモロコ	Itomoroko	18 letters	
+guide_fish	fish guide pool	ギギ	Bagrid Catfish	18 letters	
+guide_fish	fish guide pool	サクラマス	Masu Salmon	18 letters	
+guide_fish	fish guide pool	コクレン	Bighead Carp	18 letters	
+guide_fish	fish guide pool	ハクレン	Silver Carp	18 letters	
+guide_fish	fish guide pool	ムギツク	Mugitsuku	18 letters	
+guide_fish	fish guide pool	ホンモロコ	Biwa Gudgeon	18 letters	
+guide_fish	fish guide pool	ヤマノカミ	Rough Sculpin	18 letters	
+guide_fish	fish guide pool	ドジョウ	Loach	18 letters	
+guide_fish	fish guide pool	タモロコ	Tamoroko	18 letters	
+guide_fish	fish guide pool	カワムツ	Dark Chub	18 letters	
+guide_fish	fish guide pool	キンブナ	Gold Crucian	18 letters	
+guide_fish	fish guide pool	フナ	Crucian Carp	18 letters	
+guide_fish	fish guide pool	アカザ	Torrent Catfish	18 letters	
+guide_fish	fish guide pool	メダカ	Ricefish	18 letters	
+guide_fish	fish guide pool	ブルーギル	Bluegill	18 letters	
+guide_fish	fish guide pool	オヤニラミ	Aucha Perch	18 letters	
+guide_fish	fish guide pool	ハリヨ	Stickleback	18 letters	
+guide_fish	fish guide pool	トミヨ	Ninespine	18 letters	
+guide_fish	fish guide pool	タイワンドジョウ	Taiwan Snakehead	18 letters	
+guide_fish	fish guide pool	ヘラブナ	White Crucian	18 letters	
+guide_fish	fish guide pool	ナマズ	Catfish	18 letters	
+guide_fish	fish guide pool	サヨリ	Halfbeak	18 letters	
+guide_fish	fish guide pool	ハス	Three-lips	18 letters	
+guide_fish	fish guide pool	ワタカ	Wataka	18 letters	
+guide_fish	fish guide pool	カマツカ	Pike Gudgeon	18 letters	
+guide_fish	fish guide pool	ツチフキ	False Gudgeon	18 letters	
+guide_fish	fish guide pool	シマドジョウ	Spined Loach	18 letters	
+guide_fish	fish guide pool	カムルチー	Amur Snakehead	18 letters	
+guide_fish	fish guide pool	ヒガイ	Higai	18 letters	
+guide_fish	fish guide pool	ソウギョ	Grass Carp	18 letters	
+guide_fish	fish guide pool	ニゴイ	Barbel Steed	18 letters	
+guide_fish	fish guide pool	メゴチ	Flathead	18 letters	
+guide_fish	fish guide pool	マルタ	Pacific Redfin	18 letters	
+guide_fish	fish guide pool	ハゼ	Goby	18 letters	
+guide_fish	fish guide pool	ボラ	Mullet	18 letters	
+guide_fish	fish guide pool	スズキ	Sea Bass	18 letters	
+guide_use	fish guide pool	塩焼き	Salt-grill	10 letters	
+guide_use	fish guide pool	美味	Tasty	10 letters	
+guide_use	fish guide pool	鑑賞用	Ornamental	10 letters	
+guide_use	fish guide pool	みそ汁絶品	Great soup	10 letters	
+guide_use	fish guide pool	まずい	Tastes bad	10 letters	
+guide_use	fish guide pool	刺身	Sashimi	10 letters	
+guide_use	fish guide pool	バター焼き	Butter fry	10 letters	
+guide_use	fish guide pool	フライ	Fried	10 letters	
+guide_use	fish guide pool	スポーツ用	For sport	10 letters	
+guide_use	fish guide pool	味噌田楽	Dengaku	10 letters	
+guide_use	fish guide pool	コイこく	Carp soup	10 letters	
+guide_use	fish guide pool	甘煮つけ	Sweet stew	10 letters	
+guide_use	fish guide pool	白焼き	Grilled	10 letters	
+guide_use	fish guide pool	つくだに	Tsukudani	10 letters	
+guide_use	fish guide pool	煮つけ	Simmered	10 letters	
+guide_use	fish guide pool	つけやき	Tsukeyaki	10 letters	
+guide_use	fish guide pool	みそ汁	Miso soup	10 letters	
+guide_use	fish guide pool	からあげ	Fried	10 letters	
+guide_use	fish guide pool	煮びたし	Nibitashi	10 letters	
+guide_use	fish guide pool	食べない	Not eaten	10 letters	
+guide_use	fish guide pool	あらい	Arai	10 letters	
+guide_use	fish guide pool	蒲焼き	Kabayaki	10 letters	
+guide_use	fish guide pool	吸物	Soup	10 letters	
+guide_use	fish guide pool	なれずし	Narezushi	10 letters	
+guide_use	fish guide pool	産卵期美味	Spawn-good	10 letters	
+guide_use	fish guide pool	天ぷら	Tempura	10 letters	
+guide_use	fish guide pool	カラスミ	Bottarga	10 letters	
+guide_use	fish guide pool	夏のあらい	Arai	10 letters	
+guide_use	fish guide pool	極めて美味	Delicious!	10 letters	
+guide_use	fish guide pool	くんせい	Smoked	10 letters	
+guide_use	fish guide pool	すし	Sushi	10 letters	
+guide_use	fish guide pool	甘露煮	Candied	10 letters	
+guide_use	fish guide pool	酢のもの	Vinegared	10 letters	
+guide_label	fish guide pool	長　さ　　　　Ｃｍ	Length        cm	18 letters	
+guide_label	fish guide pool	釣　果　　　　　匹	Got               	18 letters	
+guide_label	fish guide pool	利　用	Use	18 letters	
+guide_label	fish guide pool	戻る	Back	18 letters	
+guide_label	fish guide pool	続く	Next	18 letters	
+guide_label	fish guide pool	終り	End	18 letters	
+guide_area	fish guide pool	渓流	Glen		"used in ""(Glen fish 1)"""
+guide_area	fish guide pool	上流	High		"used in ""(Glen fish 1)"""
+guide_area	fish guide pool	中流	Mid		"used in ""(Glen fish 1)"""
+guide_area	fish guide pool	下流	Low		"used in ""(Glen fish 1)"""
+guide_area	fish guide pool	河口	Bay		"used in ""(Glen fish 1)"""
+catch_name	sector 990	イモリ	Newt		plus the fish guide names
+catch_name	sector 990	カエル	Frog		plus the fish guide names
+catch_name	sector 990	モロコ	Gudgeon		plus the fish guide names
+catch_name	sector 990	カナヘビ	Lizard		plus the fish guide names
+catch_name	sector 990	カメ	Turtle		plus the fish guide names
+catch_name	sector 990	テナガエビ	River Prawn		plus the fish guide names
+catch_name	sector 990	ヘビ	Snake		plus the fish guide names
+catch_name	sector 990	カワノヌシ	River King		plus the fish guide names
+animal_00	main $C89F		Mouse	9 letters	{B1} insert; Japanese in the ROM table
+animal_01	main $C89F		Hare	9 letters	{B1} insert; Japanese in the ROM table
+animal_02	main $C89F		Mole	9 letters	{B1} insert; Japanese in the ROM table
+animal_03	main $C89F		Mt. Bat	9 letters	{B1} insert; Japanese in the ROM table
+animal_04	main $C89F		Owl	9 letters	{B1} insert; Japanese in the ROM table
+animal_05	main $C89F		Marten	9 letters	{B1} insert; Japanese in the ROM table
+animal_06	main $C89F		Crow	9 letters	{B1} insert; Japanese in the ROM table
+animal_07	main $C89F		Fox	9 letters	{B1} insert; Japanese in the ROM table
+animal_08	main $C89F		Squirrel	9 letters	{B1} insert; Japanese in the ROM table
+animal_09	main $C89F		Tanuki	9 letters	{B1} insert; Japanese in the ROM table
+animal_10	main $C89F		Weasel	9 letters	{B1} insert; Japanese in the ROM table
+animal_11	main $C89F		Eagle	9 letters	{B1} insert; Japanese in the ROM table
+animal_12	main $C89F		Rat Snake	9 letters	{B1} insert; Japanese in the ROM table
+animal_13	main $C89F		Snake	9 letters	{B1} insert; Japanese in the ROM table
+animal_14	main $C89F		Serow	9 letters	{B1} insert; Japanese in the ROM table
+animal_15	main $C89F		Viper	9 letters	{B1} insert; Japanese in the ROM table
+animal_16	main $C89F		Deer	9 letters	{B1} insert; Japanese in the ROM table
+animal_17	main $C89F		Macaque	9 letters	{B1} insert; Japanese in the ROM table
+animal_18	main $C89F		Wildcat	9 letters	{B1} insert; Japanese in the ROM table
+animal_19	main $C89F		Badger	9 letters	{B1} insert; Japanese in the ROM table
+animal_20	main $C89F		Boar	9 letters	{B1} insert; Japanese in the ROM table
+animal_21	main $C89F		Grizzly	9 letters	{B1} insert; Japanese in the ROM table
+animal_22	main $C89F		Scorpion	9 letters	{B1} insert; Japanese in the ROM table
+animal_23	main $C89F		Moon Bear	9 letters	{B1} insert; Japanese in the ROM table
+animal_24	main $C89F		Spider	9 letters	{B1} insert; Japanese in the ROM table

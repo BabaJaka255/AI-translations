@@ -28,15 +28,25 @@ Known issues:
 - The 8x8 font raises the tails of g, j, p, q and y, so they can look a little like 9.
 - The records screen draws the fish name with a very short screen blank. A one-frame flicker there is possible.
 
+## Build on this
+- [src/BUILD.md](src/BUILD.md): how to rebuild the patch from your own copy of the game. The build was verified byte for byte against the published patch.
+- [docs/ENGINE_NOTES.md](docs/ENGINE_NOTES.md): how the game stores its text, fonts and graphics, with addresses and hooks.
+- `src/script/script.tsv`: the whole script, Japanese next to English, one row per string.
+- [DEVLOG.md](DEVLOG.md): how the patch was made, what was tested, and what went wrong along the way.
+
 ## About AI use
 This project was made with substantial help from Claude (Anthropic). Claude did the reverse engineering of the text and graphics engine, all of the ROM-hacking code (relocated text, English keyboard, 8x16 sign letters), and the whole translation.
 
 The human tester directed the project, chose the names and English titles, playtested the builds in emulators and reported bugs with screenshots.
 
+## License
+Code, tools and docs made for this project: MIT. Translation text and new art: CC BY 4.0. Extracted game material (the Japanese script dumps, tables and graphics in `src/`) remains the property of its rights holders and is included for research and modding.
+
 ## Credits
 - Testing and direction: the project's tester
 - Translation and ROM hacking: Claude (Anthropic)
 - Original game: *Tsuri Tarou* (Super Famicom). This is an unofficial fan translation. Please distribute the patch, not patched ROMs.
+- Tools: snes9x through stable-retro (testing). Everything else, including the English pixel font, was written for this project.
 
 ## Changelog
 - **0.9.1:** Terms follow the series glossary: River King, Masu Trout, White Crucian (W.Crucian in the fish list), paste bait, "Got" on the records screen, and the hero is Taro.

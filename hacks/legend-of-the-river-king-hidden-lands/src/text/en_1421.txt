@@ -1,0 +1,221 @@
+# Hikyou o Motomete English script, part 5 (ids 1421-1640): alpine lake stories, creek village
+1421|{7:0}: Well, the truth is.{8:6}.{8:6}.{8:6}.
+1422|Mother-in-law: I see, so that's{E}what happened.{D}Old man, do you know anything{E}about the River King?
+1423|Father-in-law:{E}No, can't say I do.
+1424|Mother-in-law: Honestly, as useless{E}as our son.{D}I'm sorry, {7:0}.
+1425|{7:0}: No, it's all right.{E}I'll find it myself somehow.
+1426|Mother-in-law: Oh, I know! Long ago, the old man fed me a kokanee,{D}and I remember my body felt so very light.
+1427|{7:0}:{E}Oh! Could it be...
+1428|Mother-in-law: I'm sure, {7:0}. Catch a kokanee and eat it.
+1429|{7:0}:{E}Thank you so much.{D}I'll go fishing right away.
+1430|Father-in-law:{E}Do your best.
+1431|{7:0}: Mother,{E}I caught a kokanee.
+1432|Mother-in-law: How wonderful.{E}Go on, eat it.
+1433|{7:0}: Yes, I'll borrow{E}your kitchen.
+1434|{7:0}:{E}Done!
+1435|Mother-in-law:{E}Well, {7:0}?
+1436|Father-in-law:{E}Feel any younger?
+1437|{7:0}:{E}It's delicious.{8:6}.{8:6}.{8:6}.{D}But as for feeling younger,{E}not really.{8:6}.{8:6}.{8:6}.
+1438|Mother-in-law: How strange.{E}That can't be right.
+1439|Father-in-law: Another one of{E}your mix-ups, old woman.
+1440|Mother-in-law:{E}It can't be.{8:6}.{8:6}.{8:6}.
+1441|Father-in-law:{E}Think back carefully.
+1442|Mother-in-law: Hmm, I'm sure that back then.{8:6}.{8:6}.{8:6}.{D}Oh, I remember! It was the old man's first gift to me,{D}before we married. I was so happy.{8:6}.{8:6}.{8:6}.
+1443|Father-in-law: See,{E}you were just giddy.
+1444|Mother-in-law:{E}.{8:6}.{8:6}.{8:6}.
+1445|Father-in-law:{E}Sorry about that, {7:0}.
+1446|{7:0}:{E}No, it's all right.{D}I'll look for the River King{E}somewhere else.{D}Hearing about your younger days{E}was enough{D}to make me happy.
+1447|Mother-in-law:{E}Oh my, how embarrassing.
+1448|Mother-in-law: Kokanee seem{E}hard to catch.
+1449|Mother-in-law:{E}Sorry to get your hopes up.
+1450|Father-in-law:{E}I remember now!{D}The secret kokanee spot is the{E}spring at the back of the lake.{D}To get there,{D}you'd best find something{E}to ride on.
+1451|Father-in-law: Sorry I wasn't{E}more help.
+1452|{7:0}: I can't go back until I ask{E}Father about the River King.
+1453|{7:0}: I can't go back until{E}I eat a kokanee.
+1454|{7:0}: Now then, what kind of{E}fishing should I do here?{D}Maybe I'll try black bass,{E}they're all the rage.
+1455|Fox:{E}What a cute girl.{8:6}.{8:6}.{8:6}.{D}I know, if I help her catch a{E}black bass, we might hit it off.
+1456|Girl:{E}You fish too, miss?{D}That's so cool.
+1457|{7:0}:{E}(What! Cool, she says?){D}Oh, what a sweet girl.
+1458|Old Man: I'm the master washtub maker. Want a washtub?{D}Normally I'd ask you for a sculpin in return,{D}but I always go easy on pretty girls. Here, take it.
+1459|Old Man:{E}I'm the master washtub maker.
+1460|Old Woman:{E}It's dangerous for a young girl{E}to travel alone.{D}Do be careful.
+1461|Old Woman:{E}See, what did I tell you?{D}Good thing you noticed in time.
+1462|Old Man:{E}Don't go running off{D}with strange men{E}so easily.
+1463|Old Man:{E}I worry about her future.
+1464|Smooth Guy: Hi there, miss.{E}Here to fish?
+1465|{7:0}: Yes.{E}(He's kind of cute.)
+1466|Smooth Guy: What are you here to catch?{D}I'm off to fish for black bass. Why not come along? I'll lend you gear.
+1467|{7:0}: Really?{E}You'll teach me?
+1468|Smooth Guy:{E}Of course.{D}I'll take you to a spot where{E}you're sure to catch one.
+1469|{7:0}: How nice.{E}Then I'll take you up on that.
+1470|Smooth Guy: It's settled, then.{E}Tomorrow morning,{D}meet me at the spring on{E}the far side of the lake.{D}I'll be waiting there.
+1471|{7:0}:{E}I'm sure to catch one there?
+1472|Smooth Guy: Yep. Even total{E}beginners do great.
+1473|{7:0}:{E}(It's far, but oh well.){D}All right, tomorrow morning.
+1474|Smooth Guy: It's a promise.
+1475|{7:0}:{E}I'll need something to ride on.
+1476|Smooth Guy: That's cruel!{E}I waited all day.
+1477|{7:0}: I'm sorry.{E}Next time I'll come for sure.
+1478|Smooth Guy:{E}Promise. See you tomorrow.
+1479|Smooth Guy: You swam here?{E}Amazing.{D}But to catch black bass,{E}you definitely need a boat.{D}Here, use this washtub.
+1480|{7:0}:{E}Thank you.
+1481|Smooth Guy: (That earned me{E}some points. Heh heh.)
+1482|{7:0}:{E}What was that?
+1483|Smooth Guy:{E}Oh, nothing.
+1484|Smooth Guy: Let's get started.{D}Black bass hide among dead trees in the water to ambush their prey.{D}So slip your lure between the trees, and they're sure to bite.
+1485|{7:0}:{E}I've never fished with{D}a lure before.{E}And I don't have any gear.
+1486|Smooth Guy:{E}Oh, I forgot.{D}Here, a black bass set:{E}rod, reel and lures.
+1487|{7:0}:{E}Thank you.
+1488|Smooth Guy: (That's big points{E}for me. Heh heh.)
+1489|{7:0}:{E}What was that?
+1490|Smooth Guy:{E}Oh, nothing.{D}Shall we begin?{D}First, you need to learn{E}to cast a lure well.
+1491|{7:0}:{E}All right, I'll try.
+1492|Smooth Guy:{E}Great, great! You're a natural.
+1493|{7:0}:{E}You think so?
+1494|Smooth Guy: (More points for me. Heh heh.){D}Okay, let's get in the washtub and fish for real.
+1495|{7:0}:{E}Yes, let's.
+1496|{7:0}:{E}I did it! I caught one!
+1497|Smooth Guy:{E}Wow, that's great.{D}Your first time{E}bass fishing, right?
+1498|{7:0}:{E}It's all thanks to you.{D}Thank you.
+1499|Smooth Guy: Oh, n-no,{E}not at all.
+1500|Smooth Guy:{E}Kon! (Yesss!)
+1501|{7:0}:{E}Kon?
+1502|Smooth Guy:{E}Oh, n-no!
+1503|{7:0}:{E}You... you're a fox!
+1504|Fox:{E}Kon! (Busted! Run!)
+1505|{7:0}:{E}What a shock!{D}Tricked by a fox!{E}I'll have to be careful from now on.
+1506|Smooth Guy:{E}So, catch anything?
+1507|{7:0}: Maybe I'll fish for a day{E}before heading back.
+1508|{7:0}:{E}Oh, that's right.{D}I promised to go{E}black bass fishing.
+1509|{7:0}:{E}Let's see...{D}I'm taking tea and a kokanee{E}to Grandma's, right?{D}Mommy said the tackle shop{E}has the tea.
+1510|Fox: A kokanee, you say?{E}That's mine for the taking.{8:6}.{8:6}.{8:6}.
+1511|Villager: The lakeshore is slippery,{E}so be careful.
+1512|Girl: You came all the way from{E}the stream on an errand alone?{D}Good for you!
+1513|Old Man:{E}Want a washtub?{D}Then would you catch me{E}a sculpin?{D}I've got a craving for{E}deep-fried sculpin.
+1514|{7:0}: Oh!{E}I haven't bought the tea yet.{D}I need to go to the tackle shop.
+1515|{7:0}: Oh, I haven't caught{E}the kokanee yet.
+1516|{7:0}: Hi, Grandpa,{E}hi, Grandma!
+1517|Grandma:{E}Well, well, so good to see you.
+1518|{7:0}: Huh?{E}Where's Grandpa?
+1519|Grandma:{E}Grandpa went{D}to the doctor's{E}for his medicine.
+1520|{7:0}:{E}Oh, okay.{D}Mommy asked me{E}to bring you these.
+1521|Grandma: Oh, and what{E}did you bring me?
+1522|{7:0}:{E}The tea you and Grandpa{D}like, and a kokanee.{E}I caught the kokanee myself!
+1523|Grandma:{E}Isn't that something.{D}Well then,{E}just leave them there.
+1524|{7:0}: Then I'll at least{E}make you some tea.
+1525|Grandma:{E}Oh, you're too kind.
+1526|{7:0}:{E}Here you go, Grandma.
+1527|Grandma:{E}Thank you, {7:0}.
+1528|Grandma:{E}Ah, h-hot!
+1529|{7:0}:{E}Ah, a fox!
+1530|Fox: Uh-oh, busted!{E}Run for it!
+1531|Grandma: Oh my,{E}{7:0}, you're here?
+1532|{7:0}: Are you the real{E}Grandpa and Grandma?
+1533|Grandpa: Yes, we are.{E}We were tied up behind the house,{D}but the villagers saved us.
+1534|{7:0}: Are you okay,{E}Grandpa, Grandma?
+1535|Grandpa: Well,{E}that was a nasty business.
+1536|Grandma:{E}That sneaky fox!{D}Thank you, {7:0}.{E}You came on an errand for us.
+1537|{7:0}:{E}Good thing you like{D}your tea piping hot,{E}Grandma.{D}But that was mean of him.{E}Are you really okay?
+1538|Grandma:{E}Yes, I'm fine now.{D}Oh, please take this back{E}to your mother as thanks.
+1539|{7:0}:{E}Okay!
+1540|Grandma:{E}Thank you for the errand.
+1541|Grandpa:{E}Get home safe.
+1542|{7:0}: Where did {7:1}{E}go?
+1543|Butler:{E}Young master,{D}let us try your grandparents'{E}house for now.
+1544|{7:0}:{E}Right, let's do that.
+1545|Villager: Lately an ogre{E}has been showing up in the village.{D}It steals our food,{E}and everyone's at their wits' end.
+1546|Villager: {7:1} is{E}such a fine young man.
+1547|Girl:{E}You're going to beat the ogre too?{D}Be careful.
+1548|Girl:{E}I'm so glad the ogre was beaten.
+1549|Guard:{E}If you don't want trouble,{D}get out of here!
+1550|Guard:{E}What, you too?{D}A kid just like you{E}came by a minute ago.{D}If you want to see the boss,{D}bring a rainbow trout{E}over 40cm.
+1551|Butler: It seems Master {7:1} has already gone after a rainbow trout.
+1552|{7:0}:{E}I know. Hurry!
+1553|Guard:{E}Bring me a fresh rainbow trout.
+1554|{7:0}:{E}Wh-whoa, whoa!
+1555|Butler: Y-young master!{E}Are you all right?
+1556|{7:0}:{E}Don't worry.{D}This is{E}nothing.
+1557|Grandma: Oh, {7:0}! You're looking for Sanpei too?{D}Sanpei went to beat the ogre and hasn't come back.{D}I've asked {7:1} to go and rescue him.
+1558|{7:0}:{E}Grandma, leave it to me,{D}not {7:1}.{E}I'll rescue Sanpei.
+1559|Butler: Young master,{E}that's the spirit.
+1560|Grandma:{E}My, how reliable.
+1561|Grandma:{E}Do be careful.
+1562|Grandma:{E}You tried hard too, {7:0}.{D}Come, have some peach.
+1563|Grandpa:{E}That ogre is such a nuisance.{D}I hope {7:1}{E}can beat it.
+1564|Grandpa:{E}I see,{D}{7:0}, you'll go after{E}the ogre too?{D}Do your best.
+1565|Grandpa:{E}{7:1} went back to the stream.
+1566|Butler: It seems we have{E}been beaten to it.
+1567|{7:0}: Drat!{E}I was so close.
+1568|Butler:{E}For now,{D}let us go back to your{E}grandparents' house.
+1569|{7:0}:{E}Right.
+1570|{7:0}: You catch lots of{E}sweetfish around here.
+1571|Angler: It's slippery around here,{E}so be careful.
+1572|Angler: Hm? Me?{E}I'm after redspot salmon.
+1573|Angler: This is the secret spot for{E}rough sculpin. You know your stuff.
+1574|Angler: I let my precious canoe{E}drift away.{D}Without it I can't{E}go upstream.
+1575|Angler: Oh? That's the canoe{E}I lost.{D}Thank you for finding it.{D}But I've already bought{E}a new canoe,{D}so you can{E}keep that one.
+1576|Angler:{E}Take good care of it.
+1577|Angler:{E}Nice weather today.
+1578|Angler:{E}The weather's bad today,{D}but actually the fish bite{E}better like this.
+1579|Angler: Rough sculpin are hard enough to catch as it is.{D}And with all these pale chub around...
+1580|Angler:{E}Salt-grilled sweetfish is delicious!
+1581|Angler: Have you ever{E}caught a loach?
+1582|Angler: For sweetfish, use{E}decoy fishing.{D}No other fish will take the hook.
+1583|Villager: Welcome to the creek village. The sweetfish are biting.
+1584|Boar:{E}So hungry I can't move.{D}I want lots of potatoes.
+1585|Boar:{E}Grrrumble.{8:6}.{8:6}.{8:6}.
+1586|Boar: Oh! Potatoes, potatoes! Munch munch... Now I can move!
+1587|Boar: Thank you.{E}You saved me.
+1588|Villager: Because of the boar we{E}can't get to the lake.
+1589|Villager: Now we can get to{E}the lake. Thank you.
+1590|Farmer: How about it?{E}Tasty-looking potatoes, eh?
+1591|Farmer:{E}You want potatoes?{D}Then catch me 5 sweetfish{E}and I'll trade you.
+1592|Farmer:{E}Caught the sweetfish?
+1593|Farmer:{E}Thanks. Here are the potatoes I promised.
+1594|Farmer:{E}Our potatoes are delicious.
+1595|Farmer's Wife:{E}Heave, ho. Heave, ho.{D}Farm work is no picnic.
+1596|Rabbit:{E}It hurts!
+1597|{7:0}: What's wrong? Whoa!{E}That's really swollen!
+1598|Rabbit: A fox attacked me{E}and I got hurt.{D}Someone passing by{E}treated me,{D}but somehow it only{E}got worse.
+1599|{7:0}:{E}This needs medicine.{D}Okay, hang on.{E}I'll bring you some.
+1600|Rabbit: Really?{E}Then please do.
+1601|{7:0}:{E}A little ointment... there.
+1602|Rabbit: Thank you so much.{E}How can I ever thank you?
+1603|{7:0}: Oh,{E}no need to thank me.
+1604|Rabbit:{E}I know! That's it.{D}There's a secret tunnel in the{E}forest you can see there.{D}I hid something I found at{E}the end of the tunnel.{D}You can have it.
+1605|{7:0}:{E}Huh. I wonder what it is.
+1606|{7:0}: A canoe!{E}Now I can go upstream.
+1607|Rabbit: Ow, ow, ow...
+1608|Rabbit: The tunnel is{E}right over there.
+1609|Rabbit: How is it?{E}Is it useful?
+1610|Sanpei:{E}Hey, {7:0}.
+1611|{7:0}: Ah, Sanpei!{E}So this is where you were.
+1612|Sanpei:{E}Here to buy bait or something?
+1613|{7:0}:{E}No,{D}I found a hurt rabbit{E}on the riverbank.{D}I want to treat it.
+1614|Sanpei:{E}Huh?{D}Is that the rabbit I saved{E}from a fox?
+1615|{7:0}:{E}Oh, so that was you.
+1616|Sanpei: Yeah, but I already{E}treated it.
+1617|{7:0}:{E}You call that treatment?{D}It was really swollen.
+1618|Sanpei:{E}That's weird.{D}It had a scrape, so I just{E}put some spit on it.
+1619|{7:0}:{E}Hm?{D}What have you been{E}eating all this time?
+1620|Sanpei: This village's specialty,{E}"chili crackers."{D}I love them.
+1621|{7:0}:{E}Sanpei.{8:6}.{8:6}.{8:6}.
+1622|Sanpei:{E}What? They're tasty.{D}Well, I'll leave the rabbit{E}to you.
+1623|{7:0}: Maybe I'll try some{E}sweetfish decoy fishing for once.
+1624|Angler:{E}It's slippery around here,{D}so you'd better be careful.
+1625|Angler:{E}Hm? Me?{D}I'm after redspot salmon.
+1626|Angler: Have you ever{E}caught a loach?{D}There's more to it than you'd think.
+1627|{7:1}:{E}Sorry about that.
+1628|Rabbit: Oh, not at all.{E}Thank you so much.{D}How can I ever thank you?
+1629|{7:0}: Now, now,{E}no need to thank me.
+1630|{7:0}:{E}Oh? I wonder what it is.
+1631|{7:1}:{E}Lucky.
+1632|{7:1}: I'd better hurry too.{E}I won't lose to Dad!
+1633|{7:0}: What's wrong?{E}That's really swollen.
+1634|{7:1}:{E}Ah! Dad.
+1635|{7:0}: Hm? {7:1}.{E}You're still around here?
+1636|{7:1}: Dad, what are{E}you doing here?
+1637|{7:0}:{E}Your mother gave me permission,{D}so I set out after the River King.{D}Then I found a hurt rabbit{E}on the riverbank.{D}I thought I'd treat it.
+1638|{7:1}: You're after the River King{E}too, Dad?{D}Another rival.{D}Hm? A hurt rabbit?{D}Is that the rabbit I saved{E}from a fox?
+1639|{7:0}:{E}Oh, so that was you.
+1640|{7:1}: Yeah, but I already{E}treated it.

@@ -1,0 +1,519 @@
+# Hikyou o Motomete English script, part 2 (ids 401-999): events, names, items, fish, Fishing Note
+401|Stopped saving.
+402|Hooray! At last you{E}caught the River King {A}!{D}Size: {B}cm.{E}But the adult {A}{E}is a rare fish.{D}Don't keep it.{E}Please let it go.
+403|Hooray! At last you{E}caught the white bitterling!{E}Size: {B}cm.{D}Now, make a wish!{E}........{D}......{E}May your wish come true.{D}Don't keep the white{E}bitterling.{E}Please let it go.
+404|Hooray! At last you{E}caught the golden carp!{E}Size: {B}cm.{D}Now hurry home and{E}feed the golden carp{E}to your family.
+405|Hooray! At last you{E}caught the giant catfish!{E}Size: {B}cm.{D}Now the villagers{E}can rest easy.
+406|Hooray! At last you{E}caught {A}!{E}Size: {B}cm.{D}Now go back to the village{E}and feed it to the{E}quack doctor.
+407|{>64}Thank-You Note{E}Thank you for always{E}being so kind to us.{D}Please stay our friend{E}from now on, too.{>128}Animal Union
+408|Love Cape
+409|Moonbear
+410|{>48}Certified Fine Angler{E}You keep an angler's manners{E}and outwit us splendidly.{D}For your skill we certify{E}you a fine angler.{>136}Fish Union
+411|Fishstop Falls
+412|Big Char
+413|{A}
+414|Squirrel
+415|Flying Squirrel
+416|Mt. Bat
+417|Rat Snake
+418|Brown Bear
+419|Owl
+420|Stoat
+421|Wildcat
+422|Serow
+423|Dog
+424|Mole
+425|Hare
+426|Marten
+427|Crow
+428|Macaque
+429|Eagle
+430|Viper
+431|Tanuki
+432|Deer
+433|Monkey
+434|Weasel
+435|Badger
+436|Field Mouse
+437|Hornet
+438|Kappa
+439|Snake
+440|Falcon
+441|Moon Bear
+442|Sea Turtle
+443|Pheasant
+444|Mandarin
+445|Rice Ball
+446|Dumpling
+447|Banana
+448|Grapes
+449|Hinomaru Bento
+450|Sandwich
+451|Caught Fish
+452|Hamburger
+453|Steak
+454|Sushi
+455|Chili Cracker
+456|Washtub
+457|Canoe
+458|Magnifier
+459|Gold Net
+460|Fishing Note
+461|Received Postcard
+462|Postcard
+463|Chum
+464|Chum
+465|Chum
+466|Creel (10)
+467|Creel (20)
+468|Creel (30)
+469|Kibi Dango
+470|Acorn
+471|Chestnut
+472|Sweet Potato
+473|Bug
+474|Salve
+475|Tea
+476|Fried Tofu
+477|Talisman
+478|Straw Hat
+479|Straw Sandals
+480|Hermit's Rod
+481|Ointment
+482|Teacup
+483|Kappa
+484|Sea Turtle
+485|Dog
+486|Monkey
+487|Pheasant
+488|Bitterling Rod 10pc 2m
+489|Stream Carbon Rod 6m
+490|Chub Rod 6pc 3.9m
+491|Creek Carbon Rod 5.3m
+492|Masu Rod 8pc 4.5m
+493|Crucian Rod 9pc 3.3m
+494|Sweetfish Rod 6pc 7m
+495|Carp Rod 8pc 5m
+496|W.Crucian Rod 3pc 3m
+497|Lure Rod S
+498|Lure Rod M
+499|Lure Rod L
+500|Big-Game Lure Rod
+501|Casting Rod S
+502|Casting Rod M
+503|Shore Casting Rod
+504|Fly Rod S
+505|Fly Rod M
+506|Fly Rod L
+507|Sweetfish Carbon 10m
+508|W.Crucian Carbon 6.5m
+509|Worms
+510|Maggots
+511|Red Maggots
+512|Insects
+513|Bloodworm
+514|Lugworm
+515|Stream Bug
+516|Caddis
+517|Salmon Roe
+518|Nightcrawler
+519|Grape Grub
+520|Wasp Larvae
+521|Paste Bait
+522|W.Crucian Paste
+523|Carp Paste
+524|Rice Paste
+525|Potato
+526|Small Fish
+527|Loach
+528|Frog
+529|Shrimp
+530|Shellfish
+531|Decoy Sweetfish
+532|Shibi
+533|Eel Hook
+534|Seabass Hook
+535|Carp Hook
+536|W.Crucian Hook
+537|Hook
+538|Higai Hook
+539|Dace/Chub Hook
+540|Trout Hook
+541|Nose Ring
+542|Bitterling Hook
+543|Char Hook
+544|Masu Hook
+547|Topwater
+548|Topwater
+549|Topwater
+550|Topwater
+551|Topwater
+552|Topwater
+553|Topwater
+554|Topwater
+555|Topwater
+556|Topwater
+557|Topwater
+558|Topwater
+559|Topwater
+560|Shallow Liner
+561|Sinking Vibe
+562|Sinking Vibe
+563|Topwater
+564|Spinnerbait
+565|Topwater
+566|Shallow Liner
+567|Deep
+568|Sinking
+569|Sinking
+570|Sinking
+571|Shallow Liner
+572|Shallow Liner
+573|Deep
+574|Deep
+575|Shallow Liner
+576|Deep
+577|Sinking
+578|Soft Frog
+579|Soft Red Frog
+580|Soft Mouse
+581|Soft Worm
+582|Soft Worm
+583|Soft Craw
+584|Spinnerbait
+585|Spinnerbait
+586|Spinnerbait
+587|Jig
+588|Jig
+589|Jig
+590|Jig
+591|Jig
+592|Spoon
+593|Spoon
+594|Spoon
+595|Spoon
+596|Spoon
+597|Spoon
+598|Spoon
+599|Spoon
+600|Spoon
+601|Spoon
+602|Spoon
+603|Shallow Liner
+604|Spoon
+605|Spoon
+606|Spoon
+607|Spoon
+608|Spoon
+609|Spoon
+610|Spoon
+611|Spoon
+612|Spoon
+613|Spoon
+614|Spoon
+615|Spoon
+616|Spinner
+617|Spinner
+618|Spinner
+619|Spinner
+620|Spinner
+621|Spinner
+622|Spinner
+623|Spinner
+624|Spinner
+625|Spinner
+626|Spinner
+627|Sinking
+634|W.Crucian Float
+635|Round Shimori
+636|Slim Shimori
+637|Ball Float
+638|Stick Float
+639|Acorn Float
+640|Chili Float
+641|Marker
+642|Oval Sinker
+643|Date Sinker
+644|Oval
+645|Date
+646|Wet
+647|Wet
+648|Wet
+649|Wet
+650|Wet
+651|Wet
+652|Wet
+653|Wet
+669|Dry
+670|Dry
+671|Dry
+672|Dry
+673|Dry
+674|Dry
+675|Dry
+688|Wet
+689|Wet
+690|Wet
+691|Wet
+692|Wet
+693|Wet
+694|Wet
+695|Wet
+696|Wet
+703|Case
+704|Case
+705|Case
+707|Dry
+708|Dry
+709|Dry
+710|Dry
+711|Dry
+720|Wet
+721|Wet
+722|Wet
+723|Wet
+724|Wet
+731|Dry
+732|Dry
+733|Dry
+734|Dry
+741|Wet
+742|Wet
+743|Wet
+744|Wet
+745|Wet
+746|Wet
+747|Leech
+748|Leech
+753|Dry
+754|Dry
+755|Dry
+756|Dry
+764|Ant
+765|Ant
+766|Ant
+767|Ant
+768|Ant
+769|Beetle
+770|Beetle
+771|Beetle
+772|Beetle
+773|Worm
+774|Worm
+775|Worm
+776|Hopper
+777|Hopper
+778|Hopper
+779|Spider
+780|None
+781|Char
+782|Sea-run Char
+783|Masu Trout
+784|Redspot Trout
+785|Sculpin
+786|Rainbow Trout
+787|Kokanee
+788|Brown Trout
+789|Brook Trout
+790|Pond Smelt
+791|Black Bass
+792|Dace
+793|Carp
+794|Dark Sleeper
+795|Pale Chub
+796|Stone Moroko
+797|Itomoroko
+798|Bagrid Catfish
+799|Masu Salmon
+800|Bighead Carp
+801|Silver Carp
+802|Mugitsuku
+803|Biwa Gudgeon
+804|Rough Sculpin
+805|Loach
+806|Tamoroko
+807|Dark Chub
+808|Gold Crucian
+809|Crucian Carp
+810|Torrent Catfish
+811|Ricefish
+812|Bluegill
+813|Aucha Perch
+814|Stickleback
+815|Ninespine
+816|Snakehead
+817|White Crucian
+818|Catfish
+819|Halfbeak
+820|Three-lips
+821|Wataka
+822|Pike Gudgeon
+823|False Gudgeon
+824|Spined Loach
+825|Amur Snakehead
+826|Higai
+827|Grass Carp
+828|Black Carp
+829|Barbel Steed
+830|Flathead
+831|Pacific Redfin
+832|Goby
+833|Mullet
+834|Sea Bass
+835|Japanese Lates
+836|Sweetfish
+837|Bitterling
+838|Eel
+839|Giant Eel
+840|Minnow
+841|Black Porgy
+842|Starry Flounder
+843|Grass Puffer
+844|Paradise Fish
+845|River Prawn
+846|Redspot Salmon
+848|Newt
+849|Frog
+850|Crayfish
+851|Turtle
+852|Softshell Turtle
+853|Crab
+854|Use: Fried, salt-grilled
+855|Use: Fried, salt-grilled
+856|Use: Butter-fried, dengaku
+857|Use: Salt-grilled, meuniere
+858|Use: Tsukudani, miso soup
+859|Use: Grilled; tastes poor
+860|Use: Sashimi, grilled, fried
+861|Use: Butter-fried, wine stew
+862|Use: Salt-grilled, fried
+863|Use: Fried, tempura; tasty
+864|Use: For sport
+865|Use: Grilled, sweet simmered
+866|Use: Carp soup, arai
+867|Use: Fried, simmered; tasty
+868|Use: Grilled; bad spawning
+869|Use: Bird feed, tsukudani
+870|Use: Grilled, sweet-salty
+871|Use: Simmered, tempura
+872|Use: Masu sushi, meuniere
+873|Use: Better than Silver Carp
+874|Use: Steamed, grilled; tasty
+875|Use: Tsukeyaki; mild taste
+876|Use: Grilled, sweet simmered
+877|Use: Said to be tasty
+878|Use: Miso soup, Yanagawa
+879|Use: Biwa Gudgeon substitute
+880|Use: Fried, plain-grilled
+881|Use: Nibitashi, sweet simmer
+882|Use: Nibitashi, sweet simmer
+883|Use: None
+884|Use: Science experiments
+885|Use: Sport; meuniere
+886|Use: For viewing
+887|Use: For viewing
+888|Use: For viewing
+889|Use: Arai; tasty
+890|Use: Fishing pond, sashimi
+891|Use: Miso stew, kabayaki
+892|Use: Soup, vinegared dishes
+893|Use: Grilled, narezushi
+894|Use: Narezushi
+895|Use: Grilled, vinegar soy
+896|Use: None
+897|Use: For viewing
+898|Use: Arai; tasty
+899|Use: Plain-grilled; tasty
+900|Use: Tasty meat at fin base
+901|Use: Steamed, grilled
+902|Use: Arai, tempura
+903|Use: Tasty; tempura
+904|Use: Eat as arai in winter
+905|Use: Tempura; tasty
+906|Use: Sashimi, bottarga
+907|Use: Arai, grilled
+908|Use: Tasty roe
+909|Use: Grilled, tade vinegar
+910|Use: Suzumeyaki substitute
+911|Use: Kabayaki, plain-grilled
+912|Use: Tonic
+913|Use: Fried, tempura
+914|Use: Grilled, arai
+915|Use: Meuniere, sashimi
+916|Use: Poisonous
+917|Use: For viewing
+918|Use: Shell-grilled, fried
+919|Use: Tasty sashimi, tempura
+920|Use: None
+921|Use: None
+922|Use: None
+923|Use: None
+924|Use: None
+925|Use: None
+926|Use: None
+927|Info: Lives in calm, shallow pools and runs. Eats aquatic insects and land insects that fall in. Will even swallow small fish and snakes.
+928|Info: Lives in streams under 15 degrees, above the masu trout. Eats aquatic and land insects, even small fish and mice. A strong jumper.
+929|Info: Goes to sea and returns as the big masu salmon. Lives where pools, rapids and drops alternate. Lines up against the current, biggest first.
+930|Info: Goes to sea and returns as the big redspot salmon. Usually lives below the char, and likes faster water than the char does.
+931|Info: Eaten by masu trout and dace. Mostly lives on gravel beds in slow, flat runs. A meat eater; mainly eats aquatic insects.
+932|Info: Often lives alongside char, or on its own. Some go down into lakes. Unlike salmon, it does not die after spawning.
+933|Info: Goes to sea as the big sockeye salmon. Lives in highland lakes. The tastiest of the salmon, but it spoils quickly.
+934|Info: Likes slow water. Small ones eat insects, crustaceans and shellfish; big ones eat fish and even mice. Feeds well at sunset.
+935|Info: Eats almost anything that fits in its mouth. Small ones eat mostly insects, worms, shrimp and small fish; big ones even eat mice.
+936|Info: Lives in bays, lakes, reservoirs and the lower reaches of their rivers. Eats mostly zooplankton, plus algae and rotifers.
+937|Info: Prefers still water, so lives mostly in lakes and ponds. Actively roams for food in weedbeds and near snags along the shore.
+938|Info: Lives in rivers and lakes. Chases small fish and loves fish eggs. Also gathers at dead fish and animals. A typical omnivore.
+939|Info: Likes deep, still water. An omnivore that feeds on the bottom: shellfish, bloodworms, tubifex, lugworms, algae and weeds.
+940|Info: Lives mainly in the pools of the upper to middle river. A meat eater that only eats live food. Croaks while spawning.
+941|Info: Its eggs are eaten by dark chub, pike gudgeon and loach. Adults are eaten by eels, catfish, three-lips, black bass and birds.
+942|Info: Has a tiny, upturned "pursed" mouth. Lives in lakes, ponds, their creeks and lower rivers, often in muddy backwaters.
+943|Info: Common over sand and gravel in slow middle and lower rivers and ditches. Always swims in schools near the bottom. Omnivore.
+944|Info: Has no scales. Makes a "gigi" sound with its fin spines. Hides under rocks and in reeds by day, and feeds at night.
+945|Info: Masu trout that go to sea become masu salmon. They return to the river young and stay in deep water eating insects until spawning.
+946|Info: Lives in ponds and the lower reaches of big rivers. Stays near the surface and eats only plankton. Avoids fast water.
+947|Info: Lives in ponds and the lower reaches of big rivers. Swims near the surface in schools, sometimes jumping. Eats plankton.
+948|Info: Common in pools and backwaters of slow rivers. A mostly carnivorous omnivore that eats caddis and midge larvae.
+949|Info: Pointed snout, upturned mouth. Schools deeper than 5m. Females with roe are delicious; the tastiest of the carp family.
+950|Info: Lives in clear upper and middle rivers, in shallows with gravel and big stones. Active at night. Eats crustaceans and their larvae.
+951|Info: Has 10 barbels. Swims over mud or burrows into it. Lives in rice paddies, marshes and the ditches around them. Omnivore.
+952|Info: Lives in weeds and algae in slow water along riverbanks and in lagoons. Also enters rice paddies. Mostly meat-eating omnivore.
+953|Info: Likes to hide among rocks or under willows, and fights hard over its territory. Roams widely eating fallen insects and bottom life.
+954|Info: The most bottom-dwelling crucian. Lives on mud, and often on sandy mud. Likes bloodworms, but also eats algae. Omnivore.
+955|Info: Anglers say "to catch a crucian, fish the bottom." Its eggs develop normally even when fertilized by dace or loach.
+956|Info: Grab its fin spines carelessly and it stings. Lives under and between stones in the runs of fairly clean rivers.
+957|Info: Lives in slow water of lowland ponds, lakes, rice paddies and ditches. Lives in schools and hides when startled.
+958|Info: Lives in weedbeds along lakeshores and in slow, weedy rivers. Likes plankton, insects, shrimp and water plants. Forms schools.
+959|Info: Lives alone, spaced apart, among weeds in slow water. A meat eater that swallows small insects whole.
+960|Info: Lives in clean, slow water with weeds, under 18 degrees, mostly around springs. Builds a nest from water plants.
+961|Info: A cold-water fish of slow marsh streams and springs, most often in weeds. Builds a nest from plant fibers and mucus.
+962|Info: Likes muddy, still water with thick weeds. So fierce it even bites people. Breathes air with a special organ above its gills.
+963|Info: Lives in lakes and ponds, schooling in mid-water rich in plankton. Filters tiny creatures out with its gill rakers.
+964|Info: Lives in slow water over a mix of sand and mud. Nocturnal and greedy. Snaps up small fish and frogs near the surface.
+965|Info: Lives in brackish to fresh water of big rivers and lagoons. Also on weedy rocky reefs in bays, river-mouth banks and breakwaters.
+966|Info: Found in big rivers and lakes, swimming in schools. The only fish eater of the carp family. Leaps over the water chasing fish.
+967|Info: Lives mainly in reed beds along bays and lagoons. An omnivore that eats mostly water plants. Tastes bad, bony and a bit grassy.
+968|Info: Common over sand. Sucks in food with sand and blows the sand out its gills. When startled it buries itself with only its eyes out.
+969|Info: Lives in lowland lakes, ponds and still ditches. Prefers muddier bottoms than the pike gudgeon does.
+970|Info: Lives over sand and gravel in middle and lower rivers, often burrowing. Takes in sand and keeps only the food. Tastes bad.
+971|Info: Lives alone in slow, weedy water. In summer it swims actively through the weeds chasing small fish and shrimp.
+972|Info: Likes clean sand and gravel in lakes and lower rivers, and also brackish water. Lays its eggs in freshwater mussels.
+973|Info: Lives in the deep parts of lower rivers and lakes. Eats water plants that grow along the shore: wild rice, reeds and duckweed.
+974|Info: Lives in deep water of lower rivers and lakes. Mainly eats small bottom animals such as snails, shrimp and aquatic insects.
+975|Info: Long, slim body with a fox-like face. Lives in big rivers, lakes and brackish water, near the bottom in slow water, often over sand.
+976|Info: Lives on sandy bottoms in open water near bays and river mouths. Sucks up small bottom animals with its tiny mouth.
+977|Info: All go to sea. Young fish often live in brackish water; adults are common in bays. Swims low to mid-water and eats shellfish.
+978|Info: Lives on sandy mud in brackish rivers and bays. Mainly eats lugworms and their kin. Fattens up from autumn into winter.
+979|Info: Lives in schools in shallow coastal water such as bays. Takes lugworms and other animal baits. Quick, with sharp eyes.
+980|Info: Its name changes as it grows: seigo to 30cm, fukko or hane to 60cm, suzuki over 60cm. Often swims far up big rivers.
+981|Info: Silver-gray body with ruby-red glowing eyes. Lives in brackish river mouths and bays. Anglers use a 30cm carp as bait.
+982|Info: Settles on bedrock and stony beds and eats the algae on them, scraping the stones hard with its lips.
+983|Info: Lives in calm middle and lower rivers, lowland lakes and ponds, and the channels linking them. Likes still water best.
+984|Info: Lives in middle and lower rivers, river mouths and lakes. Hides in stone walls, bank holes or mud by day and feeds at night.
+985|Info: Digs holes in middle rivers and lake beds. Eats fish, shrimp and frogs. Lives further upriver than the eel.
+986|Info: Lives in the upper to middle river. A greedy omnivore that will even bite a moving hook with no bait on it.
+987|Info: Common on muddy coastal bottoms under 50m. A greedy omnivore that likes crustaceans, worms and shellfish. Changes sex.
+988|Info: Lives in shallow coastal water, middle rivers and lakes linked to the sea. Changes color to match the bottom and burrows in sand.
+989|Info: Lives on gravel in bays, rocky shores and weedbeds. Puffs itself up with water or air. Eats any kind of animal.
+990|Info: The male blows bubbles to build a floating nest. Guards its eggs and fry, and attacks other fish that come near.
+991|Info: Lives in lowland rivers and lakes, often in lakes and rivers near the sea. Likes warm mud and sandy mud along weedbeds.
+992|Info: Redspot trout that go to sea in autumn come back as this fish in spring, when azaleas bloom. Spawns upriver in late October.

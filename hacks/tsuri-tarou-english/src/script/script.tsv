@@ -1,0 +1,159 @@
+id	rom_offset	japanese	english	limit	notes
+spot01_l1	00E141	たかい山の　つめたいけいりゅうに　すむ。	Lives in cold, high mountain streams.	22 cols	Spot 1 (イワナ), line 1 of 5. JP uses 20 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot01_l2	00E156	30Ｃｍ～80Ｃｍ位まで　大きくなる。	Grows to 30-80cm.	22 cols	Spot 1 (イワナ), line 2 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot01_l3	00E16B	虫ににせた毛バリを　水中に沈めてつかう。	Use an insect-like fly, sunk underwater.	22 cols	Spot 1 (イワナ), line 3 of 5. JP uses 20 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot01_l4	00E181	毛バリを　上下にゆらしていると　近づく。	Bob the fly up and down to draw it in.	22 cols	Spot 1 (イワナ), line 4 of 5. JP uses 20 cols, 22 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot01_l5	00E198	とくに　毛バリを下げる時に　よく近づく。	It comes closest as the fly is lowered.	22 cols	Spot 1 (イワナ), line 5 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot02_l1	00E1B0	イワナより　下りゅうのけいりゅうにすむ。	Lives in streams just downstream of char.	22 cols	Spot 2 (ヤマメ), line 1 of 5. JP uses 20 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot02_l2	00E1C5	30Ｃｍ～50Ｃｍ位まで　大きくなる。	Grows to 30-50cm.	22 cols	Spot 2 (ヤマメ), line 2 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot02_l3	00E1DA	虫ににせた毛バリを　すいめんに　ながす。	Float an insect-like fly on the surface.	22 cols	Spot 2 (ヤマメ), line 3 of 5. JP uses 20 cols, 22 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot02_l4	00E1F1	毛バリが　水中を　ながれている時	While the fly drifts in the current,	22 cols	Spot 2 (ヤマメ), line 4 of 5. JP uses 16 cols, 19 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot02_l5	00E205	ヤマメが　近づいてきて　とびつく。	a masu trout will rise and snap at it.	22 cols	Spot 2 (ヤマメ), line 5 of 5. JP uses 17 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot03_l1	00E21A	つめたい水の　せいりゅうに　すむ。	Lives in cold, clear streams.	22 cols	Spot 3 (ニジマス), line 1 of 5. JP uses 17 cols, 17 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot03_l2	00E22C	40Ｃｍ～60Ｃｍ位まで　大きくなる。	Grows to 40-60cm.	22 cols	Spot 3 (ニジマス), line 2 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot03_l3	00E241	毛バリを　水中に沈めて　ながす。	Sink the fly and let it drift.	22 cols	Spot 3 (ニジマス), line 3 of 5. JP uses 16 cols, 18 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot03_l4	00E254	毛バリを　水めん近くまで　上げると	Lift the fly up near the surface, and	22 cols	Spot 3 (ニジマス), line 4 of 5. JP uses 17 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot03_l5	00E269	ニジマスは　エサを　よくおいかける。	the trout will eagerly give chase.	22 cols	Spot 3 (ニジマス), line 5 of 5. JP uses 18 cols, 19 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot04_l1	00E27D	山の中の　みずうみなどに　すむ。	Lives in mountain lakes and the like.	22 cols	Spot 4 (ヘラブナ), line 1 of 5. JP uses 16 cols, 18 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot04_l2	00E290	40Ｃｍ～60Ｃｍ位まで　大きくなる。	Grows to 40-60cm.	22 cols	Spot 4 (ヘラブナ), line 2 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot04_l3	00E2A5	ネリエサをつけて　へラブナのタナで待つ。	Use paste bait; wait at the right depth.	22 cols	Spot 4 (ヘラブナ), line 3 of 5. JP uses 20 cols, 22 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot04_l4	00E2BC	エサが　小さくなるまで　待っていると	Wait until the bait has worn small,	22 cols	Spot 4 (ヘラブナ), line 4 of 5. JP uses 18 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot04_l5	00E2D1	そのうち　たべるので　すばやく合わせる。	and it will bite. Strike quickly!	22 cols	Spot 4 (ヘラブナ), line 5 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot05_l1	00E2E9	みずうみなどに　すむ。	Lives in lakes and the like.	22 cols	Spot 5 (ブラックバス), line 1 of 5. JP uses 11 cols, 13 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot05_l2	00E2F7	50Ｃｍ位まで　大きくなる。	Grows to about 50cm.	22 cols	Spot 5 (ブラックバス), line 2 of 5. JP uses 14 cols, 15 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot05_l3	00E307	さかなに　にせて作った　ルアーでさそう。	Tempt it with a fish-shaped lure.	22 cols	Spot 5 (ブラックバス), line 3 of 5. JP uses 20 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot05_l4	00E31D	ルアーは　沈むので　引っぱってうかせたり	The lure sinks, so reel it up, then	22 cols	Spot 5 (ブラックバス), line 4 of 5. JP uses 20 cols, 22 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot05_l5	00E334	沈ませたり　しながら　さそう。	let it sink again to lure the bass.	22 cols	Spot 5 (ブラックバス), line 5 of 5. JP uses 15 cols, 16 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot06_l1	00E345	川の上りゅうから　下りゅうまで　すむ。	Lives all along the river, top to bottom.	22 cols	Spot 6 (ウグイ), line 1 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot06_l2	00E35A	30Ｃｍ～40Ｃｍ位まで　大きくなる。	Grows to 30-40cm.	22 cols	Spot 6 (ウグイ), line 2 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot06_l3	00E36F	サシをつけて　玉うきのフカセづりにする。	Drift a maggot under a ball float.	22 cols	Spot 6 (ウグイ), line 3 of 5. JP uses 20 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot06_l4	00E385	川のそこ　すれすれに　エサを　小さく	Bob the bait gently just off the bottom	22 cols	Spot 6 (ウグイ), line 4 of 5. JP uses 18 cols, 18 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot06_l5	00E398	上下させていると　ウグイが　近づく。	and the dace will come close.	22 cols	Spot 6 (ウグイ), line 5 of 5. JP uses 18 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot07_l1	00E3AE	川のながれの　ゆるやかなところに　すむ。	Lives where the river flows gently.	22 cols	Spot 7 (オイカワ), line 1 of 5. JP uses 20 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot07_l2	00E3C4	13Ｃｍ位まで　大きくなる。	Grows to about 13cm.	22 cols	Spot 7 (オイカワ), line 2 of 5. JP uses 14 cols, 15 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot07_l3	00E3D4	サシをつけて　玉うきのフカセづりにする。	Drift a maggot under a ball float.	22 cols	Spot 7 (オイカワ), line 3 of 5. JP uses 20 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot07_l4	00E3EA	川のそこから　エサをすこし　上下させて	Bob the bait a little up off the bottom	22 cols	Spot 7 (オイカワ), line 4 of 5. JP uses 19 cols, 19 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot07_l5	00E3FE	いると　オイカワが　近づいてくる。	and a pale chub will swim up.	22 cols	Spot 7 (オイカワ), line 5 of 5. JP uses 17 cols, 19 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot08_l1	00E412	川のながれの　ゆるやかなところに　すむ。	Lives where the river flows gently.	22 cols	Spot 8 (マブナ), line 1 of 5. JP uses 20 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot08_l2	00E428	30Ｃｍ位まで　大きくなる。	Grows to about 30cm.	22 cols	Spot 8 (マブナ), line 2 of 5. JP uses 14 cols, 15 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot08_l3	00E438	キジをつけて　うきづりにする。	Float-fish with a red worm.	22 cols	Spot 8 (マブナ), line 3 of 5. JP uses 15 cols, 17 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot08_l4	00E44A	エサを上げると　マブナが　近づいてくる。	Lift the bait and the carp will follow,	22 cols	Spot 8 (マブナ), line 4 of 5. JP uses 20 cols, 24 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot08_l5	00E463	しかし　上げすぎると　にげてしまう。	but lift it too far and it swims off.	22 cols	Spot 8 (マブナ), line 5 of 5. JP uses 18 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot09_l1	00E479	川のながれの　ゆるやかなドロぞこにすむ。	Lives on muddy beds of slow rivers.	22 cols	Spot 9 (ナマズ), line 1 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot09_l2	00E491	30Ｃｍ～60Ｃｍ位まで　大きくなる。	Grows to 30-60cm.	22 cols	Spot 9 (ナマズ), line 2 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot09_l3	00E4A6	おとが　よく出るルアーで　さそう。	Tempt it with a noisy lure.	22 cols	Spot 9 (ナマズ), line 3 of 5. JP uses 17 cols, 19 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot09_l4	00E4BA	ナマズが　でてきたら　ルアーを　そこから	When a catfish shows up, pull the lure	22 cols	Spot 9 (ナマズ), line 4 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot09_l5	00E4D2	水めん　近くまで　いっきに引き上げる。	from the bottom to the top in one go!	22 cols	Spot 9 (ナマズ), line 5 of 5. JP uses 19 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot10_l1	00E4E8	川のながれの　ゆるやかなドロぞこにすむ。	Lives on muddy beds of slow rivers.	22 cols	Spot 10 (コイ), line 1 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot10_l2	00E500	50Ｃｍ～60Ｃｍ位まで　大きくなる。	Grows to 50-60cm.	22 cols	Spot 10 (コイ), line 2 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot10_l3	00E515	ミミズをつけて　なげこみづりにする。	Cast out a worm and let it settle.	22 cols	Spot 10 (コイ), line 3 of 5. JP uses 18 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot10_l4	00E52B	エサを上げて　沈んだ位ちが　合った時に	Lift the bait; once it sinks to the	22 cols	Spot 10 (コイ), line 4 of 5. JP uses 19 cols, 22 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot10_l5	00E542	コイは　エサまで　近づいてきて　たべる。	right depth, the carp swims up to eat.	22 cols	Spot 10 (コイ), line 5 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot11_l1	00E55A	ながれの　ゆるやかなところに　すむ。	Lives where the water flows gently.	22 cols	Spot 11 (テナガエビ), line 1 of 5. JP uses 18 cols, 19 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot11_l2	00E56E	12Ｃｍ～13Ｃｍ位まで　大きくなる。	Grows to 12-13cm.	22 cols	Spot 11 (テナガエビ), line 2 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot11_l3	00E583	エサはキジで　おもりを　そこにつける。	Bait a red worm; sinker on the bottom.	22 cols	Spot 11 (テナガエビ), line 3 of 5. JP uses 19 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot11_l4	00E599	エサを上げて　そこまで沈める。くりかえし	Lift the bait and let it sink. Repeat,	22 cols	Spot 11 (テナガエビ), line 4 of 5. JP uses 20 cols, 22 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot11_l5	00E5B0	やっていると　エビが　エサに　とびつく。	and the prawn will pounce on the bait.	22 cols	Spot 11 (テナガエビ), line 5 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot12_l1	00E5C8	すなやドロのそこに　すむ。	Lives on sandy or muddy bottoms.	22 cols	Spot 12 (ウナギ), line 1 of 5. JP uses 13 cols, 14 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot12_l2	00E5D7	40Ｃｍ～90Ｃｍ位まで　大きくなる。	Grows to 40-90cm.	22 cols	Spot 12 (ウナギ), line 2 of 5. JP uses 19 cols, 20 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot12_l3	00E5EC	ミミズをつけて　なげこみづりにする。	Cast out a worm and let it settle.	22 cols	Spot 12 (ウナギ), line 3 of 5. JP uses 18 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot12_l4	00E602	エサを上げて　沈んだ位ちが　合った時に	Lift the bait; once it sinks to the	22 cols	Spot 12 (ウナギ), line 4 of 5. JP uses 19 cols, 22 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot12_l5	00E619	ウナギは　エサに近づいていって　たべる。	right spot, the eel comes to eat it.	22 cols	Spot 12 (ウナギ), line 5 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot13_l1	00E631	池などに　すんでいる。	Lives in ponds and the like.	22 cols	Spot 13 (タナゴ), line 1 of 5. JP uses 11 cols, 13 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot13_l2	00E63F	7～10Ｃｍ位まで　大きくなる。	Grows to 7-10cm.	22 cols	Spot 13 (タナゴ), line 2 of 5. JP uses 16 cols, 17 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot13_l3	00E651	赤虫をつけて　ウキづりにする。	Float-fish with a bloodworm.	22 cols	Spot 13 (タナゴ), line 3 of 5. JP uses 15 cols, 16 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot13_l4	00E662	タナゴは　なんども　エサをつついているが	It pecks at the bait again and again;	22 cols	Spot 13 (タナゴ), line 4 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot13_l5	00E67A	口に入れた時だけ　すばやく　合わせる。	strike only when it takes it in!	22 cols	Spot 13 (タナゴ), line 5 of 5. JP uses 19 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot14_l1	00E690	池などの　ドロぞこに　すむ。	Lives on the muddy bottoms of ponds.	22 cols	Spot 14 (モツゴ), line 1 of 5. JP uses 14 cols, 17 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot14_l2	00E6A2	10Ｃｍ位まで　大きくなる。	Grows to about 10cm.	22 cols	Spot 14 (モツゴ), line 2 of 5. JP uses 14 cols, 15 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot14_l3	00E6B2	赤虫をつけて　ウキづりにする。	Float-fish with a bloodworm.	22 cols	Spot 14 (モツゴ), line 3 of 5. JP uses 15 cols, 16 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot14_l4	00E6C3	モツゴは　エサのまえで　小さく　はげしく	It darts about in front of the bait,	22 cols	Spot 14 (モツゴ), line 4 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot14_l5	00E6DB	うごいているが　そのうち　エサをたべる。	but sooner or later it will eat it.	22 cols	Spot 14 (モツゴ), line 5 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot15_l1	00E6F3	へいやの　沼などにすむ。	Lives in lowland marshes and the like.	22 cols	Spot 15 (川のヌシ), line 1 of 5. JP uses 12 cols, 13 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot15_l2	00E701	90Ｃｍ位まで　大きくなる。	Grows to about 90cm.	22 cols	Spot 15 (川のヌシ), line 2 of 5. JP uses 14 cols, 15 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot15_l3	00E711	水にうくルアーで　さそって　つる。	Tempt it with a floating lure.	22 cols	Spot 15 (川のヌシ), line 3 of 5. JP uses 17 cols, 18 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot15_l4	00E724	ルアーのまえまで　じゅうぶん　近づけたら	Once it has come right up to the lure,	22 cols	Spot 15 (川のヌシ), line 4 of 5. JP uses 20 cols, 23 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+spot15_l5	00E73C	水めん近くまで　うき上がるのを　まつ。	wait for it to rise near the surface.	22 cols	Spot 15 (川のヌシ), line 5 of 5. JP uses 19 cols, 21 bytes. Drawn at col 7; bullet at col 5 (line 5 has none).
+story_040000	040000	山おくに 三人のおやこが しあわせに くらしていました。\nところが ある日のあさ いもうとのきょうこが たかいねつを\nだして たおれてしまいました。 しんぱいした おかあさんは\n川のぬしの でんせつを おもいだして むすこにいいました。\n「川のぬしを さがしだして かならず つってきてね！」\nつりたろうは つりざおをもって 川へ でかけました。	"Deep in the mountains lived a happy family of three.\n\nBut one morning, little Kyoko fell ill with a high fever. Her worried mother remembered the legend of the River King, and told her son:\n\n""Find the River King, and be sure to catch it!""\n\nSo Taro took his fishing rod and set off for the river."	30 cols x 11 rows (rows 2-12)	Opening page. Opening, line 1 (row 2, cols 3-30). Kana marks sit on the row above, so English can use every row: up to about 26 rows x 30 cols per page.
+story_0A0800	0A0800	つりたろうは 目を さますと 大きいこえで\n「きょうは ぜったい 川のぬしを つってきてやるぞっ！」\nと さけびました。 いもうとは なみだを ながしながら\n「ほんとっ！ こんどこそ ぜったい つってきてねっ！」\nと おねがいしました。 おかあさんも おねがいしました。\nつりたろうは ふたたび 川へ つりに でかけました。	"When Taro woke up, he shouted at the top of his voice: ""Today I'm going to catch the River King for sure!""\n\nHis sister begged him with tears in her eyes: ""Really? This time you have to catch it, okay?"" His mother begged him too.\n\nSo Taro set off to fish the river once again."	30 cols x 11 rows (rows 2-12)	Next morning page. Next morning (start of a new day), line 1 (row 2, cols 3-23). Kana marks sit on the row above, so English can use every row: up to about 26 rows x 30 cols per page.
+story_037800	037800	つりたろうは いもうとの びょうきが しんぱいで\nしんぱいで たまらなくなり いえに かえってきました。\nところが おかあさんは つりたろうに いいました。\n「おかあさんが かんびょう しているから しんぱい\nしないで はやく 川のぬしを つってきてっ！」\nつりたろうは ふたたび 川へ つりに でかけました。	"Taro was so worried about his sister that he could not bear it, and he came back home. But his mother said to him:\n\n""I'm looking after her, so don't worry. Hurry and catch the River King!""\n\nSo Taro set off to fish the river once again."	30 cols x 11 rows (rows 2-12)	Came home without the River King page. Came home early without the Nushi, line 1 (row 2, cols 3-26). Kana marks sit on the row above, so English can use every row: up to about 26 rows x 30 cols per page.
+story_087800	087800	つりたろうは いもうとの びょうきを なおそうと\nけんめいに がんばりました。 しかし 川のぬしをつって\nいえまで もって かえることが できませんでした。\nおかあさんは がっかりして つりたろうに いいました。\n「あしたは かならず 川のぬしを つってきてねっ！」\nつりたろうは くやしくて なみだを ながしました。	"Taro tried his very hardest to cure his sister. But he could not catch the River King and bring it home.\n\nHis mother was disappointed, and said to him: ""Tomorrow, be sure to catch the River King!""\n\nTaro was so frustrated that he cried."	30 cols x 11 rows (rows 2-12)	Day ended without the River King page. Day ended without the Nushi, line 1 (row 2, cols 3-26). Kana marks sit on the row above, so English can use every row: up to about 26 rows x 30 cols per page.
+story_040800	040800	川のぬしをみて おかあさんは おおよろこび しました。\nむかしから 川のぬしを つってくると どんなびょうきも\nかならず なおると いいつたえられて いたからです。\nでんせつの とおり いもうとの きょうこは みるみるうちに\nげんきに なりました。 おかあさんは かんしゃして\nよくじつ たいせつに 川へ かえして やりました。	When she saw the River King, their mother was overjoyed. Since long ago, it had been said that catching the River King would cure any illness.\n\nJust as the legend said, little Kyoko got better before their eyes. Grateful, their mother carefully returned the River King to the river the next day.	30 cols x 11 rows (rows 2-12)	Ending page. Ending, line 1 (row 2, cols 3-29). Kana marks sit on the row above, so English can use every row: up to about 26 rows x 30 cols per page.
+menu_name_01	0A0000	名前を入れて下さい	Enter your name	18 cols x 2 rows	Name entry screen. Title box, 16x16 glyphs.
+menu_date_01	0C4000	日付を入れて下さい	Enter the date	18 cols x 2 rows	Date entry screen. Title box, 16x16 glyphs.
+menu_date_02	0C4000	年	/	1 col	Date entry screen. Year label (8x8).
+menu_date_03	0C4000	月	/	1 col	Date entry screen. Month label.
+menu_date_04	0C4000	日	(blank)	1 col	Date entry screen. Day label.
+menu_file_01	03C000	はじめる	Start	8 cols x 2 rows	File select screen. Start.
+menu_file_02	03C000	データを消す	Erase Data	12 cols x 2 rows	File select screen. Erase data.
+menu_file_03	03C000	名　前	Name	6 cols x 2 rows	File select screen. Column header: name.
+menu_file_04	03C000	釣りの力	Fishing	8 cols x 2 rows	File select screen. Column header: fishing power.
+menu_file_05	03C000	歩く力	Walking	6 cols x 2 rows	File select screen. Column header: walking power.
+menu_records_01	03D000	釣り人	Angler	6 cols x 2 rows	Records (best catches / totals) screen. Header: angler (top table).
+menu_records_02	03D000	体長	Size	4 cols x 2 rows	Records (best catches / totals) screen. Header: length.
+menu_records_03	03D000	釣った日	Date	8 cols x 2 rows	Records (best catches / totals) screen. Header: date caught.
+menu_records_04	03D000	Cm	Cm (kept)	2 cols	Records (best catches / totals) screen. Unit after length.
+menu_records_05	03D000	年	/	1 col	Records (best catches / totals) screen. Year.
+menu_records_06	03D000	月	/	1 col	Records (best catches / totals) screen. Month.
+menu_records_07	03D000	日	(blank)	1 col	Records (best catches / totals) screen. Day.
+menu_records_08	03D000	釣り人	Angler	6 cols x 2 rows	Records (best catches / totals) screen. Header: angler (bottom table).
+menu_records_09	03D000	釣果	Got	4 cols x 2 rows	Records (best catches / totals) screen. Header: catch count.
+menu_records_10	03D000	成功率	Success	6 cols x 2 rows	Records (best catches / totals) screen. Header: success rate.
+menu_records_11	03D000	匹	(blank)	1 col	Records (best catches / totals) screen. Counter for fish.
+menu_records_12	03D000	%	% (kept)	1 col	Records (best catches / totals) screen. Percent.
+menu_confirm_01	03C800	本当に　いいですか？	Are you sure?	19 cols x 2 rows	Erase confirm screen. Are you sure?.
+menu_confirm_02	03C800	はい	Yes	6 cols	Erase confirm screen. Yes.
+menu_confirm_03	03C800	いいえ	No	6 cols	Erase confirm screen. No.
+menu_title_01	080800	はじめる	START	8 cols	Title screen screen. Press start / begin (glyphs not in 0x3A000 sheet).
+menu_title_02	080800	© 1994 PACK-IN-VIDEO	© 1994 PACK-IN-VIDEO	22 cols	Title screen screen. Copyright line, likely keep as is.
+menu_kbd_01	081000	あ～ん + が～ぽ, を ー っ ゃ ゅ ょ	English keyboard: ABCDEFGHI JKLMNOPQR STUVWXYZ- abcdefghi jklmnopqr stuvwxy z.!?'& 012345 6789() ,:~*/%	9x5 + 7x5 grid	Name keyboard screen. Hiragana keyboard; decide on Latin letters.
+menu_kbd_02	081000	おわり	End	6 cols	Name keyboard screen. Done button.
+fishhdr_sign_01	03E9F4	イワナ	Char	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 5 sprites; tiles 00 46 26.
+fishhdr_sign_02	03EA14	ヤマメ	Masu Trout	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 5 sprites; tiles 42 2C 2E.
+fishhdr_sign_03	03EA34	ニジマス	Rainbow Trout	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 6 sprites; tiles 28 60 2C 0E.
+fishhdr_sign_04	03EA54	ヘラブナ	White Crucian	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 6 sprites; tiles 2A 44 68 26.
+fishhdr_sign_05	03EA74	ブラックバス	Black Bass	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 8 sprites; tiles 68 44 6A 0A 64 0E.
+fishhdr_sign_06	03EA94	ウグイ	Dace	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 5 sprites; tiles 02 4C 00.
+fishhdr_sign_07	03EAB4	オイカワ	Pale Chub	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 6 sprites; tiles 06 00 08 46.
+fishhdr_sign_08	03EAD4	マブナ	Crucian Carp	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 5 sprites; tiles 2C 68 26.
+fishhdr_sign_09	03EAF4	ナマズ	Catfish	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 5 sprites; tiles 26 2C 62.
+fishhdr_sign_10	03EB14	コイ	Carp	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 4 sprites; tiles 0C 00.
+fishhdr_sign_11	03EB34	テナガエビ	River Prawn	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 7 sprites; tiles 24 26 48 04 66.
+fishhdr_sign_12	03EB54	ウナギ	Eel	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 5 sprites; tiles 02 26 4A.
+fishhdr_sign_13	03EB74	タナゴ	Bitterling	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 5 sprites; tiles 20 26 4E.
+fishhdr_sign_14	03EB94	モツゴ	Stone Moroko	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 5 sprites; tiles 40 22 4E.
+fishhdr_sign_15	03EBB4	川のヌシ	River King	8 sprites incl. brackets	Spot sign header, centred at y=0x38. 6 sprites; tiles C8 CA CC CE. Tiles are outside the kana sheet; name assumed from the fish list, not yet seen on screen.
+fishhdr_catch_01	03EBD4	イワナ	Char	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 5 sprites; tiles 00 46 26.
+fishhdr_catch_02	03EBF4	ヤマメ	Masu Trout	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 5 sprites; tiles 42 2C 2E.
+fishhdr_catch_03	03EC14	ニジマス	Rainbow Trout	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 6 sprites; tiles 28 60 2C 0E.
+fishhdr_catch_04	03EC34	ヘラブナ	White Crucian	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 6 sprites; tiles 2A 44 68 26.
+fishhdr_catch_05	03EC54	ブラックバス	Black Bass	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 8 sprites; tiles 68 44 6A 0A 64 0E.
+fishhdr_catch_06	03EC74	ウグイ	Dace	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 5 sprites; tiles 02 4C 00.
+fishhdr_catch_07	03EC94	オイカワ	Pale Chub	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 6 sprites; tiles 06 00 08 46.
+fishhdr_catch_08	03ECB4	マブナ	Crucian Carp	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 5 sprites; tiles 2C 68 26.
+fishhdr_catch_09	03ECD4	ナマズ	Catfish	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 5 sprites; tiles 26 2C 62.
+fishhdr_catch_10	03ECF4	コイ	Carp	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 4 sprites; tiles 0C 00.
+fishhdr_catch_11	03ED14	テナガエビ	River Prawn	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 7 sprites; tiles 24 26 48 04 66.
+fishhdr_catch_12	03ED34	ウナギ	Eel	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 5 sprites; tiles 02 26 4A.
+fishhdr_catch_13	03ED54	タナゴ	Bitterling	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 5 sprites; tiles 20 26 4E.
+fishhdr_catch_14	03ED74	モツゴ	Stone Moroko	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 5 sprites; tiles 40 22 4E.
+fishhdr_catch_15	03ED94	川のヌシ	River King	8 sprites incl. brackets	Second header set at (0x18,0x18), probably the catch screen. 6 sprites; tiles 82 84 A2 A4. Tiles are outside the kana sheet; name assumed from the fish list, not yet seen on screen.
+fishlist_r03L	03D806	タナゴ	Bitterling	12 cols	SELECT fish list, row 3 left column.
+fishlist_r03R	03D806	ヤマメ	Masu Trout	10 cols	SELECT fish list, row 3 right column.
+fishlist_r06L	03D80C	テナガエビ	River Prawn	12 cols	SELECT fish list, row 6 left column.
+fishlist_r06R	03D80C	イワナ	Char	10 cols	SELECT fish list, row 6 right column.
+fishlist_r09L	03D812	モツゴ	Stone Moroko	12 cols	SELECT fish list, row 9 left column.
+fishlist_r09R	03D812	ウグイ	Dace	10 cols	SELECT fish list, row 9 right column.
+fishlist_r12L	03D818	ナマズ	Catfish	12 cols	SELECT fish list, row 12 left column.
+fishlist_r12R	03D818	オイカワ	Pale Chub	10 cols	SELECT fish list, row 12 right column.
+fishlist_r15L	03D81E	マブナ	Crucian Carp	12 cols	SELECT fish list, row 15 left column.
+fishlist_r15R	03D81E	コイ	Carp	10 cols	SELECT fish list, row 15 right column.
+fishlist_r18L	03D824	ウナギ	Eel	12 cols	SELECT fish list, row 18 left column.
+fishlist_r18R	03D824	ヘラブナ	W.Crucian	10 cols	SELECT fish list, row 18 right column.
+fishlist_r21L	03D82A	ブラックバス	Black Bass	12 cols	SELECT fish list, row 21 left column.
+fishlist_r24L	03D830	ニジマス	Rainbow Trout	12 cols	SELECT fish list, row 24 left column.
+fishlist_nushi	03D800	川のヌシ	River King	8 cols	SELECT fish list, last entry (0x3A000 sheet tiles 002-025).
+spr_backup	03E90C	＊バックアップデータがこわれています。＊ / スタートボタンをおしてください。 / はじめからゲームをはじめます。	Backup data is damaged! / Press the START button. / A new game will begin.	3 lines, 58 sprites	Shown when SRAM is bad. One sprite per character.
+spr_hud_power	036800	つりの力	Fish	4 sprites	HUD label: fishing power.
+spr_hud_walk	036800	歩く力	Walk	3 sprites	HUD label: walking power.
+logo		つり太郎	(kept in Japanese)	logo	Title logo art. English logo is an open question.

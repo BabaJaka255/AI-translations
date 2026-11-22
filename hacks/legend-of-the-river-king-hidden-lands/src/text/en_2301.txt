@@ -1,0 +1,191 @@
+# Hikyou o Motomete English script, part 9 (ids 2301-2490): coast, final River King
+2301|Angler:{E}For halfbeak and flathead,{D}this is the best spot.
+2302|Angler:{E}The current is fast here,{D}so be careful not{E}to fall in.
+2303|Angler: Crabs really are{E}little pests.
+2304|Angler: Put your rig in a spot{E}a little away from the rocks,{D}and the crabs won't{E}steal your bait.
+2305|Villager: To catch sea bass{E}you need a big casting rod.
+2306|Villager: Here you can catch both{E}river fish and sea fish.
+2307|Sea Turtle: Help me!
+2308|{7:1}: Mister,{E}the poor thing!{D}Please let it go.
+2309|Fisherman: What? No way!{E}I'm selling this{D}to buy my kids{E}new clothes.
+2310|{7:1}:{E}Aw, come on.
+2311|Fisherman:{E}No means no.{D}Well, if you trade me{E}something just as good,{D}I might think about it.
+2312|{7:1}: Something just as good?{E}What would do?
+2313|Fisherman:{E}Let's see.{D}Two sea bass over 80cm,{E}and I'll trade.
+2314|{7:1}:{E}Got it.{D}I'll go catch them right away,{E}so wait a bit.
+2315|Fisherman: All right, a promise is{E}a promise. I'll let the turtle go.
+2316|{7:1}:{E}Thank you, mister.
+2317|Sea Turtle:{E}Thank you so very much.{D}One day I will surely repay...
+2318|{7:0}: No need to thank me.{E}Now, back to the sea.
+2319|{7:0}:{E}Don't get caught again!{D}I'm a bit tired.{E}I'll rest at the inn.
+2320|Fisherman:{E}No sea bass yet, huh?
+2321|Fisherman: Now I can buy{E}my kids some clothes.
+2322|Sea Turtle:{E}Please.
+2323|Princess Otohime: I hear you{E}saved a sea turtle.{D}Thank you so very much.
+2324|{7:0}: Oh, no need for thanks.{E}You're making me blush.
+2325|Princess Otohime:{E}This is just a small token.{D}Please choose whichever{E}box you like.
+2326|{7:0}:{E}What's inside them?
+2327|Princess Otohime: That's for you{E}to find out when you open it.
+2328|{7:0}: Hmm,{E}which one should I pick?
+2329|Princess Otohime: This one holds gold,{E}and that one holds{D}what you are searching for.
+2330|{7:0}:{E}Th-this is!{D}The old man's rod from{E}the falls pool!{D}I found it at last.
+2331|{7:0}:{E}Huh, was that a dream?{D}Oh, the rod is here.{E}It wasn't a dream.
+2332|{7:0}: Waaah!{E}What is this?!
+2333|Princess Otohime: So you chose{E}that one.
+2334|{7:0}:{E}Wh-what?
+2335|{7:0}:{E}Phew, a dream.
+2336|Choose a box.{E}{>16}Left{>80}Right
+2337|{7:0}:{E}Mm, I can smell the sea.
+2338|{7:0}:{E}Fisherman, the poor thing!{D}Please let it go.
+2339|{7:0}:{E}Don't be so strict.
+2340|{7:0}:{E}Something just as good?{D}What would do?
+2341|{7:0}:{E}Got it.{D}I'll go catch them right away,{E}so wait for me.
+2342|{7:0}:{E}Thank you, fisherman.
+2343|{7:0}: No need for thanks.{E}Now, back to the sea.
+2344|{7:0}:{E}Don't get caught again.{D}I'm a bit tired.{E}I'll rest at the inn.
+2345|{7:0}:{E}No need for thanks.{D}I only did what anyone{E}would do.
+2346|{7:0}: Th-this is{E}the Hermit's rod!{D}I found it at last.
+2347|{7:0}: I can smell the sea.{E}I've finally come this far.
+2348|{7:0}:{E}Fisherman, the poor thing!{D}Please let it go.
+2349|{7:0}:{E}Oh, please.
+2350|{7:0}:{E}Something just as good?{D}What would do?
+2351|{7:0}:{E}Hmm, all right.{D}I'll go catch them right away,{E}so wait for me.
+2352|{7:0}:{E}Thank you, fisherman.
+2353|{7:0}: No need for thanks.{E}Now, back to the sea.
+2354|{7:0}:{E}Don't get caught again.{D}I'm a little tired.{E}Maybe I'll rest at the inn.
+2355|{7:0}: Oh, no need for thanks.{E}You're making me blush.
+2356|{7:0}:{E}Please don't trouble yourself.{D}(I wonder what's inside.)
+2357|{7:0}:{E}Oh! I-I see.{D}Which one should I pick?
+2358|{7:0}: Hm?{E}Could this be{D}the old man's rod from{E}the falls pool?
+2359|{7:0}: Oh, was that a dream?{E}Oh, the rod is here.{D}It wasn't a dream.
+2360|{7:0}:{E}Eeek! What is this?!
+2361|Princess Otohime:{E}So you chose that one.
+2362|{7:0}:{E}Wh-what?
+2363|{7:0}:{E}Nooo!
+2364|{7:0}: Phew, it was a dream.{E}Thank goodness.
+2365|{7:0}:{E}I can smell the sea.
+2366|{7:0}:{E}Mister, the poor thing!{D}Please let it go.
+2367|{7:0}:{E}Something just as good?{D}What would do?
+2368|{7:0}: Okay.{E}I'll go catch them right away,{D}so wait for me.
+2369|{7:0}:{E}Thank you, mister.
+2370|{7:0}: Huh?{E}What's inside?
+2371|{7:0}: Hmm,{E}which one should I pick?
+2372|{7:0}:{E}Th-this is!{D}The old man's rod from{E}the falls pool!{D}I found it at last.
+2373|{7:0}:{E}Oh, was that a dream?{D}Oh, the rod is here.{E}It wasn't a dream.
+2374|{7:0}:{E}I can smell the sea.
+2375|Kappa:{E}{7:0}.{D}I can only come{E}this far with you.
+2376|{7:0}:{E}What? Why?
+2377|Kappa:{E}Kappa can't stand salt water.{D}So.{8:6}.{8:6}.{8:6}.
+2378|{7:0}:{E}I see.{8:6}.{8:6}.{8:6}.{D}Then it can't be helped.{E}Thank you for everything.
+2379|Kappa:{E}No, it's fine.{D}Well, good luck.
+2380|{7:0}: Oh dear,{E}what do I do now?
+2381|{7:0}: Okay.{E}I'll go catch them right away,{D}so wait for me.
+2382|Fisherman: All right,{E}a promise is a promise.{D}I'll let the turtle go.
+2383|{7:0}:{E}Thank you, mister.
+2384|Sea Turtle:{E}Thank you so very much.{D}One day I will surely repay...
+2385|{7:0}:{E}No need for thanks.{D}Now, back to the sea.
+2386|{7:0}:{E}Don't get caught again.
+2387|{7:0}:{E}What is it?
+2388|Sea Turtle:{E}Whenever you want to cross the sea,{D}call me.{D}I'll come right away.
+2389|{7:0}:{E}Oh, thank you.
+2390|Boyfriend:{E}Even if you say that...
+2391|Girlfriend:{E}Oh, get a grip!
+2392|Boyfriend:{E}But...
+2393|{7:0}:{E}What's wrong?
+2394|Boyfriend:{E}...
+2395|Girlfriend: Well, you see, we were dating in secret, and our parents found out.{D}He's not very dependable, as you can see.{D}So my dad is totally against it.
+2396|Boyfriend:{E}You don't have to put it that way.
+2397|Girlfriend:{E}But it's true, isn't it?{D}And so...
+2398|Boyfriend: I-I'll explain. Her dad says I can only date her{D}if I swim out to the Wedded Rocks. You can see them over there.
+2399|{7:0}:{E}So just swim there.
+2400|Girlfriend:{E}The thing is,{D}he's a fisherman's son,{E}but he can't swim.
+2401|Boyfriend:{E}.{8:6}.{8:6}.{8:6}.
+2402|{7:0}:{E}Hmm.
+2403|{7:0}: I know!{E}I have a good idea.
+2404|Girlfriend:{E}A good idea?
+2405|{7:0}:{E}Yes.{D}My friend the sea turtle{E}can give him a ride.{D}He pretends to swim out to the rocks{E}and back.
+2406|Girlfriend:{E}Your friend the sea turtle?
+2407|{7:0}: That's right.{E}Shall I call him?{D}Mr. Sea Turtle!
+2408|Girlfriend:{E}A r-real sea turtle!
+2409|{7:0}:{E}.{8:6}.{8:6}.{8:6}.and that's the story.{D}Will you help us?
+2410|Sea Turtle:{E}Easy as pie.
+2411|{7:0}:{E}Then let's do it tomorrow.{D}Is that okay?
+2412|Boyfriend:{E}Yes, please.
+2413|Girlfriend: If my dad accepts{E}us after this.{8:6}.{8:6}.{8:6}.{D}Please, Mr. Sea Turtle.
+2414|Sea Turtle:{E}Leave it to me.
+2415|Girlfriend: Then I'll bring{E}my dad tomorrow.
+2416|Her Father:{E}You'll really swim to the Wedded Rocks?
+2417|Boyfriend:{E}Y-yes, sir.
+2418|Girlfriend: Dad,{E}if he can swim to the Wedded Rocks,{D}you'll really accept{E}us, right?
+2419|Her Father: I know. But only{E}if he really swims there.
+2420|Girlfriend:{E}Good luck.
+2421|Boyfriend:{E}I know.
+2422|Girlfriend:{E}(Ready?)
+2423|Girlfriend:{E}He did it! He swam all the way!
+2424|Her Father: Hm, hmm.{E}He really swam it.
+2425|Girlfriend: So now there's{E}no problem at all, right?
+2426|Her Father: I'm a man of{E}my word. I'll keep it.
+2427|Boyfriend:{E}Th-thank you very much.{D}Dad.
+2428|Her Father:{E}Hmph!{D}You've no business{E}calling me Dad!
+2429|Boyfriend:{E}S-sorry.
+2430|Girlfriend: Thank you,{E}{7:0}.{D}It's all thanks to you{E}and the sea turtle.
+2431|Boyfriend:{E}Thank you so much.
+2432|{7:0}: It's fine.{E}I'm just glad.{D}Oh, what's that rod?
+2433|Boyfriend:{E}Oh, this?{D}It was caught on{E}the Wedded Rocks.
+2434|{7:0}: Could it be{E}the old man's rod?
+2435|Boyfriend: Is it someone you know?{E}Then you should take it to him.
+2436|{7:0}: Thank goodness.{E}So that's where it was.{D}Well then,{E}I'll take it to him right away.{D}Take care, you two.
+2437|Girlfriend:{E}You too, {7:0}.
+2438|Boyfriend: Thank you.{E}Goodbye.
+2439|Boyfriend:{E}Will this be all right?
+2440|Boyfriend:{E}I'm glad it worked out.
+2441|Girlfriend:{E}I hope this works.
+2442|Girlfriend: Now we don't have{E}to sneak around anymore.
+2443|{7:0}:{E}Yeah, I can smell the sea.
+2444|{7:0}:{E}{7:1}.
+2445|{7:1}:{E}Oh, {7:0}. What?
+2446|{7:0}: I heard what happened.{E}I'll help you catch sea bass.
+2447|{7:1}:{E}{7:0}.{8:6}.{8:6}.{8:6}.
+2448|{7:0}:{E}What? Is that so strange?
+2449|{7:1}:{E}No. Thank you.
+2450|{7:0}:{E}Two of us fishing is{D}faster than one.
+2451|{7:1}:{E}Yeah, let's do it.
+2452|{7:1}:{E}Hey, I caught mine!
+2453|{7:0}: Me too,{E}just now.
+2454|{7:0}:{E}Let's hurry to the dock.
+2455|{7:0}:{E}Thank you.
+2456|{7:0}:{E}Don't get caught again!
+2457|{7:1}: You're actually{E}a pretty good guy.
+2458|{7:0}:{E}Where did that come from?
+2459|{7:1}:{E}From now on, let's be friends.
+2460|{7:0}:{E}.{8:6}.{8:6}.{8:6}.O-okay.
+2461|{7:1}:{E}I'd better head home.{D}See ya, {7:0}.
+2462|{7:0}: I'm a bit tired.{E}I'll rest at the inn.
+2463|{7:0}:{E}Huh? What's that?
+2464|Old Man: Let me tell you something good.{D}There's a fish harder to catch than any River King you've caught.{D}Only I know where it lives.{D}Well, will you take the challenge?{E}{>16}Yes{>80}No
+2465|Old Man:{E}Well said, {7:0}!{D}That's the angler{E}I had high hopes for.{D}Then I'll tell you.{E}To get to that place,{D}you go through the waterfall{E}right there.
+2466|{7:0}: Whaaat?!{E}You can go through there?
+2467|Old Man: Ho ho ho. With this straw hat you'll be fine.{D}But there's only one hat. Once it's yours, only you can pass the falls.{D}Is that all right?{E}{>16}Yes{>80}No
+2468|Old Man: Very well.{E}Then take the straw hat.
+2469|Old Man: Yes,{E}think it over well.
+2470|Old Man: That's a shame.{E}I'll try asking someone else.
+2471|Hermit:{E}Seven years, it's been.{D}Will you take on the final{E}River King again?
+2472|{7:0}:{E}Yes.
+2473|Hermit: Only one with this straw hat may challenge the final River King.{D}Is that all right?{E}{>16}Yes{>80}No
+2474|Hermit: Very well.{E}Then take the straw hat.
+2475|Hermit: Yes,{E}think it over well.
+2476|{7:0}: Through the waterfall{E}to a place like this...
+2477|What was that shadow just now?!{D}Could that be{E}the last River King?
+2478|What was that shadow just now?!{D}Could that be{E}the last River King?
+2479|{7:0}: This place.{8:6}.{8:6}.{8:6}.{E}I remember!{D}This is where Dad and I{E}came that time!{D}So this is where it was.
+2480|Ah! It's that one.{D}All right, the one Dad{E}couldn't catch,{D}I'll catch it myself!
+2481|{7:0}: I'm back.{8:6}.{8:6}.{8:6}.{E}After seven years.
+2482|This time I'll catch it for sure!
+2483|Hermit:{E}Ho ho ho.{D}Even you couldn't land it{E}in one go.{D}Let me tell you something.{D}Once that one is hooked,{E}it won't bite again that day.{D}No matter how hard you try,{E}it's no use today.
+2484|Hermit:{E}You caught it!{D}{7:0}, you are the{E}greatest angler in the world.
+2485|Hermit:{E}Splendid, {7:0}.{D}You've avenged your defeat{E}of seven years ago.{D}Now you too are{E}the world's greatest angler.
+2486|Hermit:{E}Well done.{D}Quickly, the other 4.{8:6}.{8:6}.{8:6}.{E}{8:6}No, never mind.
+2487|{7:0}: Whoops,{E}too early to go downstream.
+2488|{7:0}: Oh,{E}too early to go downstream.
+2489|{7:0}:{E}I did it!{D}At last I caught{E}the River King {A}!
+2490|{7:0}:{E}I did it!{D}At last I caught{E}the River King {A}!

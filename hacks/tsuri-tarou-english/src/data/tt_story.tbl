@@ -1,0 +1,24 @@
+# Story font (ROM 0x1B000) overrides on top of tt_8x8.tbl, used by story tilemap pages
+1B=？
+2B=・
+5A=。
+60=「
+61=」
+62=、
+63=山
+64=日
+65=女
+66=目
+67=大
+68=P
+69=A
+6A=S
+6B=W
+6C=O
+6D=R
+6E=D
+70=三
+71=人
+72=川
+73=六
+3A=じ

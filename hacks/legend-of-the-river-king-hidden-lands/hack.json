@@ -21,6 +21,8 @@
     }
   ],
   "tested_on": "emulator",
+  "source": "verified",
+  "devlog": true,
   "ai_assisted": true,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }

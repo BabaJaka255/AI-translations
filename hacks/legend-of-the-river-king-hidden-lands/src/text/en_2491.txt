@@ -1,0 +1,12 @@
+2491|Stream
+2492|Alpine
+2493|Creek
+2494|Lake
+2495|Plains
+2496|Coast
+2497|Secret
+2502|Fishing Level{E}Stream{>120}{C:3} fish{E}Alpine{>120}{C:3} fish{E}Creek{>120}{C:3} fish{E}Lake{>120}{C:3} fish{E}Plains{>120}{C:3} fish{E}Coast{>120}{C:3} fish
+2503|{>0}Caught{E}{B}
+2504|{>0}Best{E}{B}cm
+2501|{>120}{C:3} fish{E}Alpine{>120}{C:3} fish{E}Creek{>120}{C:3} fish{E}Lake{>120}{C:3} fish{E}Plains{>120}{C:3} fish{E}Coast{>120}{C:3} fish{E}Secret{>120}{C:3} fish
+2505|{>56}Fishing Level{E}{E}Float fishing{>136}{A}{E}Casting{>136}{A}{E}Lure fishing{>136}{A}{E}Fly fishing{>136}{A}

@@ -1,0 +1,199 @@
+1349	【[0F]Kick[0E]】/Wh-what? Why so quiet?|Oh, I get it! You're mad because I asked something so obvious? Ha ha! Sorry, sorry.
+1350	【[0F]Kick[0E]】/But in this village, women whose men are gone really are unlucky.|After all, they've got nothing to eat.
+1351	【[0F]Kick[0E]】/He smells like [0F]Shizuki[0E]. ...But it's mixed with some weird smell.
+1352	【[0F]Angus[0E]】/Who's this? Some pasty-faced kid standing here... What,|a ghost that preys on men?
+1353	【[0F]Kick[0E]】/Ghost, my foot! He's the savior!!
+1354	【[0F]Angus[0E]】/What's with this squirrel!? Wa ha ha! Feisty little thing.|I'm [0F]Angus[0E]. What's your name?|Well, don't just stand there. Come on in.
+1355	【[0F]Angus[0E]】/...So that's how it is.|As you can see, I'm retired. This house is just for me. There's nothing here.|I've got no food, either. Doesn't bother me. I don't care if I die tomorrow.|So [0F]Lao's brother-in-law[0E] or whoever, I'm not going out on the lake for some crazy story like that.|If that's all, it's nothing to do with me. Now get out.
+1356	【[0F]Kick[0E]】/Dang it! What's his problem!! Who does he think he is!!
+1357	【[0F]Kick[0E]】/Huh, but he really did smell like [0F]Shizuki[0E].|But he's no brother of [0F]Shizuki[0E]'s.|Still, looks like we need that old guy to take us out on his boat, deep into the lake!|Let's talk to the villagers and figure out how to talk that old guy around!
+1358	【[0F]Angus[0E]】/...You again. Coming back again and again to deal with a guy like me.|You're an odd one.[09]|You sweet-talked my friend, didn't you? He's a stubborn one. Fine. I'll hear you out.
+1359	【[0F]Goka[0E]】/Hey, [0F]Pops Angus[0E]. I brought you some vegetables.
+1360	【[0F]Angus[0E]】/[0F]Goka[0E].
+1361	【[0F]Goka[0E]】/Oh, I've been waiting for you! What a relief!!
+1362	【[0F]Goka[0E]】/My name's [0F]Goka[0E]. Nice to meet ya!|When I got back to the village, all the men were gone. All we siblings could do|was wait for this so-called savior. The moment I saw you, I knew it was you.
+1363	【[0F]Kick[0E]】/Sure. Not many guys walk around carrying a fishing rod.
+1364	【[0F]Goka[0E]】/The old man here says he saw the missing men out on the lake.
+1365	【[0F]Angus[0E]】/Who knows. All I saw was something strange out that window there.|There were lots of splashes out on the lake.
+1366	【[0F]Goka[0E]】/The villagers who were turned into fish are definitely deep in the lake. I'm counting on you.|I'm heading back to the village. I live in the settlement across that bridge.|Things are rough over here now that the men are gone from this settlement.|And, [0F]Pops Angus[0E]! Sorry, but please take this boy out on the lake.
+1367	【[0F]Angus[0E]】/...
+1368	【[0F]Kick[0E]】/Hey, old man!! Why so quiet?
+1369	【[0F]Angus[0E]】/Can I even get on a boat...
+1370	【[0F]Angus[0E]】/I... I lost my reason.|Growing up, learning to fish, marrying, raising a wife and child... that was my role.|But my wife died, and life lost its meaning... and I couldn't get on a boat anymore.
+1371	【[0F]Angus[0E]】/...All right. When the time comes, I'll take the boat out. I promise.
+1372	【[0F]Old Woman[0E]】/The village women will marry into the next settlement.|Good thing there are men left over there.
+1373	【[0F]Old Woman[0E]】/[0F]Lao[0E] was shouting. "My [0F]sister[0E] isn't going to the next village!"|But [0F]Lao's sister[0E] may be married, but she has a baby still nursing.|Unless someone takes her in, she can't survive.
+1374	【[0F]Old Woman[0E]】/...Hmph. As long as there are women... the bloodline won't end.
+1375	【[0F]Kick[0E]】/Guys always get stuck with that role, huh. ...Makes me sigh.|What do you think, [0F][03][0E]?
+1376	=Kick is right!
+1377	=It can't be helped...
+1378	【[0F]Kick[0E]】/You think so too, right?|That [0F]old lady[0E] only cares about the village surviving...|But [0F][03][0E] is going to save the men who were turned into fish.|Then [0F]Lao's sister[0E] and the others won't be forced to remarry by village custom!|I'm counting on you, [0F][03][0E]!
+1379	【[0F]Kick[0E]】/Hmm, you've got a point...|I bet the custom in this village is that women don't do farm work or anything productive.|That's how much women are cherished here. They can have children, after all.
+1380	【[0F]Lao[0E]】/I heard from [0F]Uncle Angus[0E]! You're going to the lake!|You're going to save everyone, right!? I'll go tell everybody!!
+1381	【[0F]Kick[0E]】/Big responsibility, [0F][03][0E]! Come on, let's go to [10]Angus's house[0E]!
+1382	【[0F]Angus[0E]】/Hey, you came! Actually, I've got a boat tied up behind the house.|I've been hiding it.
+1383	【[0F]Kick[0E]】/Wait, you mean...
+1384	【[0F]Angus[0E]】/You two wait for me at the bridge.
+1385	【[0F]Angus[0E]】/...I see. With people from the next settlement...|Just what that old woman would think of.
+1386	【[0F]Angus[0E]】/Did a storm hit the lake? Or was there some monster living out there?
+1387	【[0F]Angus[0E]】/More to the point, you keep saying it'll be fine, it'll be fine.|How can you know that? Just who... are you...?
+1388	【[0F]Kick[0E]】/I told you, he's the savior!
+1389	【[0F]Angus[0E]】/Hmph, fine. I'll watch from here.|And when you want to go back to the village, tell me.|So, what exactly are you going to do? Fish in my place?
+1390	【[0F]Angus[0E]】/Well, how about that. The men weren't swept away by a storm,|or attacked by a monster. They'd turned into fish!!
+1391	【[0F]Angus[0E]】/That should be all the missing villagers. Thank you!|I still can't believe they were fish, but thanks to you, the village is saved. Well, let's head back.
+1392	【[0F]Lao[0E]】/Thank you, mister! Thank you, [0F]Mr. Angus[0E]!!|My [0F]brother-in-law[0E] came home!! I believed in you and waited. Thank you so much!!
+1393	【[0F]Angus[0E]】/Well, I'll head home too. I'm sure [0F]Keto[0E]|is waiting for me. I'm truly grateful you saved [0F]Keto[0E].
+1394	【[0F]Goka[0E]】/Yo.
+1395	【[0F]Goka[0E]】/Everyone who went missing is back in the village, and they're all happy to be together again.|Good to see everyone so happy. It's thanks to you.
+1396	【[0F]Goka[0E]】/You got tackle from my siblings, right? Can I see it?
+1397	【[0F]Goka[0E]】/[0F]Shizuki[0E]'s rod, [0F]Akira[0E]'s reel, [0F]Toma[0E]'s line...|So next is [0F]Haruki[0E]. [0F]Haruki[0E] is our little brother. Here, this is from me.|...Or so I thought, but you're full up on lures.|For now I'll give you the [10]Fishing Note[0E]. As for the [10]Legendary Lure[0E],|make room for lures, then come get it from me. See ya.
+1398	【[0F]Goka[0E]】/[0F]Shizuki[0E]'s rod, [0F]Akira[0E]'s reel, [0F]Toma[0E]'s line...|So next is [0F]Haruki[0E]. [0F]Haruki[0E] is our little brother. Here, this is from me.
+1399	【[0F]Kick[0E]】/[0F][03][0E]! We've got the [10]Legendary Tackle[0E] now, but|the [10]River King[0E] won't show up till all the people are reeled in.|So let's hurry to [0F]Haruki[0E] first!
+1400	【[0F]Swindler[0E]】/Eek! Wh-why is the real [0F]Sancherico[0E]...
+1401	【[0F]Tamia[0E]】/I saw it all!
+1402	【[0F]Tamia[0E]】/That man just now and [0F]Mr. Sancherico[0E] were in a boat together,|and suddenly [0F]Mr. Sancherico[0E] jumped into the river with his clothes on.|The man with him looked surprised,|but after a while he rowed back to shore without even trying to save him.
+1403	【[0F]Kick[0E]】/Thanks, [0F]Tamia[0E]!
+1404	【[0F]Tamia[0E]】/Glad I could help.
+1405	【[0F]Kick[0E]】/Come to think of it, the same thing happened in the [10]Oven Kingdom[0E]...|Now that we know that guy was a fake, how must [0F]Emmett's dad[0E] feel...?|He doesn't even know [0F]Emmett[0E] is alive yet... I'm starting to feel sorry for him.
+1406	【[0F]Haruki[0E]】/Hi, you came!|I'm [0F]Haruki[0E]. I've been waiting for you all this time.
+1407	The people in this country aren't very worried about their lives, and they don't rely on [10]Shamans[0E].|It's more like, "Let's get our fortune told for fun."
+1408	...But not now. I angered the god, so I don't have much power...
+1409	【[0F]Haruki[0E]】/So there's not much I can do to help...
+1410	But I can teach you lots about fishing, so ask me anything!
+1411	【[0F]Sancherico[0E]】/How do you do. My name is [0F]Sancherico[0E].
+1412	【[0F]Emmett's Father[0E]】/I hear [0F]Mr. Sancherico[0E] is a nobleman.
+1413	【[0F]Emmett[0E]】/A nobleman?
+1414	【[0F]Emmett's Father[0E]】/He'll be staying with us for a while.
+1415	【[0F]Kick[0E]】/Hey, [0F][03][0E]! Why don't you go cheer her up?
+1416	【[0F]Emmett[0E]】/From my room, you can see the river.
+1417	I always secretly waited at the window for him to come. He'd come by boat, and we'd show each other how we felt.
+1418	That day too, I was at the window at the time we'd agreed, and he came.
+1419	But suddenly he stood up unsteadily and jumped into the water.
+1420	...Anyway, I'm going to have to marry that nasty, money-grubbing nobleman...
+1421	Because nothing changes the fact that [0F]Yokanan[0E] is gone...
+1422	Thank you for coming to cheer me up. ...But right now, I'd like to be alone.
+1423	【[0F]Kick[0E]】/What!?
+1424	【[0F]Haruki[0E]】/Hi. I saved [0F]Emmett[0E]. I don't know why,|but [0F]Emmett[0E] suddenly jumped from her window. So I hurried from the far shore|to save her by boat.
+1425	【[0F]Haruki[0E]】/I'll take [0F]Emmett[0E] to my house.|I've been thinking. I think we should let everyone believe [0F]Emmett[0E] is dead. What do you say?
+1426	【[0F]Kick[0E]】/It's true, if they find out she's alive, she'll have to marry that nobleman she doesn't even love...|Until [0F]Sancherico[0E] gives up and goes home, or better yet, until we turn [0F]Yokanan[0E] back into a person,|it might be better not to send her home...
+1427	That same day, word that [0F]Emmett[0E] had jumped into the river spread all over town.|But since [0F]Emmett[0E] was never found, the townspeople began whispering that she might be dead.|And the night passed.
+1428	【[0F]Haruki[0E]】/Let's let [0F]Emmett[0E] rest here until she wakes up.|More importantly, I'm worried about her family. They must think she's dead, so there must be an uproar...
+1429	【[0F]Haruki[0E]】/...I'm the youngest of us, and my powers are nowhere near theirs...|But as a [10]Shaman[0E], I want to help you too, [0F][03][0E]!|So I have a favor to ask. [0F]Yokanan's dad[0E] runs a fish stall at the market.|Could you ask him for a detailed list of the fish you can catch in this town?|With it, I think my reading can tell which fish [0F]Yokanan[0E] became and where he is now.|...That's all I can do to help...
+1430	【[0F]Haruki[0E]】/I'll go get ready for the reading in the [10]market tent[0E].|Once you have the detailed fish list, come to the [10]market tent[0E]. I'll be waiting!
+1431	【[0F]Sancherico[0E]】/She had me come all the way out here,|and then she throws herself in the river after her lover? That's a disgrace! Someone will pay for this!
+1432	【[0F]Kick[0E]】/Hey, [0F][03][0E]!|...Isn't that nobleman acting kind of weird?|Why is he so angry? You'd think he'd be sadder than that.|Let's go see that nobleman later!
+1433	【[0F]Emmett[0E]】/[0F]Yokanan[0E]!!
+1434	【[0F]Yokanan[0E]】/[0F]Emmett[0E]... Why am I here?
+1435	【[0F]Emmett[0E]】/It's all right, don't think about anything now. ...Thank you, [0F][03][0E].|I only half believed it, so I watched from hiding. But this is wonderful!
+1436	【[0F]Yokanan[0E]】/[0F]Emmett[0E]?
+1437	【[0F]Emmett[0E]】/[0F]Yokanan[0E]! Let's go away somewhere together.|Somewhere [0F]Father[0E] will never find us.
+1438	【[0F]Emmett's Father[0E]】/[0F]Emmett[0E]!? It's [0F]Emmett[0E]!!
+1439	【[0F]Emmett[0E]】/[0F]Father[0E]!!
+1440	【[0F]Emmett[0E]】/...
+1441	【[0F]Emmett[0E]】/...
+1442	【[0F]Emmett[0E]】/...
+1443	【[0F]Emmett's Father[0E]】/[0F]Yokanan[0E], please marry [0F]Emmett[0E]!
+1444	And so [0F]Yokanan[0E] and [0F]Emmett[0E] were married in the town [10]square[0E].|The [10]square[0E] overflowed with people who came to celebrate the couple,|and at the center, [0F]Yokanan[0E] and [0F]Emmett[0E], surrounded by everyone, looked so very happy.
+1445	【[0F]Haruki[0E]】/[0F][03][0E]! Thank you for saving everyone who became a fish!|You got tackle from [0F]my brothers and sister[0E], right? A lure, line, reel and rod.|With all of them, you can catch the [10]River King[0E]. The [10]River King[0E] is in the [10]heart of the Mysterious Forest[0E]. I'll give you this, [0F][03][0E].
+1446	【[0F]Haruki[0E]】/By reeling in the [10]River King[0E], you can go back to your world.|The [10]River King[0E] is a legendary fish. We've never seen it either...|...Oh, we don't need to talk about that here. [0F]Yokanan[0E] and [0F]Emmett[0E] are here.|I'll head home first. Talk to them first, but come to my house before you leave.|I'll tell you how to reel in the [10]River King[0E].
+1447	【[0F]Yokanan[0E]】/Just a moment ago I was a fish,|and now the whole town is celebrating us, and [0F]Mr. Gozzane[0E] gave his blessing... I can hardly believe it.|It's thanks to you, [0F][03][0E], that I could marry [0F]Emmett[0E]!
+1448	【[0F]Emmett[0E]】/I'm so glad I was saved back then!|If I hadn't been, I wouldn't be here now.|[0F]Father[0E] was so against us marrying, but now he's so happy for us.|Thank you so much! I'll never forget today for the rest of my life!
+1449	【[0F]Innkeeper[0E]】/Hey! Leaving already?
+1450	【[0F]Innkeeper[0E]】/Wait a moment! Before you go, stay a night at my inn.|Thanks to you, my inn got its good name back.|Free of charge, of course! No reason to say no, right?|Come on then, follow me!
+1451	【[0F]Innkeeper[0E]】/Sleep well? Get home safe.|Oh, that's right! There was a message from [0F]Haruki[0E].|He says he told you before, but please come to his house before you leave.|I think he wants to thank you in his own way.|Next time you're in town, stop by my inn again!
+1452	【[0F]Cosmo Baron[0E]】/Yo, it's rare to see a human pass through here!|They call me [0F]Kind Baron[0E], the kind mole!|I'll give you some advice so you don't get lost in the forest.|If you [10]go straight[0E] ahead, you'll reach the [10]Land of the Sun[0E].
+1453	【[0F]Space Baron[0E]】/Huh? You actually made it here.|You thought I lied to you earlier, right?|Sorry! But I won't lie anymore, so forgive me.|Up ahead is the Land of the Sun, the [10]Sunsun Kingdom[0E].
+1454	【[0F]Mr. Weasel[0E]】/If you want to pass through here, you'll pay a toll:|a [10]Carp[0E]. No other fish will do. We're hungry!
+1455	【[0F]Mr. Weasel[0E]】/Oh, did you bring a fish?
+1456	【[0F]Mr. Weasel[0E]】/Then hurry up and catch one! We're starving!!
+1457	【[0F]Mr. Weasel[0E]】/Oh, this is it, this is it! Not bad!|All right, a deal's a deal. You can pass. Thanks.
+1458	【[0F]Mr. Weasel[0E]】/That's no [10]Carp[0E]. Don't think you can fool me!
+1459	【[0F]Mr. Weasel[0E]】/You making fun of us? You don't even have a fish!|If you want to pass, hurry up and catch a [10]Carp[0E].
+1460	【[0F]Curious Tree[0E]】/Hello.
+1461	【[0F]Kick[0E]】/Hello.
+1462	【[0F]Curious Tree[0E]】/Wait a moment.
+1463	【[0F]Kick[0E]】/What is it?
+1464	【[0F]Curious Tree[0E]】/Where are you going now?
+1465	【[0F]Kick[0E]】/I don't really know. It's somewhere I've never been.
+1466	【[0F]Curious Tree[0E]】/I see.
+1467	【[0F]Curious Tree[0E]】/Then where did you come from?
+1468	=[10]Nushikiri Village[0E].
+1469	=The [10]Oven Kingdom[0E].
+1470	【[0F]Kick[0E]】/[10]Nushikiri Village[0E].
+1471	【[0F]Curious Tree[0E]】/Ohh.
+1472	【[0F]Kick[0E]】/The [10]Oven Kingdom[0E].
+1473	【[0F]Curious Tree[0E]】/What's [10]Nushikiri Village[0E] like?
+1474	【[0F]Kick[0E]】/It's a really peaceful place.
+1475	【[0F]Curious Tree[0E]】/Is that so.
+1476	【[0F]Kick[0E]】/Hey, [0F][03][0E].|Doesn't look like we can get past here. Let's find another way.
+1477	【[0F]Curious Tree[0E]】/What's the [10]Oven Kingdom[0E] like?
+1478	【[0F]Kick[0E]】/It's a really hot place.
+1479	【[0F]Wise Monkey[0E]】/Hey, what's this? You came back.|Was there a big snake or something?
+1480	【[0F]Wise Monkey[0E]】/Ah, that chatterbox caught you!|He gave me trouble too. I bet he sprouted mouth first.|Yes, that's why I stopped trying to go past there.[09]|Everyone in this forest is like that. It's like a great wall.[09]|But the [0F]Chatty Bird[0E] flies higher than that little tree,|and goes here and there.
+1481	【[0F]Flightless Bird[0E]】/Ah, that tree hit me with questions too.|That child is so curious. He wants to know everything.|I think knowing things is good,|but sometimes you wish you hadn't known, so I'd rather not ask too much...|The [0F]Chatty Bird[0E], on the other hand, can fly freely, so he tells all sorts of stories.
+1482	【[0F]Kick[0E]】/You can't fly?
+1483	【[0F]Flightless Bird[0E]】/I have no need to fly.|The [0F]Chatty Bird[0E] loves to brag, and wished for it more than anything,|so the god let him fly.|I don't need it. There are so many things more important.
+1484	【[0F]Kick[0E]】/That's it...! Let's look for the [0F]Chatty Bird[0E]!
+1485	【[0F]Kick[0E]】/It's supply and demand!|We'll just leave the [0F]Curious Tree[0E] to the [0F]Chatty Bird[0E].
+1486	【[0F]Kick[0E]】/Huh, we're looking for him, and he left us a message!|Okay, [0F][03][0E]. Let's go to the [10]square[0E]!
+1487	【[0F]Chatty Bird[0E]】/Well, my first customer today. What do you want to hear about?
+1488	【[0F]Chatty Bird[0E]】/No stories? Did you know it's the latest craze in towns everywhere|for people to turn into fish?
+1489	【[0F]Kick[0E]】/It's not a craze. Anyway, what if there were someone who wanted to hear your stories|but couldn't come here?
+1490	【[0F]Chatty Bird[0E]】/Then I'd go to them myself.
+1491	【[0F]Kick[0E]】/Really? Then come with me!
+1492	【[0F]Chatty Bird[0E]】/You got it!
+1493	【[0F]Chatty Bird[0E]】/What is it?
+1494	【[0F]Curious Tree[0E]】/What's up ahead?
+1495	【[0F]Chatty Bird[0E]】/Up ahead is a little town surrounded by snow, called [10]Cold Park[0E].|But the part where people live is tiny.
+1496	【[0F]Curious Tree[0E]】/Ahh, I wish I could go somewhere like that.
+1497	【[0F]Chatty Bird[0E]】/You don't need to go. If you want to know, I'll tell you.|What do you want to know first...?
+1498	【[0F]Mean Tree[0E]】/Hey, here he comes. Did you see?
+1499	【[0F]Nasty Tree[0E]】/I saw, I saw. Hey, that's funny.
+1500	【[0F]Mean Tree[0E]】/Were we laughing at you? Nope, not at all.
+1501	【[0F]Nasty Tree[0E]】/It's only what humans do anyway. It's petty.
+1502	【[0F]Mean Tree[0E]】/Humans think they're the most important.|Anything you think from there is petty, right?
+1503	【[0F]Nasty Tree[0E]】/Take you, for example. You think you're saving people.
+1504	【[0F]Mean Tree[0E]】/Anyone who lives by the door knows what you've been doing.|You don't know, but that day, when nobody was allowed to hunt at all, they broke the rule.
+1505	【[0F]Nasty Tree[0E]】/That's right. They angered the god, and the door of the forest was shut.|And what do you think was the first thing they thought of?
+1506	【[0F]Mean Tree[0E]】/Lying.|They said they'd claim it wasn't their fault, but the humans'.|When it wasn't the people who angered the god, but those arrogant [10]Shamans[0E].
+1507	【[0F]Kick[0E]】/Hey, you two! Don't go saying such garbage.|Why are you trying to mess with him? Apologize!
+1508	【[0F]Mean Tree[0E]】/...Sorry.
+1509	【[0F]Kick[0E]】/If what they said is true, would you have turned down the favor?
+1510	=...I couldn't have said no.
+1511	=I might have said no...
+1512	【[0F]Kick[0E]】/I see...|Whatever the reason, you must have been sent to this world to catch fish.
+1513	But I'm glad you said that. Don't let what those trees said bother you!
+1514	【[0F]Kick[0E]】/I see...
+1515	【[0F]Gentle Tree[0E]】/Well? Did you have fun? Now this world will be back to the way it was.|Come to think of it... the god said he'd appear again when the boy set things right.
+1516	【[0F]Gentle Tree[0E]】/No one in this world has ever seen the god's true form.|But everyone who was near the door heard the voice. Yes, that day...
+1517	【[0F]Gentle Tree[0E]】/Oh, so that's how it is...
+1518	[0F][03][0E]!!
+1519	【[0F]Goka[0E]】/[0F][03][0E]!|I heard you turned everyone who became a fish back!
+1520	【[0F]Shizuki[0E]】/Thank you, [0F][03][0E]! Just now the voice of the god reached us.|It said you saved everyone who became a fish.|So we could enter the [10]Mysterious Forest[0E] again, and I had a feeling I'd find you here.
+1521	【[0F]Akira[0E]】/I came here feeling the same way.|There's something we all have to tell you...
+1522	【[0F]Toma[0E]】/That's right. But first, thank you! For saving everyone.
+1523	【[0F]Goka[0E]】/[0F][03][0E]!|It might take a while, but will you hear us out?|There's something we have to apologize to you for...
+1524	【[0F]Shizuki[0E]】/You may have heard a lot already, but|once a year... the god appears in this [10]Mysterious Forest[0E].|But nobody knows what animal the god will become,|so the law of the forest says no hunting or fishing that day.|So nobody eats the god by mistake.|But we [10]Shamans[0E] went fishing that day...
+1525	【[0F]Toma[0E]】/The god was angry that we went fishing,|and gave us [10]Shamans[0E] a trial.|And that's actually connected to people being turned into fish.
+1526	【[0F]Akira[0E]】/After the god turned people into fish,|he brought a savior into this world from another, someone whose catch would turn fish back into people.|He thought if we felt even a little guilty that innocent people had become fish,|we'd help the savior to save them.
+1527	【[0F]Goka[0E]】/In other words, people turning into fish|was our fault, the [10]Shamans[0E]'. The god did it to make us feel guilty.
+1528	【[0F]Shizuki[0E]】/We kept waiting for the savior,|and the savior who appeared was you.|When I first met you, I told you|the god was angry at people's arrogance and turned them into fish. But that was a lie.|I was afraid that if I told you the truth, you wouldn't fish for us...
+1529	【[0F]Akira[0E]】/But for the people, it was a terrible nuisance.|In the other towns too, they hadn't done anything wrong,|but family members and sweethearts disappeared,|and we must have caused them so much trouble...
+1530	【[0F]Toma[0E]】/We caused you trouble, [0F][03][0E], but we're truly grateful.|You safely saved everyone who became a fish.|And now the god has forgiven the sin we committed that day.
+1531	【[0F]Shizuki[0E]】/As [10]Shamans[0E],|we'll read the villages' futures, help the villagers with their work, and teach people to fish.|Protecting our villages and towns is the least we can do to make up for it.|[0F][03][0E], I'm really sorry I lied to you back then. And thank you for everything!
+1532	【[0F]Goka[0E]】/We're worried about [0F]Haruki[0E], so we'd better get going!|See you around!
+1533	【[0F]Kick[0E]】/Sure, lying and breaking the law are wrong, but|those guys... they really care about each other, huh, [0F][03][0E]!
+1534	【[0F]Kick[0E]】/[0F][03][0E]...|That tree said the god would appear again when things were set right.|You're not thinking you shouldn't fish because of that, are you?|Then don't worry. Just focus on fishing.
+1535	【[0F]Kick[0E]】/[0F][03][0E]! Thanks for everything.|It's been a long journey, but it looks like it's time to say goodbye...
+1536	【[0F]Kick[0E]】/You and I both have to go back where we belong...
+1537	【[0F]Kick[0E]】/...
+1538	【[0F]Kick[0E]】/...
+1539	【[0F]Kick[0E]】/...
+1540	【[0F]Kick[0E]】/[0F][03][0E]!!!
+1541	【[0F]Kick[0E]】/Sorry for all the trouble...
+1542	【[0F]Kick[0E]】/Nothing like this will ever happen again. ...Forever...
+1543	【[0F][03]'s Dad[0E]】/[0F][03][0E], are you all right!?
+1544	【[0F][03]'s Dad[0E]】/Looks like he's okay. Thank you, that's enough.
+1545	【[0F][03]'s Dad[0E]】/Thank goodness. Does anything hurt?
+1546	【[0F][03]'s Dad[0E]】/You mustn't go fishing during Obon.|Our ancestors might be coming back as fish.
+1547	【[0F][03][0E]】/Coming back as fish...?

@@ -1,0 +1,1 @@
+Put "Kawa no Nushi Tsuri 5 - Fushigi no Mori kara (Japan).gba" here, renamed to k5.gba (4,194,304 bytes, CRC32 4A8F2F62). It is git-ignored.

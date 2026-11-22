@@ -1,0 +1,6370 @@
+[
+ {
+  "id": 0,
+  "rom": "0320B2",
+  "snes": "86:A0B2",
+  "aliases": [],
+  "jp": "誰が釣りに\n出かけますか?",
+  "raw": "e09517e0015536cce01a161c492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 1,
+  "rom": "0320C3",
+  "snes": "86:A0C3",
+  "aliases": [],
+  "jp": "誰の記録を\n消しますか?",
+  "raw": "e09539e061e0645acce0e422492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 2,
+  "rom": "0320D4",
+  "snes": "86:A0D4",
+  "aliases": [],
+  "jp": "{CD}の 記録を\n消しますか?",
+  "raw": "cd390ce061e0645acce0e422492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 3,
+  "rom": "0320E5",
+  "snes": "86:A0E5",
+  "aliases": [],
+  "jp": "弟姉父母年齢才最初から始める",
+  "raw": "e31fe320e076e075e122e1bde2b4e057e1be1654e0ef4c56",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 4,
+  "rom": "0320FE",
+  "snes": "86:A0FE",
+  "aliases": [],
+  "jp": "一郎",
+  "raw": "e036e022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 5,
+  "rom": "032103",
+  "snes": "86:A103",
+  "aliases": [],
+  "jp": "真理",
+  "raw": "e1d4e0ca",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 6,
+  "rom": "032108",
+  "snes": "86:A108",
+  "aliases": [],
+  "jp": "勝洋",
+  "raw": "e204e29a",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 7,
+  "rom": "03210D",
+  "snes": "86:A10D",
+  "aliases": [],
+  "jp": "好江",
+  "raw": "e01ee1ea",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 8,
+  "rom": "032112",
+  "snes": "86:A112",
+  "aliases": [],
+  "jp": "  はじめる  記録を消す",
+  "raw": "0c0c3a234c560c0ce061e0645ae0e424",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 9,
+  "rom": "032123",
+  "snes": "86:A123",
+  "aliases": [],
+  "jp": "はいいいえ",
+  "raw": "3a12121214",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 10,
+  "rom": "032129",
+  "snes": "86:A129",
+  "aliases": [],
+  "jp": "決定あかさたなはまやらわいきしちにひみゃりをうくすつぬふむゆるんえけせてねへめゅれょおこそとのほ",
+  "raw": "e2b5e12b1116202a353a494f54591218222c363d4a4e555a131a242f37404b51565b141c263138434c505752151e28333946",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 11,
+  "rom": "03215C",
+  "snes": "86:A15C",
+  "aliases": [],
+  "jp": "もよろっ一二三八十英規義久恭敬宏幸広康浩行作司治樹秀重俊順助彰昌丈真仁成政晴正生精荘造太泰男知哲徹典年之博繁克明也勇裕雄利隆郎和",
+  "raw": "4d53582ee036e124e056e11ce1c0e1c1e1c2e0f9e1c3e1c4e1c5e1c6e1c7e162e1c8e1c9e041e047e1cae1cbe1cce1cde1cee1cfe0b9e1d0e1d1e1d2e1d3e1d4e1d5e0dfe13fe1d6e13ee005e0dee1d7e1d8e044e1d9e131e094e1dae1dbe12ae122e120e1dce11ae2b6e1dde1dee10ae1dfe08ee0cbe1e0e022e103",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 12,
+  "rom": "0321D9",
+  "snes": "86:A1D9",
+  "aliases": [],
+  "jp": "もよろっ春夏秋冬亜愛栄英延佳花雅紀輝義菊京君恵江菜三子志枝糸時実紗寿重俊順昌照真政静千代知智津定登道徳敦八美敏穂芳満由理良緑倫和",
+  "raw": "4d53582ee0bae189e0e7e128e1e1e1e2e1e3e1c1e1e4e1e5e0fde1e6e1bfe192e0f9e1e7e0c0e1e8e1e9e1eae1ebe056e046e1ece1ede1eee055e166e1efe1f0e1cee1cfe0b9e1d2e1f1e1d4e13fe1f2e1f3e135e094e1f4e1f5e12be1f6e0aee1f7e1f8e11ce01fe117e1f9e112e10ee1fae0cae08de1fbe1fce103",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 13,
+  "rom": "032256",
+  "snes": "86:A256",
+  "aliases": [],
+  "jp": "釣果最長釣率利用生活",
+  "raw": "e001e087e057e0d9e001e2b7e0cbe024e005e039",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 14,
+  "rom": "03226B",
+  "snes": "86:A26B",
+  "aliases": [],
+  "jp": "釣りノートもくじ防波堤砂浜磯沿岸沖島外洋離島",
+  "raw": "e0015586aa804d1a23e17ce17de17ee015e24de2b8e08ae04ee266e2b3e2b9e29ae168e2b3",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 15,
+  "rom": "032291",
+  "snes": "86:A291",
+  "aliases": [],
+  "jp": "防波堤",
+  "raw": "e17ce17de17e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 16,
+  "rom": "032298",
+  "snes": "86:A298",
+  "aliases": [],
+  "jp": " 砂浜",
+  "raw": "0ce015e24d",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 17,
+  "rom": "03229E",
+  "snes": "86:A29E",
+  "aliases": [],
+  "jp": "  磯",
+  "raw": "0c0ce2b8",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 18,
+  "rom": "0322A3",
+  "snes": "86:A2A3",
+  "aliases": [],
+  "jp": " 沿岸",
+  "raw": "0ce08ae04e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 19,
+  "rom": "0322A9",
+  "snes": "86:A2A9",
+  "aliases": [],
+  "jp": " 沖島",
+  "raw": "0ce266e2b3",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 20,
+  "rom": "0322AF",
+  "snes": "86:A2AF",
+  "aliases": [],
+  "jp": " 外洋",
+  "raw": "0ce2b9e29a",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 21,
+  "rom": "0322B5",
+  "snes": "86:A2B5",
+  "aliases": [],
+  "jp": " 離島",
+  "raw": "0ce168e2b3",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 22,
+  "rom": "0322BB",
+  "snes": "86:A2BB",
+  "aliases": [],
+  "jp": "順位名前記録",
+  "raw": "e0b9e243e0a8e0b5e061e064",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 23,
+  "rom": "0322C8",
+  "snes": "86:A2C8",
+  "aliases": [],
+  "jp": "  クロダイ大会",
+  "raw": "0c0c67a5785fe008e050",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 24,
+  "rom": "0322D3",
+  "snes": "86:A2D3",
+  "aliases": [],
+  "jp": "  シロギス大会",
+  "raw": "0c0c6fa56671e008e050",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 25,
+  "rom": "0322DE",
+  "snes": "86:A2DE",
+  "aliases": [],
+  "jp": "  メジナの記録",
+  "raw": "0c0c99708239e061e064",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 26,
+  "rom": "0322E9",
+  "snes": "86:A2E9",
+  "aliases": [],
+  "jp": " イカ釣りの記録",
+  "raw": "0c5f63e0015539e061e064",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 27,
+  "rom": "0322F5",
+  "snes": "86:A2F5",
+  "aliases": [],
+  "jp": "   スズキ大会",
+  "raw": "0c0c0c717265e008e050",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 28,
+  "rom": "032300",
+  "snes": "86:A300",
+  "aliases": [],
+  "jp": "   カジキ大会",
+  "raw": "0c0c0c637065e008e050",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 29,
+  "rom": "03230B",
+  "snes": "86:A30B",
+  "aliases": [],
+  "jp": "   クエの記録",
+  "raw": "0c0c0c676139e061e064",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 30,
+  "rom": "032316",
+  "snes": "86:A316",
+  "aliases": [],
+  "jp": "弘樹",
+  "raw": "e2bae1cc",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 31,
+  "rom": "03231B",
+  "snes": "86:A31B",
+  "aliases": [],
+  "jp": "三平",
+  "raw": "e056e03d",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 32,
+  "rom": "032320",
+  "snes": "86:A320",
+  "aliases": [],
+  "jp": "義平",
+  "raw": "e0f9e03d",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 33,
+  "rom": "032325",
+  "snes": "86:A325",
+  "aliases": [],
+  "jp": "富蔵",
+  "raw": "e0d2e139",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 34,
+  "rom": "03232A",
+  "snes": "86:A32A",
+  "aliases": [],
+  "jp": "寿次",
+  "raw": "e1f0e09a",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 35,
+  "rom": "03232F",
+  "snes": "86:A32F",
+  "aliases": [],
+  "jp": "七郎",
+  "raw": "e25fe022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 36,
+  "rom": "032334",
+  "snes": "86:A334",
+  "aliases": [],
+  "jp": "音吉",
+  "raw": "e157e0c2",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 37,
+  "rom": "032339",
+  "snes": "86:A339",
+  "aliases": [],
+  "jp": "忠吉",
+  "raw": "e12ee0c2",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 38,
+  "rom": "03233E",
+  "snes": "86:A33E",
+  "aliases": [],
+  "jp": "小次郎",
+  "raw": "e019e09ae022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 39,
+  "rom": "032345",
+  "snes": "86:A345",
+  "aliases": [],
+  "jp": "大五郎",
+  "raw": "e008e267e022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 40,
+  "rom": "03234C",
+  "snes": "86:A34C",
+  "aliases": [],
+  "jp": "弥吉",
+  "raw": "e268e0c2",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 41,
+  "rom": "032351",
+  "snes": "86:A351",
+  "aliases": [],
+  "jp": "東作",
+  "raw": "e22fe047",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 42,
+  "rom": "032356",
+  "snes": "86:A356",
+  "aliases": [],
+  "jp": "安太郎",
+  "raw": "e256e044e022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 43,
+  "rom": "03235D",
+  "snes": "86:A35D",
+  "aliases": [],
+  "jp": "団次",
+  "raw": "e271e09a",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 44,
+  "rom": "032362",
+  "snes": "86:A362",
+  "aliases": [],
+  "jp": "拓助",
+  "raw": "e265e1d0",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 45,
+  "rom": "032367",
+  "snes": "86:A367",
+  "aliases": [],
+  "jp": "銀之助",
+  "raw": "e190e120e1d0",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 46,
+  "rom": "03236E",
+  "snes": "86:A36E",
+  "aliases": [],
+  "jp": "民次郎",
+  "raw": "e274e09ae022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 47,
+  "rom": "032375",
+  "snes": "86:A375",
+  "aliases": [],
+  "jp": "聴次郎",
+  "raw": "e279e09ae022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 48,
+  "rom": "03237C",
+  "snes": "86:A37C",
+  "aliases": [],
+  "jp": "信吉郎",
+  "raw": "e275e0c2e022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 49,
+  "rom": "032383",
+  "snes": "86:A383",
+  "aliases": [],
+  "jp": "波介",
+  "raw": "e17de27c",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 50,
+  "rom": "032388",
+  "snes": "86:A388",
+  "aliases": [],
+  "jp": "貞次郎",
+  "raw": "e27de09ae022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 51,
+  "rom": "03238F",
+  "snes": "86:A38F",
+  "aliases": [],
+  "jp": "春吉",
+  "raw": "e0bae0c2",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 52,
+  "rom": "032394",
+  "snes": "86:A394",
+  "aliases": [],
+  "jp": "小梅",
+  "raw": "e019e284",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 53,
+  "rom": "032399",
+  "snes": "86:A399",
+  "aliases": [],
+  "jp": "富士太郎",
+  "raw": "e0d2e286e044e022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 54,
+  "rom": "0323A2",
+  "snes": "86:A3A2",
+  "aliases": [],
+  "jp": "時貞",
+  "raw": "e055e27d",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 55,
+  "rom": "0323A7",
+  "snes": "86:A3A7",
+  "aliases": [],
+  "jp": "喜太郎",
+  "raw": "e289e044e022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 56,
+  "rom": "0323AE",
+  "snes": "86:A3AE",
+  "aliases": [],
+  "jp": "忠治",
+  "raw": "e12ee1cb",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 57,
+  "rom": "0323B3",
+  "snes": "86:A3B3",
+  "aliases": [],
+  "jp": "金太郎",
+  "raw": "e083e044e022",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 58,
+  "rom": "0323BA",
+  "snes": "86:A3BA",
+  "aliases": [],
+  "jp": "春雄",
+  "raw": "e0bae08e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 59,
+  "rom": "0323BF",
+  "snes": "86:A3BF",
+  "aliases": [],
+  "jp": "菊次",
+  "raw": "e1e7e09a",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 60,
+  "rom": "0323C4",
+  "snes": "86:A3C4",
+  "aliases": [],
+  "jp": "英樹",
+  "raw": "e1c1e1cc",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 61,
+  "rom": "0323C9",
+  "snes": "86:A3C9",
+  "aliases": [],
+  "jp": "長生",
+  "raw": "e0d9e005",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 62,
+  "rom": "0323CE",
+  "snes": "86:A3CE",
+  "aliases": [],
+  "jp": "海野町  波野港",
+  "raw": "e03ae10ce24b0c0ce17de10ce2bb",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 63,
+  "rom": "0323DD",
+  "snes": "86:A3DD",
+  "aliases": [],
+  "jp": "前略 この度は、海のぬし釣り\nを最後まで 遊んでいただき\nありがとうございます。\n海を愛する人は 私の友達。\n大好きです。    かしこ",
+  "raw": "e0b5e21d0c1e39e0d73a0de03a393722e00155cc5ae057e14849320ce0585b32122a2b18cc11551733131f211249240ecce03a5ae1e22456e03f3a0ce0ed39e200e2010ecce008e01e1832240e0c0c0c0c16221e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 64,
+  "rom": "032432",
+  "snes": "86:A432",
+  "aliases": [],
+  "jp": "大海原  龍宮城",
+  "raw": "e008e03ae1690c0ce321e322e323",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 65,
+  "rom": "032441",
+  "snes": "86:A441",
+  "aliases": [],
+  "jp": "乙姫",
+  "raw": "e324e211",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 66,
+  "rom": "032446",
+  "snes": "86:A446",
+  "aliases": [],
+  "jp": "           感謝状\nいつも 私たちをかわいがって\nくれて ありがとう。\nこれからも なかよくして\nくださいね。    動物組合",
+  "raw": "0c0c0c0c0c0c0c0c0c0c0ce288e2a6e15bcc122f4d0ce0ed2a2c5a165912172e31cc1a57310c11551733130ecc1e5716544d0c3516531a2231cc1a2b2012380e0c0c0c0ce017e011e2a7e240",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 67,
+  "rom": "032493",
+  "snes": "86:A493",
+  "aliases": [],
+  "jp": "海野町  愛の浜",
+  "raw": "e03ae10ce24b0c0ce1e239e24d",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 68,
+  "rom": "0324A1",
+  "snes": "86:A4A1",
+  "aliases": [],
+  "jp": "ウミガメ",
+  "raw": "60976499",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 69,
+  "rom": "0324A6",
+  "snes": "86:A4A6",
+  "aliases": [],
+  "jp": "       優良釣師認定証\n釣師としての マナーを守り\n我々を見事だまし 釣り上げる\n貴方の技術を評価し 優良釣師\nと認定します。   魚類組合",
+  "raw": "0c0c0c0c0c0c0ce2aae08de001e223e2abe12be2accce001e223332231390c9682aa5ae21255cce2adaf5ae032e04b2b49220ce00155e0091d56cce225e07439e2aee2af5ae2b0e2b1220ce2aae08de001e223cc33e2abe12b2249240e0c0c0ce007e013e2a7e240",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 70,
+  "rom": "03250F",
+  "snes": "86:A50F",
+  "aliases": [],
+  "jp": "大海原  沖の底",
+  "raw": "e008e03ae1690c0ce26639e00d",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 71,
+  "rom": "03251D",
+  "snes": "86:A51D",
+  "aliases": [],
+  "jp": "イシダイ",
+  "raw": "5f6f785f",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 72,
+  "rom": "032522",
+  "snes": "86:A522",
+  "aliases": [],
+  "jp": "記録していたゲームが\n消えてしまいました。",
+  "raw": "e061e0642231122a6aaa9817cce0e4143122491249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 73,
+  "rom": "03253B",
+  "snes": "86:A53B",
+  "aliases": [],
+  "jp": "ボタンを押して下さい。\nゲームを初期化して\nはじめます。",
+  "raw": "9477a85ae2522231e00b20120ecc6aaa985ae1bee09ee1002231cc3a234c49240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 74,
+  "rom": "03255D",
+  "snes": "86:A55D",
+  "aliases": [],
+  "jp": "家族の伝言板",
+  "raw": "e088e25539e0d8e224e11b",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 75,
+  "rom": "032569",
+  "snes": "86:A569",
+  "aliases": [],
+  "jp": "?!改行あかさたなはまやらわいきしちにひみゃりをうくすつぬふむゆるんえけせてねへめゅれょおこそとのほもよろっ",
+  "raw": "acabe2bce0411116202a353a494f54591218222c363d4a4e555a131a242f37404b51565b141c263138434c505752151e283339464d53582e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 76,
+  "rom": "0325A2",
+  "snes": "86:A5A2",
+  "aliases": [],
+  "jp": "?!改行アカサタナハマヤラワイキシチニヒミャリヲウクスツヌフムユルンエケセテネヘメュレョオコソトノホモヨロッ",
+  "raw": "acabe2bce0415e636d778287969ca1a65f656f79838a979ba2a76067717c848d989ea3a86169737e8590999da49f626b758086939aa0a57b",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 77,
+  "rom": "0325DB",
+  "snes": "86:A5DB",
+  "aliases": [],
+  "jp": "?!改行家防波堤砂浜磯沿岸沖島外洋離釣竿針餌魚尾船振投大小行場所動物僕私友達曜日時教勝負恋愛好嫌彼女男約束遊",
+  "raw": "acabe2bce041e088e17ce17de17ee015e24de2b8e08ae04ee266e2b3e2b9e29ae168e001e01be06ae035e007e119e2cae1ffe068e008e019e041e053e07de017e011e110e0ede200e201e202e03ee055e203e204e0d1e205e1e2e01ee206e325e2c8e131e326e327e058",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 78,
+  "rom": "032646",
+  "snes": "86:A646",
+  "aliases": [],
+  "jp": "決定",
+  "raw": "e2b5e12b",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 79,
+  "rom": "03264B",
+  "snes": "86:A64B",
+  "aliases": [],
+  "jp": "改行",
+  "raw": "e2bce041",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 80,
+  "rom": "032650",
+  "snes": "86:A650",
+  "aliases": [],
+  "jp": "{D8}大会\n5尾合計{DA}cm",
+  "raw": "d8e008e050cc06e119e240e241dab1",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 81,
+  "rom": "032660",
+  "snes": "86:A660",
+  "aliases": [],
+  "jp": "大会本部で検査の結果、{CD}\n選手が2位に{DA}cmの差をつけ\n見事、トップにおどり出た。",
+  "raw": "e008e050e02ee04232e2bde2be39e0f6e0870dcdcce045e0541703e24336dab139e25c5a2f1ccce032e04b0d807b8f36153455e01a2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 82,
+  "rom": "0326A2",
+  "snes": "86:A6A2",
+  "aliases": [],
+  "jp": "シロギス\n数釣り{DA}尾",
+  "raw": "6fa56671cce0e0e00155dae119",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 83,
+  "rom": "0326B0",
+  "snes": "86:A6B0",
+  "aliases": [],
+  "jp": "町長杯争奪シロギス数釣り大会が\n開催され、{CD}さんが{DA}尾\n釣り上げて町長杯を手中にした。",
+  "raw": "e24be0d9e239e161e2bf6fa56671e0e0e00155e008e05017cce0fce2c020570dcd205b17dae119cce00155e0091d31e24be0d9e2395ae054e00a36222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 84,
+  "rom": "0326F4",
+  "snes": "86:A6F4",
+  "aliases": [],
+  "jp": "カジキ大会\n最高記録{DA}cm",
+  "raw": "637065e008e050cce057e0bde061e064dab1",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 85,
+  "rom": "032707",
+  "snes": "86:A707",
+  "aliases": [],
+  "jp": "{CD}さんが、壮絶なバトルの\n結果{DA}cmのカジキを釣り上げた。\n{D3}のサオを使用。",
+  "raw": "cd205b170de19be0dc358880a339cce0f6e087dab1396370655ae00155e0091d2a0eccd3396d625ae030e0240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 86,
+  "rom": "03273A",
+  "snes": "86:A73A",
+  "aliases": [],
+  "jp": "{D8}\n新記録{DA}cm",
+  "raw": "d8cce22ae061e064dab1",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 87,
+  "rom": "032745",
+  "snes": "86:A745",
+  "aliases": [],
+  "jp": "{CD}氏が{DA}cmのメジナを\n上げた。ポイントは{DB}。\n大物に大喜びで ハイポーズ。",
+  "raw": "cde39817dab1399970825acce0091d2a0e955fa8803adb0ecce008e01136e008e2893e320c875f95aa720e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 88,
+  "rom": "032771",
+  "snes": "86:A771",
+  "aliases": [],
+  "jp": "{CD}氏が{DA}cmのモロコを\n上げた。ポイントは{DB}。\nガツンとヒット。大物にびっくり。",
+  "raw": "cde39817dab1399aa56b5acce0091d2a0e955fa8803adb0ecc647ca8338a7b800ee008e011363e2e1a550e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 89,
+  "rom": "0327A7",
+  "snes": "86:A7A7",
+  "aliases": [],
+  "jp": "イカ釣り\n記録更新{DA}尾",
+  "raw": "5f63e00155cce061e064e2c1e22adae119",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 90,
+  "rom": "0327B9",
+  "snes": "86:A7B9",
+  "aliases": [],
+  "jp": "イカ釣り好調。入れ掛かりで乗り\nまくり、{CD}さんは最高記録\nの{DA}尾を釣り上げた。",
+  "raw": "5f63e00155e01ee2c20ee02a57e2c3165532e0e355cc491a550dcd205b3ae057e0bde061e064cc39dae1195ae00155e0091d2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 98,
+  "rom": "0327F3",
+  "snes": "86:A7F3",
+  "aliases": [],
+  "jp": "{DB}\n{D8}好調",
+  "raw": "dbccd8e01ee2c2",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 99,
+  "rom": "0327FB",
+  "snes": "86:A7FB",
+  "aliases": [],
+  "jp": "{DB}\n{D8}堪能",
+  "raw": "dbccd8e399e39a",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 100,
+  "rom": "032803",
+  "snes": "86:A803",
+  "aliases": [],
+  "jp": "{DB}\n{D8}順調",
+  "raw": "dbccd8e0b9e2c2",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 101,
+  "rom": "03280B",
+  "snes": "86:A80B",
+  "aliases": [],
+  "jp": "{DB}\n{D8}",
+  "raw": "dbccd8",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 102,
+  "rom": "03280F",
+  "snes": "86:A80F",
+  "aliases": [],
+  "jp": "ユラユラ落ちる仕掛けが食い気を\n誘う。底についたら、軽く竿を\nフワァとあおって、また沈める。",
+  "raw": "9ea19ea1e0a52c56e26ce2c31c17e00212e0165acce2c4130ee00d362f122a540de2e01ae01b5acc8da6b43311152e310d492ae3284c560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 104,
+  "rom": "03284F",
+  "snes": "86:A84F",
+  "aliases": [],
+  "jp": "ミャク釣りでは、オモリを底に\nつけ、トントントンと仕掛けを\n動かしては止め、アナゴを誘う。",
+  "raw": "979b67e00155323a0d629aa25ae00d36cc2f1c0d80a880a880a833e26ce2c31c5acce0171622313ae06c4c0d5e826c5ae2c4130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 106,
+  "rom": "03288B",
+  "snes": "86:A88B",
+  "aliases": [],
+  "jp": "岩礁の穴や、ブロックの間に潜み\n目の前のエサに食いつく。穴に\n潜る前に、すばやくぬき上げる。",
+  "raw": "e0a1e17a39e0814f0d8ea57b6739e03436e2964acce1b139e0b539616d36e002122f1a0ee08136cce29656e0b5360d243b4f1a3718e0091d560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 108,
+  "rom": "0328CD",
+  "snes": "86:A8CD",
+  "aliases": [],
+  "jp": "ベタ底を釣るので、水深を測り\nウキ下を調節する。コマセを入れ、\n仕掛けをその中に投入する。",
+  "raw": "9177e00d5ae0015639320de003e06b5ae32955cc6065e00b5ae2c2e32a24560e6b96735ae02a570dcce26ce2c31c5a2839e00a36e068e02a24560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 110,
+  "rom": "032910",
+  "snes": "86:A910",
+  "aliases": [],
+  "jp": "表層近くを、回遊する魚なので、\nコマセをまいて、サヨリを近く\nまで寄せて釣る。エサはオキアミ。",
+  "raw": "e090e07be0481a5a0de04fe0582456e0073539320dcc6b96735a4912310d6da0a25ae0481acc4932e04d2631e001560e616d3a62655e970e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 112,
+  "rom": "032950",
+  "snes": "86:A950",
+  "aliases": [],
+  "jp": "防波堤でポピュラーな釣り。\nアジ、サバ。それでいて味がいい。\n数釣りも楽しめる人気魚。",
+  "raw": "e17ce17de17e32958c9da1aa35e001550ecc5e700d6d880e2857321231e0251712120ecce0e0e001554de233224c56e03fe016e0070e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 114,
+  "rom": "03298E",
+  "snes": "86:A98E",
+  "aliases": [],
+  "jp": "波の静かな、ナギの日にメバル\nは活動する。夕まずめから夜に\nよく釣れる。別名「春告魚」",
+  "raw": "e17d39e1f216350d826639e03e369988a3cc3ae039e01724560ee32b49254c1654e0a736cc531ae00157560ee32ce0a8ade0bae32de007ae",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 116,
+  "rom": "0329CE",
+  "snes": "86:A9CE",
+  "aliases": [],
+  "jp": "鋭い歯を持つ、獰猛な魚。エサに\n生きたアジ、サバを使う。ハリスは\n切られない為にワイヤーを使う。",
+  "raw": "e2fd12e2f45ae00c2f0de170e17135e0070e616d36cce005182a5e700d6d885ae030130e87a2713acce0b654573512e32e36a65f9caa5ae030130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 118,
+  "rom": "032A11",
+  "snes": "86:AA11",
+  "aliases": [],
+  "jp": "潮と潮がぶつかるところ、潮通し\nがよいところがポイント。冬場の\n人気魚、酒の肴にピッタリ。",
+  "raw": "e29733e29717412f1656331e580de297e20e22cc175312331e5817955fa8800ee128e05339cce03fe016e0070de14c39e32f368c7b77a20e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 120,
+  "rom": "032A51",
+  "snes": "86:AA51",
+  "aliases": [],
+  "jp": "砂浜で豪快に投げる釣り。砂地に\nできる、ヨブに沿ってシロギスは\n泳ぎまわる。ヨブがポイント。",
+  "raw": "e015e24d32e330e33136e0681d56e001550ee015e04936cc3218560da08e36e08a2e316fa566713acce028194959560ea08e17955fa8800e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 122,
+  "rom": "032A91",
+  "snes": "86:AA91",
+  "aliases": [],
+  "jp": "海のルアーフィッシング。\nロッドワークは必要ない。同じ\nスピードでリトリーブしよう。",
+  "raw": "e03a39a35eaa8d5c7b6fa8680ecca57b81a6aa673ae23ae2cc35120ee12723cc718caa8132a280a2aa8e2253130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 124,
+  "rom": "032AC7",
+  "snes": "86:AAC7",
+  "aliases": [],
+  "jp": "夜行性の魚だが、海が濁ったり\nすると、日中でもよく釣れる。\nヨブやカケアガリがポイント。",
+  "raw": "e0a7e041e01839e0072b170de03a17e16f2e2a55cc2456330de03ee00a324d531ae00157560ecca08e4f63695e64a217955fa8800e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 126,
+  "rom": "032B04",
+  "snes": "86:AB04",
+  "aliases": [],
+  "jp": "ビギナーにおすすめのハゼ釣り。\nウロコを取って、頭を落とし\n背開きにして、テンプラにする。",
+  "raw": "8b6682aa361524244c398774e001550ecc60a56b5ae1862e310de2ed5ae0a53322cce2fee0fc183622310d7ea88fa13624560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 128,
+  "rom": "032B3F",
+  "snes": "86:AB3F",
+  "aliases": [],
+  "jp": "投げ込んだら、ときどき引いて\n掛かっているか見る。重みを感じ\nたら大きくあわせ、素早く巻く。",
+  "raw": "e0681de07f5b2b540d33183418e3321231cce2c3162e31125616e032560ee1ce4a5ae28823cc2a54e008181a1159260de13ce0b41ae3331a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 130,
+  "rom": "032B80",
+  "snes": "86:AB80",
+  "aliases": [],
+  "jp": "シロギスと同じようなところで\n釣れる。仕掛けが底をはうと\nメゴチばかり釣れる。",
+  "raw": "6fa5667133e12723531335331e5832cce00157560ee26ce2c31c17e00d5a3a1333cc996c793b1655e00157560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 132,
+  "rom": "032BB5",
+  "snes": "86:ABB5",
+  "aliases": [],
+  "jp": "イカの切り身を、カニ網に縛り\nつけ投げる。カニの足が網に\nからみつき外れなくなる。",
+  "raw": "5f6339e0b655e05d5a0d6383e2d836e33455cc2f1ce0681d560e638339e23717e2d836cc16544a2f18e2b957351a35560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 134,
+  "rom": "032BEE",
+  "snes": "86:ABEE",
+  "aliases": [],
+  "jp": "磯で家族で楽しむ釣り。海藻の多\nい、海底が変化しているところ\nがポイント。コマセで寄せる。",
+  "raw": "e2b832e088e25532e233224be001550ee03ae05239e014cc120de03ae00d17e0a9e10022311256331e58cc17955fa8800e6b967332e04d26560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 136,
+  "rom": "032C30",
+  "snes": "86:AC30",
+  "aliases": [],
+  "jp": "メジナ好食い。他外道多数大釣り。\n女性にも釣れちゃう食いっぷり。\n抜群の引き味が、楽しめる。",
+  "raw": "997082e01ee002120ee2c7e2b9e0aee014e0e0e008e001550ecce2c8e018364de001572c4e13e002122e42550ecce335e06039e33218e025170de233224c560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 138,
+  "rom": "032C78",
+  "snes": "86:AC78",
+  "aliases": [],
+  "jp": "色のきれいなヒョウキン者。特に\n冬場は美味の人気魚。起伏が激し\nく海藻が多いところがポイント。",
+  "raw": "e0e239185712358a9f6065a8e0e80ee18c36cce128e0533ae01fe02539e03fe016e0070ee236e33617e16022cc1ae03ae05217e01412331e5817955fa8800e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 140,
+  "rom": "032CBF",
+  "snes": "86:ACBF",
+  "aliases": [],
+  "jp": "磯の王者、イシダイ。大物を求め\n釣り人が荒磯にいどむ。潮表が\n絶好のポイント。磯のヘチ際。",
+  "raw": "e2b839e27be0e80d5f6f785f0ee008e0115ae1504ccce00155e03f17e220e2b83612344b0ee297e09017cce0dce01e39955fa8800ee2b8399079e22b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 142,
+  "rom": "032D04",
+  "snes": "86:AD04",
+  "aliases": [],
+  "jp": "岩礁帯の底近くにすみ、サザエ、\nフジツボ、トコブシ、カニなどを、\nクチバシの様な歯で噛み砕く。",
+  "raw": "e0a1e17ae09639e00de0481a36244a0d6d6e610dcc8d707c940d806b8e6f0d638335345a0dcc6779886f39e10735e2f432e2f54ae2f61a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 144,
+  "rom": "032D44",
+  "snes": "86:AD44",
+  "aliases": [],
+  "jp": "カワハギは底近くの、岩礁帯や\n海藻の多いところがポイント。\nエサ取り名人、アワセが難しい。",
+  "raw": "63a687663ae00de0481a390de0a1e17ae0964fcce03ae05239e01412331e5817955fa8800ecc616de18655e0a8e03f0d5ea67317e33722120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 146,
+  "rom": "032D85",
+  "snes": "86:AD85",
+  "aliases": [],
+  "jp": "小さな口でエサを噛み切る、エサ\n取り名人。背ビレや尻ビレに毒が\nあるから注意。引きは抜群。",
+  "raw": "e0192035e02132616d5ae2f54ae0b6560d616dcce18655e0a8e03f0ee2fe8ba44fe3388ba436e12617cc11561654e12de1650ee332183ae335e0600e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 148,
+  "rom": "032DC9",
+  "snes": "86:ADC9",
+  "aliases": [],
+  "jp": "群れに当たれば数釣りが、楽しめ\nる。晴れの日は食いが悪い。曇りか\n小雨、夜釣りに向いている。",
+  "raw": "e0605736e1b72a573be0e0e00155170de233224ccc560ee1d65739e03e3ae0021217e280120ee3395516cce019e33a0de0a7e0015536e0f3123112560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 150,
+  "rom": "032E0E",
+  "snes": "86:AE0E",
+  "aliases": [],
+  "jp": "魚料理でおなじみのアマダイ釣り\n起伏の多い釣り場なので、タナを\nときどき とりなおすこと。",
+  "raw": "e007e104e0ca321535234a395e96785fe00155cce236e33639e01412e00155e0533539320d77825acc331834180c33553515241e330e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 152,
+  "rom": "032E4C",
+  "snes": "86:AE4C",
+  "aliases": [],
+  "jp": "ファン待望!冬の使者。ヤリイカ\n底近くで、段をつけるように\nしゃくり上げ20mまで探る。",
+  "raw": "8db4a8e27ae33babe12839e030e0e80e9ca25f63cce00de0481a320de33c5a2f1c56531336cc224e1a55e0091d0301b24932e0b2560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 154,
+  "rom": "032E8A",
+  "snes": "86:AE8A",
+  "aliases": [],
+  "jp": "底すれすれをエサが流れるように\nする。コチがクックッときたら\n食い込ませ、大きくあわせる。",
+  "raw": "e00d245724575a616d17e0045756531336cc24560e6b7917677b677b33182a54cce00212e07f49260de008181a115926560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 156,
+  "rom": "032EC4",
+  "snes": "86:AEC4",
+  "aliases": [],
+  "jp": "グルメの憧れ「ヒラメの縁側」\n早あわせは禁物。アタリがきても\nじっと我慢。相手が引き込むまで。",
+  "raw": "68a39939e33d57ad8aa19939e33ee293aecce0b41159263ae33fe0110e5e77a21718314dcc232e33e2ade3400ee13ae05417e33218e07f4b49320e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 158,
+  "rom": "032F07",
+  "snes": "86:AF07",
+  "aliases": [],
+  "jp": "チダイの大物を釣らせますよ!\nタナで寄せエサを軽くひと振り。\n誘いはサオをゆっくりあおる。",
+  "raw": "79785f39e008e0115ae0015426492453abcc778232e04d26616d5ae2e01a3d33e1ff550ecce2c4123a6d625a512e1a551115560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 160,
+  "rom": "032F43",
+  "snes": "86:AF43",
+  "aliases": [],
+  "jp": "マダイ本番突入。仕掛けが底に\nついたら、糸ふけを取る。誘いは\nサオを立て、仕掛けを動かす。",
+  "raw": "96785fe02ee2a2e21ee02a0ee26ce2c31c17e00d36cc2f122a540de1ee401c5ae186560ee2c4123acc6d625ae071310de26ce2c31c5ae01716240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 162,
+  "rom": "032F86",
+  "snes": "86:AF86",
+  "aliases": [],
+  "jp": "深場の釣り。キンメダイ。\n深紅の魚体が深海から次々と\n上がってくる。鍋、刺し身よし。",
+  "raw": "e06be05339e001550e65a899785f0ecce06be14039e007e02b17e06be03a1654e09aaf33cce009172e311a560ee3410de07e22e05d53220e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 164,
+  "rom": "032FC6",
+  "snes": "86:AFC6",
+  "aliases": [],
+  "jp": "引き味豪快。海のスプリンター。\nオキアミで狙うもよし、生きエサ\nルアー釣りでもよし。刺し身極上。",
+  "raw": "e33218e025e330e3310ee03a39718fa2a877aa0ecc62655e9732e2c9134d53220de00518616dcca35eaae00155324d53220ee07e22e05de342e0090e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 166,
+  "rom": "03300A",
+  "snes": "86:B00A",
+  "aliases": [],
+  "jp": "アコウダイ、良型オンパレード。\n深場の岩礁帯のカケアガリが\nポイント。起伏にあわせて底立ち。",
+  "raw": "5e6b60785f0de08de03362a889a4aa810ecce06be05339e0a1e17ae0963963695e64a217cc955fa8800ee236e3363611592631e00de0712c0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 168,
+  "rom": "03304B",
+  "snes": "86:B04B",
+  "aliases": [],
+  "jp": "大型なら、深場を狙え。\n海底の起伏にあわせて、底立ちを\nする。岩礁帯の底層がポイント。",
+  "raw": "e008e03335540de06be0535ae2c9140ecce03ae00d39e236e33636115926310de00de0712c5acc24560ee0a1e17ae09639e00de07b17955fa8800e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 170,
+  "rom": "03308E",
+  "snes": "86:B08E",
+  "aliases": [],
+  "jp": "ルアー釣り、ゲーム・フィッシュ\n人気急上昇。ルアーはナブラの\n端を狙い、ハイスピードで巻く。",
+  "raw": "a35eaae001550d6aaa98a98d5c7b6f9dcce03fe016e343e009e3440ea35eaa3a828ea139cce1325ae2c9120d875f718caa8132e3331a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 172,
+  "rom": "0330CD",
+  "snes": "86:B0CD",
+  "aliases": [],
+  "jp": "スポーツフィッシング人気急上昇\n日本沿岸でも200キロ以上の\n大物が上がっている。",
+  "raw": "7195aa7c8d5c7b6fa868e03fe016e343e009e344cce03ee02ee08ae04e324d03010165a5e037e00939cce008e01117e009172e3112560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 174,
+  "rom": "03310C",
+  "snes": "86:B10C",
+  "aliases": [],
+  "jp": "コマセで群れを集めて、付けエサ\nをその中に投入する。魚を散らさ\nなければ、数釣りも楽しめる。",
+  "raw": "6b967332e060575ae0e54c310de0661c616dcc5a2839e00a36e068e02a24560ee0075ae2645420cc351c573b0de0e0e001554de233224c560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 176,
+  "rom": "03314D",
+  "snes": "86:B14D",
+  "aliases": [],
+  "jp": "ヒラマサ元気!海のスプリンター\nサオ先がググと突き刺さる。この\nアタリがたまらない。味も一級品",
+  "raw": "8aa1966de080e016abe03a39718fa2a877aacc6d62e26917686833e21e18e07e20560e1e39cc5e77a2172a495435120ee0254de036e2e1e077",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 178,
+  "rom": "03318E",
+  "snes": "86:B18E",
+  "aliases": [],
+  "jp": "高級魚、シマアジ。コマセの中に\n仕掛けを入れ、海底をはわせる\nようにする。何といっても刺し身。",
+  "raw": "e0bde2e1e0070d6f965e700e6b967339e00a36cce26ce2c31c5ae02a570de03ae00d5a3a592656cc53133624560ee03b33122e314de07e22e05d0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 180,
+  "rom": "0331D1",
+  "snes": "86:B1D1",
+  "aliases": [],
+  "jp": "ブリ好調持続。寒ブリの食味は\n最高。刺し身、ブリの照り焼き。\nアタリは一気にグウッと引き込む",
+  "raw": "8ea2e01ee2c2e00ce1540ee3458ea239e002e0253acce057e0bd0ee07e22e05d0d8ea239e1f155e010180ecc5e77a23ae036e0163668607b33e33218e07f4b",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 182,
+  "rom": "033218",
+  "snes": "86:B218",
+  "aliases": [],
+  "jp": "防波堤",
+  "raw": "e17ce17de17e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 183,
+  "rom": "03321F",
+  "snes": "86:B21F",
+  "aliases": [],
+  "jp": "砂浜",
+  "raw": "e015e24d",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 184,
+  "rom": "033224",
+  "snes": "86:B224",
+  "aliases": [],
+  "jp": "磯",
+  "raw": "e2b8",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 185,
+  "rom": "033227",
+  "snes": "86:B227",
+  "aliases": [],
+  "jp": "沿岸",
+  "raw": "e08ae04e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 186,
+  "rom": "03322C",
+  "snes": "86:B22C",
+  "aliases": [],
+  "jp": "沖島",
+  "raw": "e266e2b3",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 187,
+  "rom": "033231",
+  "snes": "86:B231",
+  "aliases": [],
+  "jp": "外洋",
+  "raw": "e2b9e29a",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 188,
+  "rom": "033236",
+  "snes": "86:B236",
+  "aliases": [],
+  "jp": "離島",
+  "raw": "e168e2b3",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 189,
+  "rom": "03323B",
+  "snes": "86:B23B",
+  "aliases": [],
+  "jp": "{CD}は\n釣りを始めた。",
+  "raw": "cd3acce001555ae0ef4c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 190,
+  "rom": "033248",
+  "snes": "86:B248",
+  "aliases": [],
+  "jp": "{CD}は\n釣りを止めた。",
+  "raw": "cd3acce001555ae06c4c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 191,
+  "rom": "033255",
+  "snes": "86:B255",
+  "aliases": [],
+  "jp": "ここでは 釣れない。",
+  "raw": "1e1e323a0ce0015735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 192,
+  "rom": "033261",
+  "snes": "86:B261",
+  "aliases": [],
+  "jp": "コマセを まかないと\n釣れない。",
+  "raw": "6b96735a0c4916351233cce0015735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 193,
+  "rom": "033273",
+  "snes": "86:B273",
+  "aliases": [],
+  "jp": "泳いでいるときは\n釣りができない。",
+  "raw": "e0281232125633183acce0015517321835120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 194,
+  "rom": "033287",
+  "snes": "86:B287",
+  "aliases": [],
+  "jp": "ここでは釣りができない。",
+  "raw": "1e1e323ae0015517321835120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 195,
+  "rom": "033295",
+  "snes": "86:B295",
+  "aliases": [],
+  "jp": "サオを選んでいない。",
+  "raw": "6d625ae0455b321235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 196,
+  "rom": "0332A1",
+  "snes": "86:B2A1",
+  "aliases": [],
+  "jp": "ウキを選んでいない。",
+  "raw": "60655ae0455b321235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 197,
+  "rom": "0332AD",
+  "snes": "86:B2AD",
+  "aliases": [],
+  "jp": "ハリを選んでいない。",
+  "raw": "87a25ae0455b321235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 198,
+  "rom": "0332B9",
+  "snes": "86:B2B9",
+  "aliases": [],
+  "jp": "オモリを選んでいない。",
+  "raw": "629aa25ae0455b321235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 199,
+  "rom": "0332C6",
+  "snes": "86:B2C6",
+  "aliases": [],
+  "jp": "ルアーがついていない。",
+  "raw": "a35eaa172f12311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 200,
+  "rom": "0332D2",
+  "snes": "86:B2D2",
+  "aliases": [],
+  "jp": "ギジバリがついていない。",
+  "raw": "667088a2172f12311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 201,
+  "rom": "0332DF",
+  "snes": "86:B2DF",
+  "aliases": [],
+  "jp": "シカケがついていない。",
+  "raw": "6f6369172f12311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 202,
+  "rom": "0332EB",
+  "snes": "86:B2EB",
+  "aliases": [],
+  "jp": "エサがついていない。",
+  "raw": "616d172f12311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 203,
+  "rom": "0332F6",
+  "snes": "86:B2F6",
+  "aliases": [],
+  "jp": "磯アミがいっぱいで\n釣りができない。",
+  "raw": "e2b85e9717122e3c1232cce0015517321835120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 204,
+  "rom": "03330B",
+  "snes": "86:B30B",
+  "aliases": [],
+  "jp": "クーラーがいっぱいで\n釣りができない。",
+  "raw": "67aaa1aa17122e3c1232cce0015517321835120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 205,
+  "rom": "033320",
+  "snes": "86:B320",
+  "aliases": [],
+  "jp": "陸では 船釣りができない。",
+  "raw": "e105323a0ce2cae0015517321835120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 206,
+  "rom": "033331",
+  "snes": "86:B331",
+  "aliases": [],
+  "jp": "クルーザーでないと\nトローリングができない。",
+  "raw": "67a3aa6eaa32351233cc80a5aaa2a86817321835120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 207,
+  "rom": "033348",
+  "snes": "86:B348",
+  "aliases": [],
+  "jp": "{D5}を食べた。",
+  "raw": "d55ae002442a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 208,
+  "rom": "033350",
+  "snes": "86:B350",
+  "aliases": [],
+  "jp": "体力が {DA}回復した。",
+  "raw": "e02be029170cdae04fe0d0222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 209,
+  "rom": "03335F",
+  "snes": "86:B35F",
+  "aliases": [],
+  "jp": "最大体力まで\nあと {DA}です。",
+  "raw": "e057e008e02be0294932cc11330cda32240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 210,
+  "rom": "033372",
+  "snes": "86:B372",
+  "aliases": [],
+  "jp": "体力が、全部回復した。",
+  "raw": "e02be029170de05ce042e04fe0d0222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 211,
+  "rom": "033384",
+  "snes": "86:B384",
+  "aliases": [],
+  "jp": "これ以上食べきれない。",
+  "raw": "1e57e037e009e00244185735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 212,
+  "rom": "033393",
+  "snes": "86:B393",
+  "aliases": [],
+  "jp": "{D8}を\n焼いてたべた。",
+  "raw": "d85acce01012312a442a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 213,
+  "rom": "03339F",
+  "snes": "86:B39F",
+  "aliases": [],
+  "jp": "食べ物を持っていない。",
+  "raw": "e00244e0115ae00c2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 214,
+  "rom": "0333AE",
+  "snes": "86:B3AE",
+  "aliases": [],
+  "jp": "{D8}の毒で\n力つきてしまった。",
+  "raw": "d839e12632cce0292f183122492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 215,
+  "rom": "0333BF",
+  "snes": "86:B3BF",
+  "aliases": [],
+  "jp": "泳いでいるときは\n食事ができない。",
+  "raw": "e0281232125633183acce002e04b17321835120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 216,
+  "rom": "0333D4",
+  "snes": "86:B3D4",
+  "aliases": [],
+  "jp": "{D5}を飲んだ。",
+  "raw": "d55ae08b5b2b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 217,
+  "rom": "0333DC",
+  "snes": "86:B3DC",
+  "aliases": [],
+  "jp": "空の水筒です。",
+  "raw": "e17439e003e34632240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 218,
+  "rom": "0333E7",
+  "snes": "86:B3E7",
+  "aliases": [],
+  "jp": "ゴクゴクゴク・・・\nおいしー",
+  "raw": "6c676c676c67a9a9a9cc151222aa",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 219,
+  "rom": "0333F6",
+  "snes": "86:B3F6",
+  "aliases": [],
+  "jp": "パクパクパク・・・\nおいしー",
+  "raw": "896789678967a9a9a9cc151222aa",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 220,
+  "rom": "033405",
+  "snes": "86:B405",
+  "aliases": [],
+  "jp": "{D6}は\nここでは使えない。",
+  "raw": "d63acc1e1e323ae0301435120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 221,
+  "rom": "033413",
+  "snes": "86:B413",
+  "aliases": [],
+  "jp": "今は使えない。",
+  "raw": "e06e3ae0301435120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 222,
+  "rom": "03341D",
+  "snes": "86:B41D",
+  "aliases": [],
+  "jp": "カヌーを水に浮かべた。",
+  "raw": "6384aa5ae00336e06516442a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 223,
+  "rom": "03342B",
+  "snes": "86:B42B",
+  "aliases": [],
+  "jp": "{CE}を\n{DA}匹見つけた。",
+  "raw": "ce5accdae118e0322f1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 224,
+  "rom": "033438",
+  "snes": "86:B438",
+  "aliases": [],
+  "jp": "{CE}を\n{DA}コ見つけた。",
+  "raw": "ce5accda6be0322f1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 225,
+  "rom": "033444",
+  "snes": "86:B444",
+  "aliases": [],
+  "jp": "何も見つからない。",
+  "raw": "e03b4de0322f165435120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 226,
+  "rom": "033450",
+  "snes": "86:B450",
+  "aliases": [],
+  "jp": "カヌーは今使っている。",
+  "raw": "6384aa3ae06ee0302e3112560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 227,
+  "rom": "03345E",
+  "snes": "86:B45E",
+  "aliases": [],
+  "jp": "磁石の針が {D7}を指した。",
+  "raw": "e0ebe04a39e06a170cd75ae22c222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 228,
+  "rom": "03346F",
+  "snes": "86:B46F",
+  "aliases": [],
+  "jp": "針が動かなくなった。",
+  "raw": "e06a17e01716351a352e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 229,
+  "rom": "03347C",
+  "snes": "86:B47C",
+  "aliases": [],
+  "jp": "{D5}を見つけた。",
+  "raw": "d55ae0322f1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 230,
+  "rom": "033485",
+  "snes": "86:B485",
+  "aliases": [],
+  "jp": "道具を持っていない。",
+  "raw": "e0aee0bf5ae00c2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 231,
+  "rom": "033493",
+  "snes": "86:B493",
+  "aliases": [],
+  "jp": "泳いでいるときは\n道具を使えない。",
+  "raw": "e0281232125633183acce0aee0bf5ae0301435120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 232,
+  "rom": "0334A9",
+  "snes": "86:B4A9",
+  "aliases": [],
+  "jp": "ここでは、カヌーを水に\n浮かべられない。",
+  "raw": "1e1e323a0d6384aa5ae00336cce0651644545735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 233,
+  "rom": "0334C0",
+  "snes": "86:B4C0",
+  "aliases": [],
+  "jp": "泳いでいるときは\nカヌーに乗れない。",
+  "raw": "e0281232125633183acc6384aa36e0e35735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 234,
+  "rom": "0334D5",
+  "snes": "86:B4D5",
+  "aliases": [],
+  "jp": "{CE}を見つけたが\nこれ以上 持てません。",
+  "raw": "ce5ae0322f1c2a17cc1e57e037e0090ce00c3149265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 235,
+  "rom": "0334ED",
+  "snes": "86:B4ED",
+  "aliases": [],
+  "jp": "東",
+  "raw": "e22f",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 236,
+  "rom": "0334F0",
+  "snes": "86:B4F0",
+  "aliases": [],
+  "jp": "西",
+  "raw": "e230",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 237,
+  "rom": "0334F3",
+  "snes": "86:B4F3",
+  "aliases": [],
+  "jp": "南",
+  "raw": "e231",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 238,
+  "rom": "0334F6",
+  "snes": "86:B4F6",
+  "aliases": [],
+  "jp": "北",
+  "raw": "e232",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 239,
+  "rom": "0334F9",
+  "snes": "86:B4F9",
+  "aliases": [],
+  "jp": "音楽を ステレオに\nしました。",
+  "raw": "e157e2335a0c717ea46236cc2249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 240,
+  "rom": "03350B",
+  "snes": "86:B50B",
+  "aliases": [],
+  "jp": "音楽を モノラルに\nしました。",
+  "raw": "e157e2335a0c9a86a1a336cc2249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 241,
+  "rom": "03351D",
+  "snes": "86:B51D",
+  "aliases": [],
+  "jp": "救命胴衣です。\n海に落ちても 大丈夫。",
+  "raw": "e2cee2cfe2d6e39632240ecce03a36e0a52c314d0ce008e1d3e31c0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 242,
+  "rom": "03353A",
+  "snes": "86:B53A",
+  "aliases": [],
+  "jp": "磯タビです。磯場で\nすべらず 転ばない。",
+  "raw": "e2b8778b32240ee2b8e05332cc244454250ce19d3b35120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 243,
+  "rom": "033553",
+  "snes": "86:B553",
+  "aliases": [],
+  "jp": "皮手袋です。魚のトゲや\n岩でけがをしないように。",
+  "raw": "e2d0e054e2d132240ee00739806a4fcce0a1321c175a2235125313360e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 244,
+  "rom": "033571",
+  "snes": "86:B571",
+  "aliases": [],
+  "jp": "ヘッドライトです。\n夜釣りに 必要です。",
+  "raw": "907b81a15f8032240ecce0a7e00155360ce23ae2cc32240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 245,
+  "rom": "03358A",
+  "snes": "86:B58A",
+  "aliases": [],
+  "jp": "ギャフです。大きな魚を\n引き上げます。",
+  "raw": "669b8d32240ee0081835e0075acce33218e0091d49240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 246,
+  "rom": "0335A2",
+  "snes": "86:B5A2",
+  "aliases": [],
+  "jp": "クジラのヒゲです。\nバネのような弾力です。",
+  "raw": "6770a1398a6a32240ecc888539531335e3b8e02932240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 247,
+  "rom": "0335BA",
+  "snes": "86:B5BA",
+  "aliases": [],
+  "jp": "宝箱の カギです。",
+  "raw": "e0cde0d4390c636632240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 248,
+  "rom": "0335C6",
+  "snes": "86:B5C6",
+  "aliases": [],
+  "jp": "{D6}を\n手に入れた。",
+  "raw": "d65acce05436e02a572a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 249,
+  "rom": "0335D2",
+  "snes": "86:B5D2",
+  "aliases": [],
+  "jp": "{D6}です。",
+  "raw": "d632240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 250,
+  "rom": "0335D7",
+  "snes": "86:B5D7",
+  "aliases": [],
+  "jp": "潮に流されて 遭難して\nしまいますよ。",
+  "raw": "e29736e0042057310ce3b2e3372231cc2249124924530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 251,
+  "rom": "0335EF",
+  "snes": "86:B5EF",
+  "aliases": [],
+  "jp": "泳いでいるときは\n磯アミの中を見られない。",
+  "raw": "e0281232125633183acce2b85e9739e00a5ae032545735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 252,
+  "rom": "033609",
+  "snes": "86:B609",
+  "aliases": [],
+  "jp": "泳いでいるときは\nクーラーを見られない。",
+  "raw": "e0281232125633183acc67aaa1aa5ae032545735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 253,
+  "rom": "033620",
+  "snes": "86:B620",
+  "aliases": [],
+  "jp": "お泊まりには お金を\n{DA}円 いただきますが",
+  "raw": "15e0d54955363a0c15e0835accdae0000c122a2b18492417",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 254,
+  "rom": "033639",
+  "snes": "86:B639",
+  "aliases": [],
+  "jp": "どうぞ ごゆっくり。",
+  "raw": "3413290c1f512e1a550e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 255,
+  "rom": "033644",
+  "snes": "86:B644",
+  "aliases": [],
+  "jp": "それは 残念ですね。",
+  "raw": "28573a0ce09be1213224380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 256,
+  "rom": "033651",
+  "snes": "86:B651",
+  "aliases": [],
+  "jp": "この度は ありがとう\nございました。",
+  "raw": "1e39e0d73a0c1155173313cc1f211249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 257,
+  "rom": "033665",
+  "snes": "86:B665",
+  "aliases": [],
+  "jp": "お金がないのか!\nしょうがないねえ!",
+  "raw": "15e0831735123916abcc2252131735123814ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 258,
+  "rom": "033679",
+  "snes": "86:B679",
+  "aliases": [],
+  "jp": "よろしいですか?",
+  "raw": "53582212322416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 259,
+  "rom": "033682",
+  "snes": "86:B682",
+  "aliases": [],
+  "jp": "お客さん、朝ですよ。\n起きてください。",
+  "raw": "15e234205b0de2353224530ecce23618311a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 260,
+  "rom": "033699",
+  "snes": "86:B699",
+  "aliases": [],
+  "jp": "いらっしゃいませ!\n何を、お探しですか?",
+  "raw": "12542e224e124926abcce03b5a0d15e0b222322416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 261,
+  "rom": "0336B0",
+  "snes": "86:B6B0",
+  "aliases": [],
+  "jp": "どれに しましょうか?",
+  "raw": "3457360c224922521316ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 262,
+  "rom": "0336BC",
+  "snes": "86:B6BC",
+  "aliases": [],
+  "jp": "これ以上 持つことは\nできません。",
+  "raw": "1e57e037e0090ce00c2f1e333acc321849265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 263,
+  "rom": "0336D1",
+  "snes": "86:B6D1",
+  "aliases": [],
+  "jp": "クーラーは 今持っている\nじゃないですか!",
+  "raw": "67aaa1aa3a0ce06ee00c2e311256cc234e3512322416ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 264,
+  "rom": "0336E9",
+  "snes": "86:B6E9",
+  "aliases": [],
+  "jp": "今持っているクーラー\nよりも 小さいですよ。",
+  "raw": "e06ee00c2e31125667aaa1aacc53554d0ce01920123224530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 265,
+  "rom": "033703",
+  "snes": "86:B703",
+  "aliases": [],
+  "jp": "{D6}はすでに\n持っていますよ。",
+  "raw": "d63a243236cce00c2e31124924530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 266,
+  "rom": "033713",
+  "snes": "86:B713",
+  "aliases": [],
+  "jp": "ハリは それ以上\n持てません。",
+  "raw": "87a23a0c2857e037e009cce00c3149265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 267,
+  "rom": "033726",
+  "snes": "86:B726",
+  "aliases": [],
+  "jp": "コマセは それ以上\n持てません。",
+  "raw": "6b96733a0c2857e037e009cce00c3149265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 268,
+  "rom": "03373A",
+  "snes": "86:B73A",
+  "aliases": [],
+  "jp": "ほかに ございませんか?",
+  "raw": "4616360c1f211249265b16ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 269,
+  "rom": "033747",
+  "snes": "86:B747",
+  "aliases": [],
+  "jp": "お金が 足らないけれど。",
+  "raw": "15e083170ce2375435121c57340e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 270,
+  "rom": "033756",
+  "snes": "86:B756",
+  "aliases": [],
+  "jp": "1本だけだぞ!\n大事に使えよ。",
+  "raw": "02e02e2b1c2b29abcce008e04b36e03014530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 271,
+  "rom": "03376A",
+  "snes": "86:B76A",
+  "aliases": [],
+  "jp": "{DA}円 いただきますが\nよろしいですか?",
+  "raw": "dae0000c122a2b18492417cc53582212322416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 272,
+  "rom": "03377F",
+  "snes": "86:B77F",
+  "aliases": [],
+  "jp": "これと同じ ルアーを\nすでに 持っていますよ。",
+  "raw": "1e5733e127230ca35eaa5acc2432360ce00c2e31124924530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 273,
+  "rom": "033799",
+  "snes": "86:B799",
+  "aliases": [],
+  "jp": "これと同じ ギジバリを\nすでに 持っていますよ。",
+  "raw": "1e5733e127230c667088a25acc2432360ce00c2e31124924530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 274,
+  "rom": "0337B4",
+  "snes": "86:B7B4",
+  "aliases": [],
+  "jp": "{D1}は9本以上\n持てません。",
+  "raw": "d13a0ae02ee037e009cce00c3149265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 275,
+  "rom": "0337C6",
+  "snes": "86:B7C6",
+  "aliases": [],
+  "jp": "{D2}は\nすでに 持っていますよ。",
+  "raw": "d23acc2432360ce00c2e31124924530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 276,
+  "rom": "0337D7",
+  "snes": "86:B7D7",
+  "aliases": [],
+  "jp": "{D3}\nは 持っていますよ。",
+  "raw": "d3cc3a0ce00c2e31124924530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 277,
+  "rom": "0337E5",
+  "snes": "86:B7E5",
+  "aliases": [],
+  "jp": "いらっしゃいませ!\nわたしの 竿は最高だよ。",
+  "raw": "12542e224e124926abcc592a22390ce01b3ae057e0bd2b530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 278,
+  "rom": "0337FF",
+  "snes": "86:B7FF",
+  "aliases": [],
+  "jp": "{CE}は9個以上\n持てません。",
+  "raw": "ce3a0ae238e037e009cce00c3149265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 279,
+  "rom": "033811",
+  "snes": "86:B811",
+  "aliases": [],
+  "jp": "{D1}は\nすでに 持っていますよ。",
+  "raw": "d13acc2432360ce00c2e31124924530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 280,
+  "rom": "033822",
+  "snes": "86:B822",
+  "aliases": [],
+  "jp": "お金がないのか。\nしょうがないねえ!",
+  "raw": "15e08317351239160ecc2252131735123814ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 281,
+  "rom": "033836",
+  "snes": "86:B836",
+  "aliases": [],
+  "jp": "何をあげますか?",
+  "raw": "e03b5a111d492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 282,
+  "rom": "033840",
+  "snes": "86:B840",
+  "aliases": [],
+  "jp": "ありがとう。",
+  "raw": "11551733130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 283,
+  "rom": "033847",
+  "snes": "86:B847",
+  "aliases": [],
+  "jp": "大切に使ってよ。",
+  "raw": "e008e0b636e0302e31530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 284,
+  "rom": "033853",
+  "snes": "86:B853",
+  "aliases": [],
+  "jp": "大切に使ってね。",
+  "raw": "e008e0b636e0302e31380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 285,
+  "rom": "03385F",
+  "snes": "86:B85F",
+  "aliases": [],
+  "jp": "大切に使うのよ。",
+  "raw": "e008e0b636e0301339530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 286,
+  "rom": "03386B",
+  "snes": "86:B86B",
+  "aliases": [],
+  "jp": "大切に使うんだぞ。",
+  "raw": "e008e0b636e030135b2b290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 287,
+  "rom": "033878",
+  "snes": "86:B878",
+  "aliases": [],
+  "jp": "これはあげられない。",
+  "raw": "1e573a111d545735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 288,
+  "rom": "033883",
+  "snes": "86:B883",
+  "aliases": [],
+  "jp": "これ以上 持つことは\nできないようです。",
+  "raw": "1e57e037e0090ce00c2f1e333acc32183512531332240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 289,
+  "rom": "03389B",
+  "snes": "86:B89B",
+  "aliases": [],
+  "jp": "同じ物を すでに\n持っているようです。",
+  "raw": "e12723e0115a0c243236cce00c2e311256531332240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 290,
+  "rom": "0338B2",
+  "snes": "86:B8B2",
+  "aliases": [],
+  "jp": "{D3}\nを あげますか?",
+  "raw": "d3cc5a0c111d492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 291,
+  "rom": "0338BD",
+  "snes": "86:B8BD",
+  "aliases": [],
+  "jp": "{CF}\nを あげますか?",
+  "raw": "cfcc5a0c111d492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 292,
+  "rom": "0338C8",
+  "snes": "86:B8C8",
+  "aliases": [],
+  "jp": "{D2}を\nあげますか?",
+  "raw": "d25acc111d492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 293,
+  "rom": "0338D2",
+  "snes": "86:B8D2",
+  "aliases": [],
+  "jp": "あげられる サオを\n持っていません。",
+  "raw": "111d5457560c6d625acce00c2e311249265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 294,
+  "rom": "0338E6",
+  "snes": "86:B8E6",
+  "aliases": [],
+  "jp": "ルアーを持っていません。",
+  "raw": "a35eaa5ae00c2e311249265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 295,
+  "rom": "0338F4",
+  "snes": "86:B8F4",
+  "aliases": [],
+  "jp": "ウキ・アミ・カゴを\n持っていません。",
+  "raw": "6065a95e97a9636c5acce00c2e311249265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 296,
+  "rom": "033908",
+  "snes": "86:B908",
+  "aliases": [],
+  "jp": "釣れているじゃないか!\n磯アミの中の 魚全部で",
+  "raw": "e00157311256234e351216abcce2b85e9739e00a390ce007e05ce04232",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 297,
+  "rom": "033926",
+  "snes": "86:B926",
+  "aliases": [],
+  "jp": "{DA}円 になるけど\n売ってくれるかい?",
+  "raw": "dae0000c3635561c34cce0d62e311a57561612ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 298,
+  "rom": "03393B",
+  "snes": "86:B93B",
+  "aliases": [],
+  "jp": "ありがとうございました。",
+  "raw": "11551733131f211249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 299,
+  "rom": "033948",
+  "snes": "86:B948",
+  "aliases": [],
+  "jp": "それは 残念だなあ!",
+  "raw": "28573a0ce09be1212b3511ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 300,
+  "rom": "033955",
+  "snes": "86:B955",
+  "aliases": [],
+  "jp": "魚が 釣れていない\nようですけれど!",
+  "raw": "e007170ce0015731123512cc531332241c5734ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 301,
+  "rom": "03396A",
+  "snes": "86:B96A",
+  "aliases": [],
+  "jp": "お祝いに アンコウ鍋を\nみんなで 食べましょう。",
+  "raw": "15e34f12360c5ea86b60e3415acc4a5b35320ce00244492252130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 302,
+  "rom": "033986",
+  "snes": "86:B986",
+  "aliases": [],
+  "jp": "クロマグロのカブト焼きを\n早く家族に 食べさせて\nあげてください。",
+  "raw": "67a59668a539638e80e010185acce0b41ae088e255360ce00244202631cc111d311a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 303,
+  "rom": "0339AD",
+  "snes": "86:B9AD",
+  "aliases": [],
+  "jp": "釣れているじゃないか!\nクーラーの 魚全部で",
+  "raw": "e00157311256234e351216abcc67aaa1aa390ce007e05ce04232",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 304,
+  "rom": "0339C8",
+  "snes": "86:B9C8",
+  "aliases": [],
+  "jp": "だめだめ 救命胴衣が\nなくちゃ。\n船から落ちたら大変だぞ。",
+  "raw": "2b4c2b4c0ce2cee2cfe2d6e39617cc351a2c4e0ecce2ca1654e0a52c2a54e008e0a92b290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 305,
+  "rom": "0339EE",
+  "snes": "86:B9EE",
+  "aliases": [],
+  "jp": "船賃は{DA}円です。\n船に乗るかい。",
+  "raw": "e2cae3473adae00032240ecce2ca36e0e35616120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 306,
+  "rom": "033A04",
+  "snes": "86:BA04",
+  "aliases": [],
+  "jp": "それは 残念だな。",
+  "raw": "28573a0ce09be1212b350e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 307,
+  "rom": "033A10",
+  "snes": "86:BA10",
+  "aliases": [],
+  "jp": "出港しますよ。\n船から落ちないようにね。",
+  "raw": "e01ae2bb224924530ecce2ca1654e0a52c3512531336380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 308,
+  "rom": "033A29",
+  "snes": "86:BA29",
+  "aliases": [],
+  "jp": "お金がないのか。\nしょうがないねえ!\n乗った乗った 出港するぞ。",
+  "raw": "15e08317351239160ecc2252131735123814abcce0e32e2ae0e32e2a0ce01ae2bb2456290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 309,
+  "rom": "033A4F",
+  "snes": "86:BA4F",
+  "aliases": [],
+  "jp": "お金が無くて 釣り船を\n売ってしまったんだ。",
+  "raw": "15e08317e03c1a310ce00155e2ca5acce0d62e3122492e2a5b2b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 310,
+  "rom": "033A6B",
+  "snes": "86:BA6B",
+  "aliases": [],
+  "jp": "この船は 沿岸までしか\n出られないんだ。\nイカ釣りでも どうだい。",
+  "raw": "1e39e2ca3a0ce08ae04e49322216cce01a545735125b2b0ecc5f63e00155324d0c34132b120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 311,
+  "rom": "033A98",
+  "snes": "86:BA98",
+  "aliases": [],
+  "jp": "りっぱな 釣り船だろ。\nやっと 買えたんだ。",
+  "raw": "552e3c350ce00155e2ca2b580ecc4f2e330ce285142a5b2b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 312,
+  "rom": "033AB2",
+  "snes": "86:BAB2",
+  "aliases": [],
+  "jp": "クルーザーを\n売ってしまったんだ。",
+  "raw": "67a3aa6eaa5acce0d62e3122492e2a5b2b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 313,
+  "rom": "033AC5",
+  "snes": "86:BAC5",
+  "aliases": [],
+  "jp": "この釣り船で 外洋に\n釣りに出かけられるよ。\nキンメダイが 面白いぞ。",
+  "raw": "1e39e00155e2ca320ce2b9e29a36cce0015536e01a161c545756530ecc65a899785f170ce08fe0ab12290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 314,
+  "rom": "033AF7",
+  "snes": "86:BAF7",
+  "aliases": [],
+  "jp": "あこがれの クルーザーを\nついに 手に入れたぞ。",
+  "raw": "111e1757390c67a3aa6eaa5acc2f12360ce05436e02a572a290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 315,
+  "rom": "033B12",
+  "snes": "86:BB12",
+  "aliases": [],
+  "jp": "トローリングで カジキに\n挑戦できるよ。",
+  "raw": "80a5aaa2a868320c63706536cce28ce28d321856530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 316,
+  "rom": "033B2F",
+  "snes": "86:BB2F",
+  "aliases": [],
+  "jp": "{D9}が\n現われた!",
+  "raw": "d917cce0f459572aab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 317,
+  "rom": "033B39",
+  "snes": "86:BB39",
+  "aliases": [],
+  "jp": "食べ物は 残っていない。",
+  "raw": "e00244e0113a0ce09b2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 318,
+  "rom": "033B49",
+  "snes": "86:BB49",
+  "aliases": [],
+  "jp": "どうする?",
+  "raw": "34132456ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 319,
+  "rom": "033B4F",
+  "snes": "86:BB4F",
+  "aliases": [],
+  "jp": "  力一杯 踏みつけた!",
+  "raw": "0c0ce029e036e2390ce39b4a2f1c2aab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 320,
+  "rom": "033B60",
+  "snes": "86:BB60",
+  "aliases": [],
+  "jp": "  力一杯 石を投げた!",
+  "raw": "0c0ce029e036e2390ce04a5ae0681d2aab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 321,
+  "rom": "033B72",
+  "snes": "86:BB72",
+  "aliases": [],
+  "jp": "  力一杯 ぶんなぐった!",
+  "raw": "0c0ce029e036e2390c415b351b2e2aab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 322,
+  "rom": "033B83",
+  "snes": "86:BB83",
+  "aliases": [],
+  "jp": "  力一杯 銛でついた!",
+  "raw": "0c0ce029e036e2390ce39c322f122aab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 323,
+  "rom": "033B94",
+  "snes": "86:BB94",
+  "aliases": [],
+  "jp": "  力一杯 立ち向かった!",
+  "raw": "0c0ce029e036e2390ce0712ce0f3162e2aab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 324,
+  "rom": "033BA7",
+  "snes": "86:BBA7",
+  "aliases": [],
+  "jp": "  必死に 逃げた!",
+  "raw": "0c0ce23ae130360ce0671d2aab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 325,
+  "rom": "033BB5",
+  "snes": "86:BBB5",
+  "aliases": [],
+  "jp": "{D9}の反撃!",
+  "raw": "d939e23be0f7ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 326,
+  "rom": "033BBD",
+  "snes": "86:BBBD",
+  "aliases": [],
+  "jp": "{D9}の攻撃!",
+  "raw": "d939e1a6e0f7ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 327,
+  "rom": "033BC5",
+  "snes": "86:BBC5",
+  "aliases": [],
+  "jp": "{D9}が 打ち寄せた!",
+  "raw": "d9170ce2df2ce04d262aab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 328,
+  "rom": "033BD1",
+  "snes": "86:BBD1",
+  "aliases": [],
+  "jp": "{D9}を 倒した。",
+  "raw": "d95a0ce129222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 329,
+  "rom": "033BDA",
+  "snes": "86:BBDA",
+  "aliases": [],
+  "jp": "{D9}が おさまった。",
+  "raw": "d9170c1520492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 330,
+  "rom": "033BE4",
+  "snes": "86:BBE4",
+  "aliases": [],
+  "jp": "{D9}に\n捕まった。",
+  "raw": "d936cce23c492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 331,
+  "rom": "033BEE",
+  "snes": "86:BBEE",
+  "aliases": [],
+  "jp": "{D9}は\n追って来なかった。",
+  "raw": "d93acce0b12e31e02335162e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 332,
+  "rom": "033BFD",
+  "snes": "86:BBFD",
+  "aliases": [],
+  "jp": "{D9}に\nやられてしまった。",
+  "raw": "d936cc4f54573122492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 333,
+  "rom": "033C0A",
+  "snes": "86:BC0A",
+  "aliases": [],
+  "jp": "{D9}に\nのまれてしまった。",
+  "raw": "d936cc3949573122492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 334,
+  "rom": "033C17",
+  "snes": "86:BC17",
+  "aliases": [],
+  "jp": "{DA}ポイントの\nダメージを受けた。",
+  "raw": "da955fa88039cc7899aa705ae0bb1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 335,
+  "rom": "033C29",
+  "snes": "86:BC29",
+  "aliases": [],
+  "jp": "{DA}ポイントの\nダメージを与えた。",
+  "raw": "da955fa88039cc7899aa705ae23d142a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 336,
+  "rom": "033C3B",
+  "snes": "86:BC3B",
+  "aliases": [],
+  "jp": "最大体力が 一つふえて\n{DA}になった。",
+  "raw": "e057e008e02be029170ce0362f401431ccda36352e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 337,
+  "rom": "033C53",
+  "snes": "86:BC53",
+  "aliases": [],
+  "jp": "{DA}ポイント 力をつけた。",
+  "raw": "da955fa8800ce0295a2f1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 338,
+  "rom": "033C61",
+  "snes": "86:BC61",
+  "aliases": [],
+  "jp": "かわされて しまった。",
+  "raw": "16592057310c22492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 339,
+  "rom": "033C6D",
+  "snes": "86:BC6D",
+  "aliases": [],
+  "jp": "寄せエサを 持っていた。",
+  "raw": "e04d26616d5a0ce00c2e31122a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 340,
+  "rom": "033C7C",
+  "snes": "86:BC7C",
+  "aliases": [],
+  "jp": "はりを1本 持っていた。",
+  "raw": "3a555a02e02e0ce00c2e31122a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 341,
+  "rom": "033C8B",
+  "snes": "86:BC8B",
+  "aliases": [],
+  "jp": "{D8}を\n1匹 盗まれた。",
+  "raw": "d85acc02e1180ce0b049572a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 342,
+  "rom": "033C99",
+  "snes": "86:BC99",
+  "aliases": [],
+  "jp": "{CD}は\n力を 使い果たした。",
+  "raw": "cd3acce0295a0ce03012e0872a222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 343,
+  "rom": "033CAA",
+  "snes": "86:BCAA",
+  "aliases": [],
+  "jp": "{D5}を あげた。",
+  "raw": "d55a0c111d2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 344,
+  "rom": "033CB2",
+  "snes": "86:BCB2",
+  "aliases": [],
+  "jp": "{D8}を\nあげた。",
+  "raw": "d85acc111d2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 345,
+  "rom": "033CBA",
+  "snes": "86:BCBA",
+  "aliases": [],
+  "jp": "{D9}は 歓んで\n口にくわえて\n行ってしまった。\n{DA}ポイント\nなかよしに なった。",
+  "raw": "d93a0ce0c45b32cce021361a591431cce0412e3122492e2a0eccda955fa880cc35165322360c352e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 346,
+  "rom": "033CE5",
+  "snes": "86:BCE5",
+  "aliases": [],
+  "jp": "{D9}は\nよろこんで 食べた。\n{DA}ポイント\nなかよしに なった。",
+  "raw": "d93acc53581e5b320ce002442a0eccda955fa880cc35165322360c352e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 347,
+  "rom": "033D05",
+  "snes": "86:BD05",
+  "aliases": [],
+  "jp": "何か食べないと\n力つきて しまいます。",
+  "raw": "e03b16e00244351233cce0292f18310c22491249240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 348,
+  "rom": "033D1C",
+  "snes": "86:BD1C",
+  "aliases": [],
+  "jp": "泳ぎ 疲れて\n力つきて しまった。",
+  "raw": "e028190ce23e5731cce0292f18310c22492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 349,
+  "rom": "033D31",
+  "snes": "86:BD31",
+  "aliases": [],
+  "jp": "漕ぎ 疲れて\n力つきて しまった。",
+  "raw": "e23f190ce23e5731cce0292f18310c22492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 350,
+  "rom": "033D46",
+  "snes": "86:BD46",
+  "aliases": [],
+  "jp": "{D9}は 歓んで\n口にくわえて\n行ってしまった。\n大のなかよしに なった。",
+  "raw": "d93a0ce0c45b32cce021361a591431cce0412e3122492e2a0ecce0083935165322360c352e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 351,
+  "rom": "033D6E",
+  "snes": "86:BD6E",
+  "aliases": [],
+  "jp": "{D9}は\nよろこんで 食べた。\n大のなかよしに なった。",
+  "raw": "d93acc53581e5b320ce002442a0ecce0083935165322360c352e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 352,
+  "rom": "033D8B",
+  "snes": "86:BD8B",
+  "aliases": [],
+  "jp": "{D9}は\nかわいい目で 見ていた。",
+  "raw": "d93acc16591212e1b1320ce03231122a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 353,
+  "rom": "033D9D",
+  "snes": "86:BD9D",
+  "aliases": [],
+  "jp": "{D9}は\n{D8}を食べると\n突然 ばったり\n倒れてしまった。",
+  "raw": "d93accd85ae002445633cce21ee21f0c3b2e2a55cce129573122492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 354,
+  "rom": "033DBC",
+  "snes": "86:BDBC",
+  "aliases": [],
+  "jp": "{D9}は\n餌づけできない。",
+  "raw": "d93acce035301c321835120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 355,
+  "rom": "033DC9",
+  "snes": "86:BDC9",
+  "aliases": [],
+  "jp": "魚は 残っていない。",
+  "raw": "e0073a0ce09b2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 356,
+  "rom": "033DD6",
+  "snes": "86:BDD6",
+  "aliases": [],
+  "jp": "{D9}の\n攻撃を かわした。",
+  "raw": "d939cce1a6e0f75a0c1659222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 357,
+  "rom": "033DE5",
+  "snes": "86:BDE5",
+  "aliases": [],
+  "jp": "{D8}5尾の\n体長の合計を競う\n大会です。\n参加料{DA}円です。\n優勝賞金は 2000円\n計量した魚は放流します。\nがんばって5尾まとめて\n釣って来てください。",
+  "raw": "d806e11939cce02be0d939e240e2415ae24213cce008e05032240ecce0f0e0ffe104dae00032240ecce2aae204e05ee0833a0c03010101e000cce241e1b9222ae0073ae290e0042249240ecc175b3b2e3106e11949334c31cce0012e31e023311a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 358,
+  "rom": "033E4B",
+  "snes": "86:BE4B",
+  "aliases": [],
+  "jp": "釣れていますね。\n大会参加料{DA}円で\n計量しますか?",
+  "raw": "e0015731124924380ecce008e050e0f0e0ffe104dae00032cce241e1b922492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 359,
+  "rom": "033E6E",
+  "snes": "86:BE6E",
+  "aliases": [],
+  "jp": "{DA}尾で{D4}cmです。",
+  "raw": "dae11932d4b132240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 360,
+  "rom": "033E78",
+  "snes": "86:BE78",
+  "aliases": [],
+  "jp": "現在{DA}位です。\nおめでとうございます。",
+  "raw": "e0f4e22ddae24332240ecc154c3233131f211249240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 361,
+  "rom": "033E8F",
+  "snes": "86:BE8F",
+  "aliases": [],
+  "jp": "前回の記録のほうが\nよいので登録しません。\nまた がんばって下さい。",
+  "raw": "e0b5e04f39e061e06439461317cc53123932e1f6e0642249265b0ecc492a0c175b3b2e31e00b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 362,
+  "rom": "033EB9",
+  "snes": "86:BEB9",
+  "aliases": [],
+  "jp": "お金がないのか!\nしょうがねえなあ!",
+  "raw": "15e0831735123916abcc2252131738143511ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 363,
+  "rom": "033ECD",
+  "snes": "86:BECD",
+  "aliases": [],
+  "jp": "それは 残念ですね。",
+  "raw": "28573a0ce09be1213224380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 364,
+  "rom": "033EDA",
+  "snes": "86:BEDA",
+  "aliases": [],
+  "jp": "おめでとうございます。\n賞金として 2000円\nが贈られます。",
+  "raw": "154c3233131f211249240ecce05ee0833322310c03010101e000cc17e244545749240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 365,
+  "rom": "033EFE",
+  "snes": "86:BEFE",
+  "aliases": [
+   366,
+   367,
+   368,
+   369,
+   370,
+   371,
+   372
+  ],
+  "jp": "現在、ランキングの\nトップに立ちました!",
+  "raw": "e0f4e22d0da1a865a86839cc807b8f36e0712c49222aab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 373,
+  "rom": "033F16",
+  "snes": "86:BF16",
+  "aliases": [],
+  "jp": "   クエの記録",
+  "raw": "0c0c0c676139e061e064",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 374,
+  "rom": "033F21",
+  "snes": "86:BF21",
+  "aliases": [],
+  "jp": "{D8}の釣り上げ数を\n競う大会です。\n参加料{DA}円です。\n優勝賞金は 2000円\n数えた魚は 頂きます。\nがんばって 釣って来て\nください。",
+  "raw": "d839e00155e0091de0e05acce24213e008e05032240ecce0f0e0ffe104dae00032240ecce2aae204e05ee0833a0c03010101e000cce0e0142ae0073a0ce27e1849240ecc175b3b2e310ce0012e31e02331cc1a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 375,
+  "rom": "033F79",
+  "snes": "86:BF79",
+  "aliases": [],
+  "jp": "釣れていますね。\n大会参加料{DA}円で\nシロギスを数えますか?",
+  "raw": "e0015731124924380ecce008e050e0f0e0ffe104dae00032cc6fa566715ae0e014492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 376,
+  "rom": "033F9F",
+  "snes": "86:BF9F",
+  "aliases": [],
+  "jp": "全部で{D4}尾です。",
+  "raw": "e05ce04232d4e11932240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 377,
+  "rom": "033FAB",
+  "snes": "86:BFAB",
+  "aliases": [],
+  "jp": "カジキの大きさを\n競う大会です。\n参加料{DA}円です。\n優勝賞金は 3000円\n計測した魚は 頂きます。\nがんばって 釣って来て\nください。",
+  "raw": "63706539e00818205acce24213e008e05032240ecce0f0e0ffe104dae00032240ecce2aae204e05ee0833a0c04010101e000cce241e329222ae0073a0ce27e1849240ecc175b3b2e310ce0012e31e02331cc1a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 378,
+  "rom": "034003",
+  "snes": "86:C003",
+  "aliases": [],
+  "jp": "釣れていますね。\n大会参加料{DA}円で\nカジキを計測します?",
+  "raw": "e0015731124924380ecce008e050e0f0e0ffe104dae00032cc6370655ae241e329224924ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 379,
+  "rom": "034029",
+  "snes": "86:C029",
+  "aliases": [],
+  "jp": "全長{D4}cmです。",
+  "raw": "e05ce0d9d4b132240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 380,
+  "rom": "034033",
+  "snes": "86:C033",
+  "aliases": [],
+  "jp": "いままでのを合計すると\n全部で{D4}尾になります。",
+  "raw": "12494932395ae240e241245633cce05ce04232d4e11936355549240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 381,
+  "rom": "034050",
+  "snes": "86:C050",
+  "aliases": [],
+  "jp": "おめでとうございます。\n賞金として 3000円\nが贈られます。",
+  "raw": "154c3233131f211249240ecce05ee0833322310c04010101e000cc17e244545749240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 382,
+  "rom": "034074",
+  "snes": "86:C074",
+  "aliases": [],
+  "jp": "何も 入っていない。",
+  "raw": "e03b4d0ce02a2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 383,
+  "rom": "034081",
+  "snes": "86:C081",
+  "aliases": [],
+  "jp": "宝箱を 開けた。\n{D2}が\n入っていた。",
+  "raw": "e0cde0d45a0ce0fc1c2a0eccd217cce02a2e31122a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 384,
+  "rom": "034098",
+  "snes": "86:C098",
+  "aliases": [],
+  "jp": "宝箱を 開けた。\n{D5}が 入っていた。",
+  "raw": "e0cde0d45a0ce0fc1c2a0eccd5170ce02a2e31122a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 385,
+  "rom": "0340AF",
+  "snes": "86:C0AF",
+  "aliases": [],
+  "jp": "宝箱を 開けた。\n{D3}が\n入っていた。",
+  "raw": "e0cde0d45a0ce0fc1c2a0eccd317cce02a2e31122a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 386,
+  "rom": "0340C6",
+  "snes": "86:C0C6",
+  "aliases": [],
+  "jp": "確かに 記憶しました。",
+  "raw": "e24f16360ce061e2502249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 387,
+  "rom": "0340D5",
+  "snes": "86:C0D5",
+  "aliases": [],
+  "jp": "お地蔵さまに\n何をお供えしますか?",
+  "raw": "15e049e139204936cce03b5a15e2511422492416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 388,
+  "rom": "0340EB",
+  "snes": "86:C0EB",
+  "aliases": [],
+  "jp": "{D5}を\nお供えしました。",
+  "raw": "d55acc15e251142249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 389,
+  "rom": "0340F8",
+  "snes": "86:C0F8",
+  "aliases": [],
+  "jp": "宝箱に カギが\nかかっている。",
+  "raw": "e0cde0d4360c636617cc16162e3112560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 390,
+  "rom": "03410A",
+  "snes": "86:C10A",
+  "aliases": [],
+  "jp": "{CE}\nにした。",
+  "raw": "cecc36222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 391,
+  "rom": "034111",
+  "snes": "86:C111",
+  "aliases": [],
+  "jp": "{CE}\nは、ついている。",
+  "raw": "cecc3a0d2f123112560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 392,
+  "rom": "03411C",
+  "snes": "86:C11C",
+  "aliases": [],
+  "jp": "針が無いので、エサを\nつけられない。",
+  "raw": "e06a17e03c1239320d616d5acc2f1c545735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 393,
+  "rom": "034131",
+  "snes": "86:C131",
+  "aliases": [],
+  "jp": "{CF}\nにした。",
+  "raw": "cfcc36222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 394,
+  "rom": "034138",
+  "snes": "86:C138",
+  "aliases": [],
+  "jp": "エサが無い。",
+  "raw": "616d17e03c120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 395,
+  "rom": "034140",
+  "snes": "86:C140",
+  "aliases": [],
+  "jp": "ルアーを持っていない。",
+  "raw": "a35eaa5ae00c2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 396,
+  "rom": "03414D",
+  "snes": "86:C14D",
+  "aliases": [],
+  "jp": "この針にはエサが大きくて\nつけられない。",
+  "raw": "1e39e06a363a616d17e008181a31cc2f1c545735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 397,
+  "rom": "034164",
+  "snes": "86:C164",
+  "aliases": [],
+  "jp": "この針にはエサが小さくて\nつけられない。",
+  "raw": "1e39e06a363a616d17e019201a31cc2f1c545735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 398,
+  "rom": "03417B",
+  "snes": "86:C17B",
+  "aliases": [],
+  "jp": "釣った{D8}を\n生きエサにした。",
+  "raw": "e0012e2ad85acce00518616d36222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 399,
+  "rom": "03418C",
+  "snes": "86:C18C",
+  "aliases": [],
+  "jp": "ギジバリを持っていない。",
+  "raw": "667088a25ae00c2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 400,
+  "rom": "03419A",
+  "snes": "86:C19A",
+  "aliases": [],
+  "jp": "{D1}を\nつけた。",
+  "raw": "d15acc2f1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 401,
+  "rom": "0341A2",
+  "snes": "86:C1A2",
+  "aliases": [],
+  "jp": "{D2}を\nつけた。",
+  "raw": "d25acc2f1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 402,
+  "rom": "0341AA",
+  "snes": "86:C1AA",
+  "aliases": [],
+  "jp": "{D3}\nに 持ちかえた。",
+  "raw": "d3cc360ce00c2c16142a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 403,
+  "rom": "0341B6",
+  "snes": "86:C1B6",
+  "aliases": [],
+  "jp": "ハリを選んでください。",
+  "raw": "87a25ae0455b321a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 404,
+  "rom": "0341C3",
+  "snes": "86:C1C3",
+  "aliases": [],
+  "jp": "ウキを選んでください。",
+  "raw": "60655ae0455b321a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 405,
+  "rom": "0341D0",
+  "snes": "86:C1D0",
+  "aliases": [],
+  "jp": "サオを選んでください。",
+  "raw": "6d625ae0455b321a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 406,
+  "rom": "0341DD",
+  "snes": "86:C1DD",
+  "aliases": [],
+  "jp": "オモリを選んでください。",
+  "raw": "629aa25ae0455b321a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 407,
+  "rom": "0341EB",
+  "snes": "86:C1EB",
+  "aliases": [],
+  "jp": "ルアーを選んでください。",
+  "raw": "a35eaa5ae0455b321a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 408,
+  "rom": "0341F9",
+  "snes": "86:C1F9",
+  "aliases": [],
+  "jp": "ギジバリを選んでください。",
+  "raw": "667088a25ae0455b321a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 409,
+  "rom": "034208",
+  "snes": "86:C208",
+  "aliases": [],
+  "jp": "ハリは、残っていない。",
+  "raw": "87a23a0de09b2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 410,
+  "rom": "034215",
+  "snes": "86:C215",
+  "aliases": [],
+  "jp": "ウキを持っていない。",
+  "raw": "60655ae00c2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 411,
+  "rom": "034221",
+  "snes": "86:C221",
+  "aliases": [],
+  "jp": "サオを持っていない。",
+  "raw": "6d625ae00c2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 412,
+  "rom": "03422D",
+  "snes": "86:C22D",
+  "aliases": [],
+  "jp": "オモリを持っていない。",
+  "raw": "629aa25ae00c2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 413,
+  "rom": "03423A",
+  "snes": "86:C23A",
+  "aliases": [],
+  "jp": "カゴを持っていない。",
+  "raw": "636c5ae00c2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 414,
+  "rom": "034246",
+  "snes": "86:C246",
+  "aliases": [],
+  "jp": "ビシを持っていない。",
+  "raw": "8b6f5ae00c2e311235120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 415,
+  "rom": "034252",
+  "snes": "86:C252",
+  "aliases": [],
+  "jp": "ウキづりを\nすることにした。",
+  "raw": "606530555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 416,
+  "rom": "034261",
+  "snes": "86:C261",
+  "aliases": [],
+  "jp": "泳がせづりを\nすることにした。",
+  "raw": "e028172630555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 417,
+  "rom": "034272",
+  "snes": "86:C272",
+  "aliases": [],
+  "jp": "ルアーづりを\nすることにした。",
+  "raw": "a35eaa30555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 418,
+  "rom": "034282",
+  "snes": "86:C282",
+  "aliases": [],
+  "jp": "夜づりを\nすることにした。",
+  "raw": "e0a730555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 419,
+  "rom": "034291",
+  "snes": "86:C291",
+  "aliases": [],
+  "jp": "投げ込みづりを\nすることにした。",
+  "raw": "e0681de07f4a30555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 420,
+  "rom": "0342A4",
+  "snes": "86:C2A4",
+  "aliases": [],
+  "jp": "コマセを まいた。",
+  "raw": "6b96735a0c49122a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 421,
+  "rom": "0342AE",
+  "snes": "86:C2AE",
+  "aliases": [],
+  "jp": "さっき まいたのでまだ\nまく必要がありません。",
+  "raw": "202e180c49122a3932492bcc491ae23ae2cc17115549265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 422,
+  "rom": "0342C8",
+  "snes": "86:C2C8",
+  "aliases": [],
+  "jp": "水際で、コマセを\nまきましょう。",
+  "raw": "e003e22b320d6b96735acc4918492252130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 423,
+  "rom": "0342DB",
+  "snes": "86:C2DB",
+  "aliases": [],
+  "jp": "泳いでいるときは\n選べない。",
+  "raw": "e0281232125633183acce0454435120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 424,
+  "rom": "0342EC",
+  "snes": "86:C2EC",
+  "aliases": [],
+  "jp": "この釣り方では、\nつかえません。",
+  "raw": "1e39e00155e074323a0dcc2f161449265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 425,
+  "rom": "0342FF",
+  "snes": "86:C2FF",
+  "aliases": [],
+  "jp": "ミャクづりを\nすることにした。",
+  "raw": "979b6730555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 426,
+  "rom": "03430F",
+  "snes": "86:C30F",
+  "aliases": [],
+  "jp": "フカセづりを\nすることにした。",
+  "raw": "8d637330555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 427,
+  "rom": "03431F",
+  "snes": "86:C31F",
+  "aliases": [],
+  "jp": "ヘチづりを\nすることにした。",
+  "raw": "907930555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 428,
+  "rom": "03432E",
+  "snes": "86:C32E",
+  "aliases": [],
+  "jp": "サビキづりを\nすることにした。",
+  "raw": "6d8b6530555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 429,
+  "rom": "03433E",
+  "snes": "86:C33E",
+  "aliases": [],
+  "jp": "カゴづりを\nすることにした。",
+  "raw": "636c30555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 430,
+  "rom": "03434D",
+  "snes": "86:C34D",
+  "aliases": [],
+  "jp": "投げづりを\nすることにした。",
+  "raw": "e0681d30555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 431,
+  "rom": "03435D",
+  "snes": "86:C35D",
+  "aliases": [],
+  "jp": "ビシづりを\nすることにした。",
+  "raw": "8b6f30555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 432,
+  "rom": "03436C",
+  "snes": "86:C36C",
+  "aliases": [],
+  "jp": "イカづりを\nすることにした。",
+  "raw": "5f6330555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 433,
+  "rom": "03437B",
+  "snes": "86:C37B",
+  "aliases": [],
+  "jp": "タコづりを\nすることにした。",
+  "raw": "776b30555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 434,
+  "rom": "03438A",
+  "snes": "86:C38A",
+  "aliases": [],
+  "jp": "カニづりを\nすることにした。",
+  "raw": "638330555acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 435,
+  "rom": "034399",
+  "snes": "86:C399",
+  "aliases": [],
+  "jp": "トローリングを\nすることにした。",
+  "raw": "80a5aaa2a8685acc24561e3336222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 436,
+  "rom": "0343AA",
+  "snes": "86:C3AA",
+  "aliases": [],
+  "jp": "{D2}は\nつけれない。",
+  "raw": "d23acc2f1c5735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 437,
+  "rom": "0343B4",
+  "snes": "86:C3B4",
+  "aliases": [],
+  "jp": "{D2}は\nすでについている。",
+  "raw": "d23acc2432362f123112560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 438,
+  "rom": "0343C1",
+  "snes": "86:C3C1",
+  "aliases": [],
+  "jp": "{D1}は\nすでについている。",
+  "raw": "d13acc2432362f123112560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 439,
+  "rom": "0343CE",
+  "snes": "86:C3CE",
+  "aliases": [],
+  "jp": "{D1}は\nつけれない。",
+  "raw": "d13acc2f1c5735120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 440,
+  "rom": "0343D8",
+  "snes": "86:C3D8",
+  "aliases": [],
+  "jp": "{D8}を\n釣り上げた。\n大きさは {DA}cm。",
+  "raw": "d85acce00155e0091d2a0ecce00818203a0cdab10e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 441,
+  "rom": "0343EE",
+  "snes": "86:C3EE",
+  "aliases": [],
+  "jp": "ハリが盗られてしまった。\n{D8}に\n逃げられた。\n{DA}ポイントの\nダメージを受けた。",
+  "raw": "87a217e0b054573122492e2a0eccd836cce0671d54572a0eccda955fa88039cc7899aa705ae0bb1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 442,
+  "rom": "034419",
+  "snes": "86:C419",
+  "aliases": [],
+  "jp": "{CD}は、力を\n使い果たした。",
+  "raw": "cd3a0de0295acce03012e0872a222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 443,
+  "rom": "03442A",
+  "snes": "86:C42A",
+  "aliases": [],
+  "jp": "{D8}に\n逃げられた。\nエサが盗られてしまった。",
+  "raw": "d836cce0671d54572a0ecc616d17e0b054573122492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 444,
+  "rom": "034443",
+  "snes": "86:C443",
+  "aliases": [],
+  "jp": "{D8}の\n若魚を 釣り上げた。\n大きさは {DA}cm。",
+  "raw": "d839cce18de0075a0ce00155e0091d2a0ecce00818203a0cdab10e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 445,
+  "rom": "03445F",
+  "snes": "86:C45F",
+  "aliases": [],
+  "jp": "{D8}は\n元気良く 泳いで行った。",
+  "raw": "d83acce080e016e08d1a0ce0281232e0412e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 446,
+  "rom": "034474",
+  "snes": "86:C474",
+  "aliases": [],
+  "jp": "{D8}を\n釣り上げた。\n大きさは {DA}cm。\n{D8}の\n最高記録だ。",
+  "raw": "d85acce00155e0091d2a0ecce00818203a0cdab10eccd839cce057e0bde061e0642b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 447,
+  "rom": "034498",
+  "snes": "86:C498",
+  "aliases": [],
+  "jp": "磯アミがいっぱいに\nなってしまった。",
+  "raw": "e2b85e9717122e3c1236cc352e3122492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 448,
+  "rom": "0344AC",
+  "snes": "86:C4AC",
+  "aliases": [],
+  "jp": "クーラーがいっぱいに\nなってしまった。",
+  "raw": "67aaa1aa17122e3c1236cc352e3122492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 449,
+  "rom": "0344C0",
+  "snes": "86:C4C0",
+  "aliases": [],
+  "jp": "ルアーが盗られた。\n{D8}に\n逃げられた。\n{DA}ポイントの\nダメージを受けた。",
+  "raw": "a35eaa17e0b054572a0eccd836cce0671d54572a0eccda955fa88039cc7899aa705ae0bb1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 450,
+  "rom": "0344E8",
+  "snes": "86:C4E8",
+  "aliases": [],
+  "jp": "ギジバリが盗られた。\n{D8}に\n逃げられた。\n{DA}ポイントの\nダメージを受けた。",
+  "raw": "667088a217e0b054572a0eccd836cce0671d54572a0eccda955fa88039cc7899aa705ae0bb1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 451,
+  "rom": "034511",
+  "snes": "86:C511",
+  "aliases": [],
+  "jp": "シカケが盗られた。\n{D8}に\n逃げられた。\n{DA}ポイントの\nダメージを受けた。",
+  "raw": "6f636917e0b054572a0eccd836cce0671d54572a0eccda955fa88039cc7899aa705ae0bb1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 452,
+  "rom": "034539",
+  "snes": "86:C539",
+  "aliases": [],
+  "jp": "{D8}に\n逃げられた。",
+  "raw": "d836cce0671d54572a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 453,
+  "rom": "034544",
+  "snes": "86:C544",
+  "aliases": [],
+  "jp": "{D8}を釣り上げた。\n経験値 {DA} 獲得。",
+  "raw": "d85ae00155e0091d2a0ecce0f8e0f5e12f0cda0ce228e2290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 454,
+  "rom": "03455E",
+  "snes": "86:C55E",
+  "aliases": [],
+  "jp": "{D8}を釣り上げた。\n経験値 {DA} 獲得。\n最大体力が 一つふえて\n{D4}になった。",
+  "raw": "d85ae00155e0091d2a0ecce0f8e0f5e12f0cda0ce228e2290ecce057e008e02be029170ce0362f401431ccd436352e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 455,
+  "rom": "034590",
+  "snes": "86:C590",
+  "aliases": [],
+  "jp": "生きエサが\n死んでしまった。",
+  "raw": "e00518616d17cce1305b3222492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 456,
+  "rom": "0345A1",
+  "snes": "86:C5A1",
+  "aliases": [],
+  "jp": "生きエサに 逃げられた。\n{DA}ポイントの\nダメージを受けた。",
+  "raw": "e00518616d360ce0671d54572a0eccda955fa88039cc7899aa705ae0bb1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 457,
+  "rom": "0345C2",
+  "snes": "86:C5C2",
+  "aliases": [],
+  "jp": "シカケが こわれて\nしまった。",
+  "raw": "6f6369170c1e595731cc22492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 458,
+  "rom": "0345D2",
+  "snes": "86:C5D2",
+  "aliases": [],
+  "jp": "ルアーが こわれて\nしまった。",
+  "raw": "a35eaa170c1e595731cc22492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 459,
+  "rom": "0345E2",
+  "snes": "86:C5E2",
+  "aliases": [],
+  "jp": "ギジバリが こわれて\nしまった。",
+  "raw": "667088a2170c1e595731cc22492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 460,
+  "rom": "0345F3",
+  "snes": "86:C5F3",
+  "aliases": [],
+  "jp": "ハリが だめになって\nしまった。",
+  "raw": "87a2170c2b4c36352e31cc22492e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 461,
+  "rom": "034604",
+  "snes": "86:C604",
+  "aliases": [],
+  "jp": "手に けがをした。\n{DA}ポイントの\nダメージを受けた。",
+  "raw": "e054360c1c175a222a0eccda955fa88039cc7899aa705ae0bb1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 462,
+  "rom": "034621",
+  "snes": "86:C621",
+  "aliases": [],
+  "jp": "{CE}",
+  "raw": "ce",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 463,
+  "rom": "034623",
+  "snes": "86:C623",
+  "aliases": [],
+  "jp": "{CF}",
+  "raw": "cf",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 464,
+  "rom": "034625",
+  "snes": "86:C625",
+  "aliases": [],
+  "jp": "{D1}",
+  "raw": "d1",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 465,
+  "rom": "034627",
+  "snes": "86:C627",
+  "aliases": [],
+  "jp": "{D2}",
+  "raw": "d2",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 466,
+  "rom": "034629",
+  "snes": "86:C629",
+  "aliases": [],
+  "jp": "{D3}",
+  "raw": "d3",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 467,
+  "rom": "03462B",
+  "snes": "86:C62B",
+  "aliases": [],
+  "jp": "{D5}",
+  "raw": "d5",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 468,
+  "rom": "03462D",
+  "snes": "86:C62D",
+  "aliases": [],
+  "jp": "{D8}",
+  "raw": "d8",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 469,
+  "rom": "03462F",
+  "snes": "86:C62F",
+  "aliases": [],
+  "jp": "朝、太陽が 水平線の\n向こうから 顔を出し\n海面に 黄金色の\n光の絨毯を しきつめる。\n潮が 夜のうちに 砂浜の\n足跡を 洗い流している。\n波が 体当たりをして\n砕け散り すべてを\n飲み込もうとする。\n一方 海の中では多くの\n種類の魚が 元気よく\n泳ぎまわっている。",
+  "raw": "e2350de044e272170ce003e03de1ae39cce0f31e1316540ce18b5ae01a22cce03ae08f360ce348e083e0e239cce34939e34ae34b5a0c22182f4c560ecce297170ce0a739132c360ce015e24d39cce237e34c5a0ce21a12e004223112560ecce17d170ce02be1b72a555a2231cce2f61ce264550c2444315acce08b4ae07f4d133324560ecce036e0740ce03a39e00a323ae0141a39cce163e01339e007170ce080e016531acce0281949592e3112560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 470,
+  "rom": "0346E0",
+  "snes": "86:C6E0",
+  "aliases": [],
+  "jp": "ある日のこと\n{CD}の家に 友達の\n弘樹くんがやって来て・・",
+  "raw": "1156e03e391e33cccd39e088360ce200e20139cce2bae1cc1a5b174f2e31e02331a9a9",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 471,
+  "rom": "034704",
+  "snes": "86:C704",
+  "aliases": [],
+  "jp": "おーい {CD}!",
+  "raw": "15aa120ccdab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 472,
+  "rom": "03470B",
+  "snes": "86:C70B",
+  "aliases": [],
+  "jp": "よう 弘樹!\n釣りのさそいに来たのか?",
+  "raw": "53130ce2bae1ccabcce001553920281236e0232a3916ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 473,
+  "rom": "034723",
+  "snes": "86:C723",
+  "aliases": [],
+  "jp": "俺らぁこれから 海のぬし\nを釣りに 出かけるんだ。",
+  "raw": "e089540f1e5716540ce03a393722cc5ae00155360ce01a161c565b2b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 474,
+  "rom": "034741",
+  "snes": "86:C741",
+  "aliases": [],
+  "jp": "海のぬし?",
+  "raw": "e03a393722ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 475,
+  "rom": "034748",
+  "snes": "86:C748",
+  "aliases": [],
+  "jp": "海のぬしは\n体長4メートル もある\nクロカジキ という魚で\n誰も 釣り上げる事が\nできないんだ。\n俺らぁ 絶対釣り上げる\nつもりなんだ。\nじゃあな。",
+  "raw": "e03a3937223acce02be0d90599aa80a30c4d1156cc67a56370650c331213e00732cce0954d0ce00155e0091d56e04b17cc321835125b2b0ecce089540f0ce0dce260e00155e0091d56cc2f4d55355b2b0ecc234e11350e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 476,
+  "rom": "0347A0",
+  "snes": "86:C7A0",
+  "aliases": [],
+  "jp": "・・・・・・・・",
+  "raw": "a9a9a9a9a9a9a9a9",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 477,
+  "rom": "0347A9",
+  "snes": "86:C7A9",
+  "aliases": [],
+  "jp": "・・・・・ム、ム、ム。",
+  "raw": "a9a9a9a9a9980d980d980e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 478,
+  "rom": "0347B5",
+  "snes": "86:C7B5",
+  "aliases": [],
+  "jp": "ようし 海のぬしは俺らが\n釣り上げるぞ!",
+  "raw": "5313220ce03a3937223ae0895417cce00155e0091d5629ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 479,
+  "rom": "0347CE",
+  "snes": "86:C7CE",
+  "aliases": [],
+  "jp": "話を聞いた {CD}も\n海のぬしを 釣りに\n出かけることにしました。",
+  "raw": "e08c5ae114122a0ccd4dcce03a3937225a0ce0015536cce01a161c561e33362249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 480,
+  "rom": "0347F3",
+  "snes": "86:C7F3",
+  "aliases": [],
+  "jp": "あんたは 負けず嫌い\nだから 弘樹ちゃんに\n負けるのが くやしいんで\nしょう。",
+  "raw": "115b2a3a0ce0d11c25e20612cc2b16540ce2bae1cc2c4e5b36cce0d11c5639170c1a4f22125b32cc2252130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 481,
+  "rom": "034820",
+  "snes": "86:C820",
+  "aliases": [],
+  "jp": "まったく 男の子は\nすぐこれだから・・・\n4メートルの クロカジキ\nをどうやって\n釣り上げる つもり?",
+  "raw": "492e2a1a0ce13139e0463acc241b1e572b1654a9a9a9cc0599aa80a3390c67a5637065cc5a34134f2e31cce00155e0091d560c2f4d55ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 482,
+  "rom": "034858",
+  "snes": "86:C858",
+  "aliases": [],
+  "jp": "クロカジキを 釣るなら\n外洋で トローリングだ。\n弘樹なんかに 負けんじゃ\nないぞ。",
+  "raw": "67a56370655a0ce001563554cce2b9e29a320c80a5aaa2a8682b0ecce2bae1cc355b16360ce0d11c5b234ecc3512290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 483,
+  "rom": "034889",
+  "snes": "86:C889",
+  "aliases": [],
+  "jp": "ある日のこと {CD}は\n「優しい海のぬし」という\n本を 読んでいました。",
+  "raw": "1156e03e391e330ccd3accade2aa2212e03a393722ae331213cce02e5a0ce1255b321249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 484,
+  "rom": "0348B1",
+  "snes": "86:C8B1",
+  "aliases": [],
+  "jp": "・・・サメに 襲われて\n尾ビレを 噛み切られた\n友達のために\nマンボウは 尾ビレを\n分けて あげました。",
+  "raw": "a9a9a96d99360ce221595731cce1198ba45a0ce2f54ae0b654572acce200e201392a4c36cc96a894603a0ce1198ba45acce1161c310c111d49222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 485,
+  "rom": "0348EE",
+  "snes": "86:C8EE",
+  "aliases": [],
+  "jp": "それ以来 マンボウは\n優しい海のぬし と呼ばれ\nマンボウに 出会うと\n願い事が かなうという\n伝説に なりました。",
+  "raw": "2857e037e0230c96a894603acce2aa2212e03a3937220c33e0be3b57cc96a89460360ce01ae0501333cce09f12e04b170c163513331213cce0d8e13d360c355549222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 486,
+  "rom": "034933",
+  "snes": "86:C933",
+  "aliases": [],
+  "jp": "話を読んだ {CD}は\n海のぬしの マンボウに\n逢うために 出かける\nことにしました。",
+  "raw": "e08c5ae1255b2b0ccd3acce03a393722390c96a8946036cce34d132a4c360ce01a161c56cc1e33362249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 487,
+  "rom": "034961",
+  "snes": "86:C961",
+  "aliases": [],
+  "jp": "マンボウは 珍しい魚\nなんだぞ。\n逢えるわけ ないじゃん。",
+  "raw": "96a894603a0ce2532212e007cc355b2b290ecce34d1456591c0c3512234e5b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 488,
+  "rom": "034982",
+  "snes": "86:C982",
+  "aliases": [],
+  "jp": "私の願い事は {CD}が\n無事に帰って来ることよ\n気を付けて 行って\nくるのよ。",
+  "raw": "e0ed39e09f12e04b3a0ccd17cce03ce04b36e0852e31e023561e3353cce0165ae0661c310ce0412e31cc1a5639530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 489,
+  "rom": "0349B2",
+  "snes": "86:C9B2",
+  "aliases": [],
+  "jp": "父さんの願い事は\nこづかいが 1000円に\n上がる ことだ。\nおまえからも 母ちゃんに\n言ってくれよ。",
+  "raw": "e076205b39e09f12e04b3acc1e301612170c02010101e00036cce00917560c1e332b0ecc15491416544d0ce0752c4e5b36cce2242e311a57530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 490,
+  "rom": "0349ED",
+  "snes": "86:C9ED",
+  "aliases": [],
+  "jp": "ある日のこと\nものしり婆さんが\n突然たずねて きて・・・",
+  "raw": "1156e03e391e33cc4d392255e11e205b17cce21ee21f2a2538310c1831a9a9a9",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 491,
+  "rom": "034A0E",
+  "snes": "86:CA0E",
+  "aliases": [],
+  "jp": "わたしが 100才でも\n元気で ものしりなのは\n頭の良くなる料理を\n食べているからなんじゃ。\n{CD}さん その料理を\n作ってもらえんじゃろか?",
+  "raw": "592a22170c020101e2b4324dcce080e016320c4d39225535393acce2ed39e08d1a3556e104e0ca5acce002443112561654355b234e0ecccd205b0c2839e104e0ca5acce0472e314d54145b234e5816ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 492,
+  "rom": "034A5F",
+  "snes": "86:CA5F",
+  "aliases": [],
+  "jp": "料理なら私に まかせて\nちょうだい。\n頭の良くなる料理って\nどんな料理なの?",
+  "raw": "e104e0ca3554e0ed360c49162631cc2c52132b120ecce2ed39e08d1a3556e104e0ca2e31cc345b35e104e0ca3539ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 493,
+  "rom": "034A8F",
+  "snes": "86:CA8F",
+  "aliases": [],
+  "jp": "海のぬし と呼ばれる\nでっかいクロマグロの\n頭を焼いた 兜焼き\nという料理なんじゃ。",
+  "raw": "e03a3937220c33e0be3b5756cc322e161267a59668a539cce2ed5ae010122a0ce34ee01018cc331213e104e0ca355b234e0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 494,
+  "rom": "034AC2",
+  "snes": "86:CAC2",
+  "aliases": [],
+  "jp": "・・・・・・・・",
+  "raw": "a9a9a9a9a9a9a9a9",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 495,
+  "rom": "034ACB",
+  "snes": "86:CACB",
+  "aliases": [],
+  "jp": "・・・・・作るわ。",
+  "raw": "a9a9a9a9a9e04756590e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 496,
+  "rom": "034AD6",
+  "snes": "86:CAD6",
+  "aliases": [],
+  "jp": "話を聞いた {CD}は\n海のぬし と呼ばれる\nでっかい クロマグロの\nカブト焼きを\n作ることにしました。",
+  "raw": "e08c5ae114122a0ccd3acce03a3937220c33e0be3b5756cc322e16120c67a59668a539cc638e80e010185acce047561e33362249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 497,
+  "rom": "034B0E",
+  "snes": "86:CB0E",
+  "aliases": [],
+  "jp": "マグロの 目玉を\n食ってみてえだ。\n頭が良くなるって\n婆ちゃんが 言ってただ。",
+  "raw": "9668a5390ce1b1e1af5acce0022e314a31142b0ecce2ed17e08d1a35562e31cce11e2c4e5b170ce2242e312a2b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 498,
+  "rom": "034B3D",
+  "snes": "86:CB3D",
+  "aliases": [],
+  "jp": "かあさんが 出かけたら\n炊事掃除洗濯を 誰が\nやるのよ。\n私 やんないわよ。",
+  "raw": "1611205b170ce01a161c2a54cce217e04be218e219e21ae21b5a0ce09517cc4f5639530ecce0ed0c4f5b351259530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 499,
+  "rom": "034B6D",
+  "snes": "86:CB6D",
+  "aliases": [],
+  "jp": "でっかい クロマグロを\n釣ってこいよ。\n上トロの 刺し身で\n一杯 飲みたいな。",
+  "raw": "322e16120c67a59668a55acce0012e311e12530ecce00980a5390ce07e22e05d32cce036e2390ce08b4a2a12350e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 500,
+  "rom": "034B9C",
+  "snes": "86:CB9C",
+  "aliases": [],
+  "jp": "ある日のこと\nダイレクトメールが届いた。",
+  "raw": "1156e03e391e33cc785fa4678099aaa317e0ad122a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 501,
+  "rom": "034BB3",
+  "snes": "86:CBB3",
+  "aliases": [],
+  "jp": "こんちは、手紙です。",
+  "raw": "1e5b2c3a0de054e0ec32240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 502,
+  "rom": "034BC0",
+  "snes": "86:CBC0",
+  "aliases": [],
+  "jp": "ごくろうさまです。",
+  "raw": "1f1a5813204932240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 503,
+  "rom": "034BCA",
+  "snes": "86:CBCA",
+  "aliases": [],
+  "jp": "外洋  南の離島",
+  "raw": "e2b9e29a0c0ce23139e168e2b3",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 504,
+  "rom": "034BD8",
+  "snes": "86:CBD8",
+  "aliases": [],
+  "jp": "モロコ",
+  "raw": "9aa56b",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 505,
+  "rom": "034BDC",
+  "snes": "86:CBDC",
+  "aliases": [],
+  "jp": "「海のぬしを求めて」\n拝啓 釣り人は、だれしも大物\nを夢見ます。私「海のぬし」が\n夢をかなえます。貴方の挑戦を\nお待ちしています。    敬具",
+  "raw": "ade03a3937225ae1504c31aecce208e2090ce00155e03f3a0d2b57224de008e011cc5ae39de03249240ee0edade03a393722ae17cce39d5a16351449240ee225e07439e28ce28d5acc15e27a2c22311249240e0c0c0c0ce1c5e0bf",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 506,
+  "rom": "034C38",
+  "snes": "86:CC38",
+  "aliases": [],
+  "jp": "・・・・・・・・\n・・・・・・・・釣るぞ",
+  "raw": "a9a9a9a9a9a9a9a9cca9a9a9a9a9a9a9a9e0015629",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 507,
+  "rom": "034C4E",
+  "snes": "86:CC4E",
+  "aliases": [],
+  "jp": "手紙を読んだ {CD}は\n海のぬしを 釣りに\n出かけることにしました。",
+  "raw": "e054e0ec5ae1255b2b0ccd3acce03a3937225a0ce0015536cce01a161c561e33362249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 508,
+  "rom": "034C75",
+  "snes": "86:CC75",
+  "aliases": [],
+  "jp": "背丈ほどの モロコが\nいるって うわさだよ。\n父ちゃんなら\n簡単に釣り上げられるよ。",
+  "raw": "e2fee1d34634390c9aa56b17cc12562e310c1359202b530ecce0762c4e5b3554cce226e13436e00155e0091d545756530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 509,
+  "rom": "034CA7",
+  "snes": "86:CCA7",
+  "aliases": [],
+  "jp": "私 しっている。\nモロコのことを クエとも\nいうんでしょ。",
+  "raw": "e0ed0c222e3112560ecc9aa56b391e335a0c6761334dcc12135b3222520e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 510,
+  "rom": "034CC6",
+  "snes": "86:CCC6",
+  "aliases": [],
+  "jp": "そんな手紙に すぐ\nだまされるんだから。\nだいたい 最近釣りなんて\nやってないじゃない。",
+  "raw": "285b35e054e0ec360c241bcc2b492057565b2b16540ecc2b122a120ce057e048e00155355b31cc4f2e313512234e35120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 511,
+  "rom": "034CF8",
+  "snes": "86:CCF8",
+  "aliases": [],
+  "jp": "ただいま。",
+  "raw": "2a2b12490e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 512,
+  "rom": "034CFE",
+  "snes": "86:CCFE",
+  "aliases": [],
+  "jp": "おかえりなさい",
+  "raw": "15161455352012",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 513,
+  "rom": "034D06",
+  "snes": "86:CD06",
+  "aliases": [],
+  "jp": "{CD}は、\n海のぬしの クロカジキを\n釣り上げた話をしました。",
+  "raw": "cd3a0dcce03a393722390c67a56370655acce00155e0091d2ae08c5a2249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 514,
+  "rom": "034D28",
+  "snes": "86:CD28",
+  "aliases": [],
+  "jp": "クロカジキは すごい\nファイターで 力が強く\nでかい魚で\n・・・・・",
+  "raw": "67a56370653a0c241f12cc8db45f77aa320ce02917e09d1acc321612e00732cca9a9a9a9a9",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 515,
+  "rom": "034D4E",
+  "snes": "86:CD4E",
+  "aliases": [],
+  "jp": "話を聞いて、よろこびの\n声がわき上がりました。",
+  "raw": "e08c5ae11412310d53581e3e39cce0b7175918e009175549222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 516,
+  "rom": "034D6A",
+  "snes": "86:CD6A",
+  "aliases": [],
+  "jp": "   バンザーイ。",
+  "raw": "0c0c0c88a86eaa5f0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 517,
+  "rom": "034D74",
+  "snes": "86:CD74",
+  "aliases": [],
+  "jp": "よくやった。\nさすが 俺の息子だ。",
+  "raw": "531a4f2e2a0ecc2024170ce08939e012e0462b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 518,
+  "rom": "034D89",
+  "snes": "86:CD89",
+  "aliases": [],
+  "jp": "遊んでばかりいないで\n勉強しなさい。\n釣りノートも まだ\n完成していないんでしょ。",
+  "raw": "e0585b323b165512351232cce29be09d223520120ecce0015586aa804d0c492bcce29ce0df22311235125b3222520e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 519,
+  "rom": "034DB9",
+  "snes": "86:CDB9",
+  "aliases": [],
+  "jp": "本当に釣り上げたの。\n釣りノートが 完成したら\n信じてあげる。",
+  "raw": "e02ee1b736e00155e0091d2a390ecce0015586aa80170ce29ce0df222a54cce2752331111d560e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 520,
+  "rom": "034DE1",
+  "snes": "86:CDE1",
+  "aliases": [],
+  "jp": "ただいま。",
+  "raw": "2a2b12490e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 521,
+  "rom": "034DE7",
+  "snes": "86:CDE7",
+  "aliases": [],
+  "jp": "おかえりなさい",
+  "raw": "15161455352012",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 522,
+  "rom": "034DEF",
+  "snes": "86:CDEF",
+  "aliases": [],
+  "jp": "{CD}は、\n伝説の 海のぬしに\n出会った 話をしました。",
+  "raw": "cd3a0dcce0d8e13d390ce03a39372236cce01ae0502e2a0ce08c5a2249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 523,
+  "rom": "034E10",
+  "snes": "86:CE10",
+  "aliases": [],
+  "jp": "海のぬしの マンボウは\nひらべったくて 大きくて\n尾ビレのない 優しい魚ね。\nわたし たくさん願い事\nしたのよ。",
+  "raw": "e03a393722390c96a894603acc3d54442e2a1a310ce008181a31cce1198ba43935120ce2aa2212e007380ecc592a220c2a1a205be09f12e04bcc222a39530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 524,
+  "rom": "034E50",
+  "snes": "86:CE50",
+  "aliases": [],
+  "jp": "話を聞いて、よろこびの\n声がわき上がりました。",
+  "raw": "e08c5ae11412310d53581e3e39cce0b7175918e009175549222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 525,
+  "rom": "034E6C",
+  "snes": "86:CE6C",
+  "aliases": [],
+  "jp": "   バンザーイ。",
+  "raw": "0c0c0c88a86eaa5f0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 526,
+  "rom": "034E76",
+  "snes": "86:CE76",
+  "aliases": [],
+  "jp": "こづかいが 1000円に\nならないぞ。\n遊んでばかりいないで\n釣りノートを 完成\nさせなさい。",
+  "raw": "1e301612170c02010101e00036cc35543512290ecce0585b323b165512351232cce0015586aa805a0ce29ce0dfcc20263520120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 527,
+  "rom": "034EAB",
+  "snes": "86:CEAB",
+  "aliases": [],
+  "jp": "父さんがまじめに働くよう\nお願いすればよかったわ。\n{CD}は、何を\nお願いしたの?",
+  "raw": "e076205b1749234c36e29d1a5313cc15e09f1224573b53162e2a590ecccd3a0de03b5acc15e09f12222a39ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 528,
+  "rom": "034ED8",
+  "snes": "86:CED8",
+  "aliases": [],
+  "jp": "姉ちゃんの お願いって\n弘樹の事だろ。\nおいら 知ってんだぜ。",
+  "raw": "e3202c4e5b390c15e09f122e31cce2bae1cc39e04b2b580ecc1512540ce0942e315b2b270e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 529,
+  "rom": "034EFE",
+  "snes": "86:CEFE",
+  "aliases": [],
+  "jp": "ただいま。",
+  "raw": "2a2b12490e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 530,
+  "rom": "034F04",
+  "snes": "86:CF04",
+  "aliases": [],
+  "jp": "おかえりなさい",
+  "raw": "15161455352012",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 531,
+  "rom": "034F0C",
+  "snes": "86:CF0C",
+  "aliases": [],
+  "jp": "さっそく{CD}は、\n海のぬしの クロマグロを\n料理して みんなで\n食べました。",
+  "raw": "202e281acd3a0dcce03a393722390c67a59668a55acce104e0ca22310c4a5b3532cce0024449222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 532,
+  "rom": "034F36",
+  "snes": "86:CF36",
+  "aliases": [],
+  "jp": "パクパク\nむしゃむしゃ\nバリバリ\n・・・・・",
+  "raw": "89678967cc4b224e4b224ecc88a288a2cca9a9a9a9a9",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 533,
+  "rom": "034F4D",
+  "snes": "86:CF4D",
+  "aliases": [],
+  "jp": "美味しくて、よろこびの\n歓声がわき上がりました。",
+  "raw": "e01fe025221a310d53581e3e39cce0c4e0b7175918e009175549222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 534,
+  "rom": "034F6B",
+  "snes": "86:CF6B",
+  "aliases": [],
+  "jp": "   バンザーイ。",
+  "raw": "0c0c0c88a86eaa5f0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 535,
+  "rom": "034F75",
+  "snes": "86:CF75",
+  "aliases": [],
+  "jp": "よくやった。\nやっぱり、おまえの料理は\nうまい。",
+  "raw": "531a4f2e2a0ecc4f2e3c550d15491439e104e0ca3acc1349120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 536,
+  "rom": "034F90",
+  "snes": "86:CF90",
+  "aliases": [],
+  "jp": "かあさんの料理には\nかなわないわ。\nお手伝いするから\n作り方おしえて。",
+  "raw": "1611205b39e104e0ca363acc1635593512590ecc15e054e0d81224561654cce04755e074152214310e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 537,
+  "rom": "034FBA",
+  "snes": "86:CFBA",
+  "aliases": [],
+  "jp": "お母さん、おいしかったよ\nぼくの誕生日に\nまた作ってね。\n早く、釣りノートが\n完成するといいね。",
+  "raw": "15e075205b0d151222162e2a53cc471a39e29ee005e03e36cc492ae0472e31380ecce0b41a0de0015586aa8017cce29ce0df2456331212380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 538,
+  "rom": "034FF4",
+  "snes": "86:CFF4",
+  "aliases": [],
+  "jp": "ただいま。",
+  "raw": "2a2b12490e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 539,
+  "rom": "034FFA",
+  "snes": "86:CFFA",
+  "aliases": [],
+  "jp": "おかえりなさい",
+  "raw": "15161455352012",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 540,
+  "rom": "035002",
+  "snes": "86:D002",
+  "aliases": [],
+  "jp": "{CD}は、\n海のぬしを釣り上げた\n話をしました。",
+  "raw": "cd3a0dcce03a3937225ae00155e0091d2acce08c5a2249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 541,
+  "rom": "03501D",
+  "snes": "86:D01D",
+  "aliases": [],
+  "jp": "海のぬしの モロコ\nという魚は でかくて\n重たくて、獰猛で\n・・・・・",
+  "raw": "e03a393722390c9aa56bcc331213e0073a0c32161a31cce1ce2a1a310de170e17132cca9a9a9a9a9",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 542,
+  "rom": "035046",
+  "snes": "86:D046",
+  "aliases": [],
+  "jp": "話を聞いて、よろこびの\n歓声がわき上がりました。",
+  "raw": "e08c5ae11412310d53581e3e39cce0c4e0b7175918e009175549222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 543,
+  "rom": "035064",
+  "snes": "86:D064",
+  "aliases": [],
+  "jp": "   バンザーイ。",
+  "raw": "0c0c0c88a86eaa5f0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 544,
+  "rom": "03506E",
+  "snes": "86:D06E",
+  "aliases": [],
+  "jp": "見直したわ。素敵。\nあなたなら\nきっと 釣りノートを\n完成できるわ。\nがんばってね。",
+  "raw": "e032e29f222a590ee13ce2a00ecc11352a3554cc182e330ce0015586aa805acce29ce0df321856590ecc175b3b2e31380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 545,
+  "rom": "0350A0",
+  "snes": "86:D0A0",
+  "aliases": [],
+  "jp": "お父ちゃん!\n仕事も しなさいよね。\nお母ちゃんは\n父ちゃんに 甘すぎるわ。",
+  "raw": "15e0762c4e5babcce26ce04b4d0c2235201253380ecc15e0752c4e5b3acce0762c4e5b360ce0a3241956590e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 546,
+  "rom": "0350CD",
+  "snes": "86:D0CD",
+  "aliases": [],
+  "jp": "父ちゃんは、\nすごいや。",
+  "raw": "e0762c4e5b3a0dcc241f124f0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 547,
+  "rom": "0350DB",
+  "snes": "86:D0DB",
+  "aliases": [],
+  "jp": "   めでたし めでたし",
+  "raw": "0c0c0c4c322a220c4c322a22",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 548,
+  "rom": "0350E8",
+  "snes": "86:D0E8",
+  "aliases": [],
+  "jp": "アンコウは すごく\n深いところに 住んで\n居るんだよ。",
+  "raw": "5ea86b603a0c241f1acce06b12331e58360ce1945b32cce39e565b2b530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 549,
+  "rom": "035107",
+  "snes": "86:D107",
+  "aliases": [],
+  "jp": "アンコウは とっても\nみにくいのよ。でも\nとってもおいしいのよ。",
+  "raw": "5ea86b603a0c332e314dcc4a361a1239530e324dcc332e314d1512221239530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 550,
+  "rom": "035128",
+  "snes": "86:D128",
+  "aliases": [],
+  "jp": "アンコウは 肉食だから\n生きエサで 釣るんだぞ。",
+  "raw": "5ea86b603a0ce0ace0022b1654cce00518616d320ce001565b2b290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 551,
+  "rom": "035145",
+  "snes": "86:D145",
+  "aliases": [],
+  "jp": "アンコウを 食べれば\n病気もせずに スクスク\n育つのよ。",
+  "raw": "5ea86b605a0ce00244573bcce059e0164d2625360c71677167cce2ec2f39530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 552,
+  "rom": "035166",
+  "snes": "86:D166",
+  "aliases": [],
+  "jp": "弘樹の家で 赤ちゃんが\n産まれるんだって。\nおいらが お祝いに\nアンコウを 釣って来るぞ。",
+  "raw": "e2bae1cc39e088320ce1b42c4e5b17cce06d4957565b2b2e310ecc151254170c15e34f1236cc5ea86b605a0ce0012e31e02356290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 553,
+  "rom": "03519C",
+  "snes": "86:D19C",
+  "aliases": [],
+  "jp": "弘樹君の家の 出産祝いに\nわたしが アンコウを\n釣って来るわ。",
+  "raw": "e2bae1cce1e839e088390ce01ae06de34f1236cc592a22170c5ea86b605acce0012e31e02356590e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 554,
+  "rom": "0351C5",
+  "snes": "86:D1C5",
+  "aliases": [],
+  "jp": "弘樹家の 出産祝いに\nわしが アンコウを\n釣って来るぞ。",
+  "raw": "e2bae1cce088390ce01ae06de34f1236cc5922170c5ea86b605acce0012e31e02356290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 555,
+  "rom": "0351EA",
+  "snes": "86:D1EA",
+  "aliases": [],
+  "jp": "弘樹さん家の 出産祝いに\nわたしが アンコウを\n釣って来るわ。",
+  "raw": "e2bae1cc205be088390ce01ae06de34f1236cc592a22170c5ea86b605acce0012e31e02356590e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 556,
+  "rom": "035212",
+  "snes": "86:D212",
+  "aliases": [],
+  "jp": "どうしょう どうしょう\nおいらは 妹がほしいな。",
+  "raw": "34132252130c3413225213cc1512543a0ce01d17462212350e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 557,
+  "rom": "03522C",
+  "snes": "86:D22C",
+  "aliases": [],
+  "jp": "大丈夫 大丈夫\n無事 産まれるよね。",
+  "raw": "e008e1d3e31c0ce008e1d3e31ccce03ce04b0ce06d49575653380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 558,
+  "rom": "035248",
+  "snes": "86:D248",
+  "aliases": [],
+  "jp": "フウ フウ・・・\n・・・・・・\nフウ\n産まれそうよ。",
+  "raw": "8d600c8d60a9a9a9cca9a9a9a9a9a9cc8d60cce06d49572813530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 559,
+  "rom": "035264",
+  "snes": "86:D264",
+  "aliases": [],
+  "jp": "ハイハイ 大丈夫ですよ。\n無事に 産まれますから。\n心配いらないですよ。",
+  "raw": "875f875f0ce008e1d3e31c3224530ecce03ce04b360ce06d4957492416540ecce099e39f125435123224530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 560,
+  "rom": "035291",
+  "snes": "86:D291",
+  "aliases": [],
+  "jp": "ハイ 頭が出てきたわ。\nもう少しよ がんばって。",
+  "raw": "875f0ce2ed17e01a31182a590ecc4d13e26e22530c175b3b2e310e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 561,
+  "rom": "0352AD",
+  "snes": "86:D2AD",
+  "aliases": [],
+  "jp": "ウウーン・・・・・\n・・・・・・・・\nポコ",
+  "raw": "6060aaa8a9a9a9a9a9cca9a9a9a9a9a9a9a9cc956b",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 562,
+  "rom": "0352C3",
+  "snes": "86:D2C3",
+  "aliases": [],
+  "jp": "・・・・・\nオギャ・・・・・・・\nオギャー オギャー",
+  "raw": "a9a9a9a9a9cc62669ba9a9a9a9a9a9a9cc62669baa0c62669baa",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 563,
+  "rom": "0352DE",
+  "snes": "86:D2DE",
+  "aliases": [],
+  "jp": "よくがんばったわね。\nかわいい 女の子ですよ。\nおめでとう ございます。",
+  "raw": "531a175b3b2e2a59380ecc165912120ce2c839e0463224530ecc154c3233130c1f211249240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 564,
+  "rom": "035305",
+  "snes": "86:D305",
+  "aliases": [],
+  "jp": "  バンザーイ\n  バンザーイ\n  バンザーイ\nよろこびの歓声が\nわき上がりました。",
+  "raw": "0c0c88a86eaa5fcc0c0c88a86eaa5fcc0c0c88a86eaa5fcc53581e3e39e0c4e0b717cc5918e009175549222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 565,
+  "rom": "035333",
+  "snes": "86:D333",
+  "aliases": [],
+  "jp": "おいらが お祝いに\n料理を 作るぞ。",
+  "raw": "151254170c15e34f1236cce104e0ca5a0ce04756290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 566,
+  "rom": "03534A",
+  "snes": "86:D34A",
+  "aliases": [],
+  "jp": "わたしが お祝いに\n母さんに負けないくらい\nおいしい料理を作るわ!",
+  "raw": "592a22170c15e34f1236cce075205b36e0d11c35121a5412cc15122212e104e0ca5ae0475659ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 567,
+  "rom": "035372",
+  "snes": "86:D372",
+  "aliases": [],
+  "jp": "お祝いに アンコウ鍋だ。\n実は料理も得意なんだ\nうまいの作るぞ",
+  "raw": "15e34f12360c5ea86b60e3412b0ecce1663ae104e0ca4de229e165355b2bcc13491239e0475629",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 568,
+  "rom": "03539A",
+  "snes": "86:D39A",
+  "aliases": [],
+  "jp": "お祝いに アンコウ鍋よ。\n私の十八番\nおいしいの作るわ。",
+  "raw": "15e34f12360c5ea86b60e341530ecce0ed39e1c0e11ce2a2cc1512221239e04756590e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 569,
+  "rom": "0353BE",
+  "snes": "86:D3BE",
+  "aliases": [],
+  "jp": "釣って来た アンコウを\n鍋にして みんなで\n食べました。\n \n    おしまい",
+  "raw": "e0012e31e0232a0c5ea86b605acce3413622310c4a5b3532cce0024449222a0ecc0ccc0c0c0c0c15224912",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 570,
+  "rom": "0353EA",
+  "snes": "86:D3EA",
+  "aliases": [],
+  "jp": "おいらも 負けずに\nがんばるぞ。",
+  "raw": "1512544d0ce0d11c2536cc175b3b56290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 571,
+  "rom": "0353FC",
+  "snes": "86:D3FC",
+  "aliases": [],
+  "jp": "アンコウさんって\n本当においしいわね。",
+  "raw": "5ea86b60205b2e31cce02ee1b7361512221259380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 572,
+  "rom": "035412",
+  "snes": "86:D412",
+  "aliases": [],
+  "jp": "父さんも 海のぬしを\n釣りにいくぞ。",
+  "raw": "e076205b4d0ce03a3937225acce0015536121a290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 573,
+  "rom": "035428",
+  "snes": "86:D428",
+  "aliases": [],
+  "jp": "釣りばっかり していて\nこまった ものね。",
+  "raw": "e001553b2e16550c22311231cc1e492e2a0c4d39380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 574,
+  "rom": "03543F",
+  "snes": "86:D43F",
+  "aliases": [],
+  "jp": "妹が 産まれたってことは\nおいらは 兄ちゃんだ。",
+  "raw": "e01d170ce06d49572a2e311e333acc1512543a0ce0822c4e5b2b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 575,
+  "rom": "03545B",
+  "snes": "86:D45B",
+  "aliases": [],
+  "jp": "産まれた 産まれた。\nおっかあに 似ていて\nよかった よかった。",
+  "raw": "e06d49572a0ce06d49572a0ecc152e1611360ce2f1311231cc53162e2a0c53162e2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 576,
+  "rom": "03547F",
+  "snes": "86:D47F",
+  "aliases": [],
+  "jp": "ねえ 見て見て\nかわいい 女の子でしょ。",
+  "raw": "38140ce03231e03231cc165912120ce2c839e0463222520e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 577,
+  "rom": "035498",
+  "snes": "86:D498",
+  "aliases": [],
+  "jp": "ハイハイ 大丈夫ですよ。\n無事に 産まれましたよ。",
+  "raw": "875f875f0ce008e1d3e31c3224530ecce03ce04b360ce06d495749222a530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 578,
+  "rom": "0354B8",
+  "snes": "86:D4B8",
+  "aliases": [],
+  "jp": "オギャ オギャ。\nオギャーーー。",
+  "raw": "62669b0c62669b0ecc62669baaaaaa0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 579,
+  "rom": "0354C9",
+  "snes": "86:D4C9",
+  "aliases": [],
+  "jp": "拝啓 おいらの 母ちゃんが\nもうすぐ 赤ちゃんを産みま\nす。母ちゃんに かわいい妹を\n産むように いっしょに頼んで\nください。おねがいします。敬具",
+  "raw": "e208e2090c151254390ce0752c4e5b17cc4d13241b0ce1b42c4e5b5ae06d4a49cc240ee0752c4e5b360c16591212e01d5acce06d4b5313360c122e225236e3a05b32cc1a2b20120e153817122249240ee1c5e0bf",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 580,
+  "rom": "03551E",
+  "snes": "86:D51E",
+  "aliases": [],
+  "jp": "海野町  波野港",
+  "raw": "e03ae10ce24b0c0ce17de10ce2bb",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 581,
+  "rom": "03552D",
+  "snes": "86:D52D",
+  "aliases": [],
+  "jp": "弘樹",
+  "raw": "e2bae1cc",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 582,
+  "rom": "035532",
+  "snes": "86:D532",
+  "aliases": [],
+  "jp": "やったーっ! ついに\n海のぬしの クロカジキを\n釣り上げた。\n大きさは {DA}cm。\nさっそく 家に帰って\nクロカジキを 釣り上げた\n話を してあげましょう。",
+  "raw": "4f2e2aaa2eab0c2f1236cce03a393722390c67a56370655acce00155e0091d2a0ecce00818203a0cdab10ecc202e281a0ce08836e0852e31cc67a56370655a0ce00155e0091d2acce08c5a0c2231111d492252130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 583,
+  "rom": "035588",
+  "snes": "86:D588",
+  "aliases": [],
+  "jp": "やったーっ! ついに\n海のぬしの マンボウに\n出会えた。\nさあ! 願い事を\n唱えましょう。\n・・・・・・・・\n・・・・・・\n願いが かなうと\nいいですね。\nさっそく 家に帰って\nマンボウに 出会えた\n話を してあげましょう。",
+  "raw": "4f2e2aaa2eab0c2f1236cce03a393722390c96a8946036cce01ae050142a0ecc2011ab0ce09f12e04b5acce25414492252130ecca9a9a9a9a9a9a9a9cca9a9a9a9a9a9cce09f12170c16351333cc12123224380ecc202e281a0ce08836e0852e31cc96a89460360ce01ae050142acce08c5a0c2231111d492252130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 584,
+  "rom": "035605",
+  "snes": "86:D605",
+  "aliases": [],
+  "jp": "やったーっ! ついに\n海のぬしの\nでっかい クロマグロを\n釣り上げた。\n大きさは {DA}cm。\nさあ! すぐに家へ帰って\n家族に クロマグロの\nカブト焼きを\n食べさせてあげて下さい。",
+  "raw": "4f2e2aaa2eab0c2f1236cce03a39372239cc322e16120c67a59668a55acce00155e0091d2a0ecce00818203a0cdab10ecc2011ab0c241b36e08843e0852e31cce088e255360c67a59668a539cc638e80e010185acce00244202631111d31e00b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 585,
+  "rom": "035669",
+  "snes": "86:D669",
+  "aliases": [],
+  "jp": "やったーっ! ついに\n海のぬしの でっかい\nモロコを 釣り上げた。\n大きさは {DA}cm。\nさあ! これで家族に\n自慢できるぞ。",
+  "raw": "4f2e2aaa2eab0c2f1236cce03a393722390c322e1612cc9aa56b5a0ce00155e0091d2a0ecce00818203a0cdab10ecc2011ab0c1e5732e088e25536cce2eae340321856290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 586,
+  "rom": "0356AF",
+  "snes": "86:D6AF",
+  "aliases": [],
+  "jp": "やったーっ! ついに\n{D8}を釣り上げた。\n大きさは {DA}cm。\n出産の お祝いに\nまにあうかな?\nさあ! いそいで村に\n帰りましょう。",
+  "raw": "4f2e2aaa2eab0c2f1236ccd85ae00155e0091d2a0ecce00818203a0cdab10ecce01ae06d390c15e34f1236cc493611131635accc2011ab0c12281232e02636cce08555492252130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 587,
+  "rom": "0356F8",
+  "snes": "86:D6F8",
+  "aliases": [],
+  "jp": "ちっちゃい魚を 釣ったら\n逃がしてあげてね。",
+  "raw": "2c2e2c4e12e0075a0ce0012e2a54cce067172231111d31380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 588,
+  "rom": "035712",
+  "snes": "86:D712",
+  "aliases": [],
+  "jp": "散らかさないでーっ!\nエッサ、ホイサ",
+  "raw": "e264541620351232aa2eabcc617b6d0d935f6d",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 589,
+  "rom": "035726",
+  "snes": "86:D726",
+  "aliases": [],
+  "jp": "魚がたくさん取れるように\n網の穴を 繕ってるの。",
+  "raw": "e007172a1a205be1865756531336cce2d839e0815a0ce3a12e3156390e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 590,
+  "rom": "035744",
+  "snes": "86:D744",
+  "aliases": [],
+  "jp": "カヌー作りの じいとは\nわしのことじゃ!\nじつは クロダイの魚拓を\n作りたいが 釣って来て\nもらえんじゃろうか?",
+  "raw": "6384aae04755390c2312333acc5922391e33234eabcc232f3a0c67a5785f39e007e2655acce047552a12170ce0012e31e02331cc4d54145b234e581316ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 591,
+  "rom": "035783",
+  "snes": "86:D783",
+  "aliases": [],
+  "jp": "おうっ! やりおったな。\nわしにも釣れんかった魚を\nとうとう 釣り上げたか!\nわしが たんねんに作った\nカヌーじゃが持っていけ。",
+  "raw": "15132eab0c4f55152e2a350ecc5922364de001575b162e2ae0075acc331333130ce00155e0091d2a16abcc5922170c2a5b385b36e0472e2acc6384aa234e17e00c2e31121c0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 592,
+  "rom": "0357CA",
+  "snes": "86:D7CA",
+  "aliases": [],
+  "jp": "カヌーに 乗っているか!\n速い潮に 流されるなよ。",
+  "raw": "6384aa360ce0e32e31125616abcce13712e297360ce00420575635530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 593,
+  "rom": "0357E8",
+  "snes": "86:D7E8",
+  "aliases": [],
+  "jp": "ニャン 魚をちょうだい。",
+  "raw": "839ba80ce0075a2c52132b120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 594,
+  "rom": "0357F6",
+  "snes": "86:D7F6",
+  "aliases": [],
+  "jp": "ニャン 僕の魚たちを\n見てちょうだい。",
+  "raw": "839ba80ce11039e0072a2c5acce032312c52132b120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 595,
+  "rom": "03580D",
+  "snes": "86:D80D",
+  "aliases": [],
+  "jp": "ありがとう。ニャンニャン",
+  "raw": "11551733130e839ba8839ba8",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 596,
+  "rom": "03581A",
+  "snes": "86:D81A",
+  "aliases": [],
+  "jp": "残念だニャー。",
+  "raw": "e09be1212b839baa0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 597,
+  "rom": "035824",
+  "snes": "86:D824",
+  "aliases": [],
+  "jp": "ウキが ピクピク動いても\nエサが合ってないと 魚は\n絶対 に食べないからね。\nクロダイって スイカを\n食べるのよ。変な魚。",
+  "raw": "6065170c8c678c67e01712314dcc616d17e2402e313512330ce0073acce0dce2600c36e0024435121654380ecc67a5785f2e310c715f635acce002445639530ee0a935e0070e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 598,
+  "rom": "035871",
+  "snes": "86:D871",
+  "aliases": [],
+  "jp": "虫メガネを使って、\n砂浜や岩場を見れば\nエサなんか いくらでも\nめっかるぞ。",
+  "raw": "e0209964855ae0302e310dcce015e24d4fe0a1e0535ae032573bcc616d355b160c121a54324dcc4c2e1656290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 599,
+  "rom": "03589F",
+  "snes": "86:D89F",
+  "aliases": [],
+  "jp": "磁石があれば、秘密の方角\nが分かるのよ。\n画面の 北が上、南が下\nえっと 東が右 西が左よ。\n方角のとおりに 進むと\nきっと いい事があるわよ。",
+  "raw": "e0ebe04a1711573b0de350e35139e074e262cc17e116165639530ecce352e08f390ce23217e0090de23117e00bcc142e330ce22f17e3180ce23017e317530ecce074e26239331555360ce3534b33cc182e330c1212e04b17115659530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 600,
+  "rom": "0358FD",
+  "snes": "86:D8FD",
+  "aliases": [],
+  "jp": "カレイが 釣れるんだ。\nみんなに ないしょだよ。",
+  "raw": "63a45f170ce00157565b2b0ecc4a5b35360c351222522b530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 601,
+  "rom": "03591D",
+  "snes": "86:D91D",
+  "aliases": [],
+  "jp": "サビキ釣りが 大好き。\nたくさん 泳いでいるよ。",
+  "raw": "6d8b65e00155170ce008e01e180ecc2a1a205b0ce02812321256530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 602,
+  "rom": "035940",
+  "snes": "86:D940",
+  "aliases": [],
+  "jp": "ほらほらっ カサゴが!\nこんな おばあちゃんでも\n釣れるのよ。",
+  "raw": "465446542e0c636d6c17abcc1e5b350c153b112c4e5b324dcce001575639530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 603,
+  "rom": "035967",
+  "snes": "86:D967",
+  "aliases": [],
+  "jp": "わたし 大会のお手伝い\nしているの。えらいでしょ。",
+  "raw": "592a220ce008e0503915e054e0d812cc22311256390e1454123222520e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 604,
+  "rom": "035985",
+  "snes": "86:D985",
+  "aliases": [],
+  "jp": "お地蔵さんに\nお供えを するんじゃよ。\nきっといい事があるから。",
+  "raw": "15e049e139205b36cc15e251145a0c24565b234e530ecc182e331212e04b17115616540e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 605,
+  "rom": "0359AA",
+  "snes": "86:D9AA",
+  "aliases": [],
+  "jp": "ほう\n海のぬしを釣りたいのか。\nザトウクジラのヒゲを\n取ってきたら わしの\n宝物をあげよう。",
+  "raw": "4613cce03a3937225ae001552a1239160ecc6e80606770a1398a6a5acce1862e31182a540c592239cce0cde0115a111d53130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 606,
+  "rom": "0359DE",
+  "snes": "86:D9DE",
+  "aliases": [],
+  "jp": "それは!\nザトウクジラのヒゲじゃな\n宝物の地図 をあげよう。",
+  "raw": "28573aabcc6e80606770a1398a6a234e35cce0cde01139e049e2920c5a111d53130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 607,
+  "rom": "035A01",
+  "snes": "86:DA01",
+  "aliases": [],
+  "jp": "わしは昔 悪い海賊\nだったんだ。\n村人には ないしょだぞ。",
+  "raw": "59223ae2100ce28012e03ae397cc2b2e2a5b2b0ecce026e03f363a0c351222522b290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 608,
+  "rom": "035A25",
+  "snes": "86:DA25",
+  "aliases": [],
+  "jp": "ついに モロコザオを\n手に入れたのか。\n大切に 使うのだぞ。",
+  "raw": "2f12360c9aa56b6e625acce05436e02a572a39160ecce008e0b6360ce03013392b290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 609,
+  "rom": "035A49",
+  "snes": "86:DA49",
+  "aliases": [],
+  "jp": "      海賊の秘密の地図\n地図の場所に秘密の入口がある\nこの入口で呪文を唱えるべし。\n      アブラ カタブラ\n        ヒラケ ゴマ",
+  "raw": "0c0c0c0c0c0ce03ae39739e350e35139e049e292cce049e29239e053e07d36e350e35139e02ae021171156cc1e39e02ae02132e3a2e3a35ae254145644220ecc0c0c0c0c0c0c5e8ea10c63778ea1cc0c0c0c0c0c0c0c0c8aa1690c6c96",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 610,
+  "rom": "035AA7",
+  "snes": "86:DAA7",
+  "aliases": [],
+  "jp": "今日のお味噌汁に\nハマグリを入れるのよ。",
+  "raw": "e06ee03e3915e025e356e14636cc879668a25ae02a575639530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 611,
+  "rom": "035AC2",
+  "snes": "86:DAC2",
+  "aliases": [],
+  "jp": "気持ちがいーよーっ。",
+  "raw": "e016e00c2c1712aa53aa2e0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 612,
+  "rom": "035ACF",
+  "snes": "86:DACF",
+  "aliases": [],
+  "jp": "砂のお城を 作ったの。\nすごいでしょ。",
+  "raw": "e0153915e3235a0ce0472e2a390ecc241f123222520e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 613,
+  "rom": "035AE6",
+  "snes": "86:DAE6",
+  "aliases": [],
+  "jp": "バブ バブ。\nお兄ちゃんもお姉ちゃんも\n僕の子守りをしてくれない\nつまんないなー バブバブ。",
+  "raw": "888e0c888e0ecc15e0822c4e5b4d15e3202c4e5b4dcce11039e046e212555a22311a573512cc2f495b351235aa0c888e888e0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 614,
+  "rom": "035B1A",
+  "snes": "86:DB1A",
+  "aliases": [],
+  "jp": "ワンワン この先の砂浜で\n動けない ウミガメさんを\n見つけたよ。\n助けてあげて ワンワン。",
+  "raw": "a6a8a6a80c1e39e26939e015e24d32cce0171c35120c60976499205b5acce0322f1c2a530ecce1d01c31111d310ca6a8a6a80e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 615,
+  "rom": "035B4E",
+  "snes": "86:DB4E",
+  "aliases": [],
+  "jp": "ワンワン わたしも\n砂のお城を作るワン。",
+  "raw": "a6a8a6a80c592a224dcce0153915e3235ae04756a6a80e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 616,
+  "rom": "035B66",
+  "snes": "86:DB66",
+  "aliases": [],
+  "jp": "私の 投げ釣りのフォーム\nきまっているだろ。\nこれぞ\n投げ釣りの醍醐味よ。",
+  "raw": "e0ed390ce0681de00155398db3aa98cc18492e3112562b580ecc1e5729cce0681de0015539e3a4e3a5e025530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 617,
+  "rom": "035B94",
+  "snes": "86:DB94",
+  "aliases": [],
+  "jp": "おいらでも シロギスを\n釣れるんだぜ。\nほらほらっ シロギスが\n入れぐいだぞっ!",
+  "raw": "151254324d0c6fa566715acce00157565b2b270ecc465446542e0c6fa5667117cce02a571b122b292eab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 618,
+  "rom": "035BC5",
+  "snes": "86:DBC5",
+  "aliases": [],
+  "jp": "わたしは 学校に行くより\n釣りが好きで 今日もまた\n釣りに来てしまった。\nわたしは 釣りが好きだー",
+  "raw": "592a223a0ce3a6e3a736e0411a5355cce0015517e01e18320ce06ee03e4d492acce0015536e0233122492e2a0ecc592a223a0ce0015517e01e182baa",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 619,
+  "rom": "035C08",
+  "snes": "86:DC08",
+  "aliases": [],
+  "jp": "ウミガメは 産まれた\n砂浜に戻ってきて\n産卵するんじゃよ。",
+  "raw": "609764993a0ce06d49572acce015e24d36e2572e311831cce06de03824565b234e530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 620,
+  "rom": "035C2C",
+  "snes": "86:DC2C",
+  "aliases": [],
+  "jp": "どっしり かまえて\nアタリを待つ。\nこれが釣りの王道よお!",
+  "raw": "342e22550c16491431cc5e77a25ae27a2f0ecc1e5717e0015539e27be0ae5315ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 621,
+  "rom": "035C54",
+  "snes": "86:DC54",
+  "aliases": [],
+  "jp": "スズキを 釣り上げるには\nルアーフィッシングが\n面白いよ。",
+  "raw": "7172655a0ce00155e0091d56363acca35eaa8d5c7b6fa86817cce08fe0ab12530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 622,
+  "rom": "035C7C",
+  "snes": "86:DC7C",
+  "aliases": [],
+  "jp": "今日の晩飯は ハゼの\nテンプラにするのよ。",
+  "raw": "e06ee03e39e3a8e2f23a0c877439cc7ea88fa136245639530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 623,
+  "rom": "035C9C",
+  "snes": "86:DC9C",
+  "aliases": [],
+  "jp": "漁業組合 大会事務員です。",
+  "raw": "e277e2f9e2a7e2400ce008e050e04be3a9e3aa32240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 624,
+  "rom": "035CB3",
+  "snes": "86:DCB3",
+  "aliases": [],
+  "jp": "ウ・・・・ ポト\nいつも 私はここで産卵を\nすることに しているの。\nウ・・・・ ポト\nこれで全部。あいたた・・\n疲れちゃって 動けない。\n波打ち際まで 押して\nもらえませんか?",
+  "raw": "60a9a9a9a90c9580cc122f4d0ce0ed3a1e1e32e06de0385acc24561e33360c22311256390ecc60a9a9a9a90c9580cc1e5732e05ce0420e11122a2aa9a9cce23e572c4e2e310ce0171c35120ecce17de2df2ce22b49320ce2522231cc4d541449265b16ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 625,
+  "rom": "035D18",
+  "snes": "86:DD18",
+  "aliases": [],
+  "jp": "あいたた・・\n産卵で疲れちゃって\n動けないの。\n波打ち際まで 押して\nもらえませんか?",
+  "raw": "11122a2aa9a9cce06de03832e23e572c4e2e31cce0171c3512390ecce17de2df2ce22b49320ce2522231cc4d541449265b16ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 626,
+  "rom": "035D4C",
+  "snes": "86:DD4C",
+  "aliases": [],
+  "jp": "ファー 海は気持ちいいわ\n海に入れば もう大丈夫。\n押してくれて ありがとう。",
+  "raw": "8db4aa0ce03a3ae016e00c2c121259cce03a36e02a573b0c4d13e008e1d3e31c0ecce25222311a57310c11551733130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 627,
+  "rom": "035D7D",
+  "snes": "86:DD7D",
+  "aliases": [],
+  "jp": "今年も 海が荒れず\n豊漁で 家族円満\n交通安全 安産安産\nブツブツブツ・・・",
+  "raw": "e06ee1224d0ce03a17e2205725cce3abe277320ce088e255e000e10ecce142e20ee256e05c0ce256e06de256e06dcc8e7c8e7c8e7ca9a9a9",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 628,
+  "rom": "035DB6",
+  "snes": "86:DDB6",
+  "aliases": [],
+  "jp": "ワーイ ワーイ\nきれいな お花。",
+  "raw": "a6aa5f0ca6aa5fcc185712350c15e0fd0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 629,
+  "rom": "035DC8",
+  "snes": "86:DDC8",
+  "aliases": [],
+  "jp": "ふいーっ 疲れたべー。\n草むしりは\n腰が疲れるのよ。",
+  "raw": "4012aa2e0ce23e572a44aa0ecce02c4b22553acce28117e23e575639530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 630,
+  "rom": "035DE7",
+  "snes": "86:DDE7",
+  "aliases": [],
+  "jp": "大きな岩が ゴロゴロして\n歩きにくいわ。\nすべって 転ばないでね。",
+  "raw": "e0081835e0a1170c6ca56ca52231cce38918361a12590ecc24442e310ce19d3b351232380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 631,
+  "rom": "035E0D",
+  "snes": "86:DE0D",
+  "aliases": [],
+  "jp": "まさか クロダイの私が\n釣られるとは。くやしー。",
+  "raw": "4920160c67a5785f39e0ed17cce001545756333a0e1a4f22aa0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 632,
+  "rom": "035E28",
+  "snes": "86:DE28",
+  "aliases": [],
+  "jp": "あんたの竿じゃあ 魚に\n逃げられちゃうねぇ。\nこのさきの 釣具屋さんで\nいい竿を 売ってるよ。",
+  "raw": "115b2a39e01b234e110ce00736cce0671d54572c4e1338100ecc1e392018390ce001e0bfe283205b32cc1212e01b5a0ce0d62e3156530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 633,
+  "rom": "035E66",
+  "snes": "86:DE66",
+  "aliases": [],
+  "jp": "足をすべらして\n潮に 流されるなよ。",
+  "raw": "e2375a2444542231cce297360ce00420575635530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 634,
+  "rom": "035E82",
+  "snes": "86:DE82",
+  "aliases": [],
+  "jp": "フグには 毒があるんだぞ。\n食べたらいけないんだぞー",
+  "raw": "8d68363a0ce1261711565b2b290ecce002442a54121c35125b2b29aa",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 635,
+  "rom": "035EA5",
+  "snes": "86:DEA5",
+  "aliases": [],
+  "jp": "チクショー!50cmもある\nクロダイに逃げられたっ。",
+  "raw": "79676f9faaab0601b14d1156cc67a5785f36e0671d54572a2e0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 636,
+  "rom": "035EC0",
+  "snes": "86:DEC0",
+  "aliases": [],
+  "jp": "ぬし釣りの 旅をしている\nだか? かっこいいなー。\nがんばれよ!",
+  "raw": "3722e00155390ce0c95a22311256cc2b16ac0c162e1e121235aa0ecc175b3b5753ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 637,
+  "rom": "035EE3",
+  "snes": "86:DEE3",
+  "aliases": [],
+  "jp": "エサだけ とられると\nくやしいわね。",
+  "raw": "616d2b1c0c3354575633cc1a4f221259380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 638,
+  "rom": "035EFC",
+  "snes": "86:DEFC",
+  "aliases": [],
+  "jp": "おいらに 海釣りを教えて\nくれないか。\nおいらは 川釣りなら\n得意なんだぞ。",
+  "raw": "151254360ce03ae001555ae2031431cc1a573512160ecc1512543a0ce006e001553554cce229e165355b2b290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 639,
+  "rom": "035F30",
+  "snes": "86:DF30",
+  "aliases": [],
+  "jp": "磯タビを はかないと\n磯は あぶないから\n立ち入り 禁止だよ。\n帰った 帰った。ブーブー",
+  "raw": "e2b8778b5a0c3a16351233cce2b83a0c114135121654cce0712ce02a550ce33fe06c2b530ecce0852e2a0ce0852e2a0e8eaa8eaa",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 640,
+  "rom": "035F65",
+  "snes": "86:DF65",
+  "aliases": [],
+  "jp": "おいらも 磯タビが\nほしいなー。ブーブー",
+  "raw": "1512544d0ce2b8778b17cc46221235aa0e8eaa8eaa",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 641,
+  "rom": "035F7B",
+  "snes": "86:DF7B",
+  "aliases": [],
+  "jp": "とうろうを きれいに\nお掃除 しましょ。",
+  "raw": "331358135a0c18571236cc15e218e2190c224922520e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 642,
+  "rom": "035F92",
+  "snes": "86:DF92",
+  "aliases": [],
+  "jp": "この灯を目印に夜でも船が\n安全に 航行できるのよ。",
+  "raw": "1e39e2995ae1b1e1b236e0a7324de2ca17cce256e05c360ce3afe04132185639530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 643,
+  "rom": "035FB5",
+  "snes": "86:DFB5",
+  "aliases": [],
+  "jp": "アワビ、サザエ、イセエビ\n海の中に おいしい物が\nいっぱいあるけど\n勝手に取ると だめなのよ。",
+  "raw": "5ea68b0d6d6e610d5f73618bcce03a39e00a360c15122212e01117cc122e3c1211561c34cce204e05436e18656330c2b4c3539530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 644,
+  "rom": "035FEB",
+  "snes": "86:DFEB",
+  "aliases": [],
+  "jp": "岩海苔取りは大変だけんど\nいい汗かくべなあ。\nおめえも やるべか?",
+  "raw": "e0a1e03ae3b0e186553ae008e0a92b1c5b34cc1212e26f161a4435110ecc154c144d0c4f564416ac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 645,
+  "rom": "036014",
+  "snes": "86:E014",
+  "aliases": [],
+  "jp": "ヨイショ ドッコラショ\n海賊の埋蔵金が\n埋まってるらしい。\n絶対ないしょだよ。",
+  "raw": "a05f6f9f0c817b6ba16f9fcce03ae39739e3b1e139e08317cce3b1492e31565422120ecce0dce260351222522b530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 646,
+  "rom": "036044",
+  "snes": "86:E044",
+  "aliases": [],
+  "jp": "毎日アザラシに エサを\nあげてるんだ。",
+  "raw": "e10fe03e5e6ea16f360c616d5acc111d31565b2b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 647,
+  "rom": "03605A",
+  "snes": "86:E05A",
+  "aliases": [],
+  "jp": "今日は 大物が釣れる\n予感がするんだ!\nヒラマサの引きは凄いぞ。",
+  "raw": "e06ee03e3a0ce008e01117e0015756cce287e2881724565b2babcc8aa1966d39e332183ae35412290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 648,
+  "rom": "03608A",
+  "snes": "86:E08A",
+  "aliases": [],
+  "jp": "海はよー 海はよー\n海はでっかいなー。",
+  "raw": "e03a3a53aa0ce03a3a53aacce03a3a322e161235aa0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 649,
+  "rom": "0360A7",
+  "snes": "86:E0A7",
+  "aliases": [],
+  "jp": "イサキなら\nそこらに いるぞ。",
+  "raw": "5f6d653554cc281e54360c1256290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 650,
+  "rom": "0360B7",
+  "snes": "86:E0B7",
+  "aliases": [],
+  "jp": "クチグロ釣り名人とは\n俺様のことよ。",
+  "raw": "677968a5e00155e0a8e03f333acce089e107391e33530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 651,
+  "rom": "0360CF",
+  "snes": "86:E0CF",
+  "aliases": [],
+  "jp": "おぬしも ぬし釣りの\n旅をしているだか?\nウム がんばれよ!",
+  "raw": "1537224d0c3722e0015539cce0c95a223112562b16accc60980c175b3b5753ab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 652,
+  "rom": "0360F0",
+  "snes": "86:E0F0",
+  "aliases": [],
+  "jp": "アザラシといっしょに\n泳いだり。釣りをしたり。\nこの島で遊ぶの大好き。",
+  "raw": "5e6ea16f33122e225236cce028122b550ee001555a222a550ecc1e39e2b332e0584139e008e01e180e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 653,
+  "rom": "03611A",
+  "snes": "86:E11A",
+  "aliases": [],
+  "jp": "ブダイって色がきれいね。\nわたし きれいな魚\n大好き。",
+  "raw": "8e785f2e31e0e217185712380ecc592a220c18571235e007cce008e01e180e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 654,
+  "rom": "03613A",
+  "snes": "86:E13A",
+  "aliases": [],
+  "jp": "大会やってますよーー。",
+  "raw": "e008e0504f2e31492453aaaa0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 655,
+  "rom": "036148",
+  "snes": "86:E148",
+  "aliases": [],
+  "jp": "変な 岩があるなー。\nちょっと 押してみよう。\nヨイショ ヨイショ\nびくとも しないや。",
+  "raw": "e0a9350ce0a117115635aa0ecc2c522e330ce25222314a53130ecca05f6f9f0ca05f6f9fcc3e1a334d0c2235124f0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 656,
+  "rom": "036178",
+  "snes": "86:E178",
+  "aliases": [],
+  "jp": "海賊の秘密の地図にあった\n秘密の入口だ。\n呪文を唱えてみよう。\n    アブラ カタブラ\n      ヒラケ ゴマ\n・・・・・・・\n何にもおきないや。",
+  "raw": "e03ae39739e350e35139e049e29236112e2acce350e35139e02ae0212b0ecce3a2e3a35ae25414314a53130ecc0c0c0c0c5e8ea10c63778ea1cc0c0c0c0c0c0c8aa1690c6c96cca9a9a9a9a9a9a9cce03b364d151835124f0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 657,
+  "rom": "0361D2",
+  "snes": "86:E1D2",
+  "aliases": [],
+  "jp": "ガラ ガラ ガラ\n秘密の入口が開いた。\n本当だったんだ。",
+  "raw": "64a10c64a10c64a1cce350e35139e02ae02117e0fc122a0ecce02ee1b72b2e2a5b2b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 658,
+  "rom": "0361F6",
+  "snes": "86:E1F6",
+  "aliases": [],
+  "jp": "磯タビがないと 危険です。\n島に上陸できません。",
+  "raw": "e2b8778b173512330ce227e22e32240ecce2b336e009e105321849265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 659,
+  "rom": "036215",
+  "snes": "86:E215",
+  "aliases": [],
+  "jp": "この船では 外洋は\n危険です。戻りましょう。",
+  "raw": "1e39e2ca323a0ce2b9e29a3acce227e22e32240ee25755492252130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 660,
+  "rom": "036232",
+  "snes": "86:E232",
+  "aliases": [],
+  "jp": "船が 強い潮に流されて\n遭難しました。",
+  "raw": "e2ca170ce09d12e29736e004205731cce3b2e3372249222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 661,
+  "rom": "03624C",
+  "snes": "86:E24C",
+  "aliases": [],
+  "jp": "船では 危険なので\n西の離島に近づけません。",
+  "raw": "e2ca323a0ce227e22e353932cce23039e168e2b336e048301c49265b0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 662,
+  "rom": "03626A",
+  "snes": "86:E26A",
+  "aliases": [],
+  "jp": "カジキ大会 やっています。\nおおきなの 釣ったら\n計量に来てください。",
+  "raw": "637065e008e0500c4f2e311249240ecc15151835390ce0012e2a54cce241e1b936e023311a2b20120e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 663,
+  "rom": "036294",
+  "snes": "86:E294",
+  "aliases": [],
+  "jp": "だめだわ 私の力では\nこの離島では 大きな魚\nばかりで 大変よ。",
+  "raw": "2b4c2b590ce0ed39e029323acc1e39e168e2b3323a0ce0081835e007cc3b1655320ce008e0a9530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 664,
+  "rom": "0362C3",
+  "snes": "86:E2C3",
+  "aliases": [],
+  "jp": "見てごらん ウミガメが\n泳いでいるよ。",
+  "raw": "e032311f545b0c6097649917cce02812321256530e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 665,
+  "rom": "0362D9",
+  "snes": "86:E2D9",
+  "aliases": [],
+  "jp": "わたし ウニ大好き。\nおいしいから。\nでも 踏んづけると痛い\nから 注意してね。",
+  "raw": "592a220c6083e008e01e180ecc1512221216540ecc324d0ce39b5b301c5633e12c12cc16540ce12de1652231380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 666,
+  "rom": "036308",
+  "snes": "86:E308",
+  "aliases": [],
+  "jp": "おねがいです。お地蔵さん\n水が無いと 暮らせません。\n西の離島の タコを\n追い出してください。\nおねがいします。",
+  "raw": "1538171232240e15e049e139205bcce00317e03c12330ce3b3542649265b0ecce23039e168e2b3390c776b5acce0b112e01a22311a2b20120ecc153817122249240e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 667,
+  "rom": "03634B",
+  "snes": "86:E34B",
+  "aliases": [],
+  "jp": "タコを退治してくれて\nありがとう。お地蔵さんも\nありがとう。",
+  "raw": "776b5ae278e1cb22311a5731cc11551733130e15e049e139205b4dcc11551733130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 668,
+  "rom": "03636E",
+  "snes": "86:E36E",
+  "aliases": [],
+  "jp": "引きが凄いんだ。\nとてつもない大物が\n生きエサにかかったんだ。\nヨイショ ウンショ\nサメとかエイだとやだなー",
+  "raw": "e3321817e354125b2b0ecc33312f4d3512e008e01117cce00518616d3616162e2a5b2b0ecca05f6f9f0c60a86f9fcc6d993316615f2b334f2b35aa",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 669,
+  "rom": "0363B0",
+  "snes": "86:E3B0",
+  "aliases": [],
+  "jp": "くやしー\n・・・・・・・\n今度こそ 巨大クエを\n釣り上げるぞ。",
+  "raw": "1a4f22aacca9a9a9a9a9a9a9cce06ee0d71e280ce394e00867615acce00155e0091d56290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 670,
+  "rom": "0363D6",
+  "snes": "86:E3D6",
+  "aliases": [],
+  "jp": "ここには\n大物が潜んで いるような\n気がするのだが・・・・",
+  "raw": "1e1e363acce008e01117e2965b320c1256531335cce016172456392b17a9a9a9a9",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 671,
+  "rom": "0363F8",
+  "snes": "86:E3F8",
+  "aliases": [],
+  "jp": "昔はこの離島はあまり人が\n来れなくて 魚の天国\nだったんだ。\nでも最近は 船がいいから\n人が来すぎるんだよな。",
+  "raw": "e2103a1e39e168e2b33a114955e03f17cce02357351a310ce00739e05ae3b5cc2b2e2a5b2b0ecc324de057e0483a0ce2ca1712121654cce03f17e0232419565b2b53350e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 672,
+  "rom": "03643D",
+  "snes": "86:E43D",
+  "aliases": [],
+  "jp": "わしは じっくり深場を\n探るんだ。大物を釣るぞ。",
+  "raw": "59223a0c232e1a55e06be0535acce0b2565b2b0ee008e0115ae00156290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 673,
+  "rom": "03645C",
+  "snes": "86:E45C",
+  "aliases": [],
+  "jp": "イシダイが大きくなると\nクチグロになるんだぞ。\nしってた?",
+  "raw": "5f6f785f17e008181a355633cc677968a53635565b2b290ecc222e312aac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 674,
+  "rom": "03647B",
+  "snes": "86:E47B",
+  "aliases": [],
+  "jp": "イシガキダイが\n大きくなると\nクチジロになるんだぞ。\nしってた?",
+  "raw": "5f6f6465785f17cce008181a355633cc677970a53635565b2b290ecc222e312aac",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 675,
+  "rom": "03649D",
+  "snes": "86:E49D",
+  "aliases": [],
+  "jp": "モロコを釣ったことが\nあるかい? 釣って来たら\n名人と 言ってやるぜっ!",
+  "raw": "9aa56b5ae0012e2a1e3317cc11561612ac0ce0012e31e0232a54cce0a8e03f330ce2242e314f56272eab",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 676,
+  "rom": "0364C8",
+  "snes": "86:E4C8",
+  "aliases": [],
+  "jp": "いよっ!\nモロコ釣り名人。",
+  "raw": "12532eabcc9aa56be00155e0a8e03f0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 677,
+  "rom": "0364D9",
+  "snes": "86:E4D9",
+  "aliases": [],
+  "jp": "この西の離島は 波が高い\nから注意するんだぞ。",
+  "raw": "1e39e23039e168e2b33a0ce17d17e0bd12cc1654e12de16524565b2b290e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 678,
+  "rom": "0364F8",
+  "snes": "86:E4F8",
+  "aliases": [],
+  "jp": "このあたりは 私の庭\nみたいな ものよ。\nこの先の 西の離島は\n絶好の 釣り場ね。",
+  "raw": "1e39112a553a0ce0ed39e3b6cc4a2a12350c4d39530ecc1e39e269390ce23039e168e2b33acce0dce01e390ce00155e053380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 679,
+  "rom": "03652C",
+  "snes": "86:E52C",
+  "aliases": [],
+  "jp": "先日は 産卵のとき\nどうも ありがとう。",
+  "raw": "e269e03e3a0ce06de038393318cc34134d0c11551733130e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 680,
+  "rom": "036545",
+  "snes": "86:E545",
+  "aliases": [],
+  "jp": "この先の 西の離島に\nつれていって あげるわ。\n背中に 乗って",
+  "raw": "1e39e269390ce23039e168e2b336cc2f5731122e310c111d56590ecce2fee00a360ce0e32e31",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 681,
+  "rom": "03656C",
+  "snes": "86:E56C",
+  "aliases": [],
+  "jp": "東の離島に 戻りましょう。\n背中に 乗って",
+  "raw": "e22f39e168e2b3360ce25755492252130ecce2fee00a360ce0e32e31",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 682,
+  "rom": "036589",
+  "snes": "86:E589",
+  "aliases": [],
+  "jp": "しっかり つかまって。",
+  "raw": "222e16550c2f16492e310e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 683,
+  "rom": "036595",
+  "snes": "86:E595",
+  "aliases": [],
+  "jp": "それじゃ また今度ね。",
+  "raw": "2857234e0c492ae06ee0d7380e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 684,
+  "rom": "0365A3",
+  "snes": "86:E5A3",
+  "aliases": [],
+  "jp": "水がほしければ おいらの\n攻撃を のがれてみな。\nおいらの正面にきたら\nスミを かけるぞ。\nタコ壺を 持ってきたら\nタコ壺に 入ってあげる。\nタコ壺は 一個だけ\n押して 運べるよ。\nやってみな。",
+  "raw": "e0031746221c573b0c15125439cce1a6e0f75a0c391757314a350ecc15125439e13ee08f36182a54cc71975a0c161c56290ecc776be3b75a0ce00c2e31182a54cc776be3b7360ce02a2e31111d560ecc776be3b73a0ce036e2382b1ccce25222310ce28b4456530ecc4f2e314a350e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 685,
+  "rom": "036613",
+  "snes": "86:E613",
+  "aliases": [],
+  "jp": "ペッ\n残念でした。",
+  "raw": "927bcce09be12132222a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 686,
+  "rom": "03661F",
+  "snes": "86:E61F",
+  "aliases": [],
+  "jp": "ありがとう。\nこれで タコ壺の中で\n安心して くらせるよ。\n水は 好きなだけ\n持っていきな。",
+  "raw": "11551733130ecc1e57320c776be3b739e00a32cce256e09922310c1a542656530ecce0033a0ce01e18352b1ccce00c2e311218350e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 704,
+  "rom": "036084",
+  "snes": "86:E084",
+  "aliases": [],
+  "jp": "47き。2",
+  "raw": "0508180e03",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 708,
+  "rom": "036655",
+  "snes": "86:E655",
+  "aliases": [],
+  "jp": "ついに\n海のぬしを 見つけた。",
+  "raw": "2f1236cce03a3937225a0ce0322f1c2a0e",
+  "en": "",
+  "data": false
+ },
+ {
+  "id": 709,
+  "rom": "036667",
+  "snes": "86:E667",
+  "aliases": [],
+  "jp": "ついに\nアンコウを 見つけた。",
+  "raw": "2f1236cc5ea86b605a0ce0322f1c2a0e",
+  "en": "",
+  "data": false
+ }
+]

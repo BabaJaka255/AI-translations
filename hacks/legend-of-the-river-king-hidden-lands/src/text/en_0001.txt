@@ -1,0 +1,356 @@
+# Hikyou o Motomete English script, part 1 (ids 1-400)
+# Format: id|English. {E} newline, {D} next page, {>N} tab to N px from the line start,
+# {7:n} family member's name, {8:n} pause, {A} insert, {B} number, {C:n} number n digits wide.
+# Lines without {E} are wrapped to the window by the builder.
+1|Season
+2|Flag{B} {A}{E}Fish {A}{E}Length {B}{E}Music {B}{E}SFX {B}{E}Map{A}{E}Pos. {B} {B}
+3|On
+4|Off
+5|Weather {A}{E}Time {A}{E}Yen{C:5}{E}HP{C:5}{E}Float Lv {B}{E}Casting Lv {B}{E}Lure Lv {B}{E}Fly Lv {B}
+6|Sunny
+7|Cloudy
+8|Rain
+9|{C:3} {A}{E}{C:3} {C:3} {A}
+10|Ground
+11|Shallows
+12|Water
+13|Road to {A}
+14|{7:0}'s {A} event{E}message
+15|{C:3} {C:3} {A}{E}{C:3} {C:3} {C:3}
+16|Fish {B} {A} Water{B}
+17|Time{B}:{B}
+18|The Memory Card{E}is damaged.
+19|There is no Memory Card{E}in MEMORY CARD slot 1.
+20|The save data is damaged.
+21|The Memory Card in slot 1{E}is not formatted.{D}Format it now?{E}{>16}Yes{>80}No
+22|Could not format.
+23|Not enough free blocks.{E}2 blocks are needed.
+24|Erasing the record...
+25|Loading failed.
+26|Formatted.
+27|The Memory Card has{E}been changed.{D}Overwrite it?{E}{>16}Yes{>80}No
+28|Who is going fishing?
+29|Whose record do you erase?
+30|Erase {7:0}'s record?{E}{>32}Yes{>96}No
+31|Bro
+32|Dad
+33|Mom
+34|Sis
+35|Lil Sis
+36|Cousin
+37|{>40}Home{E}{A}:{A}{E}Age: {C:2}{E}{E}New Game
+38|{>40}Home{E}??: ????{E}Age: ??{E}{E}New Game
+39|{>48}{A}{E}{A}:{A}{E}HP{C:5}{E}Yen{C:5}{E}EXP{C:5}
+40|Taro
+41|Yuzo
+42|Noriko
+43|Hanako
+44|Kyoko
+45|Ichiro
+46|Enter a name.
+48|Start{>128}Erase Data
+51|OK
+77|Stream
+78|Alpine
+79|Creek
+80|Lake
+81|Plains
+82|Coast
+91|{6}{A}{>50}{5}{A}{E}HP{C:5}{E}Yen{C:5}{E}EXP{C:5}
+92|Morn
+93|Noon
+94|Eve
+95|Days later.{8:6}.{8:6}.{8:6}
+96|Next morning.{8:6}.{8:6}.{8:6}
+97|That night.{8:6}.{8:6}.{8:6}
+98|{>2}{6}Command{5}{E}{A}{>40}Eat{E}{A}{>40}Items{E}Gear{>40}Creel
+99|Fish
+100|Move
+101|Bait
+102|Lure
+103|Fly
+104|Float
+105|Casting
+106|Lure
+107|Fly
+108|H{E}k
+109|R{E}o{E}d
+110|Rod
+111|S{E}n{E}k
+112|F{E}l
+113|Float/Sinker
+114|Hook
+115|Food
+116|Items
+117|{>56}Capacity {B}{>136}Fish {B}{E}Fish in creel{>171}Size
+118|{C:2}{>88}{C:2}
+119|{C:2}{>44}Total{>88}{C:2}
+120|{C:2}cm
+121|{>2}Rod{>40}Bait{E}{>2}Lure{>40}Fly{E}{>2}Gear{>40}Items
+122|{B} yen
+123|Gear
+124|Rod{E}Lure{E}Fly
+125|Mayfly{E}Caddis{E}Terrestr.
+126|Diptera{E}Stonefly{E}Terrestr.
+127|Body
+128|Wing
+129|Tail
+130|Fish in creel{>147}Size{>193}Price
+131|{C:2}{>88}{C:2}{E}{C:2}{>88}{C:2}{E}{C:2}
+132|Ignore{E}Greet{E}Give gift{E}Startle
+133|Lure
+134|Fly
+135|Fishing Level{E}Stream{>120}{C:3} fish{E}Alpine{>120}{C:3} fish{E}Creek{>120}{C:3} fish{E}Lake{>120}{C:3} fish{E}Plains{>120}{C:3} fish{E}Coast{>120}{C:3} fish{E}Secret{>120}{C:3} fish
+136|Fishing Level{E}{E}Float fishing{>136}{A}{E}Casting{>136}{A}{E}Lure fishing{>136}{A}{E}Fly fishing{>136}{A}
+137|Novice
+138|Adept
+139|Expert
+140|Master
+141|{7:0} started fishing.
+142|{7:0} stopped fishing.
+143|Nothing bites here.
+144|Nothing will bite until{E}you scatter chum.
+145|You can't fish while{E}swimming.
+146|You can't fish here.
+147|No rod chosen.
+148|No float chosen.
+149|No hook chosen.
+150|No sinker chosen.
+151|No lure attached.
+152|No fly attached.
+153|No bait on the hook.
+154|The creel is full.{E}You can't fish.
+155|Caught {A}!{D}Size: {B}cm.{E}Gained {B} EXP.
+156|The hook was stolen.{D}{A} got away.{D}Took {B} points{E}of damage.
+157|{7:0} is worn out.
+158|{A} got away.{D}The bait was stolen.
+159|Caught a young{E}{A}!{D}Size: {B}cm.{E}Gained {B} EXP.
+160|{A} swam off{E}happily.
+161|Caught {A}!{D}A new {A}{E}record!{D}Size: {B}cm.{E}Gained {B} EXP.
+162|The creel is now full.
+163|The lure was stolen.{D}{A} got away.{D}Took {B} points{E}of damage.
+164|The fly was stolen.{D}{A} got away.{D}Took {B} points{E}of damage.
+165|{A} got away.
+166|Caught {A}!{E}Gained {B} EXP.
+167|Caught {A}!{E}Gained {B} EXP.{D}Max HP went up{E}by one to {B}.
+168|The decoy sweetfish{E}died.
+169|The decoy sweetfish got away.{D}Took {B} points{E}of damage.{D}The hook is ruined.
+170|The fly broke.
+171|The lure broke.
+172|The hook is ruined.
+173|{A} fishing is now {A}!{D}Max HP went up by 5{E}to {B}.
+174|Float
+175|Cast
+176|Lure
+177|Fly
+178|The creel is full.
+179|Baited the hook with{E}{A}.
+180|{A} is already{E}on the hook.
+181|There's no hook{E}to put bait on.
+182|Switched to {A}.
+183|Tied on {A}.
+184|No bait.
+185|You have no lures.
+186|You have no flies.
+187|This bait is too big{E}for this hook.
+188|This bait is too small{E}for this hook.
+189|Use the nose ring to rig{E}a sweetfish.
+190|You can't put bait{E}on a nose ring.
+191|The sweetfish you caught{E}is now your decoy.
+192|Mayfly{E}{A}
+193|Caddis{E}{A}
+194|Diptera{E}{A}
+195|Stonefly{E}{A}
+196|Terrestrial{E}{A}
+197|Mayfly
+198|Caddis
+199|Diptera
+200|Stonefly
+201|Terrestrial
+202|Leech
+203|Mayfly{E}{A} {B} yen
+204|Caddis{E}{A} {B} yen
+205|Diptera{E}{A} {B} yen
+206|Stonefly{E}{A} {B} yen
+207|Terrestrial{E}{A} {B} yen
+208|Put on {A}.
+209|Switched to {A}.
+210|Choose a fishing style.
+211|Choose a hook.
+212|Choose a float.
+213|Choose a rod.
+214|Choose a sinker.
+215|No hooks left.
+216|You have no floats.
+217|You have no rods.
+218|You have no sinkers.
+219|Switched to float fishing.
+220|Switched to casting.
+221|Switched to lure fishing.
+222|Switched to fly fishing.
+223|Scattered the chum.
+224|You just scattered some.{E}No need for more yet.
+225|Scatter chum at the{E}water's edge.
+226|You can't choose that{E}while swimming.
+227|Not usable when casting.
+228|Can't be used for{E}decoy fishing.
+229|{A}
+230|Ate {A}.{D}
+231|Recovered {B} HP.{D}
+232|You're {B} HP short{E}of your max.
+233|HP fully recovered.
+234|You can't eat any more.
+235|Grilled and ate{E}{A}.{D}
+236|You have no food.
+237|{A} was poisonous!{E}You collapsed.
+238|You can't eat while{E}swimming.
+239|Yeow!{D}Lost {B} HP.
+240|What is this stuff?!{E}It tastes awful!
+241|Yeow!
+242|{A} can't be{E}used here.
+243|Can't use that now.
+244|You set the {A}{E}on the water.
+245|The {A} is in use.
+246|Found {B}{E}{A}.
+247|Found {B}{E}{A}.
+248|Found nothing.
+249|The needle points to {A}.{E}You are at {B}-{B}.
+250|The needle stopped moving.
+251|Found a mushroom.
+252|You are at {B}-{B}.
+253|You have no items.
+254|You can't use items{E}while swimming.
+255|You can't float the{E}{A} here.
+256|It's too dangerous to{E}switch to the {A} here.
+257|You can't board the{E}{A} while swimming.
+258|Found {A}, but{E}you can't carry more.
+259|Use the Gold Net in the{E}shallows to catch bugs.
+260|Take a rest?{E}{>16}Yes{>80}No
+261|You can't rest in{E}the evening.
+262|It's noon!
+263|It's evening!
+272|You have no postcards.
+273|You can't look in the{E}creel while swimming.
+274|A night's stay costs{E}{B} yen.{D}Is that all right?{E}{>16}Yes{>80}No
+275|You're already at{E}full HP.
+276|Make yourself at home.
+277|What a shame.
+278|Thank you for{E}staying with us.
+279|No money, huh?{E}Well, never mind!
+280|You're catching plenty!{E}Can't wait for the results.
+281|Good luck in the{E}tournament!
+282|Is that all right?
+283|Morning, sir!{E}Time to get up.
+284|Staying the night?{E}No charge for you.
+285|{7:2}, it's morning.{E}Time to get up.
+286|Morning, ma'am!{E}Time to get up.
+287|Welcome!{E}What are you looking for?
+288|Which one would you like?
+289|You can't carry{E}any more.
+290|That's the creel{E}you already have!
+291|That creel is smaller{E}than the one you have.
+292|You already have{E}{A}.
+293|You can't carry more hooks.
+294|You can't carry{E}any more chum.
+295|Anything else?
+296|You don't have enough money.
+297|Only one, mind you!{E}Take good care of it.
+298|That will be {B} yen.{D}Is that all right?{E}{>16}Yes{>80}No
+299|Welcome! Which fly{E}shall I tie for you?
+300|You already have{E}that same lure.
+301|You can't carry more{E}than 9 {A}.
+302|You already have{E}{A}.
+303|You already have{E}{A}.
+304|Welcome! My rods{E}are the best around.
+305|You can't carry{E}any more {A}.
+306|What will you give?
+307|Thank you.
+308|Take good care of it.
+309|Take good care of it.
+310|Take good care of it.
+311|Take good care of it!
+312|You can't give that.
+313|Looks like you can't{E}carry any more.
+314|Looks like you already{E}have one.
+315|Give {A}?{D}Is that all right?{E}{>16}Yes{>80}No
+316|You have no rod{E}to give.
+317|You have no lures.
+318|You have no flies.
+319|You've caught a lot!
+320|Thank you very much.
+321|That's too bad!
+322|There are no fish{E}in your creel!
+323|All the fish in your creel{E}come to {B} yen.{D}Sell them all?{E}{>16}Yes{>80}No
+324|Here, I'll throw in{E}{A} for free!
+325|Here, I'll throw in{E}some bait for free!
+326|Which will you sell?
+327|A {A} appeared!
+328|A {A} appeared!{E}It looks hungry.
+329|You have nothing{E}left to give.
+330|What will you do?
+331|The {A} wandered{E}off somewhere.
+332|The {A} left happily.{D}Friendship up by 5!
+333|The {A} smiled{E}and left behind{D}{A}.{E}Friendship up by 2!
+334|The {A} got scared{E}and ran away.
+335|The {A} stole{E}a hook!
+336|The {A} tried to{E}steal a hook,{D}but failed.
+337|The {A} stole{E}a fish!
+338|The {A} tried to{E}steal a fish,{D}but failed.
+339|The {A} did {B}{E}damage{D}and ran off.
+340|The {A} got angry{E}and left.
+341|The {A} smiled{E}happily{D}and left.{E}Friendship up by 2!
+342|The {A} got{E}the better of you.
+343|{7:0} is{E}worn out.
+344|Eat something soon or{E}you'll run out of strength.
+345|Worn out from swimming,{E}you collapsed.
+346|Worn out from paddling,{E}you collapsed.
+347|The {A} happily took{E}it in its mouth{D}and left. You became{E}great friends!
+348|The {A} ate{E}the {A}.{D}You became great{E}friends!
+349|The {A} looks at you{E}with cute eyes.
+350|The {A} ate the mushroom and keeled over.
+351|A contest for the total{E}length of 5 {A}.{D}The entry fee is {B} yen.{D}First prize is 1000 yen.{E}Fish are released after measuring.{D}Go out there and{E}catch some!
+352|You're catching some.{E}Shall I measure them?
+353|{B} fish, {B}cm.
+354|Your current rank: No. {B}.{E}Congratulations!
+355|Your last record was{E}better, so it stands.{D}Keep at it!
+356|No money, huh?{E}Well, too bad!
+357|What a shame.
+358|Congratulations!{D}Here is your prize{E}of 1000 yen.
+359|Rank Name{>112}Record
+360|Char Contest Records
+363|W.Crucian Records
+366|You're now at the{E}top of the rankings!
+367|{C:1}. {A}
+368|{C:3}cm
+369|{C:3}
+370|{C:1}.
+371|{C:3}cm {C:3} yen
+372|{C:3}cm
+373|Who will you send{E}a postcard to?
+374|{>0}#148{E}Fishstop Village
+375|{>0}#246{E}Sixgrave Village
+376|{>0}#318{E}Sweetfish Hamlet
+377|{>0}#472{E}Carp Town
+378|{>0}#531{E}Paddy Village
+379|{>0}#613{E}Love Beach
+380|Keep it to 5 lines.
+381|Mail it?{E}{>16}Yes{>80}No
+382|The postcard is mailed.
+383|?!
+384|Received Postcard
+385|There's no one to{E}send a postcard to.
+386|Your last postcard{E}hasn't arrived yet.
+387|Delete the last postcard{E}and send this one?{D}Send it?{E}{>16}Yes{>80}No
+388|To: {A}
+389|{>0}#613{E}Love Beach
+390|The fish are gone.
+391|There's nothing inside.
+392|Opened the chest.{E}Inside was{E}{A}.
+393|Saved.
+394|What will you offer{E}to the Jizo statue?
+395|Offered {A}{E}to the statue.
+396|The chest is locked.
+397|Saving...
+398|Saving failed.
+399|Shall I save?{E}{>16}Yes{>80}No
+400|Formatting...

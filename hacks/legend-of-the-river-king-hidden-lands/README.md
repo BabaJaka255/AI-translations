@@ -28,15 +28,28 @@ Known issues:
 - The memory card save title is still Japanese.
 - Digits typed on the postcard digit row use the original Japanese digit style (page 3 has English digits).
 
+## Build on this
+- [src/BUILD.md](src/BUILD.md): how to rebuild the patch from your own copy of the game. The build was verified byte for byte against the published patch.
+- [docs/ENGINE_NOTES.md](docs/ENGINE_NOTES.md): how the game stores its text, fonts and graphics, with addresses and hooks.
+- `src/script/script.tsv`: the whole script, Japanese next to English, one row per string.
+- [DEVLOG.md](DEVLOG.md): how the patch was made, what was tested, and what went wrong along the way.
+
 ## About AI use
 This project was made with substantial help from Claude (Anthropic). Claude did the reverse engineering of the MIPS code and text format, all of the hacking code (variable-width font, paginator, keyboards, area warp, image redraws), and the whole translation.
 
 The human tester directed the project, chose the names and English titles, playtested the builds in emulators and reported bugs with screenshots in Beetle PSX, and drew the title screen art.
 
+## License
+Code, tools and docs made for this project: MIT. Translation text and new art: CC BY 4.0. Extracted game material (the Japanese script dumps, tables and graphics in `src/`) remains the property of its rights holders and is included for research and modding.
+
+The English font and new images are rendered at build time from DejaVu Sans Bold (Bitstream Vera license), Noto Sans Black and Liberation Sans (SIL Open Font License 1.1); the fonts themselves are not included.
+
 ## Credits
 - Testing, direction and title screen art: the project's tester
 - Translation, hacking and graphics: Claude (Anthropic)
 - Original game: *Kawa no Nushi Tsuri: Hikyou o Motomete* © 1998 Victor Interactive Software / Pack-In-Soft. This is an unofficial fan translation. Please distribute the patch, not patched images.
+- Fonts: DejaVu Sans Bold (the English text font), Noto Sans Black, Liberation Sans
+- Tools: Beetle PSX (libretro) for testing; Keystone and Capstone; xdelta3
 
 ## Changelog
 - **0.9.6:** FishTaro secret name works; SELECT + step area warp; 8-letter names; gear window empty-slot labels fixed; seven lines reworded.

@@ -1,0 +1,1 @@
+Put "Tsuri Tarou (Japan).sfc" here (1,048,576 bytes, no header, CRC32 BBBFF8D8). It is git-ignored.

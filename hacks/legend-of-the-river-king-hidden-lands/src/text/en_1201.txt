@@ -1,0 +1,220 @@
+# Hikyou o Motomete English script, part 4 (ids 1201-1420): sister, little sister, cousin; the alpine lake village
+1201|{7:4}:{E}Then once I find your rod,{D}tell me about the River King.
+1202|Hermit:{E}Very well.{D}And polish your fishing{E}skills while you search.
+1203|Angler:{E}That old man lives further{D}upstream, by the falls pool.
+1204|Angler:{E}You're {7:0}, the Char Contest{E}winner? Amazing!
+1205|Angler: Ask the old man far upstream about the River King.
+1206|Angler:{E}The River King? No idea.{D}Maybe the anglers upstream{E}would know.
+1208|{7:2}:{E}Hmm.
+1209|{7:3}: Don't make me worry{E}too much, {7:0}.
+1210|{7:1}: What?{E}You really caught it?{D}Amazing!
+1211|{7:5}: Big sis,{E}did you go fishing?
+1212|{7:0}: Before the alpine lake, I'll check the stream all the way up.
+1213|{7:1}: Listen. A big fish called the River King lives in our river.{D}Someday I'm going to catch it.
+1214|{7:5}:{E}Wow. I'm so jealous.
+1215|{7:3}: Going after the River King?{E}Absolutely not!{D}Dear, you tell them{E}too.
+1216|{7:2}: That's right, {7:0},{E}listen to your mother.{D}You're too young for that.
+1217|{7:5}:{E}No, I'm not!{D}I can fish too!
+1218|{7:3}:{E}That's enough.{D}Mommy's going to get angry.
+1219|{7:2}: Now, now, dear.{E}I know. Here's what we'll do.{D}The Char Contest is{E}on right now.{D}If {7:0} can{E}win the contest,{D}we'll let her go on the journey.
+1220|{7:3}: Dear, how can you{E}say such a thing...{D}What if she really wins?{E}What then?
+1221|{7:2}:{E}Don't worry, don't worry.{D}Char aren't that easy{E}to catch.{D}Let alone win the contest.{E}{7:0} can't possibly do it.
+1222|{7:2}:{E}How about it, {7:0}?
+1223|{7:5}: Okay!{E}It's a promise, Mommy and Daddy!
+1224|{7:1}:{E}Oh boy, not my problem.{D}{7:0} is actually{E}pretty good at fishing.{D}She might just win.
+1225|{7:4}:{E}What, really?
+1226|Hermit: Well now,{E}River King fishing at your age?{D}Don't make your parents{E}worry too much.
+1227|Angler: This time I'm winning{E}the Char Contest for sure.{D}What? You're after the title too?
+1228|Angler:{E}You're {7:0}, the Char Contest{E}winner? Amazing!
+1229|Angler: They say a kappa{E}lives in this river.{D}The offerings at the Jizo{E}statue often go missing.
+1230|Angler:{E}Did you meet the kappa?
+1231|Angler: What?{E}There really was a kappa?!
+1232|Kappa: Eek, I've been seen.{E}I'd better run.{D}Huh?{E}You're not scared of me?{D}Wow, you're a strange one.{D}Most people jump{E}out of their skin.{D}By the way, do you have{E}anything to eat?{D}I'm awfully hungry.
+1233|Kappa:{E}Thank you.{D}I've never met a kid{E}like you. For the food,{D}I'll lend you my strength when{E}you swim in rivers and lakes.{D}See you!
+1234|Kappa:{E}Eek, a person!
+1235|{7:2}:{E}Char are tough.
+1236|{7:2}:{E}I never thought you'd really win.{D}A promise is a promise.{D}Oh, right. You're going{E}to the alpine lake, aren't you?{D}Then run an errand{E}for your mother on the way.
+1237|{7:2}: As we agreed,{E}no journey for you.
+1238|{7:2}: Have you done{E}your mother's errand?
+1239|{7:2}:{E}Be careful.
+1240|{7:2}:{E}Hmm.
+1241|{7:3}: Please, just{E}give up already.
+1242|{7:3}: Oh, all right.{E}A promise is a promise.{D}But in return, run an errand{E}to the alpine lake for me.{D}Please take the things on this note{D}to Grandpa and Grandma.{E}Thank you, dear.{D}Here's the money{E}you'll need for it.
+1243|{7:3}: Now you'll give up,{E}won't you?
+1244|{7:3}:{E}Take care of that errand.
+1245|{7:3}: Oh, she didn't need{E}to send anything back.{D}{7:0},{E}be careful out there.
+1246|{7:3}:{E}{7:0}, congratulations.
+1247|{7:4}:{E}But you're only six.
+1248|{7:4}:{E}When did you learn to fish?{D}Pretty impressive.
+1249|{7:4}:{E}Well, guess you'll have to give up.
+1250|{7:4}:{E}Once you finish the errand,{D}Mom will let you go.
+1251|{7:4}:{E}Good thing Mom and Dad{D}said yes.
+1252|{7:4}:{E}Not bad at all.
+1253|{7:1}: Go for it!{E}Big brother's rooting for you.
+1254|{7:1}: Well done, {7:0}!{E}You won! That's amazing.
+1255|{7:1}:{E}Too bad.
+1256|{7:1}:{E}Do a good job on that errand.
+1257|{7:1}:{E}Go for the River King!
+1258|{7:1}:{E}You really caught the River King?{D}Nice going, {7:0}.
+1259|{7:0}: Oh! I have to tell{E}Mommy and Daddy.
+1260|{7:0}: Before the alpine lake, I'll check the stream all the way up.
+1261|{7:1}: Wait, ma'am.{D}I'll find Sanpei{E}for you.{D}That's okay, right, Dad?
+1262|{7:2}: Well said, {7:1}.{D}Then don't come home until you find Sanpei. Understood?
+1263|{7:3}:{E}Dear! You can't mean that.
+1264|{7:1}:{E}It's okay, Mom.{D}I'll find Sanpei and come{E}home, I promise.
+1265|{7:3}:{E}Be careful, {7:1}.
+1266|Sanpei's Mom:{E}Please, {7:1}.
+1267|{7:0}:{E}Hold it right there! A job like that{D}is too much for {7:1}.{E}I'll find him.
+1268|{7:1}: {7:0}!{E}When did you get here?
+1269|Butler: The young master was so eager to see Master {7:1}.{8:6}.{8:6}.{8:6}.
+1270|{7:0}:{E}Butler, don't say such things!{D}Anyway,{E}I'm the one who'll find Sanpei.
+1271|{7:1}:{E}Why, you...
+1272|{7:3}:{E}Oh dear, what a pair.
+1273|{7:2}: Well, all right.{E}I'm counting on you both.
+1274|{7:0}:{E}Leave it to me, Uncle.
+1275|{7:1}:{E}Honestly, what's with him?
+1276|Hermit: Hm? Sanpei, you say?{E}You're looking for Sanpei too?{D}If I recall, Sanpei headed{E}for the alpine lake.
+1277|Angler: Hm? Someone just asked me the same thing.{D}A kid your age went to see the old man upstream.
+1278|Angler:{E}That kid? I think{D}he went much further{E}upstream from here.{D}Are you looking for someone too?
+1279|Official: So close.{E}Sorry, but you came in 2nd.{D}By the way,{E}1st place went to {7:1}.
+1280|Butler: Young master, Master {7:1} seems to have the salve.
+1281|Butler: Let us go to where{E}the bear was.
+1282|{7:0}:{E}Drat!
+1283|Butler: Young master, I believe{E}we can still catch up.
+1284|Butler: Master {7:1} entered the Char Contest for the salve.{D}What shall we do? Shall I buy some salve at once?
+1285|{7:0}:{E}No.{D}Then I wouldn't really{E}beat {7:1}.{D}I'll get the salve with{E}the contest prize money.
+1286|Butler: Very good, sir.
+1287|Butler: With the bear gone, Master {7:1} has left for the alpine lake.
+1288|{7:2}: Still haven't{E}found Sanpei?
+1289|{7:2}:{E}Thanks for all your trouble, {7:0}.
+1290|{7:2}: {7:1}? He's gone{E}on a River King journey.
+1291|{7:2}:{E}Hmm.
+1292|{7:3}:{E}Hurry and find him.
+1293|{7:3}: You did well, {7:0}.{D}Oh, by the way, {7:1} set out to catch the River King.
+1294|Butler: Young master,{E}what shall we do?
+1295|{7:0}: Isn't it obvious?!{E}After him, Butler!
+1296|{7:3}:{E}Oh my,{D}{7:0}, are you going{E}after the River King too?
+1297|{7:3}: Congratulations.{E}Good for you, {7:0}.
+1298|{7:4}:{E}Will you two be all right?
+1299|{7:4}:{E}Looks like you were{D}no match for {7:1}.
+1300|{7:4}:{E}Our {7:1} is{D}seriously fishing-crazy.{E}He's hard to beat.
+1301|{7:4}:{E}You actually caught it.{D}Pretty impressive.
+1302|{7:5}: Good luck,{E}{7:0}!
+1303|{7:5}: I'm glad they{E}found Sanpei!
+1304|{7:5}: You do your best{E}too, {7:0}!
+1305|{7:5}: You beat my big{E}brother? Wow!
+1306|Sanpei's Mom:{E}Please, {7:0}.
+1307|Sanpei's Mom:{E}Thank you for helping{D}look for Sanpei, {7:0}.
+1308|Sanpei: I heard you were{E}looking for me too.{D}Thanks a lot.
+1309|Sanpei:{E}You caught the River King?{D}That's amazing!
+1310|Butler: First we must{E}find Master Sanpei.
+1311|Butler:{E}Allow me to pay.
+1312|{7:0}: Where could Sanpei{E}be?{D}I'll try Grandma's{E}house first.
+1313|Angler:{E}That spring over there{D}is where the sticklebacks live.
+1314|Angler: The minnows here are bigger than the ones by the village.
+1315|Angler: To fish this lake, you'd better get something to ride on.
+1316|Angler: You catch lots of{E}bluegill around here.
+1317|Angler: From here,{E}kokanee are hard to target.
+1318|Angler: I'm after brown trout,{E}but{D}I keep hooking{E}rainbow trout.
+1319|Angler: This is the only spot to fish for black bass from shore.
+1320|Angler: I'll catch lots of smelt{E}for tonight's dinner.
+1321|Angler: Sculpin and dark sleepers live where the river exits the lake.
+1322|Angler:{E}Like I thought,{D}going for black bass from{E}here is tough.
+1323|Angler: Dark sleepers are{E}delicious deep-fried.
+1324|Villager: Lately an ogre{E}has been showing up in the village.{D}It steals our food,{E}and everyone's at their wits' end.
+1325|Villager: Everyone is{E}grateful to you.
+1326|Girl: When will the ogre{E}come next? I'm scared!
+1327|Girl: Are you going to beat{E}the ogre? Be careful.
+1328|Girl: You really beat{E}the ogre? Thank you!
+1329|Boy: The old man next to the tackle shop is a master washtub maker.
+1330|Boy: He made you a washtub?{E}Lucky you.
+1331|Villager: Kokanee are delicious, but they live deep in the lake.
+1332|Guard:{E}If you don't want trouble,{D}get out of here!
+1333|Guard:{E}If you want to see the boss,{D}bring a rainbow trout{E}over 40cm.
+1334|Guard:{E}Where's the rainbow trout?
+1335|Guard: Good, good.{E}You may pass.
+1336|Old Man:{E}It's not for me to boast, but{D}I'm a master washtub maker.{D}Sonny,{E}would you catch me a sculpin?{D}I've got a craving for{E}deep-fried sculpin.{D}If you catch me one,{D}I'll give you a washtub{E}made with all my heart.
+1337|Old Man: Oh,{E}you caught me a sculpin!{D}Here's your washtub.{E}Take good care of it.
+1338|Old Man:{E}Where's my sculpin?
+1339|Old Man:{E}How's the washtub?
+1340|Grandma: {7:0}, something terrible has happened.{D}Lately an ogre has been showing up in the village.{D}Sanpei went to beat it and never came back.{D}Please go and rescue him.{D}Here, take some kibi dango with you.
+1341|Grandma:{E}Do be careful.
+1342|Grandma: Well done, {7:0}.{D}This morning a big peach came floating down the river.{D}Let's eat it to celebrate.
+1343|Momotaro: Everyone!{E}Leave the ogre to me.{D}What?{E}It's already been beaten?
+1344|Wha-?!
+1345|Grandma: We'll raise this child ourselves. Do come and visit him.
+1346|Grandpa:{E}That ogre is such a nuisance.
+1347|Grandpa: I see,{E}{7:0} is going to beat the ogre.{D}Do your best.
+1348|Grandpa:{E}Well done, {7:0}.{D}That's my grandson.
+1349|Grandpa:{E}What a cute baby.
+1350|Ogre: What do you want with me?{E}Did you bring me tribute?
+1351|{7:0}: Give back Sanpei and the{E}food you stole from the village!
+1352|Ogre:{E}What did you say?!{D}Talk nonsense like that{E}and I'll eat you!
+1353|{7:0}:{E}(Th-this is kind of scary.)
+1354|Dog:{E}Grrr, woof woof!
+1355|Ogre:{E}(Yikes, a dog. Not good.){D}Now, boy! Hand over tribute{E}and I'll spare your life.
+1356|{7:0}:{E}Wh-what do I do?
+1357|Monkey: Kee kee!{E}(Boss, look at its tail!)
+1358|{7:0}:{E}Huh? Tail?{D}Hey! That tail is{E}a fox's tail!{D}So that's it.{D}This whole mess was{E}a fox's prank!
+1359|Ogre:{E}What are you whispering about?{D}Hurry up, or I'll eat you{E}along with this other boy!
+1360|{7:0}:{E}Quiet!{D}You won't fool us anymore,{E}you fox!{D}Everyone, get him!
+1361|Ogre:{E}Gwaah! Ow, ow, ow!
+1362|{7:0}: How's that?{E}We know who you really are.{D}Give up, you sneaky fox!
+1363|Fox:{E}Waaah, I'm sorry.{D}Please, spare my life.
+1364|{7:0}:{E}All right, that's enough.
+1365|{7:0}:{E}You okay, Sanpei?
+1366|Sanpei:{E}You saved me, {7:0}.{D}But how did you figure out{E}it was a fox?
+1367|{7:0}:{E}I didn't do it alone.{D}It's all thanks to these guys{E}who came along with me.
+1368|Sanpei:{E}Thanks, everyone.
+1369|{7:0}:{E}Oh, right!{D}Sanpei, your mom{E}was worried sick.{D}Go on home for now.
+1370|Sanpei:{E}Oops.{D}Well then,{E}I'll head home ahead of you.{D}See ya.
+1371|{7:0}: Okay, let's give the villagers back their things.
+1372|Dog: Woof! Give me a kibi dango.{E}Woof!
+1373|{7:0}: I'm off to beat an ogre.{E}Want to come along?
+1374|Dog: Woof! I'm in, woof!
+1375|{7:0}: Here, a kibi dango.
+1376|Monkey: Kee kee! Give me a{E}kibi dango. Kee kee!
+1377|{7:0}: I'll give you one if you{E}help me beat the ogre.
+1378|Monkey: Kee kee! I'll help!
+1379|Pheasant: Kyeen! Give me a{E}kibi dango. Kyeen!
+1380|Pheasant: Kyeen! I'll help!
+1381|{7:0}:{E}Now I'm not afraid of anything.
+1382|The dog joined you!
+1383|The monkey joined you!
+1384|The pheasant joined you!
+1385|{7:2}:{E}I wonder if that guy still{D}lives out on that little{E}island.{D}First I'd better{E}get a washtub.
+1386|Villager: The landslide the other day{E}hurt someone. It was awful.
+1387|Girl:{E}Mister, are you good at fishing?{D}Then please help{E}the woodcutter.{D}In the landslide the other day,{D}he got hurt trying{E}to save me.
+1388|Girl: You helped{E}the woodcutter!{D}Thank you so much.
+1389|Old Man: It's been years! I think I told you before, I'm a master washtub maker.{D}Want another washtub? Then catch me a sculpin.{D}I've got a craving for deep-fried sculpin.
+1390|Grandma: You finally visit, and it's to chase the River King!{D}Don't give {7:3} too much trouble.
+1391|Grandpa: Fishing again, are you? Don't be too hard on your wife.{D}By the way, I hear your friend got hurt. Go pay him a visit.
+1392|Grandpa:{E}Friends are a fine thing.
+1393|{7:0}: Long time no see.{E}I hear you got hurt?
+1394|Friend: Well, if it isn't {7:0}!{D}What brings you here so suddenly?
+1395|{7:0}: Well, the truth is, I'm going after the River King again.{D}So I thought I'd ask everyone for help, like that time.
+1396|Friend: I see, so you're{E}fishing again.
+1397|{7:0}: Yeah,{E}but not with that injury.
+1398|Friend: Sorry I can't{E}help you.
+1399|{7:0}: No, it's fine.{D}More importantly, can I do anything? That injury must make things hard.
+1400|Friend:{E}Well, actually.{8:6}.{8:6}.{8:6}.
+1401|{7:0}:{E}What? Don't hold back.{D}We go way back, you and me.
+1402|Friend: Actually, a customer{E}asked me for a kokanee,{D}but with this injury I{E}can't go catch one.
+1403|{7:0}: Oh,{E}that's easy.{D}Leave it to me.
+1404|Friend: Really?{E}I'm sorry to ask.
+1405|{7:0}:{E}I'll go right away.
+1406|Friend: That's {7:0} for you.{E}I owe you one.
+1407|Friend: I need to deliver{E}a kokanee over 40cm.{D}Huh?{E}Didn't I say so earlier?{D}Also, the spring is{E}the secret spot for kokanee.{D}Keep it to yourself.
+1408|Friend:{E}Sorry for the trouble.
+1409|Friend: You really saved me.{E}Thank you so much.
+1410|{7:0}: His parents' home{E}is here.{D}I'll ask his mother and father{E}about the River King.
+1411|Villager:{E}Welcome to the alpine lake.{D}Enjoy your fishing.
+1412|Girl:{E}You fish too, miss?{D}That's so cool.
+1413|{7:0}:{E}(She called me "miss"!){D}Oh, what a sweet girl.
+1414|Old Man: I'm the master washtub maker. Want a washtub?{D}Then catch me a sculpin. I've got a craving for deep-fried sculpin.
+1415|{7:0}:{E}It's been far too long.{D}Father, Mother.
+1416|Mother-in-law: Well, well,{E}all alone? So good to see you.
+1417|Father-in-law:{E}Welcome, {7:0}.
+1418|Mother-in-law: Has my foolish son{E}gone and done something again?{D}I'll have to give him{E}a piece of my mind.
+1419|{7:0}: N-no, that's not it.{E}It's not that.{D}I wanted to ask you both{E}about the River King.
+1420|Mother-in-law:{E}What? You, after the River King?!{D}Whatever for?

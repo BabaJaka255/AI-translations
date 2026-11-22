@@ -1,0 +1,519 @@
+id	location	japanese	english	limit	notes
+0	sector 4 +063C (file offset 00263C)	山奥の　せせらぎから　　端を発した流れは　渓谷を下り　しだいに川幅を　　増していく。　　　　　　やがて　ゆるやかになった流れは　数多くの沼や　　湿地帯の間を通って　　　蛇行しながら流れ下る。	From a babbling brook high in the mountains, a river runs down through the gorges, growing wider as it goes. Then, slowing, it winds its way on past countless ponds and wetlands.	192 bytes; 24 letters x 2 lines per page	
+1	sector 4 +06FC (file offset 0026FC)	一方　川の中では数多くの種類の魚が　元気よく　　泳ぎ回っていた。　　　　なかでも　ぬしと呼ばれている魚は　強くてまだ誰も釣る事が出来なかった。	In the river, fish of all kinds swam about. One of them, called the River King, was so strong no one had ever caught it.	144 bytes; 24 letters x 2 lines per page	
+2	sector 4 +078C (file offset 00278C)	ところが　ある日　少年の妹が　急に高熱を出して　寝込んでしまいました。　釣り好きの少年は　　　　心配で　心配で　　　　　たまりませんでした。	Then one day a boy's little sister fell ill with a high fever. The boy, who loved to fish, was worried sick.	142 bytes; 24 letters x 2 lines per page	
+3	sector 6 +058C (file offset 00358C)	０１２３４５６７８９に　逃げられた。		38 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+4	sector 6 +05B2 (file offset 0035B2)	を　釣りあげた。	 landed!	18 bytes; 24 letters x 2 lines per page	
+5	sector 6 +05C4 (file offset 0035C4)	を　逃がした。	 escaped.	16 bytes; 24 letters x 2 lines per page	
+6	sector 6 +05EB (file offset 0035EB)	靺あかねずみ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+7	sector 6 +05F9 (file offset 0035F9)	のうさぎ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+8	sector 6 +0603 (file offset 003603)	もぐら		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+9	sector 6 +060B (file offset 00360B)	やまこうもり		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+10	sector 6 +0619 (file offset 003619)	ふくろう		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+11	sector 6 +0623 (file offset 003623)	てん		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+12	sector 6 +0629 (file offset 003629)	からす		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+13	sector 6 +0631 (file offset 003631)	きつね		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+14	sector 6 +0639 (file offset 003639)	ももんが		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+15	sector 6 +0643 (file offset 003643)	たぬき		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+16	sector 6 +064B (file offset 00364B)	いたち		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+17	sector 6 +0653 (file offset 003653)	わし		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+18	sector 6 +0659 (file offset 003659)	あおだいしょう		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+19	sector 6 +0669 (file offset 003669)	しまへび		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+20	sector 6 +0673 (file offset 003673)	かもしか		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+21	sector 6 +067D (file offset 00367D)	まむし		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+22	sector 6 +0685 (file offset 003685)	おおじか		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+23	sector 6 +068F (file offset 00368F)	やまざる		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+24	sector 6 +0699 (file offset 003699)	やまねこ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+25	sector 6 +06A3 (file offset 0036A3)	あなぐま		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+26	sector 6 +06AD (file offset 0036AD)	いのしし		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+27	sector 6 +06B7 (file offset 0036B7)	ひぐま		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+28	sector 6 +06BF (file offset 0036BF)	さそり		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+29	sector 6 +06C7 (file offset 0036C7)	つきのわぐま		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+30	sector 6 +06D5 (file offset 0036D5)	どくぐも		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+31	sector 9 +0053 (file offset 004853)	どうぞ　ごゆっくり。	Enjoy your stay.	22 bytes; 24 letters x 2 lines per page	
+32	sector 11 +0318 (file offset 005B18)	今は　釣りをしていない。	You aren't fishing now.	26 bytes; 24 letters x 2 lines per page	
+33	sector 11 +0332 (file offset 005B32)	何も　見つからない。	Found nothing.	22 bytes; 24 letters x 2 lines per page	
+34	sector 11 +0348 (file offset 005B48)	針が無いので　エサを　　つけられない。	No hook to put bait on.	40 bytes; 24 letters x 2 lines per page	
+35	sector 11 +0370 (file offset 005B70)	たらいを　水に浮かべた。	You launched the tub.	26 bytes; 24 letters x 2 lines per page	
+36	sector 11 +038A (file offset 005B8A)	川虫を　[A0:A0]匹見つけた。	Found {A0} caddis.	24 bytes; 24 letters x 2 lines per page	
+37	sector 11 +03A2 (file offset 005BA2)	ねりえを　[A0:A0]コ見つけた。	Found {A0} paste bait.	26 bytes; 24 letters x 2 lines per page	
+38	sector 11 +03BC (file offset 005BBC)	赤虫を　[A0:A0]匹見つけた。	Found {A0} midges.	24 bytes; 24 letters x 2 lines per page	
+39	sector 11 +03D4 (file offset 005BD4)	さしを　[A0:A0]匹見つけた。	Found {A0} maggots.	24 bytes; 24 letters x 2 lines per page	
+40	sector 11 +03EC (file offset 005BEC)	みみずを　[A0:A0]匹見つけた。	Found {A0} worms.	26 bytes; 24 letters x 2 lines per page	
+41	sector 11 +0406 (file offset 005C06)	寄せえを　まかなくても　釣れる。	They bite here without\nchum.	34 bytes; 24 letters x 2 lines per page	
+42	sector 11 +0428 (file offset 005C28)	ハリをつけた。	Tied a hook.	16 bytes; 24 letters x 2 lines per page	
+43	sector 11 +0438 (file offset 005C38)	ハリはついている。	Hook's on already.	20 bytes; 24 letters x 2 lines per page	
+44	sector 11 +044C (file offset 005C4C)	ハリは　残っていない。	No hooks left.	24 bytes; 24 letters x 2 lines per page	
+45	sector 11 +0464 (file offset 005C64)	寄せえを　まいた。　　　魚が　集まって来た。	You scattered chum.\nThe fish are coming!	46 bytes; 24 letters x 2 lines per page	
+46	sector 11 +0492 (file offset 005C92)	寄せえは　残っていない。	No chum left.	26 bytes; 24 letters x 2 lines per page	
+47	sector 11 +04AC (file offset 005CAC)	ハリがないので　エサを　つけられない。	No hook to put bait on.	40 bytes; 24 letters x 2 lines per page	
+48	sector 11 +04D4 (file offset 005CD4)	ここでは　使えない。	Can't use that here.	22 bytes; 24 letters x 2 lines per page	
+49	sector 11 +04EA (file offset 005CEA)	今は　使えない。	Not usable now.	18 bytes; 24 letters x 2 lines per page	
+50	sector 11 +04FC (file offset 005CFC)	たらいは　今使っている。	You're in the tub now.	26 bytes; 24 letters x 2 lines per page	
+51	sector 11 +0516 (file offset 005D16)	磁石の針が　右を指した。	The needle points right.	26 bytes; 24 letters x 2 lines per page	
+52	sector 11 +0530 (file offset 005D30)	磁石の針が　左を指した。	The needle points left.	26 bytes; 24 letters x 2 lines per page	
+53	sector 11 +054A (file offset 005D4A)	磁石の針が　上を指した。	The needle points up.	26 bytes; 24 letters x 2 lines per page	
+54	sector 11 +0564 (file offset 005D64)	磁石の針が　下を指した。	The needle points down.	26 bytes; 24 letters x 2 lines per page	
+55	sector 11 +057E (file offset 005D7E)	針が　動かなくなった。	The needle won't move.	24 bytes; 24 letters x 2 lines per page	
+56	sector 11 +0596 (file offset 005D96)	エサを　ぬしえさにした。	Switched to King bait.	26 bytes; 24 letters x 2 lines per page	
+57	sector 11 +05B0 (file offset 005DB0)	リール竿が　入っていた。	Inside was a reel rod!	26 bytes; 24 letters x 2 lines per page	
+58	sector 11 +05CA (file offset 005DCA)	ぬしえさは　ついている。	King bait is on already.	26 bytes; 24 letters x 2 lines per page	
+59	sector 11 +05E4 (file offset 005DE4)	ぬしえさは　ない。	No King bait.	20 bytes; 24 letters x 2 lines per page	
+60	sector 11 +05F8 (file offset 005DF8)	何も　入っていなかった。	There was nothing in it.	26 bytes; 24 letters x 2 lines per page	
+61	sector 11 +0612 (file offset 005E12)	何も　入っていない。	It's empty.	22 bytes; 24 letters x 2 lines per page	
+62	sector 11 +0628 (file offset 005E28)	りんごが　入っていた。	Inside was an apple!	24 bytes; 24 letters x 2 lines per page	
+63	sector 11 +0640 (file offset 005E40)	タヌキが　驚いて　姿を　見せた。	A tanuki jumped out in\nfright!	34 bytes; 24 letters x 2 lines per page	
+64	sector 11 +0662 (file offset 005E62)	斧で　扉を壊した。	Axed it open!	20 bytes; 24 letters x 2 lines per page	
+65	sector 11 +0676 (file offset 005E76)	俺の大好きな　りんごを　ありがとう　ブーブー。　流れの速い　うずの中に　きっといると思う　ブー。	Thanks for the apple, my favorite! Oink! Look in the whirlpool where the water's fast. Oink!	98 bytes; 24 letters x 2 lines per page	
+66	sector 11 +06D8 (file offset 005ED8)	ぬしばりを　つけた。	Tied the King hook.	22 bytes; 24 letters x 2 lines per page	
+67	sector 11 +06EE (file offset 005EEE)	ぬしばりは　ついている。	King hook's on already.	26 bytes; 24 letters x 2 lines per page	
+68	sector 11 +0708 (file offset 005F08)	ぬしばりは残っていない。	No King hooks left.	26 bytes; 24 letters x 2 lines per page	
+69	sector 13 +06B7 (file offset 006EB7)	[B1:B1]が　現れた！	{B1} appears!	16 bytes; 24 letters x 2 lines per page	
+70	sector 13 +06C7 (file offset 006EC7)	食べ物は　残っていない。	You have no food left.	26 bytes; 24 letters x 2 lines per page	
+71	sector 13 +06E1 (file offset 006EE1)	道具はまだ持っていない。	You have no tools yet.	26 bytes; 24 letters x 2 lines per page	
+72	sector 13 +06FB (file offset 006EFB)	どうする？	Action?	12 bytes; 24 letters x 2 lines per page	
+73	sector 14 +0667 (file offset 007667)	宝箱に　ぶつかった。	Hit a treasure box!	22 bytes; 24 letters x 2 lines per page	
+74	sector 14 +067D (file offset 00767D)	いらっしゃいませ！	Welcome!	20 bytes; 24 letters x 2 lines per page	
+75	sector 14 +0691 (file offset 007691)	どれに　しましょうか？	What would you like?	24 bytes; 24 letters x 2 lines per page	
+76	sector 14 +06A9 (file offset 0076A9)	この度は　ありがとう　　ございました。	Thank you very much!	40 bytes; 24 letters x 2 lines per page	
+77	sector 14 +06D1 (file offset 0076D1)	うーん　うーん。	Ugh... ugh...	18 bytes; 24 letters x 2 lines per page	
+78	sector 14 +06E3 (file offset 0076E3)	お泊まりには　お金を　　[B0:B0]０円　いただきますが　よろしいですか？	A night's stay will be {B0}0 yen. Is that all right?	66 bytes; 24 letters x 2 lines per page	
+79	sector 14 +0725 (file offset 007725)	よくやったね！　　　　　おめでとう。	Well done! Congrats!	38 bytes; 24 letters x 2 lines per page	
+80	sector 14 +074B (file offset 00774B)	お金が　足らないけれど	You're short of money.	24 bytes; 24 letters x 2 lines per page	
+81	sector 14 +0763 (file offset 007763)	体力は　最大体力まで　　回復してらっしゃいます。	Your HP has been fully\nrestored.	50 bytes; 24 letters x 2 lines per page	
+82	sector 14 +0795 (file offset 007795)	この井戸の中に　カジカを入れとったが　いなくなってしもうてのう！　　　　お願いじゃが　釣ってきてもらえんじゃろうか？	I kept a sculpin in this well, but it's gone! Would you be a dear and catch me another one?	118 bytes; 24 letters x 2 lines per page	
+83	sector 15 +000B (file offset 00780B)	おおっ！　カジカじゃな。よく　やったぞ。　　　　いい事を　教えてやろう。洞穴の中に入ったら　磁石の指す方向へ進みなされ。	Oh! A sculpin! Well done! Here's a tip for you: inside the caves, go the way the magnet points.	122 bytes; 24 letters x 2 lines per page	
+84	sector 15 +0085 (file offset 007885)	あんたのおかげで　毎日　カジカの姿を見られるよ。	Thanks to you I can see\nmy sculpin every day.	50 bytes; 24 letters x 2 lines per page	
+85	sector 15 +00B7 (file offset 0078B7)	村の中や　家の中を　　　めがねかけて　探し回ればエサなんか　いくらでも　めっかるぞ。	Put on specs and search the village and the houses. You'll find bait galore!	86 bytes; 24 letters x 2 lines per page	
+86	sector 15 +010D (file offset 00790D)	あんたの妹さんの　病気が一日も早く　良くなりますように　こうして　毎日　祈っているんじゃよ。　　ところで　わしのめがねを差しあげよう。	Every day I pray your sister gets well soon. Oh, and here, you can have my old specs.	136 bytes; 24 letters x 2 lines per page	
+87	sector 15 +0195 (file offset 007995)	魚が　釣れなくなったら　宿に　泊まってみてね。　また　すぐに釣れだすよ。	If the fish stop biting, stay at the inn. They'll bite again soon.	74 bytes; 24 letters x 2 lines per page	
+88	sector 15 +01DF (file offset 0079DF)	あー忙しか　忙しか。　　魚が　釣れない時には　　寄せえを　まかなきゃあ　ダメじゃろうが！　　　　それから　魚の集まる　　ポイントを　見つけろよ。エサも　よく選ぶんだぞ。	Busy, busy! If the fish won't bite, you've got to scatter chum, see! And find a spot where the fish gather. Choose your bait well too!	170 bytes; 24 letters x 2 lines per page	
+89	sector 15 +0289 (file offset 007A89)	確かに　記憶しました。	Saved successfully.	24 bytes; 24 letters x 2 lines per page	
+90	sector 15 +02A1 (file offset 007AA1)	記憶に失敗しました。	Save failed.	22 bytes; 24 letters x 2 lines per page	
+91	sector 15 +02B7 (file offset 007AB7)	京子が　急に熱を出して。ごらんのとおりだよ。　　うちの村の　やぶ医者は　どこに　いるのかしらね？早く見つけて来て頂だい。	Kyoko suddenly got a fever. Look at her! Where is that quack of a village doctor? Hurry, go find him!	122 bytes; 24 letters x 2 lines per page	
+92	sector 15 +0331 (file offset 007B31)	何を　ぼんやりしてるの！早く探さないと大変だよ。	Don't just stand there!\nHurry and find him!	50 bytes; 24 letters x 2 lines per page	
+93	sector 15 +0363 (file offset 007B63)	ご苦労だったね。	Thank you, dear.	18 bytes; 24 letters x 2 lines per page	
+94	sector 15 +0375 (file offset 007B75)	ウキが　ピクピク動いてもエサが合ってないと　魚は絶対に食べないからね。	Even if the float bobs, fish won't eat the wrong bait.	72 bytes; 24 letters x 2 lines per page	
+95	sector 15 +03BD (file offset 007BBD)	私が　この村の医者だが。何っ！　京子ちゃんが口をパクパクして倒れたんか？ウーン・・・。　そうだっこの病気を直すには今すぐ川のぬしを　釣って来て　食べさせてやらねばっ。	I'm the village doctor. What! Little Kyoko collapsed, gasping? Hmm... I know! To cure her, you must catch the River King and feed it to her!	168 bytes; 24 letters x 2 lines per page	
+96	sector 15 +0465 (file offset 007C65)	洞穴は　村への近道だからじょうずに　利用してね。	The caves are shortcuts\nto villages. Use them!	50 bytes; 24 letters x 2 lines per page	
+97	sector 15 +0497 (file offset 007C97)	洞穴に入ったら　めがねをかけてみろや。　ええことあるぞー。	Wear specs in the caves. Good things await!	60 bytes; 24 letters x 2 lines per page	
+98	sector 15 +04D3 (file offset 007CD3)	ほらみてみな　おばばでもこんなに　釣れるがや。	Look! Even an old gal\nlike me caught lots!	48 bytes; 24 letters x 2 lines per page	
+99	sector 15 +0503 (file offset 007D03)	カラスに　魚を盗られないように　注意してね。	Don't let the crows\nsteal your fish!	46 bytes; 24 letters x 2 lines per page	
+100	sector 15 +0531 (file offset 007D31)	じゃまするなっ！	Out of my way!	18 bytes; 24 letters x 2 lines per page	
+101	sector 15 +0543 (file offset 007D43)	ナムアミダブツ！	Namu Amida!	18 bytes; 24 letters x 2 lines per page	
+102	sector 15 +0555 (file offset 007D55)	散らかさないでーっ！	Don't make a mess!	22 bytes; 24 letters x 2 lines per page	
+103	sector 15 +056B (file offset 007D6B)	りっぱな　リール竿を　　お持ちですなあ。	What a splendid reel\nrod you have!	42 bytes; 24 letters x 2 lines per page	
+104	sector 15 +0595 (file offset 007D95)	宝箱を見つけてないんか？立派な竿が　入っとるぞ。	Found the treasure yet?\nIt holds a fine rod.	50 bytes; 24 letters x 2 lines per page	
+105	sector 15 +05C7 (file offset 007DC7)	立派な　ぬし竿ですなあ。	That's a fine King rod!	26 bytes; 24 letters x 2 lines per page	
+106	sector 15 +05E1 (file offset 007DE1)	何っ！　大きな魚を探しているって？　そりゃあ　　ハクレンや　コクレンが　でかいね。	What? You want big fish? Silver carp and bighead carp are big ones.	84 bytes; 24 letters x 2 lines per page	
+107	sector 15 +0635 (file offset 007E35)	川のぬしを釣りたけりゃあ河口の村で　ぬしばりを　手に入れるんだなっ。	To catch the River King, get a King hook at the river mouth.	70 bytes; 24 letters x 2 lines per page	
+108	sector 15 +067B (file offset 007E7B)	ほら　ほらっ　ムギツクが入れぐいだぞっ！	The striped minnows are\nbiting like mad!	42 bytes; 24 letters x 2 lines per page	
+109	sector 15 +06A5 (file offset 007EA5)	カエルは　ぬしのエサに　なるからたくさん釣れよ。	Frogs make King bait, so\ncatch a lot of them.	50 bytes; 24 letters x 2 lines per page	
+110	sector 15 +06D7 (file offset 007ED7)	たらい作りの　じいとは　わしのことじゃ！　　　　じつは　メダカの魚拓を　作りたいが　釣って来て　もらえんじゃろうか？	I'm the old tub maker! Say, I want to make a print of a ricefish. Would you catch one for me?	118 bytes; 24 letters x 2 lines per page	
+111	sector 15 +074D (file offset 007F4D)	おうっ！　やりおったな。わしにも釣れんかった魚をとうとう　釣りあげたか！わしが　たんねんに作ったたらいじゃが持っていけ。	Oh! You did it! You caught a fish even I couldn't! Here, take this tub. I made it with care.	122 bytes; 24 letters x 2 lines per page	
+112	sector 15 +07C7 (file offset 007FC7)	たらいに　乗っているか！	Riding in a tub, eh!	26 bytes; 24 letters x 2 lines per page	
+113	sector 15 +07E1 (file offset 007FE1)	ハリヨを　釣ったことが　あるかい？　釣って来たら名人と　言ってやるぜっ！	Caught a stickleback? Bring one, and I'll call you a master!	74 bytes; 24 letters x 2 lines per page	
+114	sector 16 +002B (file offset 00802B)	やったじゃないかっ！　　わしの畑でとれた芋だけど持っていっていいよ。	You did it! Here, have some spuds from my field.	70 bytes; 24 letters x 2 lines per page	
+115	sector 16 +0071 (file offset 008071)	いよっ！ハリヨ釣り名人。	Hey! Stickleback master!	26 bytes; 24 letters x 2 lines per page	
+116	sector 16 +008B (file offset 00808B)	最近は　わたしの姿も　　少なくなりました。	There are fewer of us\nthese days.	44 bytes; 24 letters x 2 lines per page	
+117	sector 16 +00B7 (file offset 0080B7)	背の高い　草の中に入ると釣りが　出来ませんぜっ。	You can't fish from in\nthe tall grass.	50 bytes; 24 letters x 2 lines per page	
+118	sector 16 +00E9 (file offset 0080E9)	あんた　カエルがぬしえさになるちゅうことを　まだ知らんのか？　もっと　　釣らなきゃあ！　	Don't you know frogs make King bait? You need to catch more!	90 bytes; 24 letters x 2 lines per page	
+119	sector 16 +0143 (file offset 008143)	ほうっ。カエルをいっぱい釣ったじゃないかっ！	Oho! You caught lots of\nfrogs!	46 bytes; 24 letters x 2 lines per page	
+120	sector 16 +0171 (file offset 008171)	洞穴の前に　変な木を　　見ませんでした？　時々　タヌキが　化けてるから　せんこう花火で　驚かして見たら　おもしろいよっ。	Seen an odd tree by the cave? Sometimes it's a tanuki in disguise. Scare it with sparks. It's a riot!	122 bytes; 24 letters x 2 lines per page	
+121	sector 16 +01EB (file offset 0081EB)	ハリヨは　もっと上の方で見かけたけどなあ！	I saw sticklebacks\nfurther upstream!	44 bytes; 24 letters x 2 lines per page	
+122	sector 16 +0217 (file offset 008217)	たらいを　こぐ時にゃ用心せいよ。　体力をいっぱい使うからなっ。	Careful rowing a tub. It takes lots of HP!	64 bytes; 24 letters x 2 lines per page	
+123	sector 16 +0257 (file offset 008257)	ポンポコリンのポンッ！	Pom-pokorin-pom!	24 bytes; 24 letters x 2 lines per page	
+124	sector 16 +026F (file offset 00826F)	ぼちぼち　休もうかなっ。	Time for a rest, maybe.	26 bytes; 24 letters x 2 lines per page	
+125	sector 16 +0289 (file offset 008289)	草むしりしてるんです。	I'm pulling weeds.	24 bytes; 24 letters x 2 lines per page	
+126	sector 16 +02A1 (file offset 0082A1)	あーん　腰が痛いよーっ。	Oww, my aching back!	26 bytes; 24 letters x 2 lines per page	
+127	sector 16 +02BB (file offset 0082BB)	田植えを手伝って下さい。	Help me plant the rice!	26 bytes; 24 letters x 2 lines per page	
+128	sector 16 +02D5 (file offset 0082D5)	カメ釣り名人とは俺様よ。カメの経験値は　とびきり高いからな。　ウッヒヒ！	I'm the turtle master! Turtles give heaps of EXP. Hee hee!	74 bytes; 24 letters x 2 lines per page	
+129	sector 16 +031F (file offset 00831F)	ずっと下の方で行き止まりになると思うけどその時は斧で　扉をこわしてね。	Far downstream it's a dead end. Break the door with an axe.	72 bytes; 24 letters x 2 lines per page	
+130	sector 16 +0367 (file offset 008367)	牛のむれの中に　ブタを　見なかったかい？　　　　そのブタが　川のぬしの　居場所を知っているらしいんだが・・。	Seen a pig among the cows? They say that pig knows where the River King lives...	110 bytes; 24 letters x 2 lines per page	
+131	sector 16 +03D5 (file offset 0083D5)	ブヒーッ　ブヒーッ。　　何だっ！　手ぶらかっ。　俺の好物を　持ってこい。	Oink! Oink! What, empty handed? Bring my favorite food!	74 bytes; 24 letters x 2 lines per page	
+132	sector 16 +041F (file offset 00841F)	この扉は　斧でこわれる。	An axe can break this.	26 bytes; 24 letters x 2 lines per page	
+133	sector 16 +0439 (file offset 008439)	気持ちがいーよーっ。	Feels so good!	22 bytes; 24 letters x 2 lines per page	
+134	sector 16 +044F (file offset 00844F)	ポチには話しかけないで。今　腹をすかしているの。	Don't talk to Pochi.\nHe's hungry right now.	50 bytes; 24 letters x 2 lines per page	
+135	sector 16 +0481 (file offset 008481)	ウーッ　ワンッ！	Grrr! Woof!	18 bytes; 24 letters x 2 lines per page	
+136	sector 16 +0493 (file offset 008493)	ごちそうさんでしたっ！	That was delicious!	24 bytes; 24 letters x 2 lines per page	
+137	sector 16 +04AB (file offset 0084AB)	ゴロ　ゴロ　ニャーン。	Purr purr... meow.	24 bytes; 24 letters x 2 lines per page	
+138	sector 16 +04C3 (file offset 0084C3)	あんたの竿じゃあ　ぬしに逃げられちゃうねぇ。　　釣り具屋さんで　売ってるよ。	The King will escape that rod. The tackle shop has better.	78 bytes; 24 letters x 2 lines per page	
+139	sector 16 +0511 (file offset 008511)	いい竿　持ってるねぇ！	That's a nice rod!	24 bytes; 24 letters x 2 lines per page	
+140	sector 16 +0529 (file offset 008529)	頑張れよーっ！	Go for it!	16 bytes; 24 letters x 2 lines per page	
+141	sector 16 +0539 (file offset 008539)	チクショー！　１ｍもあるソウギョに逃げられたっ。	Dang! A 1m grass carp\ngot away from me!	50 bytes; 24 letters x 2 lines per page	
+142	sector 16 +056B (file offset 00856B)	わたしの　かわいい子ブタさん。　どこに行って　　しまったの？　とっても　りんごが　好きだったの。	My cute little piggy, where did you go? He just loved apples.	98 bytes; 24 letters x 2 lines per page	
+143	sector 16 +05CD (file offset 0085CD)	村にいる　犬と猫は　僕が飼っているんです。	The dog and cat in the\nvillage are mine.	44 bytes; 24 letters x 2 lines per page	
+144	sector 18 +05D0 (file offset 0095D0)	ここでは　釣れない。	Can't fish here.	22 bytes; 24 letters x 2 lines per page	
+145	sector 18 +05E6 (file offset 0095E6)	寄せえを　まかないと　　釣れない。	Nothing bites without\nchum.	36 bytes; 24 letters x 2 lines per page	
+146	sector 18 +060A (file offset 00960A)	全部で[V3:C3]円になるけど売ってくれるかい？	{V3} yen in all.\nSell?	40 bytes; 24 letters x 2 lines per page	
+147	sector 18 +0632 (file offset 009632)	ありがとうございました。	Thank you very much!	26 bytes; 24 letters x 2 lines per page	
+148	sector 18 +064C (file offset 00964C)	お金が　足らないけれど。	You're short of money.	26 bytes; 24 letters x 2 lines per page	
+149	sector 18 +0666 (file offset 009666)	それは　残念ですね。	That's too bad.	22 bytes; 24 letters x 2 lines per page	
+150	sector 18 +067C (file offset 00967C)	このびくは　今持っているじゃないですか！	You already have this\ncreel!	42 bytes; 24 letters x 2 lines per page	
+151	sector 18 +06A6 (file offset 0096A6)	このびくは　今持っているのよりも　小さいですよ。	This creel is smaller\nthan the one you have.	50 bytes; 24 letters x 2 lines per page	
+152	sector 18 +06D8 (file offset 0096D8)	これ以上　持つことは　　出来ません。	You can't carry any\nmore.	38 bytes; 24 letters x 2 lines per page	
+153	sector 18 +06FE (file offset 0096FE)	磁石は持っているはずだ！	You've got a magnet!	26 bytes; 24 letters x 2 lines per page	
+154	sector 18 +0718 (file offset 009718)	鍵は持っているはずだ！	You've got a key!	24 bytes; 24 letters x 2 lines per page	
+155	sector 18 +0730 (file offset 009730)	花火は持っているはずだ！	You've got sparks!	26 bytes; 24 letters x 2 lines per page	
+156	sector 18 +074A (file offset 00974A)	斧は持っているはずだ！	You've got an axe!	24 bytes; 24 letters x 2 lines per page	
+157	sector 18 +0762 (file offset 009762)	釣れているじゃないか！びくの中の　魚一匹につき大きさ別に　お金を払うと	Nice catch! I pay for each fish in your creel by size.	72 bytes; 24 letters x 2 lines per page	
+158	sector 18 +07AA (file offset 0097AA)	魚が　びくに入っていないようですけれど！	Your creel doesn't have\nany fish in it!	42 bytes; 24 letters x 2 lines per page	
+159	sector 18 +07D4 (file offset 0097D4)	それは　残念だなあ！	Too bad!	22 bytes; 24 letters x 2 lines per page	
+160	sector 18 +07EA (file offset 0097EA)	針はそれ以上持てません。	Can't carry more hooks.	26 bytes; 24 letters x 2 lines per page	
+161	sector 19 +0004 (file offset 009804)	寄せえは　それ以上　　　持てません。	You can't carry any\nmore chum.	38 bytes; 24 letters x 2 lines per page	
+162	sector 19 +002A (file offset 00982A)	ぬし針は　それ以上　　　持てません。	Can't carry any more\nKing hooks.	38 bytes; 24 letters x 2 lines per page	
+163	sector 19 +0050 (file offset 009850)	ぬし竿は　持っている。	You have the King rod.	24 bytes; 24 letters x 2 lines per page	
+164	sector 19 +0068 (file offset 009868)	お金がないのか！　　　　しょうがねえなあ！	No money, huh?\nOh, all right!	44 bytes; 24 letters x 2 lines per page	
+165	sector 19 +0094 (file offset 009894)	１本だけだぞ！　　　　　大事に使えよ。	Only one! Take good\ncare of it.	40 bytes; 24 letters x 2 lines per page	
+166	sector 19 +00BC (file offset 0098BC)	びくの中に　魚が残って　いると　パスワードを　　お伝えできません。	I can't give a password while fish are in your creel.	68 bytes; 24 letters x 2 lines per page	
+167	sector 19 +0100 (file offset 009900)	ほかに　ございませんか？	Anything else?	26 bytes; 24 letters x 2 lines per page	
+168	sector 19 +03CE (file offset 009BCE)	びくが　いっぱいに　　　なっている。	Your creel is full.	38 bytes; 24 letters x 2 lines per page	
+169	sector 19 +03F4 (file offset 009BF4)	エサが　ついていない。	There's no bait on.	24 bytes; 24 letters x 2 lines per page	
+170	sector 19 +040C (file offset 009C0C)	ハリが　ついていない。	There's no hook on.	24 bytes; 24 letters x 2 lines per page	
+171	sector 23 +04E9 (file offset 00BCE9)	今は　釣りをしていない。	You aren't fishing now.	26 bytes; 24 letters x 2 lines per page	
+172	sector 23 +0503 (file offset 00BD03)	かわされて　しまった。	It dodged!	24 bytes; 24 letters x 2 lines per page	
+173	sector 23 +051B (file offset 00BD1B)	エサを　ミミズにした。	Switched to worms.	24 bytes; 24 letters x 2 lines per page	
+174	sector 23 +0533 (file offset 00BD33)	エサを　サシにした。	Switched to maggots.	22 bytes; 24 letters x 2 lines per page	
+175	sector 23 +0549 (file offset 00BD49)	エサを　アカムシにした。	Switched to midges.	26 bytes; 24 letters x 2 lines per page	
+176	sector 23 +0563 (file offset 00BD63)	エサを　ねりえにした。	Baited with paste.	24 bytes; 24 letters x 2 lines per page	
+177	sector 23 +057B (file offset 00BD7B)	エサを　カワムシにした。	Switched to caddis.	26 bytes; 24 letters x 2 lines per page	
+178	sector 23 +0595 (file offset 00BD95)	ハリが無いので　エサを　つけられない。	No hook to put bait on.	40 bytes; 24 letters x 2 lines per page	
+179	sector 23 +05BD (file offset 00BDBD)	これ以上　食べきれない。	You can't eat any more.	26 bytes; 24 letters x 2 lines per page	
+180	sector 23 +05D7 (file offset 00BDD7)	ミミズは　ない。	No worms.	18 bytes; 24 letters x 2 lines per page	
+181	sector 23 +05E9 (file offset 00BDE9)	サシは　ない。	No maggots.	16 bytes; 24 letters x 2 lines per page	
+182	sector 23 +05F9 (file offset 00BDF9)	アカムシは　ない。	No midges.	20 bytes; 24 letters x 2 lines per page	
+183	sector 23 +060D (file offset 00BE0D)	ねりえは　ない。	No paste bait.	18 bytes; 24 letters x 2 lines per page	
+184	sector 23 +061F (file offset 00BE1F)	カワムシは　ない。	No caddis.	20 bytes; 24 letters x 2 lines per page	
+185	sector 23 +0633 (file offset 00BE33)	　　力一杯ぶんなぐった！	You hit it hard!	26 bytes; 24 letters x 2 lines per page	
+186	sector 23 +064D (file offset 00BE4D)	体力が　[V0:C0]回復した。	{V0} HP restored.	22 bytes; 24 letters x 2 lines per page	
+187	sector 23 +0663 (file offset 00BE63)	　　必死に　逃げた！	You ran for it!	22 bytes; 24 letters x 2 lines per page	
+188	sector 23 +0679 (file offset 00BE79)	[B1:B1]の反撃！	{B1} hits!	12 bytes; 24 letters x 2 lines per page	
+189	sector 23 +0685 (file offset 00BE85)	[B1:B1]の攻撃！	{B1} lunges!	12 bytes; 24 letters x 2 lines per page	
+190	sector 23 +0691 (file offset 00BE91)	[B1:B1]を　倒した。	{B1} is beaten.	16 bytes; 24 letters x 2 lines per page	
+191	sector 23 +06A1 (file offset 00BEA1)	体力が　全部　回復した。	HP fully restored.	26 bytes; 24 letters x 2 lines per page	
+192	sector 23 +06BB (file offset 00BEBB)	[B1:B1]に　捕まった。	{B1} has you!	18 bytes; 24 letters x 2 lines per page	
+193	sector 23 +06CD (file offset 00BECD)	[B1:B1]は　追って来なかった。	{B1} didn't follow.	26 bytes; 24 letters x 2 lines per page	
+194	sector 23 +06E7 (file offset 00BEE7)	[B1:B1]に　やられてしまった。	{B1} beat you...	26 bytes; 24 letters x 2 lines per page	
+195	sector 23 +0701 (file offset 00BF01)	ミミズは　ついている。	Worms are on already.	24 bytes; 24 letters x 2 lines per page	
+196	sector 23 +0719 (file offset 00BF19)	サシは　ついている。	Maggots are on now.	22 bytes; 24 letters x 2 lines per page	
+197	sector 23 +072F (file offset 00BF2F)	アカムシは　ついている。	Midges are on already.	26 bytes; 24 letters x 2 lines per page	
+198	sector 23 +0749 (file offset 00BF49)	ねりえは　ついている。	Paste is on already.	24 bytes; 24 letters x 2 lines per page	
+199	sector 23 +0761 (file offset 00BF61)	カワムシは　ついている。	Caddis is on already.	26 bytes; 24 letters x 2 lines per page	
+200	sector 23 +077B (file offset 00BF7B)	寄せえを１つ持っていた。	It was carrying chum.	26 bytes; 24 letters x 2 lines per page	
+201	sector 23 +0795 (file offset 00BF95)	はりを１本　持っていた。	It was carrying a hook.	26 bytes; 24 letters x 2 lines per page	
+202	sector 23 +07AF (file offset 00BFAF)	ぱんを　食べた。	Ate a bun.	18 bytes; 24 letters x 2 lines per page	
+203	sector 23 +07C1 (file offset 00BFC1)	もちを　食べた。	Ate a cake.	18 bytes; 24 letters x 2 lines per page	
+204	sector 23 +07D3 (file offset 00BFD3)	いもを　食べた。	Ate a spud.	18 bytes; 24 letters x 2 lines per page	
+205	sector 23 +07E5 (file offset 00BFE5)	牛乳を　飲んだ。	Drank some milk.	18 bytes; 24 letters x 2 lines per page	
+206	sector 23 +07F7 (file offset 00BFF7)	あめを　食べた。	Ate a mint.	18 bytes; 24 letters x 2 lines per page	
+207	sector 24 +0009 (file offset 00C009)	食べ物は　残っていない。	You have no food left.	26 bytes; 24 letters x 2 lines per page	
+208	sector 24 +0023 (file offset 00C023)	最大体力まで　　　　　　あと　[V5:C5]です。	To max HP:\n{V5} more.	40 bytes; 24 letters x 2 lines per page	
+209	sector 24 +004B (file offset 00C04B)	魚を　１匹　盗まれた。	A fish was stolen!	24 bytes; 24 letters x 2 lines per page	
+210	sector 24 +0063 (file offset 00C063)	どうする？	Action?	12 bytes; 24 letters x 2 lines per page	
+211	sector 24 +006F (file offset 00C06F)	[V1:C1]ポイントの　ダメージを受けた。	You took {V1} damage.	34 bytes; 24 letters x 2 lines per page	
+212	sector 24 +0091 (file offset 00C091)	[V2:C2]ポイントの　ダメージを与えた。	You dealt {V2} damage.	34 bytes; 24 letters x 2 lines per page	
+213	sector 25 +0513 (file offset 00CD13)	新しい力が　身についた。	You grew stronger!	26 bytes; 24 letters x 2 lines per page	
+214	sector 25 +052D (file offset 00CD2D)	最大体力が　一つふえて　[B2:B2]になった。	Max HP went up by one,\nto {B2}.	38 bytes; 24 letters x 2 lines per page	
+215	sector 25 +0553 (file offset 00CD53)	経験値　[B3:B3]　獲得。	Got {B3} EXP.	20 bytes; 24 letters x 2 lines per page	
+216	sector 26 +04B4 (file offset 00D4B4)	全部で[V3:C3]円になるけど売ってくれるかい？	{V3} yen in all.\nSell?	40 bytes; 24 letters x 2 lines per page	
+217	sector 26 +04DC (file offset 00D4DC)	ありがとうございました。	Thank you very much!	26 bytes; 24 letters x 2 lines per page	
+218	sector 26 +04F6 (file offset 00D4F6)	お金が　足らないけれど。	You're short of money.	26 bytes; 24 letters x 2 lines per page	
+219	sector 26 +0510 (file offset 00D510)	それは　残念ですね。	That's too bad.	22 bytes; 24 letters x 2 lines per page	
+220	sector 26 +0526 (file offset 00D526)	このびくは　今持っているじゃないですか！	You already have this\ncreel!	42 bytes; 24 letters x 2 lines per page	
+221	sector 26 +0550 (file offset 00D550)	このびくは　今持っているのよりも　小さいですよ。	This creel is smaller\nthan the one you have.	50 bytes; 24 letters x 2 lines per page	
+222	sector 26 +0582 (file offset 00D582)	これ以上　持つことは　　出来ません。	You can't carry any\nmore.	38 bytes; 24 letters x 2 lines per page	
+223	sector 26 +05A8 (file offset 00D5A8)	磁石は持っているはずだ！	You've got a magnet!	26 bytes; 24 letters x 2 lines per page	
+224	sector 26 +05C2 (file offset 00D5C2)	鍵は持っているはずだ！	You've got a key!	24 bytes; 24 letters x 2 lines per page	
+225	sector 26 +05DA (file offset 00D5DA)	花火は持っているはずだ！	You've got sparks!	26 bytes; 24 letters x 2 lines per page	
+226	sector 26 +05F4 (file offset 00D5F4)	斧は持っているはずだ！	You've got an axe!	24 bytes; 24 letters x 2 lines per page	
+227	sector 26 +060C (file offset 00D60C)	釣れているじゃないか！びくの中の　魚ー匹につき大きさ別に　お金を払うと	Nice catch! I pay for each fish in your creel by size.	72 bytes; 24 letters x 2 lines per page	
+228	sector 26 +0654 (file offset 00D654)	魚が　びくに入っていないようですけれど！	Your creel doesn't have\nany fish in it!	42 bytes; 24 letters x 2 lines per page	
+229	sector 26 +067E (file offset 00D67E)	それは　残念だなあ！	Too bad!	22 bytes; 24 letters x 2 lines per page	
+230	sector 26 +0694 (file offset 00D694)	針はそれ以上持てません。	Can't carry more hooks.	26 bytes; 24 letters x 2 lines per page	
+231	sector 26 +06AE (file offset 00D6AE)	寄せえは　それ以上　　　持てません。	You can't carry any\nmore chum.	38 bytes; 24 letters x 2 lines per page	
+232	sector 26 +06D4 (file offset 00D6D4)	ぬし針は　それ以上　　　持てません。	Can't carry any more\nKing hooks.	38 bytes; 24 letters x 2 lines per page	
+233	sector 26 +06FA (file offset 00D6FA)	ぬし竿は　持っている。	You have the King rod.	24 bytes; 24 letters x 2 lines per page	
+234	sector 26 +0712 (file offset 00D712)	お金がないのか！　　　　しょうがねえなあ！	No money, huh?\nOh, all right!	44 bytes; 24 letters x 2 lines per page	
+235	sector 26 +073E (file offset 00D73E)	１本だけだぞ！　　　　　大事に使えよ。	Only one! Take good\ncare of it.	40 bytes; 24 letters x 2 lines per page	
+236	sector 26 +0766 (file offset 00D766)	びくの中に　魚が残って　いると　パスワードを　　お伝えできません。	I can't give a password while fish are in your creel.	68 bytes; 24 letters x 2 lines per page	
+237	sector 26 +07AA (file offset 00D7AA)	ほかに　ございませんか？	Anything else?	26 bytes; 24 letters x 2 lines per page	
+238	sector 27 +0266 (file offset 00DA66)	びくが　いっぱいに　　　なっている。	Your creel is full.	38 bytes; 24 letters x 2 lines per page	
+239	sector 27 +028C (file offset 00DA8C)	エサが　ついていない。	There's no bait on.	24 bytes; 24 letters x 2 lines per page	
+240	sector 27 +02A4 (file offset 00DAA4)	ハリが　ついていない。	There's no hook on.	24 bytes; 24 letters x 2 lines per page	
+241	sector 31 +04D0 (file offset 00FCD0)	今は　釣りをしていない。	You aren't fishing now.	26 bytes; 24 letters x 2 lines per page	
+242	sector 31 +04EA (file offset 00FCEA)	かわされて　しまった。	It dodged!	24 bytes; 24 letters x 2 lines per page	
+243	sector 31 +0502 (file offset 00FD02)	エサを　ミミズにした。	Switched to worms.	24 bytes; 24 letters x 2 lines per page	
+244	sector 31 +051A (file offset 00FD1A)	エサを　サシにした。	Switched to maggots.	22 bytes; 24 letters x 2 lines per page	
+245	sector 31 +0530 (file offset 00FD30)	エサを　アカムシにした。	Switched to midges.	26 bytes; 24 letters x 2 lines per page	
+246	sector 31 +054A (file offset 00FD4A)	エサを　ねりえにした。	Baited with paste.	24 bytes; 24 letters x 2 lines per page	
+247	sector 31 +0562 (file offset 00FD62)	エサを　カワムシにした。	Switched to caddis.	26 bytes; 24 letters x 2 lines per page	
+248	sector 31 +057C (file offset 00FD7C)	ハリが無いので　エサを　つけられない。	No hook to put bait on.	40 bytes; 24 letters x 2 lines per page	
+249	sector 31 +05A4 (file offset 00FDA4)	これ以上　食べきれない。	You can't eat any more.	26 bytes; 24 letters x 2 lines per page	
+250	sector 31 +05BE (file offset 00FDBE)	ミミズは　ない。	No worms.	18 bytes; 24 letters x 2 lines per page	
+251	sector 31 +05D0 (file offset 00FDD0)	サシは　ない。	No maggots.	16 bytes; 24 letters x 2 lines per page	
+252	sector 31 +05E0 (file offset 00FDE0)	アカムシは　ない。	No midges.	20 bytes; 24 letters x 2 lines per page	
+253	sector 31 +05F4 (file offset 00FDF4)	ねりえは　ない。	No paste bait.	18 bytes; 24 letters x 2 lines per page	
+254	sector 31 +0606 (file offset 00FE06)	カワムシは　ない。	No caddis.	20 bytes; 24 letters x 2 lines per page	
+255	sector 31 +061A (file offset 00FE1A)	　　力ー杯ぶんなぐった！	You hit it hard!	26 bytes; 24 letters x 2 lines per page	
+256	sector 31 +0634 (file offset 00FE34)	体力が　[V0:C0]回復した。	{V0} HP restored.	22 bytes; 24 letters x 2 lines per page	
+257	sector 31 +064A (file offset 00FE4A)	　　必死に　逃げた！	You ran for it!	22 bytes; 24 letters x 2 lines per page	
+258	sector 31 +0660 (file offset 00FE60)	[B1:B1]の反撃！	{B1} hits!	12 bytes; 24 letters x 2 lines per page	
+259	sector 31 +066C (file offset 00FE6C)	[B1:B1]の攻撃！	{B1} lunges!	12 bytes; 24 letters x 2 lines per page	
+260	sector 31 +0678 (file offset 00FE78)	[B1:B1]を　倒した。	{B1} is beaten.	16 bytes; 24 letters x 2 lines per page	
+261	sector 31 +0688 (file offset 00FE88)	体力が　全部　回復した。	HP fully restored.	26 bytes; 24 letters x 2 lines per page	
+262	sector 31 +06A2 (file offset 00FEA2)	[B1:B1]に　捕まった。	{B1} has you!	18 bytes; 24 letters x 2 lines per page	
+263	sector 31 +06B4 (file offset 00FEB4)	[B1:B1]は　追って来なかった。	{B1} didn't follow.	26 bytes; 24 letters x 2 lines per page	
+264	sector 31 +06CE (file offset 00FECE)	[B1:B1]に　やられてしまった。	{B1} beat you...	26 bytes; 24 letters x 2 lines per page	
+265	sector 31 +06E8 (file offset 00FEE8)	ミミズは　ついている。	Worms are on already.	24 bytes; 24 letters x 2 lines per page	
+266	sector 31 +0700 (file offset 00FF00)	サシは　ついている。	Maggots are on now.	22 bytes; 24 letters x 2 lines per page	
+267	sector 31 +0716 (file offset 00FF16)	アカムシは　ついている。	Midges are on already.	26 bytes; 24 letters x 2 lines per page	
+268	sector 31 +0730 (file offset 00FF30)	ねりえは　ついている。	Paste is on already.	24 bytes; 24 letters x 2 lines per page	
+269	sector 31 +0748 (file offset 00FF48)	カワムシは　ついている。	Caddis is on already.	26 bytes; 24 letters x 2 lines per page	
+270	sector 31 +0762 (file offset 00FF62)	寄せえを１つ持っていた。	It was carrying chum.	26 bytes; 24 letters x 2 lines per page	
+271	sector 31 +077C (file offset 00FF7C)	はりを１本　持っていた。	It was carrying a hook.	26 bytes; 24 letters x 2 lines per page	
+272	sector 31 +0796 (file offset 00FF96)	ぱんを　食べた。	Ate a bun.	18 bytes; 24 letters x 2 lines per page	
+273	sector 31 +07A8 (file offset 00FFA8)	もちを　食べた。	Ate a cake.	18 bytes; 24 letters x 2 lines per page	
+274	sector 31 +07BA (file offset 00FFBA)	いもを　食べた。	Ate a spud.	18 bytes; 24 letters x 2 lines per page	
+275	sector 31 +07CC (file offset 00FFCC)	牛乳を　飲んだ。	Drank some milk.	18 bytes; 24 letters x 2 lines per page	
+276	sector 31 +07DE (file offset 00FFDE)	あめを　食べた。	Ate a mint.	18 bytes; 24 letters x 2 lines per page	
+277	sector 31 +07F0 (file offset 00FFF0)	食べ物は　残っていない。	You have no food left.	26 bytes; 24 letters x 2 lines per page	
+278	sector 32 +000A (file offset 01000A)	最大体力まで　　　　　　あと　[V5:C5]です。	To max HP:\n{V5} more.	40 bytes; 24 letters x 2 lines per page	
+279	sector 32 +0032 (file offset 010032)	魚を　１匹　盗まれた。	A fish was stolen!	24 bytes; 24 letters x 2 lines per page	
+280	sector 32 +004A (file offset 01004A)	どうする？	Action?	12 bytes; 24 letters x 2 lines per page	
+281	sector 32 +0056 (file offset 010056)	[V1:C1]ポイントの　ダメージを受けた。	You took {V1} damage.	34 bytes; 24 letters x 2 lines per page	
+282	sector 32 +0078 (file offset 010078)	[V2:C2]ポイントの　ダメージを与えた。	You dealt {V2} damage.	34 bytes; 24 letters x 2 lines per page	
+283	sector 33 +03F6 (file offset 010BF6)	新しい力が　身についた。	You grew stronger!	26 bytes; 24 letters x 2 lines per page	
+284	sector 33 +0410 (file offset 010C10)	最大体力が　一つふえて　[B2:B2]になった。	Max HP went up by one,\nto {B2}.	38 bytes; 24 letters x 2 lines per page	
+285	sector 33 +0436 (file offset 010C36)	経験値　[B3:B3]　獲得。	Got {B3} EXP.	20 bytes; 24 letters x 2 lines per page	
+286	sector 34 +0271 (file offset 011271)	データがありません。　	No saved game found.  	24 bytes; 24 letters x 2 lines per page	
+287	sector 34 +0289 (file offset 011289)	　　　　　　　　　　　		24 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+288	sector 34 +02A1 (file offset 0112A1)	データが正常に読み　　	The saved data could  	24 bytes; 24 letters x 2 lines per page	
+289	sector 34 +02B9 (file offset 0112B9)	込めませんでした。　　	not be loaded.        	24 bytes; 24 letters x 2 lines per page	
+290	sector 34 +02D1 (file offset 0112D1)	全体を初期化して　　　	Please format the     	24 bytes; 24 letters x 2 lines per page	
+291	sector 34 +02E9 (file offset 0112E9)	下さい。　　　　　　　	backup memory.        	24 bytes; 24 letters x 2 lines per page	
+292	sector 34 +0301 (file offset 011301)	バックアップメモリーが	Not enough free space 	24 bytes; 24 letters x 2 lines per page	
+293	sector 34 +0319 (file offset 011319)	足りません。　　　　　	in backup memory.     	24 bytes; 24 letters x 2 lines per page	
+294	sector 60 +0732 (file offset 01E732)	山奥の　せせらぎから　　端を発した流れは　渓谷を下り　しだいに川幅を　　増していく。　　　　　　やがて　ゆるやかになった流れは　数多くの沼や　　湿地帯の間を通って　　　蛇行しながら流れ下る。	From a babbling brook high in the mountains, a river runs down through the gorges, growing wider as it goes. Then, slowing, it winds its way on past countless ponds and wetlands.	192 bytes; 24 letters x 2 lines per page	
+295	sector 60 +07F2 (file offset 01E7F2)	一方　川の中では数多くの種類の魚が　元気よく　　泳ぎ回っていた。　　　　なかでも　ぬしと呼ばれている魚は　強すぎて　まだ誰も　釣りあげる事が出来なかった。	In the river, fish of all kinds swam about. One of them, called the River King, was so strong that nobody had ever managed to land it.	156 bytes; 24 letters x 2 lines per page	
+296	sector 61 +008E (file offset 01E88E)	そして　村では毎日　平穏な日々が　続いていた。　ところが　ある日のこと　釣り好きの　少年の妹が　突然　高熱を出して倒れてしまいました・・・。	Life in the village went on peacefully, day after day. Then one day, the sister of a boy who loved to fish fell ill with a high fever...	142 bytes; 24 letters x 2 lines per page	
+297	sector 63 +003E (file offset 01F83E)	０１２３４５６７８９に　逃げられた。		38 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+298	sector 63 +0064 (file offset 01F864)	を　釣りあげた。	 landed!	18 bytes; 24 letters x 2 lines per page	
+299	sector 63 +0076 (file offset 01F876)	を　逃がした。	 escaped.	16 bytes; 24 letters x 2 lines per page	
+300	sector 63 +009D (file offset 01F89D)	靺あかねずみ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+301	sector 63 +00AB (file offset 01F8AB)	のうさぎ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+302	sector 63 +00B5 (file offset 01F8B5)	もぐら		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+303	sector 63 +00BD (file offset 01F8BD)	やまこうもり		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+304	sector 63 +00CB (file offset 01F8CB)	ふくろう		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+305	sector 63 +00D5 (file offset 01F8D5)	てん		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+306	sector 63 +00DB (file offset 01F8DB)	からす		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+307	sector 63 +00E3 (file offset 01F8E3)	きつね		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+308	sector 63 +00EB (file offset 01F8EB)	ももんが		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+309	sector 63 +00F5 (file offset 01F8F5)	たぬき		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+310	sector 63 +00FD (file offset 01F8FD)	いたち		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+311	sector 63 +0105 (file offset 01F905)	わし		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+312	sector 63 +010B (file offset 01F90B)	あおだいしょう		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+313	sector 63 +011B (file offset 01F91B)	しまへび		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+314	sector 63 +0125 (file offset 01F925)	かもしか		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+315	sector 63 +012F (file offset 01F92F)	まむし		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+316	sector 63 +0137 (file offset 01F937)	おおじか		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+317	sector 63 +0141 (file offset 01F941)	やまざる		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+318	sector 63 +014B (file offset 01F94B)	やまねこ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+319	sector 63 +0155 (file offset 01F955)	あなぐま		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+320	sector 63 +015F (file offset 01F95F)	いのしし		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+321	sector 63 +0169 (file offset 01F969)	ひぐま		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+322	sector 63 +0171 (file offset 01F971)	さそり		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+323	sector 63 +0179 (file offset 01F979)	つきのわぐま		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+324	sector 63 +0187 (file offset 01F987)	どくぐも		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+325	sector 65 +031D (file offset 020B1D)	どうぞ　ごゆっくり。	Enjoy your stay.	22 bytes; 24 letters x 2 lines per page	
+326	sector 83 +0580 (file offset 029D80)	長　さ　　　　Ｃｍ		20 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+327	sector 83 +0594 (file offset 029D94)	釣　果　　　　　匹		20 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+328	sector 83 +05A8 (file offset 029DA8)	利　用		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+329	sector 83 +05B0 (file offset 029DB0)	（渓流の魚１）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+330	sector 83 +05C0 (file offset 029DC0)	戻る		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+331	sector 83 +05C6 (file offset 029DC6)	イワナ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+332	sector 83 +05CE (file offset 029DCE)	ヤマメ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+333	sector 83 +05D6 (file offset 029DD6)	カジカ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+334	sector 83 +05DE (file offset 029DDE)	ニジマス		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+335	sector 83 +05E8 (file offset 029DE8)	アマゴ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+336	sector 83 +05F0 (file offset 029DF0)	ヒメマス		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+337	sector 83 +05FA (file offset 029DFA)	続く		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+338	sector 83 +0600 (file offset 029E00)	終り		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+339	sector 83 +0606 (file offset 029E06)	（渓流の魚２）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+340	sector 83 +0616 (file offset 029E16)	ブラウントラウト		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+341	sector 83 +0628 (file offset 029E28)	カワマス		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+342	sector 83 +0632 (file offset 029E32)	ワカサギ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+343	sector 83 +063C (file offset 029E3C)	ブラックバス		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+344	sector 83 +064A (file offset 029E4A)	ウグイ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+345	sector 83 +0652 (file offset 029E52)	（上流の魚１）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+346	sector 83 +0662 (file offset 029E62)	コイ		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+347	sector 83 +0668 (file offset 029E68)	ドンコ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+348	sector 83 +0670 (file offset 029E70)	オイカワ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+349	sector 83 +067A (file offset 029E7A)	モツゴ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+350	sector 83 +0682 (file offset 029E82)	イトモロコ		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+351	sector 83 +068E (file offset 029E8E)	ギギ		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+352	sector 83 +0694 (file offset 029E94)	（上流の魚２）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+353	sector 83 +06A4 (file offset 029EA4)	サクラマス		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+354	sector 83 +06B0 (file offset 029EB0)	コクレン		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+355	sector 83 +06BA (file offset 029EBA)	ハクレン		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+356	sector 83 +06C4 (file offset 029EC4)	ムギツク		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+357	sector 83 +06CE (file offset 029ECE)	ホンモロコ		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+358	sector 83 +06DA (file offset 029EDA)	（中流の魚１）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+359	sector 83 +06EA (file offset 029EEA)	ヤマノカミ		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+360	sector 83 +06F6 (file offset 029EF6)	ドジョウ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+361	sector 83 +0700 (file offset 029F00)	タモロコ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+362	sector 83 +070A (file offset 029F0A)	カワムツ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+363	sector 83 +0714 (file offset 029F14)	キンブナ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+364	sector 83 +071E (file offset 029F1E)	フナ		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+365	sector 83 +0724 (file offset 029F24)	（中流の魚２）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+366	sector 83 +0734 (file offset 029F34)	アカザ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+367	sector 83 +073C (file offset 029F3C)	メダカ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+368	sector 83 +0744 (file offset 029F44)	ブルーギル		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+369	sector 83 +0750 (file offset 029F50)	オヤニラミ		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+370	sector 83 +075C (file offset 029F5C)	ハリヨ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+371	sector 83 +0764 (file offset 029F64)	（下流の魚１）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+372	sector 83 +0774 (file offset 029F74)	トミヨ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+373	sector 83 +077C (file offset 029F7C)	タイワンドジョウ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+374	sector 83 +078E (file offset 029F8E)	ヘラブナ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+375	sector 83 +0798 (file offset 029F98)	ナマズ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+376	sector 83 +07A0 (file offset 029FA0)	サヨリ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+377	sector 83 +07A8 (file offset 029FA8)	（下流の魚２）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+378	sector 83 +07B8 (file offset 029FB8)	ハス		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+379	sector 83 +07BE (file offset 029FBE)	ワタカ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+380	sector 83 +07C6 (file offset 029FC6)	カマツカ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+381	sector 83 +07D0 (file offset 029FD0)	ツチフキ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+382	sector 83 +07DA (file offset 029FDA)	シマドジョウ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+383	sector 83 +07E8 (file offset 029FE8)	（河口の魚１）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+384	sector 83 +07F8 (file offset 029FF8)	カムルチー		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+385	sector 84 +0004 (file offset 02A004)	ヒガイ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+386	sector 84 +000C (file offset 02A00C)	ソウギョ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+387	sector 84 +0016 (file offset 02A016)	ニゴイ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+388	sector 84 +001E (file offset 02A01E)	メゴチ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+389	sector 84 +0026 (file offset 02A026)	（河口の魚２）		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+390	sector 84 +0036 (file offset 02A036)	マルタ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+391	sector 84 +003E (file offset 02A03E)	ハゼ		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+392	sector 84 +0044 (file offset 02A044)	ボラ		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+393	sector 84 +004A (file offset 02A04A)	スズキ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+394	sector 84 +0052 (file offset 02A052)	　イ　ワ　ナ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+395	sector 84 +0060 (file offset 02A060)	　ヤ　マ　メ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+396	sector 84 +006E (file offset 02A06E)	　カ　ジ　カ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+397	sector 84 +007C (file offset 02A07C)	　ニ　ジ　マ　ス		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+398	sector 84 +008E (file offset 02A08E)	　ア　マ　ゴ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+399	sector 84 +009C (file offset 02A09C)	　ヒ　メ　マ　ス		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+400	sector 84 +00AE (file offset 02A0AE)	ブラウントラウト		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+401	sector 84 +00C0 (file offset 02A0C0)	　カ　ワ　マ　ス		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+402	sector 84 +00D2 (file offset 02A0D2)	　ワ　カ　サ　ギ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+403	sector 84 +00E4 (file offset 02A0E4)	　ブラックバス		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+404	sector 84 +00F4 (file offset 02A0F4)	　ウ　グ　イ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+405	sector 84 +0102 (file offset 02A102)	　　コ　　イ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+406	sector 84 +0110 (file offset 02A110)	　ド　ン　コ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+407	sector 84 +011E (file offset 02A11E)	　オ　イ　カ　ワ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+408	sector 84 +0130 (file offset 02A130)	　モ　ツ　ゴ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+409	sector 84 +013E (file offset 02A13E)	　イトモロコ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+410	sector 84 +014C (file offset 02A14C)	　　ギ　　ギ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+411	sector 84 +015A (file offset 02A15A)	　サクラマス		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+412	sector 84 +0168 (file offset 02A168)	　コ　ク　レ　ン		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+413	sector 84 +017A (file offset 02A17A)	　ハ　ク　レ　ン		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+414	sector 84 +018C (file offset 02A18C)	　ム　ギ　ツ　ク		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+415	sector 84 +019E (file offset 02A19E)	　ホンモロコ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+416	sector 84 +01AC (file offset 02A1AC)	　ヤマノカミ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+417	sector 84 +01BA (file offset 02A1BA)	　ド　ジ　ョ　ウ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+418	sector 84 +01CC (file offset 02A1CC)	　タ　モ　ロ　コ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+419	sector 84 +01DE (file offset 02A1DE)	　カ　ワ　ム　ツ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+420	sector 84 +01F0 (file offset 02A1F0)	　キ　ン　ブ　ナ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+421	sector 84 +0202 (file offset 02A202)	　　フ　　ナ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+422	sector 84 +0210 (file offset 02A210)	　ア　カ　ザ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+423	sector 84 +021E (file offset 02A21E)	　メ　ダ　カ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+424	sector 84 +022C (file offset 02A22C)	　ブルーギル		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+425	sector 84 +023A (file offset 02A23A)	　オヤニラミ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+426	sector 84 +0248 (file offset 02A248)	　ハ　リ　ヨ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+427	sector 84 +0256 (file offset 02A256)	　ト　ミ　ヨ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+428	sector 84 +0264 (file offset 02A264)	タイワンドジョウ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+429	sector 84 +0276 (file offset 02A276)	　ヘ　ラ　ブ　ナ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+430	sector 84 +0288 (file offset 02A288)	　ナ　マ　ズ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+431	sector 84 +0296 (file offset 02A296)	　サ　ヨ　リ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+432	sector 84 +02A4 (file offset 02A2A4)	　　ハ　　ス		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+433	sector 84 +02B2 (file offset 02A2B2)	　ワ　タ　カ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+434	sector 84 +02C0 (file offset 02A2C0)	　カ　マ　ツ　カ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+435	sector 84 +02D2 (file offset 02A2D2)	　ツ　チ　フ　キ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+436	sector 84 +02E4 (file offset 02A2E4)	　シマドジョウ		16 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+437	sector 84 +02F4 (file offset 02A2F4)	　カムルチー		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+438	sector 84 +0302 (file offset 02A302)	　ヒ　ガ　イ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+439	sector 84 +0310 (file offset 02A310)	　ソ　ウ　ギ　ョ		18 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+440	sector 84 +0322 (file offset 02A322)	　ニ　ゴ　イ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+441	sector 84 +0330 (file offset 02A330)	　メ　ゴ　チ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+442	sector 84 +033E (file offset 02A33E)	　マ　ル　タ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+443	sector 84 +034C (file offset 02A34C)	　　ハ　　ゼ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+444	sector 84 +035A (file offset 02A35A)	　　ボ　　ラ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+445	sector 84 +0368 (file offset 02A368)	　ス　ズ　キ		14 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+446	sector 84 +041C (file offset 02A41C)	塩焼き		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+447	sector 84 +0424 (file offset 02A424)	美味		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+448	sector 84 +042A (file offset 02A42A)	鑑賞用		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+449	sector 84 +0432 (file offset 02A432)	みそ汁絶品		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+450	sector 84 +043E (file offset 02A43E)	まずい		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+451	sector 84 +0446 (file offset 02A446)	刺身		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+452	sector 84 +044C (file offset 02A44C)	バター焼き		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+453	sector 84 +0458 (file offset 02A458)	フライ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+454	sector 84 +0460 (file offset 02A460)	スポーツ用		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+455	sector 84 +046C (file offset 02A46C)	味噌田楽		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+456	sector 84 +0476 (file offset 02A476)	コイこく		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+457	sector 84 +0480 (file offset 02A480)	甘煮つけ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+458	sector 84 +048A (file offset 02A48A)	白焼き		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+459	sector 84 +0492 (file offset 02A492)	つくだに		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+460	sector 84 +049C (file offset 02A49C)	煮つけ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+461	sector 84 +04A4 (file offset 02A4A4)	つけやき		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+462	sector 84 +04AE (file offset 02A4AE)	みそ汁		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+463	sector 84 +04B6 (file offset 02A4B6)	まずい		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+464	sector 84 +04BE (file offset 02A4BE)	からあげ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+465	sector 84 +04C8 (file offset 02A4C8)	煮びたし		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+466	sector 84 +04D2 (file offset 02A4D2)	煮びたし		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+467	sector 84 +04DC (file offset 02A4DC)	食べない		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+468	sector 84 +04E6 (file offset 02A4E6)	スポーツ用		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+469	sector 84 +04F2 (file offset 02A4F2)	あらい		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+470	sector 84 +04FA (file offset 02A4FA)	刺身		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+471	sector 84 +0500 (file offset 02A500)	蒲焼き		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+472	sector 84 +0508 (file offset 02A508)	吸物		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+473	sector 84 +050E (file offset 02A50E)	なれずし		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+474	sector 84 +0518 (file offset 02A518)	食べない		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+475	sector 84 +0522 (file offset 02A522)	まずい		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+476	sector 84 +052A (file offset 02A52A)	あらい		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+477	sector 84 +0532 (file offset 02A532)	白焼き		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+478	sector 84 +053A (file offset 02A53A)	刺身		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+479	sector 84 +0540 (file offset 02A540)	産卵期美味		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+480	sector 84 +054C (file offset 02A54C)	天ぷら		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+481	sector 84 +0554 (file offset 02A554)	カラスミ		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+482	sector 84 +055E (file offset 02A55E)	夏のあらい		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+483	sector 84 +056A (file offset 02A56A)	フライ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+484	sector 84 +0572 (file offset 02A572)	極めて美味		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+485	sector 84 +057E (file offset 02A57E)	極めて美味		12 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+486	sector 84 +058A (file offset 02A58A)	くんせい		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+487	sector 84 +0594 (file offset 02A594)	フライ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+488	sector 84 +059C (file offset 02A59C)	天ぷら		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+489	sector 84 +05A4 (file offset 02A5A4)	あらい		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+490	sector 84 +05AC (file offset 02A5AC)	天ぷら		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+491	sector 84 +05B4 (file offset 02A5B4)	すし		6 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+492	sector 84 +05BA (file offset 02A5BA)	蒲焼き		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+493	sector 84 +05C2 (file offset 02A5C2)	白焼き		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+494	sector 84 +05CA (file offset 02A5CA)	甘露煮		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+495	sector 84 +05D2 (file offset 02A5D2)	甘露煮		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+496	sector 84 +05DA (file offset 02A5DA)	煮つけ		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+497	sector 84 +05E2 (file offset 02A5E2)	酢のもの		10 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+498	sector 109 +050B (file offset 036D0B)	川のぬしから　作った薬を妹に　飲ませてあげた。　	The boy gave his sister\nmedicine from the King.	50 bytes; 24 letters x 2 lines per page	
+499	sector 109 +053D (file offset 036D3D)	すると　すぐに妹は元気になり　立ち上がりました。	At once she felt better\nand got up out of bed.	50 bytes; 24 letters x 2 lines per page	
+500	sector 109 +056F (file offset 036D6F)	　　　バンザーイ。　　　	        Hooray!	26 bytes; 24 letters x 2 lines per page	
+501	sector 109 +0589 (file offset 036D89)	村人の間から　よろこびの歓声がわき上がりました。　　　　　　　　　　　　	A cheer of joy went up\nfrom all the villagers.	74 bytes; 24 letters x 2 lines per page	
+502	sector 109 +05D3 (file offset 036DD3)	　　　　おわり　　　　　	        THE END	26 bytes; 24 letters x 2 lines per page	
+503	sector 266 +00BA (file offset 0850BA)	？？[V1:E4]		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+504	sector 584 +01BA (file offset 1241BA)	崇崇ム		8 bytes; 24 letters x 2 lines per page	kept in Japanese (unused, a menu template, or drawn elsewhere)
+505	sector 990 +0694 (file offset 1EF694)	力を　使い果たした。	You're worn out.	22 bytes; 24 letters x 2 lines per page	
+506	sector 990 +06AA (file offset 1EF6AA)	ハリが　取れてしまった。	The hook came off.	26 bytes; 24 letters x 2 lines per page	
+507	sector 990 +06C4 (file offset 1EF6C4)	ハリが盗られてしまった。	The hook was stolen.	26 bytes; 24 letters x 2 lines per page	
+508	sector 990 +06DE (file offset 1EF6DE)	魚が　いなくなった。	The fish are gone.	22 bytes; 24 letters x 2 lines per page	
+509	sector 990 +06F4 (file offset 1EF6F4)	びくが　いっぱいに　　　なってしまった。	Your creel is now full.	42 bytes; 24 letters x 2 lines per page	
+510	sector 991 +01F9 (file offset 1EF9F9)	大きさは　[NUM:F0]Ｃｍ。	Size: {NUM}cm.	20 bytes; 24 letters x 2 lines per page	
+511	sector 991 +020D (file offset 1EFA0D)	[V1:C1]ポイントの　ダメージを受けた。	You took {V1} damage.	34 bytes; 24 letters x 2 lines per page	
+512	sector 991 +022F (file offset 1EFA2F)	やったーっ！　ついに　　川のぬしを　釣り上げた。大きさは　２ｍ。　　　　さあ！　すぐに家へ帰って病気で寝ている妹にぬしを食べさせてあげて下さい。	You did it! At last you landed the River King! It's 2m long! Now hurry home and feed it to your sick little sister.	146 bytes; 24 letters x 2 lines per page	
+513	sector 993 +0307 (file offset 1F0B07)	新しい力が　身についた。	You grew stronger!	26 bytes; 24 letters x 2 lines per page	
+514	sector 993 +0321 (file offset 1F0B21)	最大体力が　一つふえて　[B2:B2]になった。	Max HP went up by one,\nto {B2}.	38 bytes; 24 letters x 2 lines per page	
+515	sector 993 +0347 (file offset 1F0B47)	経験値　[B3:B3]　獲得。	Got {B3} EXP.	20 bytes; 24 letters x 2 lines per page	
+fixed_01F852	file offset 01F852		 got away.	16 bytes	fixed-size string
+fixed_003592	file offset 003592		 got away.	16 bytes	fixed-size string
