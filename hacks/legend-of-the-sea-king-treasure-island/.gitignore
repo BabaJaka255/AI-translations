@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+# never commit game images or build outputs
+*.bin
+*.cue
+*.iso
+*.img
+*.chd
+*.7z
+*.st
+src/rom/*
+!src/rom/PUT_ROM_HERE.txt
+src/files/
+src/view/
+src/gfx_out/
+src/shots/
+src/sys/
+src/*.xdelta

@@ -1,0 +1,321 @@
+# Fish names, aliases, uses and Fishing Note info (740-1059), from the SFC Sea King patch
+740|Rabbitfish
+741|Greenling
+742|Sunrise Perch
+743|Barracuda
+744|Rosefish
+745|Jack Mackerel
+746|Conger Eel
+747|Red Tilefish
+748|Gold Tilefish
+749|White Tilefish
+750|Rice Octopus
+751|Grunt
+752|Spot Beakfish
+753|Whitemouth
+754|Stone Flounder
+755|Beakfish
+756|Blackmouth
+757|Giant Sea Bass
+758|Croaker
+759|Rudderfish
+760|Dogtooth Tuna
+761|Threadfin
+762|Sardine
+763|Horse Filefish
+764|Surfperch
+765|Blue Snapper
+766|Wahoo
+767|Devil Stinger
+768|Trevally
+769|Scorpionfish
+770|Bonito
+771|Black Trevally
+772|Flatfish
+773|Filefish
+774|Skate
+775|Bulgy Wrasse
+776|Amberjack
+777|Yellow Bream
+778|Toby Puffer
+779|Hogfish
+780|Yellowfin Tuna
+781|Alfonsino
+782|Grass Puffer
+783|Blue Marlin
+784|Black Porgy
+785|Bluefin Tuna
+786|Young Bluefin
+787|Cuttlefish
+788|Flathead
+789|Gizzard Shad
+790|Sardinella
+791|Mackerel
+792|Halfbeak
+793|Seerfish
+794|Mahi-mahi
+795|Striped Jack
+796|Mantis Shrimp
+797|Whiting
+798|Pollock
+799|Sea Bass
+800|Flying Squid
+801|Cutlassfish
+802|Oarfish
+803|Sailfish
+804|Sailfish
+805|Goby
+806|Porcupinefish
+807|Kingfish
+808|Flounder
+809|Albacore
+810|Parrotfish
+811|Yellowtail Fry
+812|Jr. Yellowtail
+813|Big Yellowtail
+814|Yellowtail
+815|Wrasse
+816|Gurnard
+817|Young Mullet
+818|Gray Mullet
+819|Red Sea Bream
+820|Octopus
+821|Grouper
+822|Purple Puffer
+823|Sunfish
+824|Lionfish
+825|Round Scad
+826|Bigeye Bream
+827|Dragonet
+828|Opaleye
+829|Barrelfish
+830|Rockfish
+831|Kelp Grouper
+832|Spear Squid
+833|Bullhead Shark
+834|Moray Eel
+835|Tongue Sole
+836|Anglerfish
+837|Horse Mackerel
+838|Tilefish
+839|Tilefish
+840|Tilefish
+841|Spot Beakfish
+842|Beakfish
+843|Jewfish
+844|Nibe Croaker
+845|Anchovy
+846|Black Gemfish
+847|Brown Sole
+848|Sheepshead
+849|Ahi
+850|Marlin
+851|Bluefin Tuna
+852|Golden Cuttle
+853|Bartail Flathead
+854|Fox Rockfish
+855|Sea Bream
+856|Billfish
+857|Billfish
+858|Yellowtail
+859|Yellowtail
+860|Yellowtail
+861|Rainbow Wrasse
+862|Gray Mullet
+863|Gray Mullet
+864|Puffer
+865|Longtooth
+866|Use: Miso-cured, fried
+867|Use: Sashimi, fresh
+868|Use: Grilled, simmered
+869|Use: Grilled, dried
+870|Use: Simmered, hot pot
+871|Use: Minced, sashimi
+872|Use: Tempura, sushi
+873|Use: Miso or sake-cured
+874|Use: Miso or sake-cured
+875|Use: Miso or sake-cured
+876|Use: Simmered in stew
+877|Use: Grilled, fried
+878|Use: Sashimi, grilled
+879|Use: Sashimi, grilled
+880|Use: Sashimi, simmered
+881|Use: Arai, sashimi
+882|Use: Sashimi, grilled
+883|Use: Sashimi, grilled
+884|Use: Fish cakes
+885|Use: Grilled, miso-cured
+886|Use: Teriyaki
+887|Use: Teriyaki
+888|Use: Grilled, fishballs
+889|Use: Dried, sashimi, stew
+890|Use: Simmered, grilled
+891|Use: Simmered, grilled
+892|Use: Fish cakes
+893|Use: Sashimi, soup
+894|Use: Sashimi, grilled
+895|Use: Simmered, grilled
+896|Use: Seared, dried flakes
+897|Use: Sashimi, grilled
+898|Use: Simmered, fried
+899|Use: The liver is tasty
+900|Use: Fish cakes
+901|Use: Fried
+902|Use: Prized for sashimi
+903|Use: Like red sea bream
+904|Use: Not eaten
+905|Use: Fried
+906|Use: Sashimi, sushi
+907|Use: Sashimi, simmered
+908|Use: Rarely eaten
+909|Use: Sashimi, miso-cured
+910|Use: Sashimi, grilled
+911|Use: Sashimi, sushi
+912|Use: Sashimi, sushi
+913|Use: Sashimi, dried
+914|Use: Great in miso soup
+915|Use: Grilled, pickled
+916|Use: Pickled in vinegar
+917|Use: Cured, canned
+918|Use: Sashimi, dried
+919|Use: Sashimi, teriyaki
+920|Use: Sashimi, teriyaki
+921|Use: Prized for sashimi
+922|Use: Vinegared, sushi
+923|Use: Tempura, grilled
+924|Use: Fish cakes, roe
+925|Use: Arai, sashimi
+926|Use: Dried, fermented
+927|Use: Sashimi, grilled
+928|Use: Not eaten
+929|Use: Grilled, teriyaki
+930|Use: Grilled, teriyaki
+931|Use: Tempura
+932|Use: Not eaten
+933|Use: Superb sashimi
+934|Use: Sashimi
+935|Use: Canned tuna
+936|Use: Sashimi
+937|Use: Sashimi, teriyaki
+938|Use: Sashimi, teriyaki
+939|Use: Sashimi, teriyaki
+940|Use: Teriyaki, grilled
+941|Use: Simmered, marinated
+942|Use: Grilled, fried
+943|Use: Bottarga
+944|Use: Bottarga
+945|Use: Sashimi, head grill
+946|Use: Sashimi, vinegared
+947|Use: Hot pot, sake-cured
+948|Use: Not eaten
+949|Use: Vinegared
+950|Use: Not eaten
+951|Use: Sashimi, minced
+952|Use: Sashimi, grilled
+953|Use: Great as tempura
+954|Use: A bit reefy
+955|Use: Sashimi, teriyaki
+956|Use: Sweet-sour sauce
+957|Use: Sashimi, hot pot
+958|Use: Fermented, sashimi
+959|Use: Fish cakes, stew
+960|Use: Kabayaki, tempura
+961|Use: Butter, meuniere
+962|Use: Hot pot, liver
+963|Info: Eats seaweed, shrimp and worms. Its fin spines carry venom and sting badly. Pulls hard for its size.
+964|Info: Peeks out of holes, waiting for food to fall. It eats other fish's eggs, so the male guards his own.
+965|Info: Schools over deep reefs near the coast. Caught offshore among alfonsino. Eats crabs and small fish.
+966|Info: Schools offshore near the surface. Eats sardine, scad and mackerel. Its sharp teeth often cut the line.
+967|Info: Schools in the deep. The pressure change pops its big eyes out as it's reeled up.
+968|Info: Schools along every coast of Japan, mid-water to bottom. Spiny scutes line its sides. Best in summer.
+969|Info: Grows from a leaf-like larva, like eels. Slimy, no scales. Hides in sand by day.
+970|Info: A bottom fish that digs a burrow in sand or mud. Its mouth is small: cut the bait fine and dance it.
+971|Info: More yellow on the fins than the red tilefish, with a silver band below the eye. Smaller, less tasty.
+972|Info: White lives shallowest, then red, then yellow. The biggest, tastiest tilefish.
+973|Info: Its cooked eggs look like rice, hence 'rice octopus'. Lives in shells in sandy bays.
+974|Info: Young have three brown stripes, so they're called 'piglets'. Near the bottom by day, rises at night.
+975|Info: Lives on coastal reefs and crushes turban shells, barnacles, urchins and crabs with its beak.
+976|Info: Old spot beakfish lose their spots and get a white mouth. It pulls even harder than a beakfish.
+977|Info: Likes sand over mud. Has stony plates and smooth skin. Best in summer, but some dislike its smell.
+978|Info: Crushes urchins and shellfish with a strong beak. Fish near the bottom where currents hit the reef.
+979|Info: The king of the rocks. Old beakfish lose their stripes and get a black mouth. A very hard puller.
+980|Info: Lives on deep reefs and dives for cover once hooked. Its liver is so rich in vitamin A it can poison.
+981|Info: Croaks with its swim bladder. Named for its big ear stones. Bites at night, or by day in murky water.
+982|Info: Schools off rough shores and far isles. A winter reef favorite. Eats shrimp, crabs and seaweed.
+983|Info: Roams the coastal surface in small schools, eating sardine, mackerel and squid. Not very tasty.
+984|Info: Its long upper tail fin trails like yellow thread. Lives on mud, eats small animals.
+985|Info: Roams the coastal surface. Once Japan's top catch. Try breakwater tips with good flow.
+986|Info: A tiny-mouthed bait thief named for its long horse face. Often bites when fishing for sea bream.
+987|Info: Bears live young: it mates in fall and gives birth in spring. Look for rocky bottoms with seaweed.
+988|Info: Lives on deep reefs. Pulls hard and tastes good. Eats small fish and squid. Back is plum-colored.
+989|Info: Lives on the shelf floor, rises at night. Bites on rosefish rigs. Eats shrimp, squid.
+990|Info: Its dorsal spines are sharp and venomous. Scaleless and soft. Lives on sandy mud.
+991|Info: Black bands on its back and anal fins. Digs worms and shrimp from sandy, muddy coastal bottoms.
+992|Info: Grabs anything in front of it. Beware its sharp dorsal fin. Bears live young in spring.
+993|Info: Huge schools race across the open sea at over 40 km/h, north in spring, south in fall. Eats sardine.
+994|Info: Black scutes near the tail. Lives on reef slopes with good flow. A hunter that loves to eat fish.
+995|Info: Changes color and pattern to match its surroundings. Common in the Sea of Japan.
+996|Info: Covered in tough skin like sandpaper. An expert bait thief that eats fish, crabs, shells and weeds.
+997|Info: Lives on shallow to deep bottoms. Spines run down its tail. Caught by trawlers for fish cakes.
+998|Info: The male's forehead swells into a hump. Crushes shells and crabs. Pairs live on weedy reefs.
+999|Info: Its dark eye bands form the kanji for 'eight' (hachi) from above. Big ones don't taste as good.
+1000|Info: More yellow than red sea bream or crimson bream. Lives on deep mud. Eats shrimp, crabs and squid.
+1001|Info: A small poisonous puffer that bites on reef rigs. A greedy hunter and an expert bait thief.
+1002|Info: Lives on deeper reefs and eats bottom animals. Long, pointed snout and a big black spot on the back.
+1003|Info: Its tall second dorsal and anal fins are yellow and sickle-shaped. Lean, firm, pale pink flesh.
+1004|Info: Bright red with big golden eyes. Lives deep by day and rises near the surface at night.
+1005|Info: Lives in shallow bays, river mouths, reefs and weed beds. It puffs up when angry. Deadly poison.
+1006|Info: Called the blue marlin for its cobalt color in life. Once hooked, it puts up the greatest fight.
+1007|Info: Young ones poop the moment they're landed. It changes from male to female and will eat anything.
+1008|Info: The tuna everyone means. Swims from Japan to America's west coast and back, at up to 150 km/h.
+1009|Info: A young bluefin, two or three years old. Bluefin are best in winter, but young ones in spring.
+1010|Info: Named for the oval shell inside its body. Watch out: it squirts strong ink as you land it.
+1011|Info: Lives on sandy mud. Use live shrimp or goby. Don't strike early. Soft, mild white flesh in summer.
+1012|Info: Young are called kohada. Has a black spot on the shoulder. Eats plankton and tiny animals.
+1013|Info: Common in bays and river mouths. In Seto it's 'mamakari': so tasty you'd borrow rice to eat it.
+1014|Info: Roams the coast in huge schools, eating small fish and plankton. Spoils fast, so eat it fresh.
+1015|Info: Swims near the surface in small schools. The tip of its lower jaw is red like lipstick.
+1016|Info: Its name changes as it grows: sagoshi, nagi, sawara. A coastal roamer that winters offshore.
+1017|Info: Schools near the surface of the open sea in the Kuroshio. Gathers under driftwood and flotsam.
+1018|Info: Roams near shore but never into bays. In Tokyo big ones are 'wolves'. A powerhouse.
+1019|Info: Lives in bay mud. Hunts at night with mantis claws. The female holds her eggs by her mouth.
+1020|Info: Wary: when startled it dives into the sand. Look where sandy bottoms meet rocks and reefs.
+1021|Info: Fished deep on the shelf of cold northern seas. Its salted roe is tarako.
+1022|Info: Its name changes with size: seigo, fukko, suzuki. A favorite for sea lure fishing. Active at night.
+1023|Info: Grows while drifting on warm currents, then heads south to spawn. The female spawns alone.
+1024|Info: Long like a blade. Its silver skin was used in fake pearls. Rises at night to hunt.
+1025|Info: Its dorsal fin is venomous and stings badly. Unhook with care. Gathers in weeds and by breakwaters.
+1026|Info: Named for its sail-like dorsal fin, which spreads wide like a yacht's sail. Also called sailfish.
+1027|Info: Named for its sail-like dorsal fin, which spreads wide like a yacht's sail. Also called sailfish.
+1028|Info: Eats worms and algae. Spawns in winter in burrows with several exits. Lives only one year.
+1029|Info: Covered in long spines. It gulps water to puff into a ball. Lives on shallow reefs and corals.
+1030|Info: Never turns your way once hooked. Top speed and power: the best fighter. Roams in summer and fall.
+1031|Info: Its eyes are on the left side. Hunts live fish around reefs and rocks. Best in winter.
+1032|Info: Roams warm seas. Known for its long pectoral fins. Pale meat, so not used for sashimi or sushi.
+1033|Info: Males are blue, females red. Looks tropical but lives far north. Small mouth full of teeth.
+1034|Info: Its name changes as it grows: wakashi, inada, warasa, buri. Wakashi are over 30cm.
+1035|Info: Its name changes as it grows: wakashi, inada, warasa, buri. Inada are about 40cm. Fish 20-50m.
+1036|Info: Its name changes as it grows: wakashi, inada, warasa, buri. Warasa are 70cm. Roams reefs in fall.
+1037|Info: Its name changes as it grows. Over 10 kg it's buri. Troll or cast lures. Winter buri are richest.
+1038|Info: Likes sand near rocks and eats anything. Males are blue, females red. Sleeps buried in sand at night.
+1039|Info: Three free rays under its pectoral fins let it walk the bottom. Croaks with its bladder at dusk.
+1040|Info: Its name changes as it grows: ina, bora, todo. Lives in river mouths, goes offshore in fall.
+1041|Info: It ends up as 'todo', so 'todo no tsumari' means 'in the end'. Lives in bays and river mouths.
+1042|Info: The king of sea fish: red with blue-green spots. Schools on reefs and crushes shells with its teeth.
+1043|Info: Lives in holes on rocky coasts. Rests by day and hunts shrimp, crabs, shells and urchins at night.
+1044|Info: Lives a bit deep on rocky coasts. Mostly nocturnal. Eats shrimp, squid, crabs and small fish.
+1045|Info: Puffs up with water or air in danger. Its ovaries and liver are deadly. Chefs only!
+1046|Info: No tail fin, so it swims slowly. Eats jellyfish. Lays 300 million eggs.
+1047|Info: Lives near coastal reef bottoms. Its venomous fins cause terrible pain. Graceful, wing-like fins.
+1048|Info: Big schools mid-water offshore. Used as live bait for kingfish, jack, amberjack, tuna and grouper.
+1049|Info: Named for the dark band through its eye. Lives on deeper offshore reefs, eating small animals.
+1050|Info: Lives on sandy mud down to 100m. Slimy and disliked, but it tastes great.
+1051|Info: Lives on coastal reefs and eats seaweed and small animals. Stays deep, so chum draws it up.
+1052|Info: Lives around deep reefs, eating crabs and squid. Named for its big eyes. Its head is round.
+1053|Info: 'Big eyes'. Bears live young around February. When the sea is rough it hides in the rocks.
+1054|Info: A giant caught from the rocks. Lives on reefs to 50m and hunts small fish and squid at night.
+1055|Info: Its pointed fin tip looks like a spearhead. Schools a bit deep near the coast. Swims at 50 km/h.
+1056|Info: Red around the belly. One to three big venomous tail spines. Eats worms, shrimp and crabs.
+1057|Info: Fierce with sharp teeth, and its bite really hurts. Hides in rock holes by day, hunts at night.
+1058|Info: Lives on sandy mud. Buried by day, it ripples along the bottom at night eating worms and shrimp.
+1059|Info: A huge head with a small body. It hides in sand and lures fish with the bait on its fin. Gulp!

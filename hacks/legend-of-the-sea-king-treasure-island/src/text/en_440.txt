@@ -1,0 +1,39 @@
+# Angler tips (440-477)
+440|If you want stone flounder, use a Surf Rod and a Flounder Hook.{D}For bait, sandworms or shellfish work well.
+441|If you want rice octopus, use a Reef Rod{D}with a Crab Octo Rig. That'll do the trick.
+442|To catch tongue sole, use a Surf Rod.{D}Ragworms or small abalone make good bait.
+443|Wear leather gloves when you go after rabbitfish.{D}Use a Reef Rod, with ragworms or laver for bait.
+444|To catch cuttlefish,{D}put a Dropper Rig on a Boat Fast rod.{D}Spiny lobster or jack mackerel make good bait.{D}I hear they sell for a lot.
+445|To catch a sunfish, use a Boat Big rod.{D}Use krill or fish strips for bait.
+446|If you want bluefin tuna, go trolling.{D}The rod, of course, is the X-heavy 130lb.{D}Use the Flying Fish decoy hook.
+447|If you want a blue marlin,{D}go trolling with the X-heavy 130lb rod.{D}Use the Kagura Marlin decoy hook.
+448|For kelp grouper, use a Grouper Rod.{D}The hook is the Grouper Hook, of course.{D}For bait, try fish or squid, still alive.
+449|For sea bass,{D}use a Reef Rod and pick a sturdy hook.{D}Ragworms or sandworms make good bait.{D}They bite well on lures, too.{D}Try some night fishing for them, too.
+450|For scorpionfish,{D}use a Reef Rod with a Kaizu Hook.{D}For bait, try ragworms, pileworms or krill.{D}Wear leather gloves so you don't get hurt.
+451|For flying squid, use a Boat Squid rod.{D}With a Squid Sutte Rig you can catch them without bait.
+452|For opaleye,{D}put a Standing Float on a Reef Rod and use an Opaleye Hook.{D}Shrimp or green laver make good bait.
+453|To catch halfbeak,{D}put a float on a Light Rod and use a Halfbeak Hook.{D}For bait, try grass shrimp or krill.
+454|For flounder,{D}use a Boat Live rod with a sinker and a Dropper Rig.{D}Jack mackerel or mackerel should make good bait.{D}They sell for a lot.
+455|For black porgy,{D}put a float on a Reef Rod and use a Porgy Hook.{D}Paste bait works well.
+456|For jack mackerel,{D}use a Light Rod with a Ball Float and a Sode Hook.{D}Use ragworms or sandworms for bait.{D}Or put a Sabiki Rig on a Reef Rod and catch them without bait.{D}Jack mackerel taste great, don't they?
+457|To catch red sea bream,{D}use a boat rod with an Arm Sinker and a Sea Bream Hook.{D}Use grass shrimp or krill for bait.{D}They sell for a lot.
+458|To catch goby,{D}put a float on a Light Rod and use a Goby Hook.{D}Ragworms or shellfish make good bait.{D}You can also catch them casting with a Surf Rod.
+459|For croaker,{D}use a Surf Rod. Ragworms or sandworms for bait, I'd say.
+460|For whiting,{D}go casting with a Surf Rod.{D}For bait, ragworms, sandworms and pileworms are all good.
+461|If you want greenling,{D}put a sinker on a Reef Rod and do some bottom casting.{D}Use a Seigo Hook, with ragworms or shrimp for bait.{D}It's a bit pricey, but a Burakuri Rig works too.
+462|For amberjack, go float fishing with a Reef Rod.{D}Use an Opaleye Hook, with fish or fish strips for bait.
+463|For yellowtail fry, sabiki fishing is the way.{D}Put a Sabiki Rig, a cage and a small sinker on a Reef Rod,{D}and use grass shrimp or krill for bait.
+464|For striped jack, put a cage on a Reef Rod.{D}With a Dropper Rig you'll catch a bunch at once.{D}Shrimp or fish strips make good bait.{D}Don't forget to scatter chum! They sell for a lot.
+465|For junior yellowtail,{D}put a float on a Reef Rod and use an Opaleye Hook.{D}Shrimp or fish make good bait.
+466|If you want spot beakfish,{D}put a sinker on a Reef Rod and try tap-bottom fishing.{D}Use a Beakfish Hook, with spiny lobster or shellfish.
+467|To catch beakfish,{D}use a Beakfish Rod with a Date Sinker{D}and do some bottom casting. Use a Beakfish Hook,{D}and shrimp, crabs or shellfish for bait.
+468|To catch rabbitfish,{D}put a float on a Reef Rod and use a Sode or Rockfish Hook.{D}Ragworms, shrimp or laver work well for bait.{D}You'll need leather gloves.
+469|To catch round scad,{D}put a Dropper Rig, a sinker and a cage on a Reef Rod{D}and you'll catch several at once.{D}Grass shrimp or krill for bait, I'd say.
+470|For kingfish,{D}put an Opaleye Hook on a Reef Rod or a Boat Big rod.{D}Live bait, like small fish, works best.
+471|To catch blackmouth,{D}put a float on a Reef Rod and use a Beakfish Hook.{D}Spiny lobster, shellfish or crabs make good bait.
+472|For grunt, use a Reef Rod with a float and a Sode Hook,{D}or a Boat Fast rod with a sinker and a Sode Hook.{D}Ragworms, shrimp and shellfish all work well.{D}You'll need leather gloves.
+473|For bulgy wrasse,{D}put a sinker on a Reef Rod and use an Opaleye Hook.{D}For bait, try shellfish like turban shells, or crabs.
+474|For porcupinefish,{D}put a float on a Reef Rod and use a small hook, like a Whiting or Goby Hook.{D}Shrimp, abalone or small abalone make good bait.{D}You know this already, but you'll need leather gloves.
+475|For moray eel,{D}put a sinker on a Reef Rod and use an Opaleye Hook.{D}Shrimp, crabs or fish make good bait.{D}They only bite at night, and you'll need leather gloves.
+476|For black trevally,{D}put an Opaleye Hook on a Reef Rod and use a Stick Float.{D}Use live fish for bait. They're hard to catch, though.
+477|For lionfish,{D}put a float on a Reef Rod and use a Seigo Hook.{D}Ragworms, sandworms, krill or sardines make good bait.

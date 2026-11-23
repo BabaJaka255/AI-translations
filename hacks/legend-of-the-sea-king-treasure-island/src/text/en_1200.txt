@@ -1,0 +1,222 @@
+# Story part 2 (1200-1420)
+1200|{4}Owner:{5} Calling it quits?{E}{>16}Yes{>80}No
+1201|{4}Owner:{5}{E}Time's up!
+1202|{4}Yashichi:{5}{E}I heard all about you from the Old Master.{D}You want to save your sister, right?{E}Still, I won't go easy on you.
+1203|{6}{7:0}:{5}{E}I won't lose either!
+1204|{4}Yashichi:{5} Heh.{E}Then let's get started!
+1205|{4}Yashichi:{5} I-I don't believe it!{E}I lost{8:6}.{8:6}.{8:6}.{D}But that was a good match.{D}Now, go on{E}and see the Old Master.
+1206|{4}Yashichi:{5} Go polish your skills{E}a little more.
+1207|{4}Yashichi:{5} Another round?{E}All right, let the match begin!
+1208|{4}Yashichi:{5}{E}Did you go see the Old Master?
+1209|{4}Ogin:{5} I'm not ALWAYS{E}in the bath, you know.
+1210|{4}Man:{5}{E}This is the jack mackerel pond.
+1211|{4}Man:{5}{E}This is the red sea bream pond.
+1212|{4}Man:{5}{E}This is the flounder pond.
+1213|{4}Angler:{5}{E}What are you trying to catch?
+1214|{4}Angler:{5} Falling into the sea{E}around here is dangerous.
+1215|{4}Angler:{5} Check out this form.{E}Even I'm impressed with myself.
+1216|{4}Angler:{5}{E}A little while ago, right around here,{D}I saw a shark chasing a dolphin.
+1217|{4}Angler:{5} Looks like the shark{E}went off somewhere.
+1218|{4}Angler:{5}{E}Guess I'll head home soon.
+1219|{4}Woman:{5}{E}Mending nets is hard work.
+1220|{4}Man:{5}{E}The shore around here{D}is full of whiting and croaker.
+1221|{4}Girl:{5}{E}I wish I had a girl to be friends with.
+1222|{6}{7:1}:{5} Then once my sister gets better,{D}will you be her friend?
+1223|{4}Girl:{5}{E}Sure, I'd like that.
+1224|{4}Boy:{5} If you're going to the Reef,{E}you'll need reef boots.
+1225|{4}Boy:{5} Lucky you.{E}I want to fish on the Reef too.
+1226|{4}Old Man:{5} The Sea King?{E}Hmm? Never heard of it.
+1227|{6}{7:1}:{5} You know about the Sea King, don't you, sir?
+1228|{4}Old Man:{5} Oh, very well.{E}I suppose I could tell you,{D}in exchange for 5 whiting and 5 goby{8:6}.{8:6}.{8:6}.
+1229|{6}{7:1}:{5} Got it.{E}I'll go catch them.
+1230|{4}Old Man:{5}{E}What an impatient child.
+1231|{4}Old Man:{5}{E}Haven't caught them yet?
+1232|{4}Old Man:{5}{E}Very good.{D}I'll tell you what I know.{D}Take a boat south from the Jetty and you'll come to the Islet.{D}A young man there met the Sea King not long ago{D}and had his wish granted, they say.
+1233|{6}{7:1}:{5} The Islet?{E}Thank you!
+1234|{4}Old Man:{5} Do your best{8:6}.{8:6}.{8:6}.{E}And off he goes.
+1235|{4}Old Man:{5}{E}Did you meet the young man?
+1236|{4}Old Man:{5} When you get old,{E}even fishing is a chore.
+1237|{4}Old Master:{5}{E}Ho ho ho.{D}Beating all three of them? Quite impressive.{D}So, what business do you have with me?
+1238|{6}{7:0}:{5} I'm on a journey{E}to cure my sister's illness.{D}A man named Hachi at the Jetty told me{D}that if I explained things to you,{D}you'd help me{8:6}.{8:6}.{8:6}.
+1239|{4}Old Master:{5} I see.{E}So Hachi sent you.{D}Hmm, hmm. Very well.{D}I might be willing to help you.
+1240|{6}{7:0}:{5}{E}R-really?
+1241|{4}Old Master:{5} Yes, truly.{E}But first,{D}I'd like you to face one more of my companions.{D}If you can beat him fair and square,{D}I'll help you however I can.{D}What do you say?
+1242|{6}{7:0}:{5} Yeah, I'll do it.{E}I'll win, you'll see.{D}But where is this companion of yours?
+1243|{4}Old Master:{5} Go back to the fishing pond{E}at the Jetty.{D}I'm sure he'll show up.
+1244|{6}{7:0}:{5}{E}Where Hachi-san was?{D}OK, I'll be going.
+1245|{4}Old Master:{5}{E}Ho ho ho.
+1246|{4}Old Master:{5} Ho ho ho.{E}I see you beat Yashichi.
+1247|{6}{7:0}:{5}{E}I just barely won.
+1248|{4}Old Master:{5} Well then,{E}as promised, I shall help you.{D}You wish to save your sick sister, as I recall?
+1249|{6}{7:0}:{5}{E}Yes, that's right.
+1250|{4}Old Master:{5} Then{E}take this with you.{D}There is medicine inside.{E}Have your sister take it.
+1251|Got the Inro.
+1252|{6}{7:0}:{5} All right!{E}Thank you so much!{D}I'll have my sister take it right away.
+1253|{4}Old Master:{5} Ho ho ho.{E}Hurry and give it to her.
+1254|{6}{7:1}:{5} Huh?{E}Are you hurt?
+1255|{4}Dolphin:{5} Oh no!{E}A human found me.
+1256|{6}{7:1}:{5} Don't move!{E}I'll go get some medicine.
+1257|{4}Dolphin:{5} I'm sorry.{E}A shark attacked me{8:6}.{8:6}.{8:6}.
+1258|{4}Dolphin:{5} To think a human{E}would help me{8:6}.{8:6}.{8:6}.
+1259|{6}{7:1}:{5} Don't move!{E}I'll put some medicine on it.
+1260|{6}{7:1}:{5} Just put the salve on,{E}and there. All done.
+1261|{4}Dolphin:{5} Thank you so much.{E}Now I can go back to my friends.
+1262|{6}{7:1}:{5}{E}Watch out for sharks!
+1263|{6}{7:0}:{5} Ouch!{E}I can't go to the Reef like this.
+1264|{6}{7:0}:{5} Ouch!{E}I can't go to the Reef like this.
+1265|{4}Angler:{5}{E}What are you trying to catch?
+1266|{4}Angler:{5}{E}What are you trying to catch?
+1267|{4}Angler:{5}{E}What are you trying to catch?
+1268|{4}Angler:{5} There should be all kinds of fish{E}on the Reef{8:6}.{8:6}.{8:6}.{D}But all I catch is wrasse.
+1269|{4}Angler:{5} I wanted to catch{E}spot beakfish,{D}but someone took the spot first.
+1270|{4}Angler:{5}{E}After you release young fish,{D}you have to stay at the inn before the fish come back.
+1271|{4}Angler:{5} Surfperch bite well{E}around here.
+1272|{4}Man:{5}{E}That old man?{D}He lives in a house east of here.
+1273|{4}Man:{5} The boy out on the cape{E}sure has a smart mouth.
+1274|{4}Man:{5}{E}I'm no good with heights.
+1275|{4}Boy:{5} They say a ghost ship{E}sometimes comes to this cape.
+1276|{6}{7:0}:{5}{E}Are you the leader?
+1277|{4}Leader:{5}{E}That's right. I'm the leader.
+1278|{6}{7:0}:{5} A kid at the Jetty{E}told me about you.{D}I want you to tell me{E}about the pirate treasure.
+1279|{4}Leader:{5} Tch!{E}What a blabbermouth.
+1280|{6}{7:0}:{5}{E}(He talks weird too.)
+1281|{4}Leader:{5}{E}If you want to hear about the treasure,{D}bring me the fancy chocolate{E}they sell at the tackle shop on the Islet.
+1282|{6}{7:0}:{5}{E}Huh? Fancy chocolate?
+1283|{4}Leader:{5}{E}It's my absolute favorite.
+1284|{6}{7:0}:{5} Why would the Islet{E}sell fancy chocolate{8:6}.{8:6}.{8:6}.
+1285|{4}Leader:{5}{E}Well, I'm counting on you.
+1286|{4}Leader:{5}{E}Where's my chocolate?
+1287|{4}Leader:{5}{E}Yeah, yeah, this is the stuff.{D}Thank you very much!{E}Here, take this.
+1288|{6}{7:0}:{5}{E}This is{8:6}.{8:6}.{8:6}. a lantern?
+1289|{4}Leader:{5}{E}That's right.{D}At night, put this lantern{E}in the lighthouse.{D}Then you'll be able to{E}reach Treasure Island.
+1290|{6}{7:0}:{5}{E}Th-thank you!
+1291|{4}Leader:{5}{E}Hold it.{D}Just because you can get to Treasure Island{D}doesn't mean the treasure's yours right away.
+1292|{6}{7:0}:{5} I see.{E}Yeah, I guess so.{D}But I'll do my best.
+1293|{4}Leader:{5}{E}Getting that treasure won't be easy.{D}Heh heh heh.
+1294|{4}Old Man:{5} The Sea King?{E}You're looking for the Sea King?
+1295|{6}{7:1}:{5}{E}Yeah, that's right.
+1296|{4}Old Man:{5} A child like you{E}can't hope to find the Sea King.
+1297|{6}{7:1}:{5} Please don't say that.{E}Tell me.{D}I want to cure my sister {7:2}'s illness.
+1298|{4}Old Man:{5} You seek the Sea King to cure your sister{8:6}.{8:6}.{8:6}.{D}I could tell you,{D}but having your wish granted{E}comes at a great price.{D}Do you still want to know?
+1299|{6}{7:1}:{5}{E}Of course.
+1300|{4}Old Man:{5}{E}I see. Very well.{D}But I don't know exactly where the Sea King is.{D}Go ask the old man with the beard on the Beach.{D}He should know someone who met the Sea King recently.
+1301|{6}{7:1}:{5}{E}Thank you.
+1302|{4}Old Man:{5} Be careful{8:6}.{8:6}.{8:6}.{E}He's already gone.
+1303|{4}Old Man:{5} Did you talk to the old man{E}with the beard?
+1304|{4}Old Man:{5}{E}Someone visiting a house like this?{D}Well, that's a first.
+1305|{4}Angler:{5}{E}What are you trying to catch?
+1306|{4}Angler:{5}{E}What are you trying to catch?
+1307|{4}Angler:{5}{E}What are you trying to catch?
+1308|{4}Angler:{5}{E}What are you trying to catch?
+1309|{4}Angler:{5}{E}The tackle shop on the Isle is expensive,{D}so you'd better buy what you need on the Islet.
+1310|{4}Angler:{5} Junior yellowtail are easy{E}to catch with lures.
+1311|{4}Angler:{5} You'll also need leather gloves{D}when you land fish with strong jaws, like blackmouth or whitemouth.
+1312|{4}Boy:{5} Don't you go to school or anything?
+1313|{4}Taro:{5} Honestly, where did{E}Sanpei run off to this time?
+1314|{6}{7:1}:{5} Are you the one{E}who had a wish granted{D}by the Sea King?
+1315|{4}Young Man:{5} Yeah, that's me.{E}You know a lot.{D}Could it be you're looking for the Sea King?
+1316|{6}{7:1}:{5} That's right.{E}Please, mister.{D}Tell me how I can meet the Sea King.{D}I want to cure my sister.
+1317|{4}Young Man:{5}{E}I see...{D}You're looking for the Sea King to cure your sister.{D}All right, I'll tell you.{D}But in exchange, I want{D}an X-heavy 130lb trolling rod.
+1318|{6}{7:1}:{5}{E}I have that rod!
+1319|{6}{7:1}:{5} OK.{E}Wait right here!
+1320|{4}Young Man:{5} Did you get the X-heavy 130lb{E}trolling rod?
+1321|{4}Young Man:{5}{E}Then I'll tell you.{D}To get to where the Sea King is,{D}you need something from the man on the Isle.{D}And unless you say the password when you talk to him,{D}he won't tell you about the Sea King.
+1322|{6}{7:1}:{5}{E}A password? What is it?
+1323|{6}Young Man:{5} You have to say "Ubonma."{D}Oh, right.{E}You'll need that trolling rod{D}after you talk to him, so keep it with you.{D}And take this decoy hook, too.
+1324|Got the Flying Fish{E}decoy hook.
+1325|{6}{7:1}:{5}{E}Thanks, mister!
+1326|{4}Young Man:{5} Catching the Sea King is really tough,{D}but hang in there{8:6}.{8:6}.{8:6}.{E}Oh, he's gone.{D}Though even if he catches it{8:6}.{8:6}.{8:6}.
+1327|{4}Young Man:{5}{E}Did you talk to the man?
+1328|{4}Young Man:{5}{E}Hello.
+1329|{4}Young Man:{5}{E}Good evening.
+1330|{4}Young Man:{5} I've met the Sea King,{E}you know.
+1331|{4}Old Man:{5} Ow, ow, ow...{E}I got something in my eye.{D}Sorry, but could you lend me{E}some eye drops?
+1332|Lend him eye drops?{E}{>16}Yes{>80}No
+1333|{4}Old Man:{5} You saved me.{E}Here's a little something for you.
+1334|{6}{7:0}:{5}{E}All right!
+1335|{4}Old Man:{5} Young people these days{E}don't even carry eye drops?
+1336|{4}Old Man:{5} Thank you.
+1337|Got some bait.
+1338|Got a decoy hook.
+1339|{4}Boatman:{5} Leaving the island?{E}{>16}Yes{>80}No
+1340|{4}Official:{5} The Sea Bass Tourney{E}is now under way.{D}The entry fee is 150 yen.{D}The prize is 1500 yen.{D}Would you like to enter?{E}{>16}Yes{>80}No
+1341|{4}Official:{5} Shall I measure your fish?{E}{>16}Yes{>80}No
+1342|{4}Official:{5} Good luck landing a big one.
+1343|{4}Official:{5} {7:0}-san,{E}you are the winner!{D}Please accept your prize of 1500 yen.
+1344|{4}Official:{5} I'm sorry,{E}but someone else has won.
+1345|{4}Official:{5}{E}It seems you don't have enough money.
+1346|{4}Official:{5}{E}Congratulations on your victory.
+1347|{4}Official:{5} The tournament is over.{E}Please check the board for results.
+1348|{4}Owner:{5}{E}This is the red sea bream pond.{D}It's 100 yen for 5 minutes of all-you-can-catch.{D}I'll buy your red sea bream at half the market price.{D}Want to go in?{E}{>16}Yes{>80}No
+1349|{4}Angler:{5} They may be farmed,{E}but catching red sea bream sure feels good.
+1350|{4}Boy:{5} Even at half price,{E}sea bream sell for a lot.
+1351|{4}Suke:{5} So you're the kid{E}who beat Hachi?{D}And if you came here, that means{D}you want a match with me, right?
+1352|{6}{7:0}:{5}{E}That's right.{D}I'm going to win{E}and meet your master.
+1353|{4}Suke:{5} That's the spirit.{E}Let's get started!
+1354|{4}Suke:{5}{E}I can't believe I lost{8:6}.{8:6}.{8:6}.{D}My partner is at the fishing pond on the Isle.{D}Go pay him a visit. Good luck.
+1355|{4}Suke:{5}{E}You've got a long way to go.
+1356|{4}Suke:{5}{E}He's a tough one.
+1357|{4}Suke:{5} Been practicing?{E}Then let's have another go!
+1358|{4}Suke:{5} Come back in 10 years{E}and maybe I'll give you a match.
+1359|{6}{7:0}:{5}{E}No, thanks.
+1360|{4}Angler:{5}{E}What are you trying to catch?
+1361|{4}Angler:{5}{E}What are you trying to catch?
+1362|{4}Angler:{5}{E}What are you trying to catch?
+1363|{4}Angler:{5}{E}The tackle shop here is expensive,{D}so you'd better buy what you need on the Islet.
+1364|{4}Angler:{5}{E}There are sea snakes near the kelp grouper spot,{D}so be careful.
+1365|{4}Angler:{5} Moray eels are dangerous,{E}so watch out.
+1366|{4}Noriko:{5} Honestly!{E}Where is it,{D}that fish that makes you young again?
+1367|{4}Boatman:{5} Leaving the island?{E}{>16}Yes{>80}No
+1368|{4}Man:{5} Need something?{E}Sorry, I'm busy.
+1369|{6}{7:1}:{5}{E}Ubonma.
+1370|{4}Man:{5} So,{E}you're looking for the Sea King?
+1371|{6}{7:1}:{5}{E}Yes, that's right.{D}You see{8:6}.{8:6}.{8:6}.
+1372|{4}Man:{5}{E}I'm in the mood for some bluefin sashimi.
+1373|{6}{7:1}:{5}{E}Huh?
+1374|{4}Man:{5} So{E}go catch me a bluefin tuna.{D}Then I'll give you that thing.
+1375|{6}{7:1}:{5} Aren't you going to ask{E}why I'm looking for the Sea King?
+1376|{4}Man:{5}{E}Not really interested.{D}What interests me is{8:6}.{8:6}.{8:6}.{E}Never mind.
+1377|{6}{7:1}:{5}{E}(What a strange guy.){D}OK, I'll go catch a bluefin tuna.{D}(So that's why that guy wanted the trolling rod.)
+1378|{4}Man:{5}{E}Caught that bluefin yet?
+1379|{4}Man:{5}{E}Looks like you caught one.{D}Very well.{E}Here, take this.
+1380|{6}{7:1}:{5}{E}This is{8:6}.{8:6}.{8:6}. a lantern?
+1381|{4}Man:{5}{E}At night,{D}put that lantern in the lighthouse on the Reef.{D}It will take you to where the Sea King is.{D}Not that going there will{8:6}.{8:6}.{8:6}.
+1382|{6}{7:1}:{5}{E}Thanks, mister!
+1383|{4}Man:{5}{E}And off he goes{8:6}.{8:6}.{8:6}.
+1384|{4}Man:{5}{E}Know of any rare fish?
+1385|{4}Official:{5} The Kelp Grouper Tourney{E}is now under way.{D}The entry fee is 200 yen.{D}The prize is 2000 yen.{D}Would you like to enter?{E}{>16}Yes{>80}No
+1386|{4}Official:{5} Shall I measure your fish?{E}{>16}Yes{>80}No
+1387|{4}Official:{5} Good luck landing a big one.
+1388|{4}Official:{5} {7:0}-san,{E}you are the winner!{D}Please accept your prize of 2000 yen.
+1389|{4}Official:{5} I'm sorry,{E}but someone else has won.
+1390|{4}Official:{5}{E}It seems you don't have enough money.
+1391|{4}Official:{5}{E}Congratulations on your victory.
+1392|{4}Official:{5} The tournament is over.{E}Please check the board for results.
+1393|{4}Owner:{5}{E}This is the flounder pond.{D}It's 100 yen for 5 minutes of all-you-can-catch.{D}I'll buy your flounder at half the market price.{D}Want to go in?{E}{>16}Yes{>80}No
+1394|{4}Angler:{5} Flounder fin meat is so tasty.{D}The trick to catching lots is float fishing with live bait.
+1395|{4}Kaku:{5}{E}I've heard all about you.{D}Beating Suke? Not bad at all.{D}But I won't let you win so easily.
+1396|{6}{7:0}:{5} I've come this far.{E}I can't lose now.
+1397|{4}Kaku:{5} Heh heh,{E}big talk.{D}Let's get started!
+1398|{4}Kaku:{5}{E}Well, you got me.{D}Oh well, can't be helped.{E}I'll tell you about our master.{D}Our master is the old man{E}on the Beach.{D}We call him{E}the Old Master.
+1399|{4}Kaku:{5}{E}How's that? Had enough?
+1400|{4}Kaku:{5}{E}Did you talk to the Old Master?
+1401|{4}Kaku:{5} Back for more?{E}Fine, one more match!
+1402|{4}Kaku:{5} Come back in 20 years{E}and maybe I'll give you a match.
+1403|{6}{7:0}:{5}{E}I'll pass.
+1404|{4}Sailor:{5} We'll reach our destination{E}after a night's sleep.
+1405|{4}Sailor:{5}{E}On this route,{D}{6}{A}{5} seem to be biting.
+1406|{4}Sailor:{5} You're a strange one,{E}boarding this ship.
+1407|{4}Sailor:{5} Don't tell anyone{E}you rode this ship.
+1408|{4}Angler:{5} Huh? The Sea King?{E}N-never heard of it.
+1409|{4}Angler:{5} I see...{E}Well, if you've already heard, it can't be helped.{D}Do your best.
+1410|{4}Angler:{5}{E}The Sea King{8:6}.{8:6}.{8:6}.
+1411|{4}Angler:{5}{E}I hope your wish comes true.
+1412|{4}Angler:{5} You can catch lots of{E}unusual fish on this island.
+1413|{4}Angler:{5}{E}Don't get in the way of my fishing!
+1414|{4}Angler:{5} Huh? The Sea King?{E}A kid like you{8:6}.{8:6}.{8:6}.
+1415|{4}Angler:{5} Even if you know where it is,{D}catching the Sea King is hard.{D}Do your best.
+1416|{4}Angler:{5}{E}{8:6}.{8:6}.{8:6}.
+1417|{4}Angler:{5}{E}About the Sea King?{D}Ask the man in front of the tackle shop.
+1418|{4}Angler:{5} Did they tell you what happens{E}after your wish comes true?
+1419|{6}{7:1}:{5}{E}Yeah, they did.
+1420|{4}Angler:{5}{E}And you're still going fishing for it?

@@ -1,0 +1,262 @@
+# Ranking, creatures, food, items and gear (478-739)
+478|{4}Black Porgy{5} {6}Rankings{5}
+479|{4}Red Sea Bream{5} {6}Rankings{5}
+480|{4}Flounder{5} {6}Rankings{5}
+481|{4}Blue Marlin{5} {6}Rankings{5}
+482|{4}Kelp Grouper{5} {6}Rankings{5}
+483|Merge with a friend's {6}rankings{5}
+484|There is no ranking data{E}for {A}.
+485|Save to a friend's {6}Memory Card{5}
+486|{6}Rank{>40}Name{>100}Size{>146}Place{5}
+487|Insert your friend's Memory{E}Card into slot 2.
+488|Merged with your{E}friend's rankings.
+489|There is no data on{E}the Memory Card.
+490|There is no Memory Card{E}inserted.
+491|The Memory Card is{E}not formatted.
+493|Gull
+494|Flat Crab
+495|Sea Slater
+496|Calico Cat
+497|Tern
+498|Sea Turtle
+499|Sea Cucumber
+500|Cormorant
+501|Sea Slug
+502|Hermit Crab
+503|Dolphin
+504|Black-tail Gull
+505|Great White
+506|Seal
+507|Sea Anemone
+508|Murrelet
+509|Albatross
+510|Jellyfish
+511|Humpback Whale
+512|Sperm Whale
+513|Sea Snake
+514|Fur Seal
+515|Booby
+516|Sea Urchin
+517|Starfish
+518|Minachu
+519|Mandarin
+520|Bread
+521|Rice Ball
+522|Plum Bento
+523|Salmon Bento
+524|Karaage Bento
+525|Small Abalone
+526|Turban Shell
+527|Baked Yam
+528|Tonjiru
+529|Milk
+530|Soda
+531|Hatsuratsu
+532|Peach Juice
+533|Green Tea
+534|Micchon
+535|Clearpab
+536|Pocori
+537|Viper Tonic
+538|Caught Fish
+539|Sea Urchin
+540|Fishing Note
+541|Chum, full
+542|Chum, half
+543|Chum, low
+544|Keep Net (10)
+545|Cooler (20)
+546|Big Cooler (40)
+547|Polarized (Shallow)
+548|Polarized (Mid)
+549|Polarized (Deep)
+550|Canoe
+551|Magnifier
+552|Life Jacket
+553|Reef Boots
+554|Leather Gloves
+555|Headlamp
+556|Gaff
+557|Eye Drops
+558|Eye Drops
+559|Eye Drops
+560|Salve
+561|Fancy Chocolate
+562|Inro
+563|Gold Key
+564|Pendant
+565|Lantern
+566|Ladder
+567|Light Rod 5m
+568|Reef Rod #1 5.3m
+569|Reef Rod #3 5.3m
+570|Reef Rod #5 5.3m
+571|Beakfish Rod 5.2m
+572|Grouper Rod 5m
+573|Drop Rod 3m
+574|Wall Rod 5m
+575|Boat Fast 2.5m
+576|Boat Light 2.5m
+577|Boat Reel 2.5m
+578|Boat E-reel 2.5m
+579|Boat Big 2.7m
+580|Boat Deep 2.3m
+581|Boat Live 2.4m
+582|Boat Chum 3.6m
+583|Boat Squid 2.4m
+584|Surf Rod 4m
+585|Lure Rod 8ft
+586|Lure Rod 10ft
+587|Lure Rod 14ft
+588|Light 30lb
+589|Medium 50lb
+590|Heavy 80lb
+591|X-heavy 130lb
+592|Ragworm, cut
+593|Ragworm
+594|Ragworm Bunch
+595|Sandworm, cut
+596|Sandworm
+597|Sandworm Bunch
+598|Rockworm, cut
+599|Rockworm
+600|Rockworm Bunch
+601|Pileworm, cut
+602|Pileworm
+603|Pileworm Bunch
+604|Lugworm, cut
+605|Lugworm
+606|Lugworm Bunch
+607|Tubeworm, cut
+608|Tubeworm
+609|Tubeworm Bunch
+610|Mussel
+611|Mussel Meat
+612|Turban Shell
+613|Clam
+614|Abalone
+615|Small Abalone
+616|Paste Bait
+617|Fake Worm, cut
+618|Fake Worm
+619|Fake Worm Bunch
+620|Grass Shrimp
+621|Crayfish
+622|Krill
+623|Krill, double
+624|Big Red Krill
+625|Red Krill Bunch
+626|Prawn
+627|Prawn, tail
+628|Spiny Lobster
+629|Pea Crab
+630|Tiny Crab
+631|Crab Claw
+632|Shore Crab
+633|Mantis Shrimp
+634|Sea Slater
+635|Green Laver
+636|Habanori
+637|Sargassum
+638|Sardine
+639|Sardine Strip
+640|Jack Mackerel
+641|Jack Mackerel Strip
+642|Round Scad
+643|Round Scad Strip
+644|Butterfish
+645|Butterfish Strip
+646|Squid
+647|Squid Strip
+648|Mackerel
+649|Mackerel Strip
+650|Silkworm Pupa
+651|Sea Urchin
+652|Hermit Crab
+653|Watermelon
+654|Porgy Hook
+655|Rockfish Hook
+656|Opaleye Hook
+657|Beakfish Hook
+658|Iseama Hook
+659|Sode Hook
+660|Flounder Hook
+661|Goby Hook
+662|Whiting Hook
+663|Ryusen Hook
+664|Sea Bass Hook
+665|Kaizu Hook
+666|Mutsu Hook
+667|Seigo Hook
+668|Deep Dropper
+669|Sea Bream Hook
+670|Halfbeak Hook
+671|Surfperch Hook
+672|Round Scad Hook
+673|Big Mutsu Hook
+674|Grouper Hook
+675|Burakuri Rig
+676|Crab Octo Rig
+677|Twin Hook
+678|Spreader Rig
+679|Dropper Rig
+680|Squid Jig Rig
+681|Squid Sutte Rig
+682|Dropper Rig
+683|Sabiki Rig
+684|4-hook Rig
+685|Floating Minnow
+686|Sinking Minnow
+687|Floating Minnow
+688|Floating Minnow
+689|Sinking Minnow
+690|Sinking Minnow
+691|Floating Minnow
+692|Sinking Minnow
+693|Floating Minnow L
+694|Floating Minnow L
+695|Floating Minnow L
+696|Jig
+697|Jig
+698|Worm
+699|Egi Squid Jig
+700|Kagura Yellowtail
+701|Kagura Bonito
+702|Kagura Tuna
+703|Kagura Mahi
+704|Kagura Mackerel
+705|Kagura Striped
+706|Kagura Marlin
+707|Tsuno Jig
+708|Squid
+709|Flying Fish
+710|Standing Float
+711|Eyed Float
+712|Parrot Float
+713|Ball Float
+714|Stick Float
+715|Chili Float
+716|Cone Float
+717|Foam Cone Float
+718|Sunk Cone Float
+719|Lighted Float
+720|Glow Float
+721|Casting Float
+722|Shimori Float
+723|Split Shot
+724|Egg Sinker S
+725|Spike Arm
+726|Jet Arm
+727|Odawara Sinker
+728|Date Sinker
+729|Egg Sinker L
+730|Arm Sinker
+731|Dropper + Arm
+732|Mesh Cage
+733|Flip Cage
+734|Wire Cage
+735|Plastic Cage
+736|Wire Feeder
+737|Plastic Feeder
+738|Steel Can
+739|Glowstick

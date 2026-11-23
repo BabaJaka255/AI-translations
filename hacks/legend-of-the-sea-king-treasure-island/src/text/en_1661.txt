@@ -1,0 +1,228 @@
+# Story part 4 (1661-1887)
+1661|Got the Grouper Rod.
+1662|{4}Young Man:{5}{E}One more thing.{D}To hear about the Sea King,{E}you need a password.
+1663|{6}{7:0}:{5}{E}What is it?
+1664|{4}Young Man:{5} When you meet the man,{E}say "Ubonma."
+1665|{6}{7:0}:{5} Thank you{E}for telling me so much.
+1666|{4}Young Man:{5}{E}Did you talk to the man?
+1667|{4}Official:{5} The tournament is over.{E}Please check the board for results.
+1668|{6}{7:0}:{5}{E}What's wrong, Mr. Dolphin?
+1669|{4}Dolphin:{5} The wound a shark gave me{E}still hurts{8:6}.{8:6}.{8:6}.
+1670|{6}{7:0}:{5} You poor thing.{E}(Pat, pat.)
+1671|{4}Dolphin:{5}{E}You're very kind.{D}That reminds me.{E}When I was too hurt to move,{D}a kind boy{E}took care of me{8:6}.{8:6}.{8:6}.
+1672|{6}{7:0}:{5} Huh? A boy?{E}Was he{8:6}.{8:6}.{8:6}. like this?
+1673|{4}Dolphin:{5}{E}Yes, I'm sure it was him.
+1674|{6}{7:0}:{5}{E}That's my brother!
+1675|{4}Dolphin:{5} Really?{E}Then I'd like to repay him.{D}Where is your brother now?
+1676|{6}{7:0}:{5} Well{8:6}.{8:6}.{8:6}.{E}To cure my illness,{D}he went looking for the Sea King{E}and never came back.
+1677|{4}Dolphin:{5} I see. So that's why{E}you're looking for him.{D}I know! This time, I'll help you.{D}When you travel over the sea,{E}I'll give you a ride.{D}But I can only take you{E}along the coast and around the islands.
+1678|{6}{7:0}:{5} Really?{E}Thank you so much, Mr. Dolphin.
+1679|{4}Man:{5} A child shouldn't come{E}to a place like this alone.
+1680|{6}{7:0}:{5}{E}Ubonma.
+1681|{4}Man:{5}{E}Hm?{D}Is catching the Sea King all the rage{E}with kids these days?
+1682|{6}{7:0}:{5} Um{8:6}.{8:6}.{8:6}.{E}I want to see my brother.{D}Please tell me{E}where the Sea King is.
+1683|{4}Man:{5} Then{E}go catch me a kelp grouper.
+1684|{6}{7:0}:{5}{E}Huh?
+1685|{4}Man:{5}{E}I'm a busy man.{D}Catch me a kelp grouper,{E}and I'll tell you where the Sea King is.
+1686|{6}{7:0}:{5} All right.{E}Wait right here.
+1687|{4}Man:{5}{E}Caught that kelp grouper yet?
+1688|{4}Man:{5}{E}You caught one? Well, I'm surprised.{D}Very well.{E}Here, take this.
+1689|{6}{7:0}:{5}{E}This is{8:6}.{8:6}.{8:6}. a lantern?
+1690|{4}Man:{5}{E}At night,{D}put that lantern in the lighthouse on the Reef.{D}It will take you to where the Sea King is.{D}Not that you could ever catch it, I'd wager.
+1691|{6}{7:0}:{5}{E}Thank you, mister!
+1692|{4}Man:{5}{E}I'm no good with kids.
+1693|{4}Man:{5}{E}Looks like I'm not needed here.
+1694|{4}Official:{5} The tournament is over.{E}Please check the board for results.
+1695|{6}{7:0}:{5} Hello.{E}Has my brother been here?
+1696|{4}Official:{5} Your brother?{E}Hmm, who might that be?
+1697|{6}{7:0}:{5}{E}He won 10 million yen{D}at the last fishing tournament.
+1698|{4}Official:{5} Oh, that boy!{E}What an amazing brother.{D}He won all three tournaments,{D}so he went back to the official{E}at the Jetty.{D}Going for another 10 million, I suppose{8:6}.{8:6}.{8:6}.
+1699|{6}{7:0}:{5} What, the Jetty?{E}After I came all this way.{D}This is just like a TV show{E}I saw a long time ago.
+1700|{4}Official:{5} If you want to see{E}your brother, you'd better hurry.{D}He seemed in a rush, so he'll enter{E}the next tournament any minute.
+1701|{6}{7:0}:{5}{E}Thank you. I'll do that.
+1702|{4}Official:{5}{E}Your brother is something else.
+1703|{4}Angler:{5}{E}{8:6}.{8:6}.{8:6}.
+1704|{4}Angler:{5}{E}Such a little girl{8:6}.{8:6}.{8:6}.
+1705|{4}Angler:{5}{E}The Sea King{8:6}.{8:6}.{8:6}.
+1706|{4}Angler:{5}{E}Are you really going to make that wish?
+1707|{4}Angler:{5}{E}{8:6}.{8:6}.{8:6}.
+1708|{4}Angler:{5}{E}I'd like to help you, but{8:6}.{8:6}.{8:6}.
+1709|{4}Angler:{5}{E}Where the Sea King is?{D}Ask the man in front of the tackle shop.
+1710|{4}Angler:{5}{E}So you got the pendant.
+1711|{4}Man:{5} How did you{E}get to this island?
+1712|{6}{7:0}:{5}{E}The man on the Isle told me.
+1713|{4}Man:{5} That man, honestly{8:6}.{8:6}.{8:6}.
+1714|{6}{7:0}:{5} Um,{E}please tell me where the Sea King is.{D}I want to save my brother.{E}He's gone missing.
+1715|{4}Man:{5}{E}Your brother?{D}I see, so the Sea King granted his wish.{D}But if you wish on the Sea King{E}to save your brother,{D}then this time, you'll be the one{8:6}.{8:6}.{8:6}.{D}Having the Sea King grant your wish{D}costs you your own life.
+1716|{6}{7:0}:{5}{E}Then my brother{D}gave his own life{E}to cure my illness?
+1717|{4}Man:{5}{E}I'd say so.
+1718|{6}{7:0}:{5}{E}Brother{8:6}.{8:6}.{8:6}.
+1719|{4}Man:{5} Your brother saved your life.{D}Don't throw it away.
+1720|{6}{7:0}:{5}{E}But{8:6}.{8:6}.{8:6}.
+1721|{4}Man:{5}{E}Go on home.
+1722|{6}{7:0}:{5}{E}...No!{D}I can't abandon my brother!
+1723|{4}Man:{5} Hmm,{E}it can't be helped{8:6}.{8:6}.{8:6}.{D}Just this once, I'll make an exception.{E}Take this with you.
+1724|Got the Shell Pendant.
+1725|{6}{7:0}:{5}{E}What do I do with this?
+1726|{4}Man:{5} Wear it when you go{E}to catch the Sea King.{D}And the Sea King's spot is southeast{E}on the Ocean.
+1727|{6}{7:0}:{5}{E}Thank you, mister!
+1728|{4}Man:{5}{E}Good luck.
+1729|{4}Lookout:{5}{E}Another one{8:6}.{8:6}.{8:6}.
+1730|{6}{7:0}:{5} What?{E}What do you mean, another?
+1731|{4}Lookout:{5} You came to find{E}the pirate treasure, right?{D}People show up now and then.
+1732|{6}{7:0}:{5}{E}I don't know anything about that.{D}I came to find my brother.{D}Is he in there?
+1733|{4}Lookout:{5}{E}Your brother?{D}Come to think of it{8:6}.{8:6}.{8:6}. a few months ago,{D}a guy went inside and never came out.
+1734|{6}{7:0}:{5}{E}What?! Never came out?{D}Th-that means{8:6}.{8:6}.{8:6}.
+1735|{4}Lookout:{5} Uh-oh!{E}Now that I think about it, that's scary{8:6}.{8:6}.{8:6}.{D}Wh-what do I do{8:6}.{8:6}.{8:6}.
+1736|{6}{7:0}:{5}{E}Out of my way!
+1737|{4}Lookout:{5}{E}Y-you need the key{8:6}.{8:6}.{8:6}.
+1738|{6}{7:0}:{5}{E}Brother!
+1739|{6}{7:1}:{5} Oh,{E}{7:0}, it's you{8:6}.{8:6}.{8:6}.
+1740|{6}{7:0}:{5}{E}You're safe!
+1741|{6}{7:1}:{5}{E}More or less.{D}That pond there connects to the sea,{E}so I could catch fish.{D}That's how I didn't starve.{D}For water, there were drops{E}falling from the ceiling{8:6}.{8:6}.{8:6}. Hey, you!{D}That was mean!{E}You could have helped me out!
+1742|{4}Lookout:{5}{E}H-he's alive{8:6}.{8:6}.{8:6}.{D}Sorry, I forgot.
+1743|{6}{7:0}:{5} Brother,{E}never mind that now.{D}Can you climb up by yourself?
+1744|{6}{7:1}:{5}{E}I'm fine.
+1745|{6}{7:1}:{5}{E}What an ordeal.
+1746|{6}{7:0}:{5}{E}You're so careless, Brother.{D}You got distracted by the pile of treasure{E}and fell in, didn't you?
+1747|{6}{7:1}:{5}{E}Ugh{8:6}.{8:6}.{8:6}.{D}S-say, are you{E}over your illness?
+1748|{6}{7:0}:{5} Yes,{E}I'm full of energy now.{D}Let's go home{E}to Grandpa and Grandma.
+1749|{6}{7:1}:{5} Yeah{8:6}.{8:6}.{8:6}.{E}All right, let's go home!
+1750|{6}{7:0}:{5}{E}What should I go fishing for next?
+1751|{6}{7:0}:{5}{E}Hmm, tough choice{8:6}.{8:6}.{8:6}.
+1752|{6}{7:0}:{5} All right,{E}{6}{A}{5} it is!
+1753|{6}{7:0}:{5}{E}Yes!{D}I landed the{E}{6}{A}{5} I was after.
+1754|{4}Cat:{5} The {6}{A}{5}{E}you're after{D}is at the {6}{A}{5}, meow.
+1755|{4}Girl:{5}{E}Hello.
+1756|{4}Grandpa:{5} Don't spend{E}all your time fishing.
+1757|{4}Grandma:{5} Your son{E}is so dependable.
+1758|{4}Yuko:{5}{E}Fishing again today?
+1759|{4}{7:1}:{5} Must be nice, getting to{E}fish all the time.
+1760|What do you need?
+1761|Do some work for once.
+1762|{4}Man:{5} Well,{E}fishing again today?
+1763|{4}Boy:{5}{E}Isn't there anything fun to do?
+1764|{4}Taro:{5} Mister,{E}you're good at fishing, right?
+1765|{4}Young Man:{5} I've met the Sea King,{E}you know.
+1766|{6}{7:4}:{5}{E}Hello.
+1767|{4}Yuko:{5}{E}Oh, welcome.
+1768|{6}{7:4}:{5}{E}U-um{8:6}.{8:6}.{8:6}.
+1769|{4}Yuko:{5} What?{E}I'm watching a good show.
+1770|{6}{7:4}:{5} O-oh.{E}I'll come back later, then.
+1771|{4}Yuko:{5}{E}What did he come for{8:6}.{8:6}.{8:6}.?
+1772|The next day...
+1773|{6}{7:4}:{5}{E}Hello.
+1774|{4}Yuko:{5}{E}Welcome.
+1775|{6}{7:4}:{5}{E}Got a minute?
+1776|{4}Yuko:{5}{E}What?
+1777|{6}{7:4}:{5}{E}Um, well{8:6}.{8:6}.{8:6}.
+1778|{4}Yuko:{5}{E}{8:6}.{8:6}.{8:6}.
+1779|{6}{7:4}:{5}{E}Uh{8:6}.{8:6}.{8:6}.
+1780|{4}Yuko:{5} Oh, come on,{E}just spit it out.
+1781|{6}{7:4}:{5}{E}S-sorry.
+1782|{4}Yuko:{5}{E}You don't have to apologize.
+1783|{6}{7:4}:{5} S-so, next time,{E}want to go out somewhere?
+1784|{4}Yuko:{5} Couldn't you just say{E}that right away?{D}You're as wishy-washy as ever.
+1785|{6}{7:4}:{5}{E}(W-wishy-washy...)
+1786|{4}Yuko:{5}{E}Let me think{8:6}.{8:6}.{8:6}.{D}If you show me a fish I've never seen before,{D}I'll go to the movies with you, or anywhere you like.
+1787|{6}{7:4}:{5} A fish you've never seen?{E}What kind of fish?
+1788|{4}Yuko:{5} If I've never seen it,{E}how would I know?
+1789|{6}{7:4}:{5}{E}Oh, right{8:6}.{8:6}.{8:6}.
+1790|{4}Yuko:{5} (Honestly,{E}he's so wishy-washy.{D}If only he were a little{E}more dependable.)
+1791|{6}{7:4}:{5}{E}O-OK, got it.{D}I'll catch you a fish{E}you've never seen before.
+1792|{4}Yuko:{5}{E}OK, I'll be waiting.
+1793|{4}Pops:{5} No, no! You're watching{E}the shop,{D}because I'm going fishing.
+1794|{6}{7:4}:{5} B-but Dad!{E}This is the most important thing in my life.
+1795|{4}Pops:{5}{E}Never mind that.{D}Me going fishing{E}is more important.
+1796|{6}{7:4}:{5}{E}That's so unfair{8:6}.{8:6}.{8:6}.
+1797|{4}Mother:{5}{E}Dear!
+1798|{4}Pops:{5}{E}(Yikes!) Y-yes?
+1799|{4}Mother:{5} I've been listening,{E}and what is this?!{D}You always make {7:4}{E}help in the shop{D}while you do nothing{E}but fish.
+1800|{4}Pops:{5}{E}{8:6}.{8:6}.{8:6}.
+1801|{4}Mother:{5}{E}Give {7:4} some free time{D}once in a while,{E}won't you?
+1802|{4}Pops:{5}{E}But, still.
+1803|{4}Mother:{5}{E}Is that clear?
+1804|{4}Pops:{5}{E}Y-yes, dear.
+1805|{4}Mother:{5} Now,{E}off you go.
+1806|{6}{7:4}:{5}{E}Thanks, Mom.
+1807|{4}Pops:{5} I want to{E}go fishing too{8:6}.{8:6}.{8:6}.
+1808|{4}Mother:{5}{E}What was that?
+1809|{4}Pops:{5}{E}N-nothing.
+1810|{6}{7:4}:{5}{E}All right, here I go!
+1811|{4}Fisherman:{5}{E}A rare fish?{D}What are you looking for{E}a thing like that for?
+1812|{6}{7:0}:{5}{E}Oh, no special reason{8:6}.{8:6}.{8:6}.
+1813|{4}Fisherman:{5}{E}For odd things like that,{D}ask the old man who lives on the Reef.
+1814|{6}{7:0}:{5}{E}Really?{D}Then I'll head{E}to the Reef right away.
+1815|{4}Fisherman:{5}{E}Did you hear anything about rare fish?
+1816|{4}Yuko:{5}{E}I've seen that fish before.
+1817|{4}Yuko:{5}{E}There's nothing in there.
+1818|{4}{7:3}:{5} Make sure you{E}pay for what you buy.
+1819|{4}Angler:{5}{E}What, is your dad minding the shop?
+1820|{4}Girl:{5}{E}I wish I had a girl to be friends with.
+1821|{4}Old Man:{5} The son going fishing?{E}That's a rare sight.
+1822|{4}Old Man:{5}{E}A rare fish?{D}And what would you{E}want with such a thing?
+1823|{6}{7:0}:{5}{E}J-just for personal reasons.
+1824|{4}Old Man:{5} A rare fish, eh?{E}Then not on this shore.{D}You'll catch one sooner{E}on the open sea.{D}Why not try one of the islands{E}out offshore?
+1825|{6}{7:0}:{5}{E}I see.{D}I'll catch a boat at the Jetty{E}and go to the Islet.
+1826|{4}Old Man:{5}{E}Have you been to the Islet?
+1827|{4}Boy:{5} You look like{E}you're bad at fishing, mister.
+1828|{4}Taro:{5} Sea King, Sea King, Sea King.{E}Where are you, Sea King?
+1829|{4}Young Man:{5}{E}A fish no one's ever seen?{D}You're after something unusual.
+1830|{6}{7:0}:{5} Ha ha ha.{E}Someone asked me to.
+1831|{4}Young Man:{5}{E}Hmm. Tough job.
+1832|{6}{7:0}:{5} Do you know anything{E}about rare fish?
+1833|{4}Young Man:{5}{E}Should I tell you{8:6}.{8:6}.{8:6}.?
+1834|{6}{7:0}:{5}{E}What, you know something?
+1835|{4}Young Man:{5} Have you heard of the{E}"Rare Fish Club"?
+1836|{6}{7:0}:{5}{E}What's that?
+1837|{4}Young Man:{5}{E}I don't know much about it myself,{D}but far to the south of here,{D}there's an island where people{D}whose hobby is catching rare fish get together.
+1838|{6}{7:0}:{5} Then{E}if I go there, I'm sure to{8:6}.{8:6}.{8:6}.
+1839|{4}Young Man:{5}{E}Probably.{D}I hear the man on the Isle{E}is connected with that club.{D}Why not pay him a visit?
+1840|{6}{7:0}:{5}{E}Thank you very much.{D}I'll go right away.
+1841|{4}Young Man:{5}{E}Did you talk to the man?
+1842|{4}Noriko:{5} Oh, my!{E}If it isn't the Jetty tackle shop.
+1843|{4}Man:{5} The club?{E}Who told you about that?{D}As it happens,{E}I'm its president.
+1844|{6}{7:0}:{5}{E}What? Oh, well, that's{8:6}.{8:6}.{8:6}.{D}You're the president?
+1845|{4}Man:{5}{E}You needn't tell me.{D}So, you want to go to the island{E}where we gather?
+1846|{6}{7:0}:{5}{E}Yes, I do.{D}Please tell me how{E}to get to the island.
+1847|{4}Man:{5}{E}I'm in the mood for some blue marlin sashimi.
+1848|{6}{7:0}:{5}{E}Huh?
+1849|{4}Man:{5} So{E}go catch me a blue marlin.{D}Then{E}I'll tell you how to reach the island.
+1850|{6}{7:0}:{5}{E}A blue marlin{8:6}.{8:6}.{8:6}.{D}How am I supposed to catch{E}a fish that big?
+1851|{4}Man:{5}{E}Figure it out yourself.{D}If a blue marlin gives you trouble,{D}you'll never catch the fish{E}you're looking for.
+1852|{6}{7:0}:{5} (Ouch!){E}Is that so{8:6}.{8:6}.{8:6}.{D}I-I'll do my best.
+1853|{4}Man:{5}{E}Caught that blue marlin yet?
+1854|{4}Man:{5}{E}Looks like you caught one.{D}Very well.{E}Here, take this.
+1855|{6}{7:0}:{5}{E}This is a lantern.
+1856|{4}Man:{5}{E}At night,{D}put that lantern in the lighthouse on the Reef.{D}It will take you to the island{E}where the club members gather.{D}Ask the other members{E}about rare fish.
+1857|{6}{7:0}:{5}{E}Thank you very much.{D}I'll never forget your kindness.
+1858|{4}Man:{5}{E}You're overdoing it.
+1859|{4}Man:{5}{E}Have you been to the island?
+1860|{4}Angler:{5} A rare fish?{E}Never heard of one.
+1861|{4}Angler:{5}{E}Well, good luck with that.
+1862|{4}Angler:{5} If I knew that,{E}I'd catch it myself.
+1863|{4}Angler:{5} Lucky you,{E}the vice president told you?
+1864|{4}Angler:{5} Listen.{E}Every angler on this island{D}fishes for rare fish as a hobby.{D}So nobody here shares their spots{E}with just anyone.
+1865|{4}Angler:{5}{E}That, I can't tell you.
+1866|{4}Angler:{5} Even if you know where it is,{D}catching that fish is hard.{D}Give it your best.
+1867|{4}Angler:{5}{E}{8:6}.{8:6}.{8:6}.
+1868|{4}Angler:{5}{E}If that's what you're after,{D}ask the man in front of the tackle shop.
+1869|{4}Angler:{5}{E}Oh, he told you, did he?{D}Well, that's a first.
+1870|{4}Taro:{5}{E}The man in front of the tackle shop{D}definitely knows where the rare fish is.
+1871|{4}Taro:{5} What?{E}He told you?{D}Lucky!
+1872|{4}Man:{5}{E}Oh, a new face on this island.
+1873|{6}{7:0}:{5}{E}Um{8:6}.{8:6}.{8:6}.{D}I want to catch a rare fish{E}nobody has ever seen.
+1874|{4}Man:{5} I'm sure you do.{E}Every angler on this island{D}has the same idea as you.{D}That's why nobody{E}would tell you, right?
+1875|{6}{7:0}:{5} Oh no{8:6}.{8:6}.{8:6}.{E}After I came all this way.{D}I wanted to show it{E}to Yuko-san{8:6}.{8:6}.{8:6}.
+1876|{4}Man:{5}{E}Why do you want{D}to catch a rare fish?{D}We call it{E}the Sea King, by the way.
+1877|{6}{7:0}:{5}{E}The Sea King... is it?{D}Huh? My reason?{E}That's a little embarrassing.
+1878|{4}Man:{5}{E}Embarrassing?{D}If you don't want to say,{E}I won't press you,{D}but depending on your reason,{E}I might be willing to help.
+1879|{6}{7:0}:{5}{E}R-really?{D}W-well, the truth is{8:6}.{8:6}.{8:6}.
+1880|{4}Man:{5}{E}I see.{D}You want to show it{E}to the girl you like.{D}So you're not interested{E}in the fish itself?
+1881|{6}{7:0}:{5}{E}No{8:6}.{8:6}.{8:6}.
+1882|{4}Man:{5} In that case,{E}if you promise to give it to me{D}after you show it to her,{D}I'll tell you{E}where the Sea King is.
+1883|{6}{7:0}:{5}{E}I-I promise!
+1884|{4}Man:{5}{E}Very well.{D}The Sea King's spot is the deepest point{E}southwest of this island.{D}But that thing's size{E}is no joke.{D}Don't be shocked{E}when it takes your hook.
+1885|{6}{7:0}:{5}{E}Thank you very much.{D}I'll do my best, for Yuko-san's sake too.
+1886|{4}Man:{5}{E}Ah, to be young.
+1887|{4}Man:{5} After all I've told you,{E}you'd better land it.

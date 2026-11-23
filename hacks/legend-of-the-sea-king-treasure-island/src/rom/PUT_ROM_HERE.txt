@@ -1,0 +1,1 @@
+Put the original disc image here as orig.bin (see ../BUILD.md). It is git-ignored.

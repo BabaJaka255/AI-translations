@@ -1,0 +1,28 @@
+{
+  "slug": "legend-of-the-sea-king-treasure-island",
+  "name": "Legend of the Sea King: To Treasure Island",
+  "platform": "PlayStation",
+  "type": "translation",
+  "version": "1.0",
+  "summary": "Complete English translation of Umi no Nushi Tsuri: Takarajima ni Mukatte (PS1), with a variable-width font engine, English name entry and message board keyboard, and hand-redrawn title logo, staff roll and map labels.",
+  "base": {
+    "name": "Umi no Nushi Tsuri - Takarajima ni Mukatte (Japan).bin",
+    "size": 117844608,
+    "crc32": "DAD222F2",
+    "sha1": "ee6bce2a7b06df79c73f69ba8e86a3f5f9f61e0c",
+    "header": false
+  },
+  "patches": [
+    {
+      "file": "patches/UmiNoNushiTsuriTakarajima_EN_v1.0.xdelta",
+      "format": "xdelta",
+      "result_crc32": "563EA50F",
+      "result_sha1": "158cf248e71d3aec9436fddbf0da15c34bab7473"
+    }
+  ],
+  "tested_on": "emulator",
+  "source": "verified",
+  "devlog": true,
+  "ai_assisted": true,
+  "updated": "2026-11-23"
+}

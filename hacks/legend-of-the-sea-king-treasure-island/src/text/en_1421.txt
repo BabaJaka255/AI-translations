@@ -1,0 +1,241 @@
+# Story part 3 (1421-1660)
+1421|{6}{7:1}:{5}{E}Yeah{8:6}.{8:6}.{8:6}.
+1422|{4}Angler:{5} I see. If you've made up your mind{E}that firmly, I won't stop you.{D}Go give it your best.
+1423|{6}{7:1}:{5}{E}Thanks, mister.
+1424|{4}Angler:{5} Oh, that's right.{E}I'll give you some of my bait.{D}It should come in handy{E}for catching the Sea King.
+1425|{6}{7:1}:{5}{E}These are{8:6}.{8:6}.{8:6}. sardines and butterfish?{D}Thank you so much.
+1426|{4}Angler:{5}{E}Hang in there.{D}Oh, and to have the Sea King grant your wish,{D}you don't need to land it.
+1427|{4}Taro:{5} This cave looks suspicious,{E}but I can't get in.
+1428|{4}Taro:{5} Lucky you.{E}You got the key, huh?
+1429|{4}Man:{5}{E}So the man on the Isle told you{D}to go catch a bluefin tuna, and you did?
+1430|{6}{7:1}:{5}{E}How did you know?
+1431|{4}Man:{5} That's the only way{E}to get to this island.{D}But are you really planning{E}to catch the Sea King?
+1432|{6}{7:1}:{5} Yes.{E}It's for my sister, {7:2}.{D}But why does everyone get such a gloomy look?{D}Catching the Sea King is just catching a fish, isn't it?
+1433|{4}Man:{5}{E}{8:6}.{8:6}.{8:6}. It's true that if you catch the Sea King{D}and make a wish, it will come true.{D}But the price is the life of the one who makes the wish.
+1434|{6}{7:1}:{5}{E}Huh? My life{8:6}.{8:6}.{8:6}.
+1435|{4}Man:{5} That's right. Everyone you talked to{D}knew about it.{E}No wonder they looked gloomy.
+1436|{6}{7:1}:{5}{E}So that's why{8:6}.{8:6}.{8:6}.{D}Even if my wish comes true,{E}{7:2} will{8:6}.{8:6}.{8:6}.
+1437|{4}Man:{5}{E}What will you do?{D}Do you still want to catch the Sea King?
+1438|{6}{7:1}:{5}{E}{8:6}.{8:6}.{8:6}.
+1439|{4}Man:{5}{E}Sleep on it tonight.{D}If you still want to go through with it,{D}come back to me and I'll tell you where the Sea King is.
+1440|{4}Man:{5}{E}Come back tomorrow.
+1441|{4}Man:{5}{E}Have you made up your mind?
+1442|{6}{7:1}:{5} Yeah. I've decided{E}I'm going to catch the Sea King.
+1443|{4}Man:{5} I see{8:6}.{8:6}.{8:6}.{E}Then I won't stop you.{D}Catch the Sea King and save your sister.{D}The Sea King's spot is southeast on the Ocean.{D}But it's the Sea King you're up against.{E}It won't be easy.{D}Prepare yourself well.
+1444|{6}{7:1}:{5} OK, got it.{E}Thanks, mister!
+1445|{4}Man:{5}{E}And off he goes{8:6}.{8:6}.{8:6}.{D}Though whether he'll really{E}lose his life{8:6}.{8:6}.{8:6}.
+1446|{4}Man:{5}{E}Good luck.
+1447|{4}Sailor:{5} Leaving the island?{E}{>16}Yes{>80}No
+1448|{4}Lookout:{5} Oh? Don't tell me{D}you came looking for the pirate treasure?
+1449|{6}{7:0}:{5} That's right.{E}Is it here?
+1450|{4}Lookout:{5}{E}Yep, sure is.{D}What's more, I've got the key{E}to get inside.{D}Want it?
+1451|{6}{7:0}:{5}{E}Will you give it to me?
+1452|{4}Lookout:{5}{E}Not for free.{D}My hobby is making lanterns out of porcupinefish,{D}and the biggest one I've got is only 20cm.{D}Next I want one that's 25cm or more.{D}I have to stay here on lookout,{D}so you go catch one for me.
+1453|{6}{7:0}:{5} If I catch a porcupinefish{E}25cm or bigger,{D}you'll give me the key?
+1454|{4}Lookout:{5}{E}Yep, you've got a deal.
+1455|{6}{7:0}:{5}{E}(Fishing, at last.){D}OK, I'll go catch one.
+1456|{4}Lookout:{5}{E}Where's my porcupinefish?
+1457|{4}Lookout:{5} All right!{E}Now I can make my lantern.{D}Here, the key.
+1458|Got the Gold Key.
+1459|{6}{7:0}:{5} Thanks.{E}(Well, that was easy.)
+1460|{4}Lookout:{5}{E}Good luck in there.
+1461|{6}{7:0}:{5}{E}Brother!
+1462|{4}Grandma:{5} Oh my!{E}You're all better?
+1463|{6}{7:0}:{5}{E}Brother's in trouble!
+1464|{4}Grandma:{5} Dear!{E}{7:0} is{8:6}.{8:6}.{8:6}.
+1465|{4}Grandpa:{5}{E}Oh!{D}{7:1} must have{E}caught the Sea King.
+1466|{6}{7:0}:{5} But{E}a huge wave took Brother{8:6}.{8:6}.{8:6}.
+1467|{4}Grandpa:{5} How could you{E}know that?
+1468|{6}{7:0}:{5}{E}I saw it in a dream.
+1469|{4}Grandpa:{5}{E}I see{8:6}.{8:6}.{8:6}.{D}But there's nothing{E}we can do.
+1470|{6}{7:0}:{5} I'm going{E}to find Brother.
+1471|{4}Grandpa:{5}{E}What are you saying?!{D}You've only just gotten better!
+1472|{4}Grandpa:{5} Hm? Grandma.{E}Don't tell me, another bento?
+1473|{6}{7:0}:{5}{E}Thank you, Grandma.
+1474|{4}Grandma:{5}{E}{7:0}, dear,{D}{7:1} needs your help, I'm sure of it.{D}Go on.
+1475|{6}{7:0}:{5} OK.{E}I'm off!
+1476|{6}{7:0}:{5} I have to find{E}Brother, fast.
+1477|{6}{7:1}:{5} All right,{E}the pirate treasure!
+1478|{6}{7:1}:{5} Huh?{E}I can't climb back up.{D}Hey!{E}Anybody?
+1479|One month later...
+1480|{6}{7:2}:{5} Phew,{E}I feel pretty good.
+1481|{4}Grandma:{5} {7:2}, dear,{E}are you feeling better?
+1482|{6}{7:2}:{5} Grandma!{E}My body feels so light.
+1483|{4}Grandpa:{5}{E}It's a miracle!
+1484|{6}{7:2}:{5}{E}Where's Brother?
+1485|{4}Grandpa:{5} Well{8:6}.{8:6}.{8:6}.{E}He ran out of the house to find a cure for you,{D}and he never came back.
+1486|{6}{7:2}:{5}{E}Brother{8:6}.{8:6}.{8:6}.{D}I'm going to go find him.
+1487|{4}Grandpa:{5}{E}What are you saying?{D}You've finally gotten well.{E}Don't overdo it!
+1488|{4}Grandpa:{5} (That woman's making{E}another bento already.)
+1489|{4}Grandma:{5}{E}{7:2} is such a kind girl.{D}Here's your bento.{E}Take it with you.
+1490|{6}{7:2}:{5}{E}Thank you, Grandma!
+1491|{4}Grandpa:{5}{E}Oh, it can't be helped.
+1492|{6}{7:1}:{5}{E}I'm home!
+1493|{4}Grandpa:{5}{E}Welcome home. You did well.
+1494|{6}{7:1}:{5}{E}Did the 10 million yen prize arrive?{D}Now {7:2} can get surgery at a big hospital, right?
+1495|{4}Grandpa:{5}{E}Of course.
+1496|{6}{7:1}:{5}{E}Yay!
+1497|One month later...
+1498|{6}{7:1}:{5} The surgery worked, but we{E}can't afford the hospital bills{8:6}.{8:6}.{8:6}.
+1499|{4}Grandpa:{5}{E}I'm sorry.{D}If only we weren't{E}so poor{8:6}.{8:6}.{8:6}.
+1500|{6}{7:1}:{5} I'll go out{E}and earn money one more time.
+1501|{4}Grandpa:{5}{E}{7:1}{8:6}.{8:6}.{8:6}.
+1502|{6}{7:1}:{5} No time to waste.{E}I'm off!
+1503|Five days later{8:6}.{8:6}.{8:6}.
+1504|{6}{7:2}:{5}{E}Good morning.
+1505|{4}Grandpa:{5} {7:2}!{E}Are you all right to be up?
+1506|{6}{7:2}:{5} I think I'm fine.{E}I'm completely better now.
+1507|{4}Grandpa:{5}{E}How strange.
+1508|{4}Grandma:{5} {7:1}{8:6}.{8:6}.{8:6}.{E}If only he'd waited a little longer{8:6}.{8:6}.{8:6}.
+1509|{6}{7:2}:{5} Brother always{E}rushes into things.
+1510|{4}Grandpa:{5}{E}He sure does.
+1511|{6}{7:2}:{5} I'm going to{E}bring Brother back.
+1512|{4}Grandma:{5}{E}Yes, go on, dear.
+1513|{6}{7:2}:{5}{E}Well, I'm off.
+1514|{6}{7:2}:{5} Did he enter another{E}fishing tournament{8:6}.{8:6}.{8:6}.?
+1515|{6}{7:1}:{5}{E}I'm home!
+1516|{4}Grandma:{5}{E}Welcome home, {7:1}.
+1517|{6}{7:1}:{5} The Old Master on the Beach{E}gave me this.
+1518|{4}Grandpa:{5}{E}Wh-why, this is!
+1519|{6}{7:1}:{5} Grandpa,{E}do you know what this is?
+1520|{4}Grandpa:{5}{E}Know it? Why,{D}you've come home with{E}something incredible.
+1521|{6}{7:1}:{5} Wow,{E}it's that amazing?{D}But let's put that aside for now.
+1522|{6}{7:1}:{5} Now,{E}{7:2}{8:6}.{8:6}.{8:6}.{D}Take this medicine.
+1523|{6}{7:2}:{5}{E}Gulp.
+1524|{6}{7:1}:{5}{E}How do you feel?
+1525|{4}Grandpa:{5} It can't possibly{E}work that fast.
+1526|{6}{7:2}:{5}{E}My body feels light!
+1527|{4}Grandpa:{5}{E}(Whaaat?!)
+1528|{6}{7:1}:{5} We did it!{E}{7:2}'s illness is cured!
+1529|{4}Grandpa:{5}{E}I can't believe it.
+1530|{6}{7:1}:{5} Come on, let's go thank{E}the Old Master.
+1531|{6}{7:2}:{5}{E}OK, Brother.
+1532|{6}{7:1}:{5}{E}Huh? That's weird{8:6}.{8:6}.{8:6}.{D}He was right here{E}a little while ago.
+1533|{4}Man:{5} If you mean the Old Master,{E}he left on a journey with his companions.
+1534|{6}{7:1}:{5}{E}Huh? A journey?
+1535|{4}Man:{5} They say{E}he's touring the provinces.
+1536|{6}{7:1}:{5}{E}Is that so{8:6}.{8:6}.{8:6}.
+1537|{6}{7:1}:{5} Old Master!{E}Thank yooou!
+1538|{6}{7:2}:{5}{E}Thank yooou!
+1539|{4}Angler:{5} I didn't win the{E}fishing tournament again.
+1540|{4}Boy:{5} I hear a huge tsunami{E}hit out at sea recently.
+1541|{4}Boy:{5}{E}What do you want?
+1542|{6}{7:0}:{5}{E}Have you seen my brother?
+1543|{4}Boy:{5}{E}I have, but I'm not telling.
+1544|{6}{7:0}:{5}{E}Don't say that. Please tell me.{D}OK?
+1545|{4}Boy:{5}{E}Uh{8:6}.{8:6}.{8:6}. What should I do?
+1546|{6}{7:0}:{5}{E}Pret{8:6}ty{8:6} please{8:6}?
+1547|{4}Boy:{5}{E}Oh, f-fine{8:6}.{8:6}.{8:6}.{D}But I can't say it myself.{D}Go ask our leader.
+1548|{6}{7:0}:{5}{E}Who's your leader?
+1549|{4}Boy:{5} He's at the lighthouse{E}on the Reef.{D}But don't tell him{E}I sent you, OK?
+1550|{6}{7:0}:{5} All right.{E}Thank you.
+1551|{4}Boy:{5}{E}You didn't tell the leader, did you?
+1552|{4}Official:{5} The tournament is over.{E}Please check the board for results.
+1553|{4}Official:{5} My, it's rare to see a child{D}entering a fishing tournament.{D}You must love fishing.
+1554|{6}{7:0}:{5}{E}Have you seen my brother?
+1555|{4}Official:{5}{E}Your brother{8:6}.{8:6}.{8:6}., you say?
+1556|{6}{7:0}:{5} My brother used his tournament prize money{D}to pay for my surgery when I was sick.{D}But he said we need money for the hospital bills,{D}and he left on another journey.
+1557|{4}Official:{5} Oh,{E}so you're that boy's little sister.{D}Indeed, he won several tournaments again,{D}and he's now taking part in the 10-million-yen tournament once more.{D}But, young lady,{E}shouldn't you be in the hospital?
+1558|{6}{7:0}:{5} Well, you see,{E}I got better.{D}So I'm going to{E}bring my brother home.
+1559|{4}Official:{5} Oh, er{8:6}.{8:6}.{8:6}.{E}You got better, did you.{D}But by now he's probably out on the Ocean{D}battling some huge fish.
+1560|{6}{7:0}:{5}{E}Where can I find him?
+1561|{4}Official:{5} Most likely,{E}if you go to the Isle out on the Ocean{8:6}.{8:6}.{8:6}.
+1562|{6}{7:0}:{5} Thank you,{E}mister.{D}I'll go to the Isle.
+1563|{4}Official:{5}{E}Not at all. You're welcome.
+1564|{4}Official:{5}{E}Did you find your brother?
+1565|{4}Official:{5} Oh, your brother was{E}here just a moment ago!{D}When I told him about you,{D}he said he was going home{E}and ran off.
+1566|{6}{7:0}:{5} Home?{E}I'll go there.
+1567|{4}Official:{5}{E}Hurry on home now.
+1568|{6}{7:0}:{5} I'm home!{E}Where's Brother?
+1569|{4}Grandpa:{5}{E}Oh, {7:2}!{D}{7:1} just{E}left.{D}Didn't you run into him?
+1570|{6}{7:0}:{5}{E}No way{8:6}.{8:6}.{8:6}.{D}I came all the way home thinking I'd finally see him{8:6}.{8:6}.{8:6}.
+1571|{4}Grandpa:{5} He ran off without{E}hearing us out.
+1572|{4}Grandma:{5}{E}That boy is hopeless{8:6}.{8:6}.{8:6}.
+1573|{6}{7:1}:{5}{E}Oh, {7:0}!
+1574|{6}{7:0}:{5}{E}Brother!
+1575|{4}Grandma:{5}{E}My, you're back.
+1576|{6}{7:1}:{5}{E}When I went to enter the tournament,{D}the official told me about {7:0}{8:6}.{8:6}.{8:6}.
+1577|{6}{7:0}:{5}{E}Thank you, Brother!{D}I got better thanks to you.
+1578|{6}{7:1}:{5}{E}Y-yeah.
+1579|{4}Grandpa:{5}{E}All's well that ends well.
+1580|{4}Grandma:{5}{E}It truly is.
+1581|{6}{7:1}:{5}{E}Well, I'm off.
+1582|{6}{7:0}:{5}{E}Where to?
+1583|{6}{7:1}:{5}{E}The fishing tournament!{D}I'm going to win another 10 million yen.
+1584|{6}{7:0}:{5}{E}What? You don't need to.{D}I'm all better now,{E}so there's no need for anything so dangerous{8:6}.{8:6}.{8:6}.
+1585|{6}{7:1}:{5}{E}Here I go!
+1586|{6}{7:0}:{5}{E}He's gone{8:6}.{8:6}.{8:6}.
+1587|{4}Grandpa:{5}{E}Good grief{8:6}.{8:6}.{8:6}.
+1588|{4}Fisherman:{5}{E}Your brother?{D}You mean the boy who was looking for the Sea King?
+1589|{6}{7:0}:{5} Mister,{E}do you know my brother?
+1590|{4}Fisherman:{5} He said he was looking{E}for the Sea King,{D}so I sent him to the old man{E}who lives on the Reef.
+1591|{6}{7:0}:{5} So Brother went{E}to the Reef{8:6}.{8:6}.{8:6}.
+1592|{4}Fisherman:{5} Did you find{E}your brother?
+1593|{4}Fisherman:{5}{E}No fishing for us today.
+1594|{4}Grandpa:{5} You've just recovered,{E}so don't push yourself.
+1595|{4}Grandma:{5}{E}Hang in there.
+1596|{4}Yuko:{5} Oh?{E}{7:2}-chan.{D}Are you feeling better?
+1597|{4}Yuko:{5}{E}I'm so glad you're well again.
+1598|{4}Old Man:{5} Heh heh heh.{E}I'm a master canoe maker.{D}If you want a canoe,{E}trade me 5 halfbeak.
+1599|{4}Old Man:{5}{E}Where are my halfbeak?
+1600|{4}Angler:{5} You fish too,{E}little lady?
+1601|{4}Girl:{5}{E}Huh? Your brother?{D}Could you be{E}the sick little sister?
+1602|{6}{7:0}:{5}{E}Yes.{D}I got better{E}thanks to my brother.{D}But in exchange, my brother{E}went missing{8:6}.{8:6}.{8:6}.
+1603|{4}Girl:{5} Oh, I see.{E}I hope you find him soon.{D}Then let's{E}all play together.
+1604|{6}{7:0}:{5}{E}OK, thank you.
+1605|{4}Girl:{5}{E}I hope you find him soon.
+1606|{4}Girl:{5}{E}Your brother?{D}Could you be{E}the sick little sister?
+1607|{6}{7:0}:{5}{E}Yes.{D}I got better{E}thanks to my brother.{D}But now my brother{E}has gone off somewhere{8:6}.{8:6}.{8:6}.
+1608|{4}Girl:{5} Oh, I see.{E}I hope you find him soon.{D}When you do,{E}let's all play together.
+1609|{6}{7:0}:{5}{E}OK, thank you.
+1610|{4}Girl:{5}{E}Good luck.
+1611|{4}Girl:{5}{E}Hello.
+1612|{4}Old Man:{5} A boy?{E}Hmm? Never heard of him.
+1613|{6}{7:0}:{5}{E}Sir,{D}you know my brother,{E}don't you?
+1614|{4}Old Man:{5} Hm? Your brother?{E}Oh, now I remember.{D}That boy{8:6}.{8:6}.{8:6}.{E}He was looking for the Sea King.
+1615|{6}{7:0}:{5}{E}Sir,{D}please tell me where my brother went.{D}He's gone missing.
+1616|{4}Old Man:{5}{E}I see. Just as I feared{8:6}.{8:6}.{8:6}.
+1617|{6}{7:0}:{5} Huh?{E}As you feared{8:6}.{8:6}.{8:6}.?
+1618|{4}Old Man:{5}{E}No, never mind.{D}That boy{D}went to see a young man on the Islet{8:6}.{8:6}.{8:6}.{D}Will you go?
+1619|{6}{7:0}:{5}{E}Yes.{D}I have to find my brother, fast.
+1620|{4}Old Man:{5}{E}Perhaps this is fate too{8:6}.{8:6}.{8:6}.
+1621|{4}Old Man:{5} When you get old,{E}even fishing is a chore.
+1622|{4}Angler:{5} South of this rock{E}there are amberjack.
+1623|{4}Boy:{5}{E}The other night, I saw it.{D}A ghost ship came{E}to this cape{8:6}.{8:6}.{8:6}.
+1624|{4}Leader:{5}{E}Beat it!
+1625|{6}{7:0}:{5}{E}Hello, Mr. Leader.
+1626|{4}Leader:{5}{E}Who told you about that?
+1627|{6}{7:0}:{5} I'm sorry,{E}I can't tell you.
+1628|{4}Leader:{5}{E}Eh, whatever.{D}So what do you want with me?
+1629|{6}{7:0}:{5} Have you seen{E}my brother?
+1630|{4}Leader:{5}{E}Your brother?{D}So you're his sister.{E}I see{8:6}.{8:6}.{8:6}.{D}All right.{E}I'll tell you.
+1631|{6}{7:0}:{5}{E}Really?
+1632|{4}Leader:{5} Yeah, really.{E}But there's one condition.{D}Heh heh. Little girl or not,{E}I don't go easy on anyone.{D}The tackle shop on the Islet{E}sells fancy chocolate.{D}Go buy me some.{D}Then I'll tell you{E}where your brother is.{D}Deal?
+1633|{6}{7:0}:{5} All right.{E}(What a strange boy.){D}(I'd rather not deal with him much.)
+1634|{4}Leader:{5}{E}Where's my chocolate?
+1635|{4}Leader:{5}{E}Good, that'll do.{D}At night, put this lantern{E}in that lighthouse.{D}It should take you to{E}where your brother is.{D}(Heh heh heh,{E}more chocolate for me.)
+1636|{6}{7:0}:{5}{E}Hmm, that's the truth, right?
+1637|{4}Leader:{5} Wh-what was that?{E}I'm the leader!
+1638|{6}{7:0}:{5}{E}All right, I'll trust you.{D}Well then, goodbye.
+1639|{4}Leader:{5}{E}This chocolate is delicious!{D}Huh! Wh-what is it?{E}You still want something?
+1640|{4}Old Man:{5} Well, well. Seems that boy{E}got to meet the Sea King.
+1641|{6}{7:0}:{5} Sir,{E}where is my brother?
+1642|{4}Old Man:{5}{E}Even I don't know{8:6}.{8:6}.{8:6}.{D}And you couldn't possibly{E}find your brother.
+1643|{6}{7:0}:{5}{E}Oh no{8:6}.{8:6}.{8:6}.
+1644|{4}Old Man:{5} If you truly{E}want to find your brother,{D}go catch an amberjack{E}70cm or longer.{D}If you can't do that,{E}you'd best give up.
+1645|{6}{7:0}:{5}{E}All right.{D}I'll catch an amberjack{E}70cm or longer.
+1646|{4}Old Man:{5}{E}Caught that amberjack yet?
+1647|{4}Old Man:{5} Well done.{E}I told your brother{D}to go see the old man with the beard{E}on the Beach.{D}Go ask that old man.
+1648|{6}{7:0}:{5}{E}Thank you.
+1649|{4}Old Man:{5} What did the old man{E}with the beard say?
+1650|{4}Taro:{5} So you fish too?{E}My little sister's pretty good herself.
+1651|{6}{7:0}:{5}{E}Hello.{D}Have you seen{E}my brother?
+1652|{4}Young Man:{5}{E}Your brother?{D}So you're the little sister{E}he told me about{8:6}.{8:6}.{8:6}.
+1653|{6}{7:0}:{5} Where did my brother{E}go?{D}How can I see him again?
+1654|{4}Young Man:{5}{E}{8:6}.{8:6}.{8:6}.{D}It's not easy,{E}but there is a way.{D}But{8:6}.{8:6}.{8:6}.
+1655|{6}{7:0}:{5} What is it{8:6}.{8:6}.{8:6}.?{E}Please, tell me!
+1656|{4}Young Man:{5} This time, you just have to{E}make a wish to the Sea King.
+1657|{6}{7:0}:{5} That's it!{E}I'll make a wish to the Sea King.
+1658|{4}Young Man:{5}{E}The man on the Isle{D}knows where the Sea King is.{D}But{E}he's a bit of an odd one,{D}so getting it out of him might be tough{8:6}.{8:6}.{8:6}.
+1659|{6}{7:0}:{5}{E}What do I do{8:6}.{8:6}.{8:6}.
+1660|{4}Young Man:{5} Take this with you.{E}I'm sure it'll come in handy.

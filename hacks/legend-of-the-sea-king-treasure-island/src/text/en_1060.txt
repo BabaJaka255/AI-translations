@@ -1,0 +1,141 @@
+# Rival names (1060-1074) and story part 1
+1060|Shichiro
+1061|Yoshihei
+1062|Tomizo
+1063|Juji
+1064|Sanpei
+1065|Tsuritaro
+1066|Haruo
+1067|Kintaro
+1068|Hideki
+1069|Harukichi
+1070|Noriko
+1071|Chojiro
+1072|Shinkichiro
+1073|Namisuke
+1074|Sadajiro
+1075|{6}{7:0}:{5} I wonder when {7:2} will ever get better.
+1076|{4}Grandpa:{5} I'm sorry, child. If only we had a little more money,{D}we could put her in a big hospital{8:6}.{8:6}.{8:6}.
+1077|{4}Grandma:{5}{E}Oh, dear{8:6}.{8:6}.{8:6}.
+1078|{4}Grandpa:{5} What's the matter? Why the hurry?
+1079|{6}{7:0}:{5}{E}Grandpa, I found it!{D}A way to cure {7:2}'s illness!
+1080|{4}Grandpa:{5} What's that? What kind of way?
+1081|{6}{7:0}:{5} They say there's a fish{D}that can grant any wish.
+1082|{4}Grandpa:{5}{E}{7:0}{8:6}.{8:6}.{8:6}.{D}Don't go believing such convenient tales.
+1083|{6}{7:0}:{5}{E}It's true!{D}There are people who caught that fish and got rich.{D}I'm going after it.
+1084|{4}Grandpa:{5}{E}Going? Going where?
+1085|{6}{7:0}:{5}{E}To catch that fish!
+1086|{4}Grandpa:{5} Absolutely not!{E}You're still in grade school.
+1087|{6}{7:0}:{5} All right!{E}I'm going to catch it, no matter what!
+1088|{4}Grandpa:{5}{E}I said absolutely not!
+1089|{6}{7:0}:{5} Well, I'm off!
+1090|{6}{7:0}:{5} Your big brother's going to cure you. Just wait.
+1091|{4}Grandma:{5} {7:0}, dear,{E}be careful out there.{D}And take this with you.
+1092|{6}{7:0}:{5}{E}Thanks, Grandma.{D}Well, I'm off!
+1093|{4}Grandpa:{5} Once {7:0} gets an idea,{E}there's no stopping him.
+1094|{4}Grandma:{5}{E}That's true.
+1095|{4}Grandpa:{5} Come to think of it,{E}when did you make him a bento?
+1096|{4}Grandma:{5} Now, now,{E}don't fuss over the details.
+1097|{6}{7:0}:{5}{E}Now then{8:6}.{8:6}.{8:6}.{D}First I need to find out where that fish lives.
+1098|{6}{7:0}:{5} Maybe I should ask around a little more.
+1099|{4}Man:{5}{E}What are you trying to catch?
+1100|{4}Man:{5}{E}{A}, huh?{D}Then use a {A} rod{D}with a {A} and a {A}.{D}For bait, {A}{E}should do.
+1101|{4}Angler:{5} Jack mackerel are easy to catch, and tasty too.
+1102|{4}Angler:{5} To catch the big ones, you'll need to hire a boat.
+1103|{4}Angler:{5} The Black Porgy Tourney is mine for sure.
+1104|{4}Angler:{5}{E}Missed the win again{8:6}.{8:6}.{8:6}.
+1105|{4}Cat:{5}{E}If you have a magnifier,{D}you can find bait, meow.
+1106|{4}Cat:{5} You'd better get leather gloves,{D}for when you catch a poisonous fish, meow.
+1107|{4}Cat:{5}{E}When you head out to sea in a boat,{D}bring plenty of food, meow.
+1108|{4}Cat:{5} If you let young fish go,{E}they grow big and come back, meow.
+1109|{4}Cat:{5}{E}If all you do is fish,{D}your focus keeps dropping, meow.
+1110|{4}Cat:{5} When your focus drops,{E}fish get harder to catch, meow.{D}It feels like they start moving faster, meow.
+1111|{4}Cat:{5}{E}To get your focus back,{D}stay at the inn or use eye drops, meow.
+1112|{4}Cat:{5}{E}The three kinds of polarized glasses{D}let you see fish at each depth, meow.{D}Of course, you can just fish by feel, meow.
+1113|{4}Boy:{5}{E}When I grow up,{D}I'm going to be a fisherman like my dad.
+1114|{4}Girl:{5}{E}Did you know?{D}The old man in that house there is a master canoe maker.
+1115|{4}Girl:{5} You got a canoe?{E}Good for you!
+1116|{4}Boy:{5} If you use a headlamp at night,{D}you'll catch lots of night fish.
+1117|{4}Boy:{5} I wonder what's out there across the sea.
+1118|{4}Boy:{5} I hear you're on a journey{E}to save your sick sister.{D}If you promise not to tell anyone what I'm about to say,{D}I'll let you in on something good.
+1119|{6}{7:0}:{5}{E}Something good?
+1120|{4}Boy:{5} Can you promise?{E}{>16}Yes{>80}No
+1121|{4}Boy:{5}{E}Here's the deal.{D}Way, way to the south of here,{D}there's an island where pirates hid their treasure.{D}If you can get your hands on it,{D}curing your sister will be a piece of cake.
+1122|{6}{7:0}:{5} Really?{E}How do I get to that island?
+1123|{4}Boy:{5}{E}I can't just tell you that.{D}If you want to know,{D}go ask our leader at the lighthouse on the Reef.
+1124|{6}{7:0}:{5}{E}Huh{8:6}.{8:6}.{8:6}.{D}Hey, why do you talk so weird for a kid?
+1125|{4}Boy:{5} (Grr!){E}Mind your own business!
+1126|{4}Boy:{5} Here I am, being nice enough to tell you stuff.{D}Well, come back when you feel like listening.
+1127|{4}Boy:{5}{E}Don't tell anyone, got it?
+1128|{4}Boatman:{5}{E}The fare is 100 yen.{D}Coming aboard?{E}{>16}Yes{>80}No
+1129|{4}Official:{5} The Black Porgy Tourney{E}is now under way.{D}The entry fee is 100 yen.{D}The prize is 1000 yen.{D}Would you like to enter?{E}{>16}Yes{>80}No
+1130|{4}Official:{5} Shall I measure your fish?{E}{>16}Yes{>80}No
+1131|{4}Official:{5} Good luck landing a big one.
+1132|{4}Official:{5} {7:0}-san,{E}you are the winner!{D}Please accept your prize of 1000 yen.
+1133|{4}Official:{5} I'm sorry,{E}but someone else has won.
+1134|{4}Official:{5}{E}It seems you don't have enough money.
+1135|{4}Official:{5}{E}Congratulations on your victory.
+1136|{4}Official:{5} The tournament is over.{E}Please check the board for results.
+1137|{4}Official:{5} My, it's rare to see a child{D}entering a fishing tournament.{D}You must love fishing.
+1138|{6}{7:0}:{5}{E}No, that's not it.{D}I'm on a journey to cure my sister.{D}I'm looking for the fish that grants wishes.
+1139|{4}Official:{5}{E}I see.{D}Then have you heard of the tournament with a prize of 10 million yen?{D}With that much money, you could put your sister in a big hospital{D}and get her cured, couldn't you?
+1140|{6}{7:0}:{5} 10 million yen?{E}There's a tournament like that?
+1141|{4}Official:{5}{E}There certainly is.{D}Would you like to hear more?{E}{>16}Yes{>80}No
+1142|{4}Official:{5} That tournament has no entry fee,{D}but only those who have won every local tournament{D}may take part.{D}The local tournaments are at the Jetty, the Islet and the Isle.
+1143|{6}{7:0}:{5}{E}That's a tall order{8:6}.{8:6}.{8:6}.
+1144|{4}Official:{5} If you manage to win all of them,{D}come see me again.
+1145|{4}Official:{5} I thought so.{E}It's too much for a child.
+1146|{4}Official:{5} Splendid!{E}You've won all three tournaments.
+1147|{6}{7:0}:{5}{E}Heh heh heh.
+1148|{4}Official:{5} Now, let me explain the tournament.{D}This is a sailfish tournament.{D}As I mentioned before, entry is free,{D}and the prize is 10 million yen.{D}When you catch a sailfish, come see me.
+1149|{6}{7:0}:{5}{E}All right, here I go!
+1150|{4}Official:{5}{E}A word of warning:{D}an ordinary-sized fish won't win.{D}They say there are sailfish out on the Ocean{D}over 3 meters long. Aim for one of those.
+1151|{4}Official:{5}{E}How's it going?
+1152|{4}Official:{5}{E}This is incredible!{D}{7:0}-san, the victory is yours.
+1153|{6}{7:0}:{5}{E}Yes! I did it!
+1154|{4}Official:{5} We'll deliver the 10 million yen{E}prize to your home.{D}It is a large sum, after all.
+1155|{6}{7:0}:{5}{E}All right, time to go home!
+1156|{4}Official:{5} A fish that size{E}won't win, I'm afraid.
+1157|{4}Official:{5}{E}Congratulations.
+1158|{4}Official:{5} Winning all three tournaments{D}was too much for you after all, I see.
+1159|{6}{7:0}:{5} I have to find a way{E}to cure {7:2}{8:6}.{8:6}.{8:6}.
+1160|{4}Fisherman:{5}{E}A fish that grants wishes?{D}Ah, you mean the Sea King{8:6}.{8:6}.{8:6}.
+1161|{6}{7:0}:{5}{E}Mister, do you know something?
+1162|{4}Fisherman:{5} I don't know the details{8:6}.{8:6}.{8:6}.{D}Oh, that's right!{D}I heard the story from an old man who lives on the Reef.{D}If you want to know about the Sea King, go visit him.
+1163|{6}{7:0}:{5} Thanks!{E}I'll head to the Reef right away.
+1164|{4}Fisherman:{5} Did you meet the old man on the Reef?
+1165|{4}Fisherman:{5}{E}No fishing for us today.
+1166|{4}Grandpa:{5} Well? Have you found any leads?
+1167|{4}Grandpa:{5}{E}Try not to get hurt out there...
+1168|{4}Grandpa:{5} If you only think about the easy way, nothing will work out.
+1169|{4}Grandma:{5}{E}Do your best, dear.
+1170|{4}Grandma:{5} Are you eating{E}your meals properly?
+1171|{4}{7:2}:{5}{E}It hurts...
+1172|{4}{7:2}:{5} Brother,{E}please don't push yourself too hard.
+1173|{4}Yuko:{5}{E}Don't block the TV!
+1174|{4}Yuko:{5}{E}Every day is so boring.
+1175|{4}{7:3}:{5} Now then,{E}what should I go fishing for next?
+1176|{4}{7:3}:{5}{E}I want to go fishing.{D}Say, the shop will be fine if I go fishing, right?{D}Is it OK if I go fishing?{E}{>16}Yes{>80}No
+1177|{4}{7:3}:{5} Thanks!{E}I'll get ready and head out right away.
+1178|{4}{7:3}:{5}{E}I see. That's a shame{8:6}.{8:6}.{8:6}.
+1179|{4}Old Man:{5} Heh heh heh.{E}I'm a master canoe maker.{D}If you want a canoe,{E}trade me 3 jack mackerel.
+1180|{4}Old Man:{5}{E}Where are my jack mackerel?
+1181|{4}Old Man:{5}{E}Oh, thank you kindly.{D}Here's the canoe I promised.
+1182|{4}Old Man:{5} How's that canoe I made{E}treating you?
+1183|(Yuko-san{8:6}.{8:6}.{8:6}.){E}Oh! W-welcome!
+1184|{4}Hachi:{5} Well now, on a journey to save your sister?{D}That brings a tear to my eye.{D}What do you say to a speed-fishing match with me?{D}If you beat me, I'll tell you something good.
+1185|{6}{7:0}:{5}{E}Something good? Like what?
+1186|{4}Hachi:{5}{E}Tell my master your story,{D}and I bet he'll lend you a hand.{D}But to meet my master,{D}you've got to beat three speed fishers, me included.{D}Want a match?{E}{>16}Yes{>80}No
+1187|{4}Hachi:{5} Good, that's the spirit!{E}Let's get started!
+1188|{4}Hachi:{5}{E}Tch! That's too bad.
+1189|{4}Hachi:{5} Beating me? Not bad at all.{D}My big bro's at the fishing pond on the Islet. Go pay him a visit.{D}Good luck.
+1190|{4}Hachi:{5} Go polish your skills{E}a little more.
+1191|{4}Hachi:{5} My big bro's a much{E}better fisher than me.
+1192|{4}Hachi:{5} Gotten any better?{E}Then let's have another go!
+1193|{4}Hachi:{5} I'm the best fisher{E}at this pond, you know.
+1194|{4}Angler:{5}{E}Once you leave, you have to pay again to get back in,{D}so bring plenty of hooks and bait.
+1195|{4}Angler:{5}{E}Fish caught at the fishing pond{D}sell for half the usual price.
+1196|{4}Owner:{5}{E}This is the jack mackerel pond.{D}It's 100 yen for 5 minutes of all-you-can-catch.{D}I'll buy your jack mackerel at half the market price.{D}Want to go in?{E}{>16}Yes{>80}No
+1197|{4}Owner:{5} You're catching some.{E}{B} fish, so that's {B} yen.
+1198|{6}{7:0}:{5} Thanks!
+1199|{4}Owner:{5}{E}Better luck next time.

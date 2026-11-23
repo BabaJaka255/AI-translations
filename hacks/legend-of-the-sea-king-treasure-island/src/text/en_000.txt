@@ -1,0 +1,395 @@
+# System, fishing and shop messages (ids 0-439)
+4|Flag{B} {A}{E}Fish{>48}{A}{E}Length{>48}{B}{E}Music{>48}{B}{E}SFX{>48}{B}{E}Map{>48}{A}{E}Pos.{>48}{B} {B}
+5|On
+6|Off
+7|Yen{C:5}{E}HP{C:5}{E}Focus{C:3}{E}Boat{>48}{B}{E}Fare{>48}{B}
+8|Sunny
+9|Cloudy
+10|Rain
+12|Ground
+13|Shallows
+14|Underwater
+15|Road to {A}
+16|{7:0}'s {A} event{E}message
+18|Water{B}
+19|{6}{7:0}:{5}{E}I'm getting a little tired.
+20|{6}{7:0}:{5}{E}I'm getting a little tired.
+21|{6}{7:0}:{5}{E}Maybe I should take a break.
+22|{6}{7:0}:{5}{E}Maybe I should take a break.
+23|{6}{7:0}:{5}{E}Maybe I'll head to the inn.
+24|{6}{7:0}:{5}{E}Maybe I'll head to the inn.
+25|{6}{7:0}:{5}{E}Wh-whoa, that scared me{8:6}.{8:6}.{8:6}.
+26|The Memory Card{E}is damaged.
+27|There is no Memory Card{E}in MEMORY CARD slot {C:1}.
+28|The save data{E}is damaged.
+29|The Memory Card in slot {C:1}{E}is not formatted.{D}Format it now?{E}{>16}Yes{>80}No
+30|Could not format.
+31|Not enough free blocks.{E}2 free blocks are needed.
+32|Erasing the record...
+33|Loading failed.
+34|Formatted.
+35|The Memory Card has{E}been changed.{D}Overwrite it?{E}{>16}Yes{>80}No
+36|Saved.
+37|What will you offer{E}the Jizo statue?
+38|You offered the{E}{A}.
+39|Saving...
+40|Saving failed.
+41|Shall I save?{E}{>16}Yes{>80}No
+42|Formatting...
+43|Stopped saving.
+44|Who's going fishing?{E}{6}(Story Mode){5}
+45|Who's going fishing?{E}{6}(Free Fishing Mode){5}
+46|Whose record will{E}you erase?
+47|Erase {7:0}'s record?{E}{>32}Yes{>96}No
+48|Brother
+49|Sister
+50|Owner
+51|Son
+52|{>32}{6}Home{5}{E}{A}: {4}{A}{5}{E}Age: {C:2}{E}{E}New Game
+53|{>12}{6}Tackle Shop{5}{E}{A}: {4}{A}{5}{E}Age: {C:2}{E}{E}New Game
+54|{>34}{6}????{5}{E}{>8}??: {4}????{5}{E}Age: ??{E}{E}New Game
+55|{>16}{6}{A}{5}{E}{A}: {4}{A}{5}{E}HP: {4}{C:5}{5}{E}Yen: {C:5}{E}Level: {4}{A}{5}
+56|{>16}{6}{A}{5}{E}{A}: {4}{A}{5}{E}HP: {4}{C:5}{5}{E}Yen: {C:5}{E}Level: {6}{A}{5}
+57|{>16}{6}{A}{5}{E}{A}: {4}{A}{5}{E}HP: {6}{C:5}{5}{E}Yen: {C:5}{E}Level: {4}{A}{5}
+58|{>16}{6}{A}{5}{E}{A}: {4}{A}{5}{E}HP: {6}{C:5}{5}{E}Yen: {C:5}{E}Level: {6}{A}{5}
+59|{N:Koichi}
+60|{N:Sachiko}
+61|{N:Pops}
+62|{N:Kenichi}
+65|Start{>96}Erase Data
+68|{>24}Jetty
+69|{>21}Beach
+70|{>25}Reef
+71|{>22}Coast
+72|{>27}Islet
+73|{>20}Ocean
+74|{>30}Isle
+75|{>8}Ghost Ship
+76|{>2}Treasure Isl.
+77|{>2}Fishing Pond
+104|Jetty
+105|Beach
+106|Reef
+107|Coast
+108|Islet
+109|Ocean
+110|Isle
+111|Ghost Ship
+112|Treasure Island
+113|Fishing Pond
+123|{6}{A}{5}{E}HP{>40}{4}{C:5}{5}{E}Yen{>40}{C:5}{E}Focus{>56}{4}{C:3}{5}
+124|{6}{A}{5}{E}HP{>40}{4}{C:5}{5}{E}Yen{>40}{C:5}{E}Focus{>56}{6}{C:3}{5}
+125|{6}{A}{5}{E}HP{>40}{6}{C:5}{5}{E}Yen{>40}{C:5}{E}Focus{>56}{4}{C:3}{5}
+126|{6}{A}{5}{E}HP{>40}{6}{C:5}{5}{E}Yen{>40}{C:5}{E}Focus{>56}{6}{C:3}{5}
+127|{6}{A}{5}{E}Time{>48}{B} min{E}Fish{>56}{C:3}{E}Focus{>56}{4}{C:3}{5}
+128|{6}{A}{5}{E}Time{>48}{B} min{E}Fish{>56}{C:3}{E}Focus{>56}{6}{C:3}{5}
+129|Fishing Level{>104}{4}{A}{5}
+130|Fishing Level{>104}{6}{A}{5}
+131|A few days later{8:6}.{8:6}.{8:6}.
+132|{>8}{6}Command{5}{E}{A}{>41}Eat{E}{A}{>41}Items{E}Gear{>41}{A}
+133|Fish
+134|Move
+135|Bait
+136|Lure
+137|Decoy
+138|‹ROD›
+139|‹FLO|AT›
+140|‹SINK|ER›
+141|‹SINK|ER/›{E}‹FLO|AT›
+142|‹HOOK›
+143|‹LURE›
+144|‹DEC|OY›
+145|Rod
+146|Float
+147|Sinker
+148|Cage
+149|Feeder
+150|Food
+151|Items
+152|{>64}Room {B}{>136}Fish {B}{E}Fish in Keep Net{>160}Size
+153|.
+154|Total {C:2}
+155|.cm
+156|Rod{>40}Float{E}Bait{>40}Hook{E}Food{>40}Lure{E}Items{>40}Decoy
+157|{B} yen
+158|Gear
+159|Rod{E}Lure{E}Decoy
+160|Hook
+161|Rig
+162|{>64}Room {B}{>136}Fish {B}{E}Fish in Cooler{>160}Size
+163|Fish in Cooler{>128}Size{>172}Price
+164|Fish in Keep Net{>128}Size{>172}Price
+166|Ignore{E}Greet{E}Give Gift{E}Hit
+167|Lure
+168|Decoy
+169|Catch
+170|Catch
+171|{>40}Float
+172|{>40}Night
+173|{>16}Bottom Cast
+174|{>30}Octopus
+175|{>18}Tap Bottom
+176|{>42}Wall
+177|{>28}Live Bait
+178|{>41}Boat
+179|{>38}Sabiki
+180|{>40}Squid
+181|{>34}Feeder
+182|{>40}Cage
+183|{>33}Casting
+184|{>42}Lure
+185|{>32}Trolling
+186|Beginner
+187|Novice
+188|Adept
+189|Expert
+190|Master
+191|Legend
+192|Jetty{>120}{C:3}{E}Beach{>120}{C:3}{E}Reef{>120}{C:3}{E}Coast{>120}{C:3}{E}Islet{>120}{C:3}{E}Ocean{>120}{C:3}{E}Isle{>120}{C:3}
+193|Ghost Ship{>120}{C:3}
+194|Treasure Island{>120}{C:3}
+195|Got{>48}{B}
+196|Best{>48}{B}cm
+197|Rate{>48}{B}%
+198|{7:0} started{E}fishing.
+199|{7:0} stopped{E}fishing.
+200|Nothing's biting here.
+201|Nothing will bite{E}without chum.
+202|You can't fish while{E}swimming.
+203|You can't fish here.
+204|No rod selected.
+205|No float selected.
+206|No hook selected.
+207|No sinker selected.
+208|No lure attached.
+209|No decoy hook attached.
+210|No bait on the hook.
+211|Your keep net is full,{E}so you can't fish.
+212|Your cooler is full,{E}so you can't fish.
+213|You can't boat fish{E}on land.
+214|You need a cruiser{E}to go trolling.
+215|At the fishing pond, you{E}must pay before you fish.
+216|You can't boat fish{E}from a canoe.
+217|You can't go trolling{E}on land.
+218|You can't go trolling{E}from a canoe.
+219|Caught{E}{A}!{D}Size: {B}cm.{E}Gained {B} EXP.
+220|The hook was stolen.{D}The {A}{E}got away.{D}Took {B} points{E}of damage.
+221|{7:0} is completely{E}worn out.
+222|The {A}{E}got away.{D}The bait was stolen.
+223|Caught a young{E}{A}!{D}Size: {B}cm.{E}Gained {B} EXP.
+224|The {A}{E}swam off happily.
+225|Caught{E}{A}!{D}A new {A}{E}record!{D}Size: {B}cm.{E}Gained {B} EXP.
+226|Your keep net is{E}now full.
+227|The lure was stolen.{D}The {A}{E}got away.{D}Took {B} points{E}of damage.
+228|The decoy hook was stolen.{D}The {A}{E}got away.{D}Took {B} points{E}of damage.
+229|The {A}{E}got away.
+230|Caught {A}!{E}Gained {B} EXP.
+231|Caught {A}!{E}Gained {B} EXP.{D}Max HP went up{E}by one to {B}.
+232|The decoy sweetfish{E}died.
+233|The decoy sweetfish got away.{D}Took {B} points{E}of damage.{D}The hook is ruined.
+234|The decoy hook{E}broke.
+235|The lure{E}broke.
+236|The hook is{E}ruined.
+237|Fishing Level is now {A}!{D}Max HP went up by 10,{E}to {B}.
+238|Float
+239|Cast
+240|Lure
+241|Decoy
+242|Your keep net{E}is full.
+243|Your cooler{E}is full.
+244|Your cooler is{E}now full.
+245|You hurt your hand.{D}Took {B} points{E}of damage.
+246|The rig was stolen.{D}The {A}{E}got away.{D}Took {B} points{E}of damage.
+247|The rig{E}broke.
+248|Baited the hook with{E}{A}.
+249|The {A}{E}is already on.
+250|No hook, so the bait{E}can't be attached.
+251|Baited with{E}{A}.
+252|Tied on the{E}{A}.
+253|No bait left.
+254|You have no lures.
+255|You have no decoy hooks.
+256|The bait is too big{E}for this hook.
+257|The bait is too small{E}for this hook.
+258|Attached the{E}{A}.
+259|Switched to the{E}{A}.
+260|Choose a lure.
+261|Choose a hook.
+262|Choose a float.
+263|Choose a rod.
+264|Choose a sinker.
+265|No hooks left.
+266|You have no float.
+267|You have no rod.
+268|You have no sinker.
+269|You decided to go{E}float fishing.
+270|You decided to go{E}casting.
+271|You decided to go{E}lure fishing.
+272|You decided to fish{E}with a decoy hook.
+273|You scattered chum.
+274|You just scattered some,{E}so there's no need yet.
+275|Scatter chum at the{E}water's edge.
+276|You can't choose that{E}while swimming.
+277|Not usable when casting.
+278|Choose a decoy hook.
+279|The {A}{E}can't be attached.
+280|The {A}{E}is already attached.
+281|Ate the {A}.{D}
+282|Recovered {B} HP.{D}
+283|{B} more until{E}max HP.
+284|HP fully recovered.
+285|You can't eat any more.
+286|Grilled and ate{E}the {A}.{D}
+287|You have no food.
+288|The {A}'s poison{E}wore you out.
+289|You can't eat while{E}swimming.
+290|Drank the {A}.{D}
+291|The {A} can't{E}be used here.
+292|Can't use that now.
+293|You set the {A}{E}on the water.
+294|Found {A}{E}x{B}.
+295|Found {A}{E}x{B}.
+296|Nothing was found.
+297|A cooler. Holds 20.
+298|A big cooler. Holds 40.
+299|Polarized glasses. Lets{E}you see fish in the shallows.
+300|Polarized glasses. Lets{E}you see fish at mid depth.
+301|Polarized glasses. Lets{E}you see fish in the deep.
+302|Bought {A}{E}from the vending machine.
+303|The {A} is in use.
+304|You have no items.
+305|You can't use items{E}while swimming.
+306|You can't float the{E}{A} here.
+307|It's too dangerous to{E}switch to the {A} here.
+308|Found {A},{E}but you can't carry more.
+309|Use the gold net in the{E}shallows to catch bugs.
+310|A life jacket. You're safe{E}even if you fall in the sea.
+311|Reef boots. You won't slip{E}and fall on the reef.
+312|Leather gloves. Keep your{E}hands safe from spines and rocks.
+313|A headlamp. You need{E}it for night fishing.
+314|A gaff. It hauls big{E}fish out of the water.
+315|Used eye drops.{E}Focus recovered by 20.
+316|Used eye drops.{E}Focus fully recovered.
+317|A salve.
+318|Fancy chocolate.
+319|An inro.
+320|A gold key.
+321|A pendant.
+322|A lantern.
+323|A ladder.
+324|You set down the lantern.
+325|Found {A}.
+326|Focus fully recovered.
+327|You can't check your keep{E}net while swimming.
+328|You can't check your{E}cooler while swimming.
+329|A night's stay costs{E}{B} yen.{D}Is that all right?{E}{>16}Yes{>80}No
+330|You're already at{E}full HP.
+331|Please, make yourself{E}at home.
+332|That's too bad.
+333|Thank you for{E}staying with us.
+334|No money? Oh well,{E}I'll let it slide!
+335|You're catching plenty!{E}Can't wait for the results.
+336|Good luck in the{E}tournament!
+337|Is that all right?
+338|Good morning, sir!{E}Time to get up.
+339|Staying the night?{E}No charge for you.
+340|Good morning, {7:2}-san!{E}Time to get up.
+341|Good morning, ma'am!{E}Time to get up.
+342|Welcome! What are{E}you looking for?
+343|Which one will it be?
+344|You can't carry{E}any more.
+345|You already have{E}this cooler!
+346|This cooler is smaller{E}than the one you have.
+347|You already have{E}the {A}.
+348|You can't carry more hooks.
+349|You can't carry any{E}more chum.
+350|Anything else?
+351|You don't have{E}enough money.
+352|Only one, mind you!{E}Take good care of it.
+353|That will be {B} yen.{D}Is that all right?{E}{>16}Yes{>80}No
+354|Welcome! Which decoy{E}hook shall I make?
+355|You already have a{E}lure just like this.
+356|You can't carry more{E}than 9 {A}.
+357|You already have a{E}decoy hook like this.
+358|You already have{E}the {A}.
+359|You can't carry{E}any more {A}.
+360|What do you need?
+361|Which one?
+362|You can't carry any more.
+363|You already have{E}this cooler!
+364|This cooler is smaller{E}than the one you have.
+365|You already have{E}the {A}.
+366|You can't carry more hooks.
+367|You can't carry any{E}more chum.
+368|Anything else?
+369|You already have a{E}lure just like this.
+370|You can't carry more{E}than 9 {A}.
+371|You already have a{E}decoy hook like this.
+372|You already have{E}the {A}.
+373|You can't carry{E}any more {A}.
+374|That's {B} yen, OK?{E}{>16}Yes{>80}No
+375|Hurry up and switch{E}with me already.
+376|You don't have{E}enough money.
+377|You don't have any lures.
+378|You don't have any{E}decoy hooks.
+379|You're catching some!
+380|Thank you very much.
+381|Aw, that's too bad!
+382|Looks like there aren't{E}any fish in your keep net!
+383|All the fish in your keep{E}net come to {B} yen.{D}Want to sell them all?{E}{>16}Yes{>80}No
+384|Looks like there aren't{E}any fish in your cooler!
+385|All the fish in your cooler{E}come to {B} yen.{D}Want to sell them all?{E}{>16}Yes{>80}No
+386|Which one will you sell?
+387|Which one?
+388|{A} appeared!
+389|{A} appeared!{E}It looks hungry.
+390|{A} appeared!{E}It looks grumpy.
+391|You have nothing{E}left to give.
+392|What will you do?
+393|The {A} went off{E}somewhere.
+394|The {A} left happily.{D}Friendship +{B}!
+395|The {A} smiled{E}and left you{D}{A}.{E}Friendship +2!
+396|The {A} was startled{E}and fled.
+397|The {A}{E}stole a hook.
+398|The {A} tried to{E}steal a hook{D}but failed.
+399|The {A}{E}stole a fish.
+400|The {A} tried to{E}steal a fish{D}but failed.
+401|Got a sea urchin.
+402|The {A} dealt{E}{B} damage{D}and left.
+403|The {A} got angry{E}and left.
+404|The {A} smiled{E}and left.{D}Friendship +2!
+405|{A} almost{E}attacked you,{D}but the {A}{E}saved you.
+406|You were beaten{E}by the {A}.
+407|{6}{7:0}{5} is{E}completely worn out.
+408|The {A} left happily.{D}Friendship +2!
+409|Eat something, or{E}you'll run out of strength.
+410|You got tired of swimming{E}and ran out of strength.
+411|You got tired of paddling{E}and ran out of strength.
+412|Hook
+413|Float
+414|Lure
+415|{6}{7:0}{5} got tired{E}and ran out of strength.
+416|Rank{>40}Name{>120}Record
+417|Black Porgy Tourney
+418|Sea Bass Tourney
+419|Kelp Grouper Tourney
+420|{C:1}.{>40}{A}
+421|{C:3}cm
+422|.
+423|{C:1}.
+424|{C:3}cm{>46}{C:3} yen
+425|{C:3}cm
+426|{C:3}cm{>46}{A}
+427|{4}Boatman:{5} No, no, you need{E}a life jacket.{D}Falling overboard is no joke.
+428|{4}Boatman:{5} The fare is {C:3} yen.{D}Coming aboard?{E}{>16}Yes{>80}No
+429|{4}Boatman:{5} That's too bad.
+430|{4}Boatman:{5} We're casting off.{E}Don't fall overboard, now.
+431|{4}Boatman:{5} No money, eh?{E}Can't be helped{8:6}.{8:6}.{8:6}.{D}This one's on me. Hop on, hop on!{E}We're casting off.
+432|{4}Boatman:{5} I was broke, so I had{E}to sell my fishing boat.
+433|{4}Boatman:{5} This boat only goes{E}as far as the Coast.{D}If you ride with me a lot,{D}I'll buy a boat big enough{E}to reach the Ocean.
+434|{4}Boatman:{5} Some fishing boat, huh?{E}I finally saved up for it.{D}When I've got a bit more money,{D}maybe I'll buy a cruiser{E}for trolling.
+435|{4}Boatman:{5} I had to{E}sell the cruiser.
+436|{4}Boatman:{5} This boat can take you{E}out to the Ocean to fish.{D}The alfonsino are great fun!
+437|{4}Boatman:{5} I finally got the{E}cruiser of my dreams!
+438|{4}Boatman:{5} You can try trolling{E}for marlin now.
+439|{4}{A}:{5} Hello.
