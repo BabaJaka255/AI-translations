@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+src/rom/*
+!src/rom/.keep
+src/build/
+*.sfc
+*.smc
+*.swc
+*.fig
+*.zip

@@ -1,0 +1,15 @@
+{
+  "slug": "iso-tsuri-ritouhen",
+  "name": "Rock Fishing: Remote Islands (Iso Tsuri: Ritou-hen, English)",
+  "platform": "Super Famicom",
+  "type": "translation",
+  "version": "1.0",
+  "summary": "Complete English translation of Pack-In-Video's 1995 rock-fishing spin-off of the River King series, with a hand-drawn English title logo and a bold proportional font for the story crawls.",
+  "base": {"name": "Isozuri - Ritou Hen (Japan).sfc", "size": 2097152, "crc32": "3D35D085", "sha1": "49741c14e923bdaa0ff5776744508544921cbb2d", "header": false},
+  "patches": [{"file": "patches/IsoTsuri_RitouHen_SFC_EN_v1.0.bps", "format": "bps", "result_crc32": "1D167192", "result_sha1": "ed32c85e7af1da0dc8162d9b8a9a88816d23d696"}],
+  "tested_on": "emulator",
+  "source": "verified",
+  "devlog": true,
+  "ai_assisted": true,
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,1030 @@
+{
+ "island_title": {
+  "base": "$C1:5FCC",
+  "stride": 16,
+  "columns": 16,
+  "notes": "Island name, big heading on the island records page. Centered.",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "大　島",
+    "en": "Oshima"
+   },
+   {
+    "i": 1,
+    "jp": "利　島",
+    "en": "Toshima"
+   },
+   {
+    "i": 2,
+    "jp": "鵜　渡　根　島",
+    "en": "Udoneshima"
+   },
+   {
+    "i": 3,
+    "jp": "新　島",
+    "en": "Niijima"
+   },
+   {
+    "i": 4,
+    "jp": "式　根　島",
+    "en": "Shikinejima"
+   },
+   {
+    "i": 5,
+    "jp": "神　津　島",
+    "en": "Kozushima"
+   },
+   {
+    "i": 6,
+    "jp": "銭　洲",
+    "en": "Zenisu"
+   }
+  ]
+ },
+ "fish_title": {
+  "base": "$C1:6170",
+  "stride": 17,
+  "columns": 16,
+  "notes": "Fish name, big heading on the fish records page. Centered.",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "イ サ キ",
+    "en": "Grunt"
+   },
+   {
+    "i": 1,
+    "jp": "イ シ ガ キ ダ イ",
+    "en": "Spot Beakfish"
+   },
+   {
+    "i": 2,
+    "jp": "イ シ ダ イ",
+    "en": "Beakfish"
+   },
+   {
+    "i": 3,
+    "jp": "イ ス ズ ミ",
+    "en": "Brassy Chub"
+   },
+   {
+    "i": 4,
+    "jp": "イ ナ ダ",
+    "en": "Jr. Yellowtail"
+   },
+   {
+    "i": 5,
+    "jp": "カ サ ゴ",
+    "en": "Scorpionfish"
+   },
+   {
+    "i": 6,
+    "jp": "カ ツ オ",
+    "en": "Bonito"
+   },
+   {
+    "i": 7,
+    "jp": "カッ ポ レ",
+    "en": "Black Trevally"
+   },
+   {
+    "i": 8,
+    "jp": "カ ン パ チ",
+    "en": "Amberjack"
+   },
+   {
+    "i": 9,
+    "jp": "ク エ",
+    "en": "Longtooth"
+   },
+   {
+    "i": 10,
+    "jp": "シ イ ラ",
+    "en": "Mahi-mahi"
+   },
+   {
+    "i": 11,
+    "jp": "シ マ ア ジ",
+    "en": "Striped Jack"
+   },
+   {
+    "i": 12,
+    "jp": "ツ ム ブ リ",
+    "en": "Rainbow Runner"
+   },
+   {
+    "i": 13,
+    "jp": "ヒ ラ マ サ",
+    "en": "Kingfish"
+   },
+   {
+    "i": 14,
+    "jp": "フ エ フ キ ダ イ",
+    "en": "Emperor Bream"
+   },
+   {
+    "i": 15,
+    "jp": "ブ ダ イ",
+    "en": "Parrotfish"
+   },
+   {
+    "i": 16,
+    "jp": "マ ハ タ",
+    "en": "Grouper"
+   },
+   {
+    "i": 17,
+    "jp": "メ ジ ナ",
+    "en": "Opaleye"
+   },
+   {
+    "i": 18,
+    "jp": "メ ジ マ グ ロ",
+    "en": "Young Bluefin"
+   },
+   {
+    "i": 19,
+    "jp": "ワ ラ サ",
+    "en": "Big Yellowtail"
+   }
+  ]
+ },
+ "record_spot": {
+  "base": "$C1:62E1",
+  "stride": 16,
+  "columns": 18,
+  "notes": "Spot + island part of a record line: 18 columns, spot left, island right. Relocated to a 32-byte stride.",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "ﾋﾊﾞﾙ     ~ｵｵｼﾏ",
+    "en": "Hibaru      Oshima"
+   },
+   {
+    "i": 1,
+    "jp": "ﾋﾊﾞﾙ     ~ｵｵｼﾏ",
+    "en": "Hibaru      Oshima"
+   },
+   {
+    "i": 2,
+    "jp": "ｱｶｲﾜ    ~~ｵｵｼﾏ",
+    "en": "Akaiwa      Oshima"
+   },
+   {
+    "i": 3,
+    "jp": "ｱｶｲﾜ    ~~ｵｵｼﾏ",
+    "en": "Akaiwa      Oshima"
+   },
+   {
+    "i": 4,
+    "jp": "ｾﾝﾊﾞｻﾞｷ   ｵｵｼﾏ",
+    "en": "Senbazaki   Oshima"
+   },
+   {
+    "i": 5,
+    "jp": "ｾﾝﾊﾞｻﾞｷ   ｵｵｼﾏ",
+    "en": "Senbazaki   Oshima"
+   },
+   {
+    "i": 6,
+    "jp": "ｵｵﾊﾞﾝﾈ　 ~ｵｵｼﾏ",
+    "en": "Obanne      Oshima"
+   },
+   {
+    "i": 7,
+    "jp": "ﾄｰﾌ     ~~ｵｵｼﾏ",
+    "en": "Tofu        Oshima"
+   },
+   {
+    "i": 8,
+    "jp": "ｵｵﾈ     ~~ﾄｼﾏ",
+    "en": "Oone       Toshima"
+   },
+   {
+    "i": 9,
+    "jp": "ｵｵﾈ     ~~ﾄｼﾏ",
+    "en": "Oone       Toshima"
+   },
+   {
+    "i": 10,
+    "jp": "ﾅｽﾞｶﾀ    ~ﾄｼﾏ",
+    "en": "Nazukata   Toshima"
+   },
+   {
+    "i": 11,
+    "jp": "ﾅｽﾞｶﾀ    ~ﾄｼﾏ",
+    "en": "Nazukata   Toshima"
+   },
+   {
+    "i": 12,
+    "jp": "ﾌｽﾞｼﾈ    ~ｳﾄﾞﾈ",
+    "en": "Fuzushine    Udone"
+   },
+   {
+    "i": 13,
+    "jp": "ﾌｽﾞｼﾈ    ~ｳﾄﾞﾈ",
+    "en": "Fuzushine    Udone"
+   },
+   {
+    "i": 14,
+    "jp": "ﾁﾉﾋﾗﾈ   ~~ｳﾄﾞﾈ",
+    "en": "Chinohirane  Udone"
+   },
+   {
+    "i": 15,
+    "jp": "ﾁﾉﾋﾗﾈ   ~~ｳﾄﾞﾈ",
+    "en": "Chinohirane  Udone"
+   },
+   {
+    "i": 16,
+    "jp": "ﾁﾉﾀｶｼﾏ  ~~ｳﾄﾞﾈ",
+    "en": "Chinotaka.   Udone"
+   },
+   {
+    "i": 17,
+    "jp": "ﾀﾀﾐﾈ    ~~ｳﾄﾞﾈ",
+    "en": "Tatamine     Udone"
+   },
+   {
+    "i": 18,
+    "jp": "ﾀﾀﾐﾈ    ~~ｳﾄﾞﾈ",
+    "en": "Tatamine     Udone"
+   },
+   {
+    "i": 19,
+    "jp": "ｶﾂｵﾈ    ~~ｳﾄﾞﾈ",
+    "en": "Katsuone     Udone"
+   },
+   {
+    "i": 20,
+    "jp": "ｶﾂｵﾈ    ~~ｳﾄﾞﾈ",
+    "en": "Katsuone     Udone"
+   },
+   {
+    "i": 21,
+    "jp": "ｶﾂｵﾈ    ~~ｳﾄﾞﾈ",
+    "en": "Katsuone     Udone"
+   },
+   {
+    "i": 22,
+    "jp": "ﾄﾞｳﾏﾙ    ~ﾆｲｼﾞﾏ",
+    "en": "Domaru     Niijima"
+   },
+   {
+    "i": 23,
+    "jp": "ﾄﾞｳﾏﾙ    ~ﾆｲｼﾞﾏ",
+    "en": "Domaru     Niijima"
+   },
+   {
+    "i": 24,
+    "jp": "ｼｮｼﾉﾊﾅ  ~~ﾆｲｼﾞﾏ",
+    "en": "Shoshihana Niijima"
+   },
+   {
+    "i": 25,
+    "jp": "ｼｮｼﾉﾊﾅ  ~~ﾆｲｼﾞﾏ",
+    "en": "Shoshihana Niijima"
+   },
+   {
+    "i": 26,
+    "jp": "ｵｵﾊﾀﾞ    ~ﾆｲｼﾞﾏ",
+    "en": "Ohada      Niijima"
+   },
+   {
+    "i": 27,
+    "jp": "ｵｵﾊﾀﾞ    ~ﾆｲｼﾞﾏ",
+    "en": "Ohada      Niijima"
+   },
+   {
+    "i": 28,
+    "jp": "ﾅﾀﾞﾗ     ~ﾆｲｼﾞﾏ",
+    "en": "Nadara     Niijima"
+   },
+   {
+    "i": 29,
+    "jp": "ﾋｶﾞｼﾎﾞﾄ   ﾆｲｼﾞﾏ",
+    "en": "Higashibo. Niijima"
+   },
+   {
+    "i": 30,
+    "jp": "ﾋｶﾞｼﾎﾞﾄ   ﾆｲｼﾞﾏ",
+    "en": "Higashibo. Niijima"
+   },
+   {
+    "i": 31,
+    "jp": "ｻｲﾏﾈ    ~~ｼｷﾈ",
+    "en": "Saimane    Shikine"
+   },
+   {
+    "i": 32,
+    "jp": "ｻｲﾏﾈ    ~~ｼｷﾈ",
+    "en": "Saimane    Shikine"
+   },
+   {
+    "i": 33,
+    "jp": "ﾋﾗｶﾝﾀﾞﾁ  ~ｼｷﾈ",
+    "en": "Hirakanda. Shikine"
+   },
+   {
+    "i": 34,
+    "jp": "ﾊｶﾏｻﾞｷﾊﾅﾚ ~ｼｷﾈ",
+    "en": "Hakama-Han Shikine"
+   },
+   {
+    "i": 35,
+    "jp": "ﾊｶﾏｻﾞｷﾊﾅﾚ ~ｼｷﾈ",
+    "en": "Hakama-Han Shikine"
+   },
+   {
+    "i": 36,
+    "jp": "ﾊｶﾏｻﾞｷﾊﾅﾚ ~ｼｷﾈ",
+    "en": "Hakama-Han Shikine"
+   },
+   {
+    "i": 37,
+    "jp": "ﾊｶﾏｻﾞｷｵﾓ  ~ｼｷﾈ",
+    "en": "Hakama-Omo Shikine"
+   },
+   {
+    "i": 38,
+    "jp": "ﾊｶﾏｻﾞｷｵﾓ  ~ｼｷﾈ",
+    "en": "Hakama-Omo Shikine"
+   },
+   {
+    "i": 39,
+    "jp": "ﾊｶﾏｻﾞｷｵﾓ  ~ｼｷﾈ",
+    "en": "Hakama-Omo Shikine"
+   },
+   {
+    "i": 40,
+    "jp": "ﾅｶﾞﾂｻﾞｷ   ｺｳﾂﾞ",
+    "en": "Nagatsuzaki   Kozu"
+   },
+   {
+    "i": 41,
+    "jp": "ﾅｶﾞﾂｻﾞｷ   ｺｳﾂﾞ",
+    "en": "Nagatsuzaki   Kozu"
+   },
+   {
+    "i": 42,
+    "jp": "ｵｵﾈ     ~~ｵﾝﾊﾞｾ",
+    "en": "Oone        Onbase"
+   },
+   {
+    "i": 43,
+    "jp": "ｵｵﾈ     ~~ｵﾝﾊﾞｾ",
+    "en": "Oone        Onbase"
+   },
+   {
+    "i": 44,
+    "jp": "ﾅｶﾞﾝﾈ    ~ｵﾝﾊﾞｾ",
+    "en": "Naganne     Onbase"
+   },
+   {
+    "i": 45,
+    "jp": "ﾅｶﾞﾝﾈ    ~ｵﾝﾊﾞｾ",
+    "en": "Naganne     Onbase"
+   },
+   {
+    "i": 46,
+    "jp": "ﾅｶﾞﾝﾈ    ~ｵﾝﾊﾞｾ",
+    "en": "Naganne     Onbase"
+   },
+   {
+    "i": 47,
+    "jp": "ｶﾄﾞ      ~ｵﾝﾊﾞｾ",
+    "en": "Kado        Onbase"
+   },
+   {
+    "i": 48,
+    "jp": "ｶﾄﾞ      ~ｵﾝﾊﾞｾ",
+    "en": "Kado        Onbase"
+   },
+   {
+    "i": 49,
+    "jp": "ｵｵﾈ     ~~ｺｳﾂﾞ",
+    "en": "Oone          Kozu"
+   },
+   {
+    "i": 50,
+    "jp": "ｵｵﾈ     ~~ｺｳﾂﾞ",
+    "en": "Oone          Kozu"
+   },
+   {
+    "i": 51,
+    "jp": "ﾀﾀﾞｼﾞﾏ    ｺｳﾂﾞ",
+    "en": "Tadashima     Kozu"
+   },
+   {
+    "i": 52,
+    "jp": "ﾀﾀﾞｼﾞﾏ    ｺｳﾂﾞ",
+    "en": "Tadashima     Kozu"
+   },
+   {
+    "i": 53,
+    "jp": "ｶﾄﾞ      ~ﾀﾀﾞﾅｴ",
+    "en": "Kado       Tadanae"
+   },
+   {
+    "i": 54,
+    "jp": "ｶﾄﾞ      ~ﾀﾀﾞﾅｴ",
+    "en": "Kado       Tadanae"
+   },
+   {
+    "i": 55,
+    "jp": "ﾀﾀｷﾈ    ~~ｺｳﾂﾞ",
+    "en": "Tatakine      Kozu"
+   },
+   {
+    "i": 56,
+    "jp": "ﾀﾀｷﾈ    ~~ｺｳﾂﾞ",
+    "en": "Tatakine      Kozu"
+   },
+   {
+    "i": 57,
+    "jp": "ｳﾁﾀﾞﾙﾏ   ~~ｾﾞﾆｽ",
+    "en": "Uchidaruma  Zenisu"
+   },
+   {
+    "i": 58,
+    "jp": "ｿﾄﾀﾞﾙﾏ   ~~ｾﾞﾆｽ",
+    "en": "Sotodaruma  Zenisu"
+   },
+   {
+    "i": 59,
+    "jp": "ｿﾄﾋﾗｯﾀｲ ~~~ｾﾞﾆｽ",
+    "en": "S.Hirattai  Zenisu"
+   },
+   {
+    "i": 60,
+    "jp": "ｴﾋﾞﾈ     ~~ｾﾞﾆｽ",
+    "en": "Ebine       Zenisu"
+   },
+   {
+    "i": 61,
+    "jp": "ｲｼﾔﾏﾈ   ~~~ｾﾞﾆｽ",
+    "en": "Ishiyamane  Zenisu"
+   },
+   {
+    "i": 62,
+    "jp": "ｶﾄﾞ      ~~ｾﾞﾆｽ",
+    "en": "Kado        Zenisu"
+   },
+   {
+    "i": 63,
+    "jp": "ｿﾄ      ~~~ｾﾞﾆｽ",
+    "en": "Soto        Zenisu"
+   }
+  ]
+ },
+ "method": {
+  "base": "$C1:6880",
+  "stride": 12,
+  "columns": 12,
+  "notes": "Fishing method label (fishing view). Box width = first word.",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "ルアー釣り",
+    "en": "Lure"
+   },
+   {
+    "i": 1,
+    "jp": "生きエサ釣り",
+    "en": "Live Bait"
+   },
+   {
+    "i": 2,
+    "jp": "フカセ釣り",
+    "en": "Drift"
+   },
+   {
+    "i": 3,
+    "jp": "カゴ釣り",
+    "en": "Cage"
+   },
+   {
+    "i": 4,
+    "jp": "投げ込み釣り",
+    "en": "Casting"
+   }
+  ]
+ },
+ "method2": {
+  "base": "$C1:68BC",
+  "stride": 12,
+  "columns": 12,
+  "notes": "Fishing method (catch result screen). Centered.",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "ルアー釣り",
+    "en": "Lure"
+   },
+   {
+    "i": 1,
+    "jp": "生きエサ釣り",
+    "en": "Live Bait"
+   },
+   {
+    "i": 2,
+    "jp": "フカセ釣り",
+    "en": "Drift"
+   },
+   {
+    "i": 3,
+    "jp": "カゴ釣り",
+    "en": "Cage"
+   },
+   {
+    "i": 4,
+    "jp": "投げ込み釣り",
+    "en": "Casting"
+   }
+  ]
+ },
+ "bait": {
+  "base": "$C1:68F8",
+  "stride": 20,
+  "columns": 20,
+  "notes": "Lure / bait name. Centered.",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "メタルジグ",
+    "en": "Metal Jig"
+   },
+   {
+    "i": 1,
+    "jp": "スプーン",
+    "en": "Spoon"
+   },
+   {
+    "i": 2,
+    "jp": "フローティングミノー",
+    "en": "Floating Minnow"
+   },
+   {
+    "i": 3,
+    "jp": "ディープダイバー",
+    "en": "Deep Diver"
+   },
+   {
+    "i": 4,
+    "jp": "イワシ",
+    "en": "Sardine"
+   },
+   {
+    "i": 5,
+    "jp": "小アジ",
+    "en": "Small Jack Mackerel"
+   },
+   {
+    "i": 6,
+    "jp": "ムロアジ",
+    "en": "Round Scad"
+   },
+   {
+    "i": 7,
+    "jp": "オキアミ（大）",
+    "en": "Krill (Large)"
+   },
+   {
+    "i": 8,
+    "jp": "オキアミ（中）",
+    "en": "Krill (Medium)"
+   },
+   {
+    "i": 9,
+    "jp": "オキアミ（小）",
+    "en": "Krill (Small)"
+   },
+   {
+    "i": 10,
+    "jp": "オキアミ（大）",
+    "en": "Krill (Large)"
+   },
+   {
+    "i": 11,
+    "jp": "オキアミ（中）",
+    "en": "Krill (Medium)"
+   },
+   {
+    "i": 12,
+    "jp": "オキアミ（小）",
+    "en": "Krill (Small)"
+   },
+   {
+    "i": 13,
+    "jp": "カニ",
+    "en": "Crab"
+   },
+   {
+    "i": 14,
+    "jp": "サザエ",
+    "en": "Turban Shell"
+   },
+   {
+    "i": 15,
+    "jp": "アワビ",
+    "en": "Abalone"
+   },
+   {
+    "i": 16,
+    "jp": "イワシ",
+    "en": "Sardine"
+   },
+   {
+    "i": 17,
+    "jp": "ハンバノリ",
+    "en": "Hanba Seaweed"
+   }
+  ]
+ },
+ "fish": {
+  "base": "$C1:6A60",
+  "stride": 12,
+  "columns": 14,
+  "notes": "Fish name on the catch result screen (relocated, 14 columns).",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "イサキ",
+    "en": "Grunt"
+   },
+   {
+    "i": 1,
+    "jp": "イシガキダイ",
+    "en": "Spot Beakfish"
+   },
+   {
+    "i": 2,
+    "jp": "イシダイ",
+    "en": "Beakfish"
+   },
+   {
+    "i": 3,
+    "jp": "イスズミ",
+    "en": "Brassy Chub"
+   },
+   {
+    "i": 4,
+    "jp": "イナダ",
+    "en": "Jr. Yellowtail"
+   },
+   {
+    "i": 5,
+    "jp": "カサゴ",
+    "en": "Scorpionfish"
+   },
+   {
+    "i": 6,
+    "jp": "カツオ",
+    "en": "Bonito"
+   },
+   {
+    "i": 7,
+    "jp": "カッポレ",
+    "en": "Black Trevally"
+   },
+   {
+    "i": 8,
+    "jp": "カンパチ",
+    "en": "Amberjack"
+   },
+   {
+    "i": 9,
+    "jp": "クエ",
+    "en": "Longtooth"
+   },
+   {
+    "i": 10,
+    "jp": "シイラ",
+    "en": "Mahi-mahi"
+   },
+   {
+    "i": 11,
+    "jp": "シマアジ",
+    "en": "Striped Jack"
+   },
+   {
+    "i": 12,
+    "jp": "ツムブリ",
+    "en": "Rainbow Runner"
+   },
+   {
+    "i": 13,
+    "jp": "ヒラマサ",
+    "en": "Kingfish"
+   },
+   {
+    "i": 14,
+    "jp": "フエフキダイ",
+    "en": "Emperor Bream"
+   },
+   {
+    "i": 15,
+    "jp": "ブダイ",
+    "en": "Parrotfish"
+   },
+   {
+    "i": 16,
+    "jp": "マハタ",
+    "en": "Grouper"
+   },
+   {
+    "i": 17,
+    "jp": "メジナ",
+    "en": "Opaleye"
+   },
+   {
+    "i": 18,
+    "jp": "メジマグロ",
+    "en": "Young Bluefin"
+   },
+   {
+    "i": 19,
+    "jp": "ワラサ",
+    "en": "Big Yellowtail"
+   }
+  ]
+ },
+ "sub_spot": {
+  "base": "$C1:6B50",
+  "stride": 16,
+  "columns": 16,
+  "notes": "Sub-spot label on the spot map. Right-aligned.",
+  "entries": [
+   {
+    "i": 14,
+    "jp": "地の平根",
+    "en": "Chinohirane"
+   },
+   {
+    "i": 15,
+    "jp": "地の平根",
+    "en": "Chinohirane"
+   },
+   {
+    "i": 16,
+    "jp": "地の高島",
+    "en": "Chinotakashima"
+   },
+   {
+    "i": 59,
+    "jp": "外ヒラッタイ",
+    "en": "Sotohirattai"
+   },
+   {
+    "i": 60,
+    "jp": "エビ根",
+    "en": "Ebine"
+   },
+   {
+    "i": 61,
+    "jp": "石山根",
+    "en": "Ishiyamane"
+   },
+   {
+    "i": 62,
+    "jp": "カド",
+    "en": "Kado"
+   },
+   {
+    "i": 63,
+    "jp": "ソト",
+    "en": "Soto"
+   }
+  ]
+ },
+ "spot": {
+  "base": "$C1:6F50",
+  "stride": 18,
+  "columns": 18,
+  "notes": "Spot label on the island map. Right-aligned.",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "ヒバル",
+    "en": "Hibaru"
+   },
+   {
+    "i": 1,
+    "jp": "赤岩",
+    "en": "Akaiwa"
+   },
+   {
+    "i": 2,
+    "jp": "千波崎",
+    "en": "Senbazaki"
+   },
+   {
+    "i": 3,
+    "jp": "大番根",
+    "en": "Obanne"
+   },
+   {
+    "i": 4,
+    "jp": "トーフ",
+    "en": "Tofu"
+   },
+   {
+    "i": 5,
+    "jp": "大根",
+    "en": "Oone"
+   },
+   {
+    "i": 6,
+    "jp": "ナズカタ",
+    "en": "Nazukata"
+   },
+   {
+    "i": 7,
+    "jp": "フズシ根",
+    "en": "Fuzushine"
+   },
+   {
+    "i": 8,
+    "jp": "地の高島・地の平根",
+    "en": "Takashima & Hirane"
+   },
+   {
+    "i": 9,
+    "jp": "タタミ根",
+    "en": "Tatamine"
+   },
+   {
+    "i": 10,
+    "jp": "カツオ根",
+    "en": "Katsuone"
+   },
+   {
+    "i": 11,
+    "jp": "堂丸",
+    "en": "Domaru"
+   },
+   {
+    "i": 12,
+    "jp": "ショシの鼻",
+    "en": "Shoshinohana"
+   },
+   {
+    "i": 13,
+    "jp": "大ハダ",
+    "en": "Ohada"
+   },
+   {
+    "i": 14,
+    "jp": "ナダラ",
+    "en": "Nadara"
+   },
+   {
+    "i": 15,
+    "jp": "東ボト",
+    "en": "Higashiboto"
+   },
+   {
+    "i": 16,
+    "jp": "サイマネ",
+    "en": "Saimane"
+   },
+   {
+    "i": 17,
+    "jp": "ヒラカンダチ",
+    "en": "Hirakandachi"
+   },
+   {
+    "i": 18,
+    "jp": "ハカマ崎ハナレ",
+    "en": "Hakamazaki Hanare"
+   },
+   {
+    "i": 19,
+    "jp": "ハカマ崎オモ",
+    "en": "Hakamazaki Omo"
+   },
+   {
+    "i": 20,
+    "jp": "長ツ崎",
+    "en": "Nagatsuzaki"
+   },
+   {
+    "i": 21,
+    "jp": "大根（恩馳）",
+    "en": "Oone (Onbase)"
+   },
+   {
+    "i": 22,
+    "jp": "長ン根（恩馳）",
+    "en": "Naganne (Onbase)"
+   },
+   {
+    "i": 23,
+    "jp": "カド（恩馳）",
+    "en": "Kado (Onbase)"
+   },
+   {
+    "i": 24,
+    "jp": "大根",
+    "en": "Oone"
+   },
+   {
+    "i": 25,
+    "jp": "タダ島",
+    "en": "Tadashima"
+   },
+   {
+    "i": 26,
+    "jp": "カド（タダ苗）",
+    "en": "Kado (Tadanae)"
+   },
+   {
+    "i": 27,
+    "jp": "タタキ根",
+    "en": "Tatakine"
+   },
+   {
+    "i": 28,
+    "jp": "内ダルマ",
+    "en": "Uchidaruma"
+   },
+   {
+    "i": 29,
+    "jp": "外ダルマ",
+    "en": "Sotodaruma"
+   },
+   {
+    "i": 30,
+    "jp": "外ヒラﾂタイ･エビ根",
+    "en": "S.Hirattai & Ebine"
+   },
+   {
+    "i": 31,
+    "jp": "石山根・カド・ソト",
+    "en": "Ishiyama,Kado,Soto"
+   }
+  ]
+ },
+ "island": {
+  "base": "$C1:7190",
+  "stride": 8,
+  "columns": 8,
+  "notes": "Island label (map HUD). Right-aligned.",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "大島",
+    "en": "Oshima"
+   },
+   {
+    "i": 1,
+    "jp": "利島",
+    "en": "Toshima"
+   },
+   {
+    "i": 2,
+    "jp": "鵜渡根島",
+    "en": "Udone"
+   },
+   {
+    "i": 3,
+    "jp": "新島",
+    "en": "Niijima"
+   },
+   {
+    "i": 4,
+    "jp": "式根島",
+    "en": "Shikine"
+   },
+   {
+    "i": 5,
+    "jp": "神津島",
+    "en": "Kozu"
+   },
+   {
+    "i": 6,
+    "jp": "銭洲",
+    "en": "Zenisu"
+   }
+  ]
+ },
+ "place": {
+  "base": "$C1:72A7",
+  "stride": 6,
+  "columns": 8,
+  "notes": "Angler list, where the angler is (relocated, 8 columns).",
+  "entries": [
+   {
+    "i": 0,
+    "jp": "下田港",
+    "en": "Shimoda"
+   },
+   {
+    "i": 1,
+    "jp": "釣行中",
+    "en": "On Trip"
+   }
+  ]
+ }
+}
